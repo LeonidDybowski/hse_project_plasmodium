@@ -18,11 +18,12 @@
 Для 5 видов proteinortho построил 5319 кластеров.
 Число кластеров, состоящих из n геномов имеет средующее распределение:
 
-[clust_by_number_of_genoms.pdf](https://github.com/LeonidDybovskij/hse_project_plasmodium/files/8904463/clust_by_number_of_genoms.pdf)
+![clust_by_number_of_genoms](https://user-images.githubusercontent.com/60808642/173706235-3e63ee97-388a-4c93-91a8-9709d930ce60.png)
+
 
 Число кластеров, в которые входят n белковых последовательностей, имеет слдующее распределение:
 
-[clust_by_number_of_proteins.pdf](https://github.com/LeonidDybovskij/hse_project_plasmodium/files/8904466/clust_by_number_of_proteins.pdf)
+![clust_by_number_of_proteins](https://user-images.githubusercontent.com/60808642/173706248-663fa365-f091-4f64-818e-d7a863e28d49.png)
 
 
 #### Кластер 1
