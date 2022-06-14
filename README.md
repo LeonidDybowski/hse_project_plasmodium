@@ -16,33 +16,33 @@
 ** Помимо 14 хромосом имелись также данные по митохондриальному геному и геному апикопласта, однако там нашёлся всего один участок с ZH-SCORE >= 500, поэтому их не рассматривали.
 
 #### Кластер 1
-|Вид|Генов в кластере|Гены|Функция генов|Расположение Z-ДНК|ZH_SCORE|
+|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*||||||
-|*P. vivax*||||||
-|*P. gaboni*||||||
-|*P. knowlesi*||||||
-|*P. yoelii*||||||
+|*P. falciparum*|1|CZT99390.1|cAMP-dependent protein kinase regulatory subunit|||
+|*P. vivax*|1|EDL47592.1|cAMP-dependent protein kinase regulatory subunit, putative|||
+|*P. gaboni*|1|KYN98034.1|cAMP-dependent protein kinase regulatory subunit|||
+|*P. knowlesi*|1|CAA9991018.1|cAMP-dependent protein kinase regulatory subunit, putative|||
+|*P. yoelii*|1|VTZ81713.1|cAMP-dependent protein kinase regulatory subunit, putative|||
 
 
 #### Кластер 2
 |Вид|Генов в кластере|Гены|Функция генов|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*||||||
-|*P. vivax*||||||
-|*P. gaboni*||||||
-|*P. knowlesi*||||||
-|*P. yoelii*||||||
+|*P. falciparum*|1|CAD51193.2|zinc finger protein, putative|||
+|*P. vivax*|1|EDL45264.1|D13 protein, putative|||
+|*P. gaboni*|1|KYO00773.1|putative zinc finger protein|||
+|*P. knowlesi*|1|CAA9986906.1|zinc finger protein, putative|||
+|*P. yoelii*|1|VTZ76436.1|zinc finger protein, putative|||
 
 
 #### Кластер 3
 |Вид|Генов в кластере|Гены|Функция генов|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*||||||
-|*P. vivax*||||||
-|*P. gaboni*||||||
-|*P. knowlesi*||||||
-|*P. yoelii*||||||
+|*P. falciparum*|1|CZT99041.1|conserved Plasmodium protein, unknown function|||
+|*P. vivax*|1|EDL45764.1|hypothetical protein, conserved|||
+|*P. gaboni*|1|KYN99013.1|hypothetical protein PGSY75_1137600|||
+|*P. knowlesi*|1|CAA9988401.1|conserved Plasmodium protein, unknown function|||
+|*P. yoelii*|1|VTZ78317.1|conserved Plasmodium protein, unknown function|||
 
 
 #### Кластер 4
