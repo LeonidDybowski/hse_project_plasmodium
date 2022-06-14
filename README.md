@@ -28,82 +28,84 @@
 #### Кластер 2
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*|1|CAD51193.2|zinc finger protein, putative||2183.574|
-|*P. vivax*|1|EDL45264.1|D13 protein, putative||826.8355|
-|*P. gaboni*|1|KYO00773.1|putative zinc finger protein||2183.574|
-|*P. knowlesi*|1|CAA9986906.1|zinc finger protein, putative||826.8355|
-|*P. yoelii*|1|VTZ76436.1|zinc finger protein, putative||2183.574|
-
-
-#### Кластер 3
-|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
-|-|-|-|-|-|-|
-|*P. falciparum*|1|CZT99041.1|conserved Plasmodium protein, unknown function||742.1338|
-|*P. vivax*|1|EDL45764.1|hypothetical protein, conserved||0.0|
-|*P. gaboni*|1|KYN99013.1|hypothetical protein PGSY75_1137600||1820.585|
-|*P. knowlesi*|1|CAA9988401.1|conserved Plasmodium protein, unknown function||583.4285|
-|*P. yoelii*|1|VTZ78317.1|conserved Plasmodium protein, unknown function||752.603|
-
-
-#### Кластер 4
-|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
-|-|-|-|-|-|-|
 |*P. falciparum*|1|CAD51935.1|protein phosphatase-beta||0.0|
 |*P. vivax*|1|EDL45060.1|protein phosphatase-beta, putative||94590.41|
 |*P. gaboni*|1|KYO00236.1|protein phosphatase-beta||705.4245|
 |*P. knowlesi*|1|CAA9987523.1|protein phosphatase-beta, putative||650.9198|
 |*P. yoelii*|1|VTZ77586.1|protein phosphatase-beta, putative||583.4285|
 
+
+#### Кластер 3
+|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
+|-|-|-|-|-|-|
+|*P. falciparum*|1|CAB11145.2|formate-nitrite transporter||2091.083|
+|*P. vivax*|1|EDL44820.1|transporter, putative||38833.58|
+|*P. gaboni*|1|KYO03279.1|putative formate-nitrite transporter||6565.992|
+|*P. knowlesi*|1|CAA9987895.1|formate-nitrite transporter, putative||28780.5|
+|*P. yoelii*|1|VTZ73436.1|formate-nitrite transporter, putative||0.0|
+
+
+#### Кластер 4
+|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
+|-|-|-|-|-|-|
+|*P. falciparum*|1|CZT98040.1|||1743.107|
+|*P. vivax*|1|EDL43227.1|||16770.32|
+|*P. gaboni*|1|KYO03461.1|||0.0|
+|*P. knowlesi*|1|CAA9986822.1|||2180.071|
+|*P. yoelii*|1|VTZ72360.1|||583.4285|
+
+
 #### Кластер 5
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*|1|CAB11145.2|||2091.083|
-|*P. vivax*|1|EDL44820.1|||38833.58|
-|*P. gaboni*|1|KYO03279.1|||6565.992|
-|*P. knowlesi*|1|CAA9987895.1|||28780.5|
-|*P. yoelii*|1|VTZ73436.1|||0.0|
+|*P. falciparum*|1|CAD52619.1|||612.3848|
+|*P. vivax*|1|EDL44548.1|||8323.257|
+|*P. gaboni*|1|KYN97268.1|||612.3848|
+|*P. knowlesi*|1|CAA9989837.1|||8323.257|
+|*P. yoelii*|1|VTZ81050.1|||0.0|
 
 #### Кластер 6
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*||||||
-|*P. vivax*||||||
-|*P. gaboni*||||||
-|*P. knowlesi*||||||
-|*P. yoelii*||||||
+|*P. falciparum*|1|CZT98598.1|||915.9191|
+|*P. vivax*|1|EDL42405.1|||13713.99|
+|*P. gaboni*|1|KYN99721.1|||915.9191|
+|*P. knowlesi*|1|CAA9987243.1|||908.3955|
+|*P. yoelii*|1|VTZ74384.1|||0.0|
+
 
 #### Кластер 7
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*||||||
-|*P. vivax*||||||
-|*P. gaboni*||||||
-|*P. knowlesi*||||||
-|*P. yoelii*||||||
+|*P. falciparum*|1|CZT98374.1|||583.4285|
+|*P. vivax*|1|EDL44708.1|||2276.8|
+|*P. gaboni*|1|KYN99499.1|||0.0|
+|*P. knowlesi*|1|CAA9987765.1|||6408.923|
+|*P. yoelii*|1|VTZ79941.1|||2091.083|
 
 #### Кластер 8
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*||||||
-|*P. vivax*||||||
-|*P. gaboni*||||||
-|*P. knowlesi*||||||
-|*P. yoelii*||||||
+|*P. falciparum*|1|CZT98084.1|||2183.574|
+|*P. vivax*|1|EDL43268.1|||1820.585|
+|*P. gaboni*|1|KYO03505.1|||2183.574|
+|*P. knowlesi*|1|CAA9986780.1|||4831.423|
+|*P. yoelii*|1|VTZ72434.1|||0.0|
 
 #### Кластер 9
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*||||||
-|*P. vivax*||||||
-|*P. gaboni*||||||
-|*P. knowlesi*||||||
-|*P. yoelii*||||||
+|*P. falciparum*|1|CZT98918.1|||731.2843|
+|*P. vivax*|1|EDL45645.1|||3661.11|
+|*P. gaboni*|1|KYN93456.1|||0.0|
+|*P. knowlesi*|1|CAA9988282.1|||3661.11|
+|*P. yoelii*|1|VTZ78436.1|||2173.083|
 
 #### Кластер 10
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*||||||
-|*P. vivax*||||||
-|*P. gaboni*||||||
-|*P. knowlesi*||||||
-|*P. yoelii*||||||
+|*P. falciparum*|1|CAD51193.2|zinc finger protein, putative||2183.574|
+|*P. vivax*|1|EDL45264.1|D13 protein, putative||826.8355|
+|*P. gaboni*|1|KYO00773.1|putative zinc finger protein||2183.574|
+|*P. knowlesi*|1|CAA9986906.1|zinc finger protein, putative||826.8355|
+|*P. yoelii*|1|VTZ76436.1|zinc finger protein, putative||2183.574|
