@@ -48,58 +48,58 @@
 #### Кластер 4
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*|1|CZT98040.1|||1743.107|
-|*P. vivax*|1|EDL43227.1|||16770.32|
-|*P. gaboni*|1|KYO03461.1|||0.0|
-|*P. knowlesi*|1|CAA9986822.1|||2180.071|
-|*P. yoelii*|1|VTZ72360.1|||583.4285|
+|*P. falciparum*|1|CZT98040.1|octaprenyl pyrophosphate synthase||1743.107|
+|*P. vivax*|1|EDL43227.1|prenyl transferase, putative||16770.32|
+|*P. gaboni*|1|KYO03461.1|octaprenyl pyrophosphate synthase||0.0|
+|*P. knowlesi*|1|CAA9986822.1|octaprenyl pyrophosphate synthase, putative||2180.071|
+|*P. yoelii*|1|VTZ72360.1|octaprenyl pyrophosphate synthase, putative||583.4285|
 
 
 #### Кластер 5
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*|1|CAD52619.1|||612.3848|
-|*P. vivax*|1|EDL44548.1|||8323.257|
-|*P. gaboni*|1|KYN97268.1|||612.3848|
-|*P. knowlesi*|1|CAA9989837.1|||8323.257|
-|*P. yoelii*|1|VTZ81050.1|||0.0|
+|*P. falciparum*|1|CAD52619.1|peptidase, putative||612.3848|
+|*P. vivax*|1|EDL44548.1|hypothetical protein, conserved||8323.257|
+|*P. gaboni*|1|KYN97268.1|putative membrane protein||612.3848|
+|*P. knowlesi*|1|CAA9989837.1|peptidase, putative||8323.257|
+|*P. yoelii*|1|VTZ81050.1|peptidase, putative||0.0|
 
 #### Кластер 6
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*|1|CZT98598.1|||915.9191|
-|*P. vivax*|1|EDL42405.1|||13713.99|
-|*P. gaboni*|1|KYN99721.1|||915.9191|
-|*P. knowlesi*|1|CAA9987243.1|||908.3955|
-|*P. yoelii*|1|VTZ74384.1|||0.0|
+|*P. falciparum*|1|CZT98598.1|conserved protein, unknown function||915.9191|
+|*P. vivax*|1|EDL42405.1|hypothetical protein PVX_111020||13713.99|
+|*P. gaboni*|1|KYN99721.1|hypothetical protein PGSY75_1034100||915.9191|
+|*P. knowlesi*|1|CAA9987243.1|conserved protein, unknown function||908.3955|
+|*P. yoelii*|1|VTZ74384.1|conserved protein, unknown function||0.0|
 
 
 #### Кластер 7
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*|1|CZT98374.1|||583.4285|
-|*P. vivax*|1|EDL44708.1|||2276.8|
-|*P. gaboni*|1|KYN99499.1|||0.0|
-|*P. knowlesi*|1|CAA9987765.1|||6408.923|
-|*P. yoelii*|1|VTZ79941.1|||2091.083|
+|*P. falciparum*|1|CZT98374.1|hypoxanthine-guanine phosphoribosyltransferase||583.4285|
+|*P. vivax*|1|EDL44708.1|hypoxanthine phosphoribosyltransferase, putative||2276.8|
+|*P. gaboni*|1|KYN99499.1|hypoxanthine-guanine phosphoribosyltransferase||0.0|
+|*P. knowlesi*|1|CAA9987765.1|hypoxanthine-guanine phosphoribosyltransferase, putative||6408.923|
+|*P. yoelii*|1|VTZ79941.1|hypoxanthine-guanine phosphoribosyltransferase, putative||2091.083|
 
 #### Кластер 8
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*|1|CZT98084.1|||2183.574|
-|*P. vivax*|1|EDL43268.1|||1820.585|
-|*P. gaboni*|1|KYO03505.1|||2183.574|
-|*P. knowlesi*|1|CAA9986780.1|||4831.423|
-|*P. yoelii*|1|VTZ72434.1|||0.0|
+|*P. falciparum*|1|CZT98084.1|conserved Plasmodium protein, unknown function||2183.574|
+|*P. vivax*|1|EDL43268.1|hypothetical protein, conserved||1820.585|
+|*P. gaboni*|1|KYO03505.1|hypothetical protein PGSY75_0207100||2183.574|
+|*P. knowlesi*|1|CAA9986780.1|conserved Plasmodium protein, unknown function||4831.423|
+|*P. yoelii*|1|VTZ72434.1|conserved Plasmodium protein, unknown function||0.0|
 
 #### Кластер 9
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*|1|CZT98918.1|||731.2843|
-|*P. vivax*|1|EDL45645.1|||3661.11|
-|*P. gaboni*|1|KYN93456.1|||0.0|
-|*P. knowlesi*|1|CAA9988282.1|||3661.11|
-|*P. yoelii*|1|VTZ78436.1|||2173.083|
+|*P. falciparum*|1|CZT98918.1|conserved protein, unknown function||731.2843|
+|*P. vivax*|1|EDL45645.1|hypothetical protein PVX_091900||3661.11|
+|*P. gaboni*|1|KYN93456.1|hypothetical protein PGSY75_0013800||0.0|
+|*P. knowlesi*|1|CAA9988282.1|conserved protein, unknown function||3661.11|
+|*P. yoelii*|1|VTZ78436.1|conserved protein, unknown function||2173.083|
 
 #### Кластер 10
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
