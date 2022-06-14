@@ -15,6 +15,16 @@
 
 ** Помимо 14 хромосом имелись также данные по митохондриальному геному и геному апикопласта, однако там нашёлся всего один участок с ZH-SCORE >= 500, поэтому их не рассматривали.
 
+Для 5 видов proteinortho построил 5319 кластеров.
+Число кластеров, состоящих из n геномов имеет средующее распределение:
+
+[clust_by_number_of_genoms.pdf](https://github.com/LeonidDybovskij/hse_project_plasmodium/files/8904463/clust_by_number_of_genoms.pdf)
+
+Число кластеров, в которые входят n белковых последовательностей, имеет слдующее распределение:
+
+[clust_by_number_of_proteins.pdf](https://github.com/LeonidDybovskij/hse_project_plasmodium/files/8904466/clust_by_number_of_proteins.pdf)
+
+
 #### Кластер 1
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
