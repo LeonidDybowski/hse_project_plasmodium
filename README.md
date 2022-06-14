@@ -48,11 +48,11 @@
 #### Кластер 4
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*|1|CAD51935.1|||0.0|
-|*P. vivax*|1|EDL45060.1|||94590.41|
-|*P. gaboni*|1|KYO00236.1|||705.4245|
-|*P. knowlesi*|1|CAA9987523.1|||650.9198|
-|*P. yoelii*|1|VTZ77586.1|||583.4285|
+|*P. falciparum*|1|CAD51935.1|protein phosphatase-beta||0.0|
+|*P. vivax*|1|EDL45060.1|protein phosphatase-beta, putative||94590.41|
+|*P. gaboni*|1|KYO00236.1|protein phosphatase-beta||705.4245|
+|*P. knowlesi*|1|CAA9987523.1|protein phosphatase-beta, putative||650.9198|
+|*P. yoelii*|1|VTZ77586.1|protein phosphatase-beta, putative||583.4285|
 
 #### Кластер 5
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
