@@ -138,3 +138,115 @@
 |*P. yoelii*|1|VTZ76436.1|zinc finger protein, putative|Ген|2183.574|
 
 ![cluster10](https://user-images.githubusercontent.com/60808642/174160733-f5616104-11ce-4e09-a292-f43eee7be170.png)
+
+Аналогичным образом были проанализированы квадруплексы.
+
+#### Кластер 1
+|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
+|-|-|-|-|-|-|
+|*P. falciparum*|1|CZT99390.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. vivax*|1|EDL47592.1|cAMP-dependent protein kinase regulatory subunit, putative|Промотор|138924.1|
+|*P. gaboni*|1|KYN98034.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. knowlesi*|1|CAA9991018.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+|*P. yoelii*|1|VTZ81713.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+
+![cluster1](https://user-images.githubusercontent.com/60808642/174396814-ccc1fe4d-5f93-4484-9472-fd098d9b7fe8.png)
+
+#### Кластер 2
+|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
+|-|-|-|-|-|-|
+|*P. falciparum*|1|CZT99390.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. vivax*|1|EDL47592.1|cAMP-dependent protein kinase regulatory subunit, putative|Промотор|138924.1|
+|*P. gaboni*|1|KYN98034.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. knowlesi*|1|CAA9991018.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+|*P. yoelii*|1|VTZ81713.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+
+![cluster2](https://user-images.githubusercontent.com/60808642/174396866-7c48bbc3-d128-44b0-b749-e8ab04c071cd.png)
+
+#### Кластер 3
+|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
+|-|-|-|-|-|-|
+|*P. falciparum*|1|CZT99390.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. vivax*|1|EDL47592.1|cAMP-dependent protein kinase regulatory subunit, putative|Промотор|138924.1|
+|*P. gaboni*|1|KYN98034.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. knowlesi*|1|CAA9991018.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+|*P. yoelii*|1|VTZ81713.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+
+![cluster3](https://user-images.githubusercontent.com/60808642/174396910-4d594baa-4c2b-43d6-bfa7-caa68c6c0a7c.png)
+
+#### Кластер 4
+|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
+|-|-|-|-|-|-|
+|*P. falciparum*|1|CZT99390.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. vivax*|1|EDL47592.1|cAMP-dependent protein kinase regulatory subunit, putative|Промотор|138924.1|
+|*P. gaboni*|1|KYN98034.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. knowlesi*|1|CAA9991018.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+|*P. yoelii*|1|VTZ81713.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+
+![cluster4](https://user-images.githubusercontent.com/60808642/174396924-d7364ff5-bc46-455c-af51-3605d1fb969e.png)
+
+#### Кластер 5
+|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
+|-|-|-|-|-|-|
+|*P. falciparum*|1|CZT99390.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. vivax*|1|EDL47592.1|cAMP-dependent protein kinase regulatory subunit, putative|Промотор|138924.1|
+|*P. gaboni*|1|KYN98034.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. knowlesi*|1|CAA9991018.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+|*P. yoelii*|1|VTZ81713.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+
+![cluster5](https://user-images.githubusercontent.com/60808642/174396940-5a3119c3-c1c6-413f-86c2-d048c713b0ff.png)
+
+#### Кластер 6
+|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
+|-|-|-|-|-|-|
+|*P. falciparum*|1|CZT99390.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. vivax*|1|EDL47592.1|cAMP-dependent protein kinase regulatory subunit, putative|Промотор|138924.1|
+|*P. gaboni*|1|KYN98034.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. knowlesi*|1|CAA9991018.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+|*P. yoelii*|1|VTZ81713.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+
+![cluster6](https://user-images.githubusercontent.com/60808642/174396949-9f37f97a-3412-45fc-9263-258f273fd804.png)
+
+#### Кластер 7
+|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
+|-|-|-|-|-|-|
+|*P. falciparum*|1|CZT99390.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. vivax*|1|EDL47592.1|cAMP-dependent protein kinase regulatory subunit, putative|Промотор|138924.1|
+|*P. gaboni*|1|KYN98034.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. knowlesi*|1|CAA9991018.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+|*P. yoelii*|1|VTZ81713.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+
+![cluster7](https://user-images.githubusercontent.com/60808642/174396993-89d5df51-2a13-4453-ba41-632d3c7ad0bb.png)
+
+#### Кластер 8
+|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
+|-|-|-|-|-|-|
+|*P. falciparum*|1|CZT99390.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. vivax*|1|EDL47592.1|cAMP-dependent protein kinase regulatory subunit, putative|Промотор|138924.1|
+|*P. gaboni*|1|KYN98034.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. knowlesi*|1|CAA9991018.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+|*P. yoelii*|1|VTZ81713.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+
+![cluster8](https://user-images.githubusercontent.com/60808642/174397001-43c4538f-14d8-4b54-8949-37ed01dda795.png)
+
+#### Кластер 9
+|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
+|-|-|-|-|-|-|
+|*P. falciparum*|1|CZT99390.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. vivax*|1|EDL47592.1|cAMP-dependent protein kinase regulatory subunit, putative|Промотор|138924.1|
+|*P. gaboni*|1|KYN98034.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. knowlesi*|1|CAA9991018.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+|*P. yoelii*|1|VTZ81713.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+
+![cluster9](https://user-images.githubusercontent.com/60808642/174397004-e0b7b913-edab-40ed-9a2b-3b29a8e671b8.png)
+
+#### Кластер 10
+|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
+|-|-|-|-|-|-|
+|*P. falciparum*|1|CZT99390.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. vivax*|1|EDL47592.1|cAMP-dependent protein kinase regulatory subunit, putative|Промотор|138924.1|
+|*P. gaboni*|1|KYN98034.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
+|*P. knowlesi*|1|CAA9991018.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+|*P. yoelii*|1|VTZ81713.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+
+![cluster10](https://user-images.githubusercontent.com/60808642/174397019-8978111c-be4a-417a-aac6-45a05ceb5292.png)
