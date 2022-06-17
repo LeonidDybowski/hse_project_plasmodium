@@ -1,0 +1,35 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+```{r}
+install.packages("BiocManager")
+```
+
+
+```{r}
+BiocManager::install("pqsfinder")
+BiocManager::install("rtracklayer")
+BiocManager::install("Biostrings")
+BiocManager::install("BSgenome")
+library(pqsfinder)
+library(rtracklayer)
+library(Biostrings)
+library(BSgenome)
+```
+
+```{r}
+species <- list("falciparum", "vivax", "gaboni", "knowlesi", "yoelii")
+for (i in species) {
+    for (j in 1:14) {
+        path_to_fasta <- paste("/home/leonid/PycharmProjects/python/minor_2022/project/", i, "/",  format(j), ".fasta", sep="")
+        dna <- readDNAStringSet(path_to_fasta)
+        # dna <- readFasta(path_to_fasta)
+        print(dna[1])
+        # pqs <- pqsfinder(dna$seq)
+    }
+}  
+
+```
+
+
