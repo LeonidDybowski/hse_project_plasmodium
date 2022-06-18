@@ -192,7 +192,7 @@
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
 |-|-|-|-|-|-|
 |*P. falciparum*|1|CZT98927.1|WD repeat-containing protein, putative|Отсутствует|0.0|
-|*P. vivax*|1|EDL45653.1|hypothetical protein, conserved|Промотор|73.0|
+|*P. vivax*|1|EDL45653.1|hypothetical protein, conserved|Промотор (за пределами графика)|73.0|
 |*P. gaboni*|1|KYN98904.1|hypothetical protein PGSY75_1126500|Отсутствует|0.0|
 |*P. knowlesi*|1|CAA9988291.1|WD repeat-containing protein, putative|Промотор|73.0|
 |*P. yoelii*|1|VTZ78428.1|WD repeat-containing protein, putative|Отсутствует|0.0|
@@ -236,7 +236,7 @@
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
 |-|-|-|-|-|-|
 |*P. falciparum*|1|CZU00005.1|PhIL1 interacting protein PIP3|Отсутствует|0.0|
-|*P. vivax*|1|EDL46939.1|hypothetical protein, conserved|Промотор|61.0|
+|*P. vivax*|1|EDL46939.1|hypothetical protein, conserved|Промотор (за пределами графика)|61.0|
 |*P. gaboni*|1|KYN95905.1|hypothetical protein PGSY75_1430800|Отсутствует|0.0|
 |*P. knowlesi*|1|CAA9990315.1|PhIL1 interacting protein PIP3, putative|Промотор|73.0|
 |*P. yoelii*|1|VTZ78888.1|PhIL1 interacting protein PIP3, putative|Отсутствует|0.0|
