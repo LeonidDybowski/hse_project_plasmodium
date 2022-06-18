@@ -1,0 +1,26 @@
+# The adjacency matrix, the number of edges between 2 species
+# file	falciparum_protein.faa	gaboni_protein.faa	knowlesi_protein.faa	vivax_protein.faa	yoelii_protein.faa	
+falciparum_protein.faa	0	4958	4356	4137	4339
+gaboni_protein.faa	4958	0	4239	4029	4250
+knowlesi_protein.faa	4356	4239	0	4669	4336
+vivax_protein.faa	4137	4029	4669	0	4116
+yoelii_protein.faa	4339	4250	4336	4116	0
+# file	average number of edges
+falciparum_protein.faa	3558	
+gaboni_protein.faa	3495.2	
+knowlesi_protein.faa	3520	
+vivax_protein.faa	3390.2	
+yoelii_protein.faa	3408.2	
+# The 2-path matrix, the number of paths between 2 species of length 2
+# file	falciparum_protein.faa	gaboni_protein.faa	knowlesi_protein.faa	vivax_protein.faa	yoelii_protein.faa	
+falciparum_protein.faa(0)	79498190	53573807	59146519	58173270	56987008
+gaboni_protein.faa(1)	107147614	76846226	58836449	57796137	56476430
+knowlesi_protein.faa(2)	118293038	117672898	77544314	52946679	56134038
+vivax_protein.faa(3)	116346540	115592274	105893358	72088627	55318477
+yoelii_protein.faa(4)	113974016	112952860	112268076	110636954	72631773
+# file	average number of 2-paths
+falciparum_protein.faa(0)	107051879.6
+gaboni_protein.faa(1)	106042374.4
+knowlesi_protein.faa(2)	106334336.8
+vivax_protein.faa(3)	104111550.6
+yoelii_protein.faa(4)	104492735.8
