@@ -1,5 +1,4 @@
-## Поиск участков Z-ДНК в промоторах генов представителей рода Plasmodium (тип Apicomplexans)
-Для анализа генома на предмет наличия Z-ДНК был выбран тип *Apicomplexa*, род *Plasmodium*.
+## Поиск участков Z-ДНК в промоторах генов представителей рода *Plasmodium* (тип *Apicomplexans*)
 
 Данные по видам *P. falciparum*, *P. vivax*, *P. knowlesi*, *P. gaboni*, *P. yoelii* (INSDC) были скачаны с https://www.ncbi.nlm.nih.gov/genome/browse#!/eukaryotes/refseq_category:representative и https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA. Причём файлы .fasta и .gb были скачаны из браузера NCBI с помощью скрипта на bash, по одному файлу на хромосому: итого 70 .fasta файлов и 70 .gb файлов. Файлы же feature_table.txt были скачаны через ftp.
 Помимо кода на python активно использовался терминал Linux (некоторые команды в файле Обработка.docx)
