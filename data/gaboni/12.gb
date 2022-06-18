@@ -1,0 +1,51 @@
+LOCUS       CM003867             1854454 bp    DNA     linear   CON 08-APR-2016
+DEFINITION  Plasmodium gaboni strain SY75 chromosome 12, whole genome shotgun
+            sequence.
+ACCESSION   CM003867 LVLB01000000
+VERSION     CM003867.1
+DBLINK      BioProject: PRJNA295394
+            BioSample: SAMN04053639
+KEYWORDS    WGS.
+SOURCE      Plasmodium gaboni
+  ORGANISM  Plasmodium gaboni
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Laverania).
+REFERENCE   1  (bases 1 to 1854454)
+  AUTHORS   Sundararaman,S.A., Plenderleith,L.J., Liu,W., Loy,D.E., Learn,G.H.,
+            Li,Y., Shaw,K.S., Ayouba,A., Peeters,M., Speede,S., Shaw,G.M.,
+            Bushman,F.D., Brisson,D., Rayner,J.C., Sharp,P.M. and Hahn,B.H.
+  TITLE     Genomes of cryptic chimpanzee Plasmodium species reveal key
+            evolutionary events leading to human malaria
+  JOURNAL   Nat Commun 7, 11078 (2016)
+   PUBMED   27002652
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1854454)
+  AUTHORS   Sundararaman,S.A., Plenderleith,L.J., Liu,W., Loy,D.E., Learn,G.H.,
+            Li,Y., Shaw,K.S., Ayouba,A., Peeters,M., Speede,S., Shaw,G.M.,
+            Bushman,F.D., Brisson,D., Rayner,J.C., Sharp,P.M. and Hahn,B.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-MAR-2016) Department of Medicine, Perelman School of
+            Medicine, University of Pennsylvania, 409 Johnson Pavilion, 3610
+            Hamilton Walk, Philadelphia, PA 19104, USA
+COMMENT     Assembly created using Velvet Columbus followed by SSPACE followed
+            by PAGIT and GapFiller.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method       :: Velvet v. 1.1.06; SSPACE v. 2.0; PAGIT v.
+                                     1; GapFiller v. 1.11
+            Genome Coverage       :: 90x
+            Sequencing Technology :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1854454
+                     /organism="Plasmodium gaboni"
+                     /mol_type="genomic DNA"
+                     /strain="SY75"
+                     /isolation_source="peripheral blood"
+                     /host="Pan troglodytes troglodytes"
+                     /db_xref="taxon:647221"
+                     /chromosome="12"
+                     /country="Cameroon: Centre Region"
+                     /collection_date="17-Oct-2013"
+CONTIG      join(LVLB01000013.1:1..1854454)
+//

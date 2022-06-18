@@ -1,0 +1,2865 @@
+LOCUS       CM003856              404612 bp    DNA     linear   CON 08-APR-2016
+DEFINITION  Plasmodium gaboni strain SY75 chromosome 1, whole genome shotgun
+            sequence.
+ACCESSION   CM003856 LVLB01000000
+VERSION     CM003856.1
+DBLINK      BioProject: PRJNA295394
+            BioSample: SAMN04053639
+KEYWORDS    WGS.
+SOURCE      Plasmodium gaboni
+  ORGANISM  Plasmodium gaboni
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Laverania).
+REFERENCE   1  (bases 1 to 404612)
+  AUTHORS   Sundararaman,S.A., Plenderleith,L.J., Liu,W., Loy,D.E., Learn,G.H.,
+            Li,Y., Shaw,K.S., Ayouba,A., Peeters,M., Speede,S., Shaw,G.M.,
+            Bushman,F.D., Brisson,D., Rayner,J.C., Sharp,P.M. and Hahn,B.H.
+  TITLE     Genomes of cryptic chimpanzee Plasmodium species reveal key
+            evolutionary events leading to human malaria
+  JOURNAL   Nat Commun 7, 11078 (2016)
+   PUBMED   27002652
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 404612)
+  AUTHORS   Sundararaman,S.A., Plenderleith,L.J., Liu,W., Loy,D.E., Learn,G.H.,
+            Li,Y., Shaw,K.S., Ayouba,A., Peeters,M., Speede,S., Shaw,G.M.,
+            Bushman,F.D., Brisson,D., Rayner,J.C., Sharp,P.M. and Hahn,B.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-MAR-2016) Department of Medicine, Perelman School of
+            Medicine, University of Pennsylvania, 409 Johnson Pavilion, 3610
+            Hamilton Walk, Philadelphia, PA 19104, USA
+COMMENT     Assembly created using Velvet Columbus followed by SSPACE followed
+            by PAGIT and GapFiller.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method       :: Velvet v. 1.1.06; SSPACE v. 2.0; PAGIT v.
+                                     1; GapFiller v. 1.11
+            Genome Coverage       :: 90x
+            Sequencing Technology :: Illumina MiSeq
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..404612
+                     /organism="Plasmodium gaboni"
+                     /mol_type="genomic DNA"
+                     /strain="SY75"
+                     /isolation_source="peripheral blood"
+                     /host="Pan troglodytes troglodytes"
+                     /db_xref="taxon:647221"
+                     /chromosome="1"
+                     /country="Cameroon: Centre Region"
+                     /collection_date="17-Oct-2013"
+     gene            <1..>2251
+                     /locus_tag="PGSY75_0102200"
+                     /note="ortholog of PF3D7_0102200"
+     mRNA            <1..>2251
+                     /locus_tag="PGSY75_0102200"
+                     /product="ring-infected erythrocyte surface antigen"
+     CDS             <1..2251
+                     /locus_tag="PGSY75_0102200"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=2
+                     /product="ring-infected erythrocyte surface antigen"
+                     /protein_id="KYO03667.1"
+                     /translation="QIAWKALSNQIQYSCRKIMNSDLSSFKHIGELKSLEKRAAIATA
+                     EEMKKRAEKLKKKRRRRAWLCCGGGDNEKVELQQDSVXXXRRRRAWLCCGGGDNEKVE
+                     LQQDSVEEVGEQRINEYGDILPSLKASIKNSAVNFYDTVKDGEYLDDDSSDALYTDED
+                     LLFDLEKQKYADMLSASEEDSVDENEEEGSVDENEEEQTVDENEEEPTVDENVEEQTV
+                     DENVEEQTVDENVEEQTVDENVEEQTVDENVEEQTVDENVEEQTVDESQVQEEISTIQ
+                     ENIEEAVSEVQQDSEVAPTIEIPDTLYYDVLGVGVNADMNEIAERYFKLADVYYENQK
+                     SDLSDFHNFRKVNEAYQILSDIDKKKWYNKYGYDGIKNVNFINPSLFYFLSSLDRFNY
+                     FTGTPKLVTLLRFVFEKRLSMNDFENKSKHLLKFLEEYQKEREAHVSESLLNIIQPYI
+                     DGNAEWNLPIIEKLEGVMRSHFAKPILESLRWTFKHVAKSHLKKSKKSIKKLKDGSQN
+                     NRKELSNINDNLMSTLKKYLGTSEQINSIIYNLENTNSNVDTNNKSINISDLSEKDQT
+                     KILETIVGNIVDISTADIEKTVFNAAEHILKDSSVDEKTITNRAKSLKELSDIMEKFA
+                     GNKKGAIKAKKYDTRDIVKNIIHGINTVKAEQEKEISNANVEENVEENVEENVEENVE
+                     ENVEENVEENVEENVEENVEENVEENVEENVEENVEESVEGNVEESVEGNVEDVEEIP
+                     EEHNEQYDE"
+     gene            <4901..>5396
+                     /locus_tag="PGSY75_0102300"
+                     /note="ortholog of PF3D7_0102300"
+     mRNA            join(<4901..4972,5115..>5396)
+                     /locus_tag="PGSY75_0102300"
+                     /product="putative exported protein"
+     CDS             join(4901..4972,5115..5396)
+                     /locus_tag="PGSY75_0102300"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="Plasmodium exported protein, unknown function"
+                     /codon_start=1
+                     /product="putative exported protein"
+                     /protein_id="KYO03668.1"
+                     /translation="MMVFSSIKIFLFSIVLELLLLSDRNLIPSCYEDVYSFKKVTRQN
+                     ISIRTLSQCLNTQPISKKXSVEDKLKEKVIKQNEDTNEKQTSIIDESEQENSIDLNDY
+                     TNIGSTLNPDEIHNC"
+     gene            complement(<7561..>8451)
+                     /locus_tag="PGSY75_0102400"
+                     /note="gap found within coding sequence;
+                     ortholog of PF3D7_0102400"
+     mRNA            complement(<7561..>7852)
+                     /locus_tag="PGSY75_0102400"
+                     /product="putative lysophospholipase"
+     CDS             complement(7561..>7852)
+                     /locus_tag="PGSY75_0102400"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="part of same gene as PGSY75_0102400A;
+                     gap found within coding sequence"
+                     /codon_start=2
+                     /product="putative lysophospholipase"
+                     /protein_id="KYO03669.1"
+                     /translation="KSLDTLHKHIDDIPRNIPILFFHARNDCLCYYPGLEIFYNRLVS
+                     DKKELVTLENNEHLVIMEPGNEKILQKILDWISKIYKKKDEDNYLKEEITLK"
+     mRNA            complement(<7953..>8451)
+                     /locus_tag="PGSY75_0102400"
+                     /product="putative lysophospholipase"
+     CDS             complement(<7953..8451)
+                     /locus_tag="PGSY75_0102400"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="part of same gene as PGSY75_0102400B;
+                     gap found within coding sequence"
+                     /codon_start=1
+                     /product="putative lysophospholipase"
+                     /protein_id="KYO03670.1"
+                     /translation="MDKNKLISKDDNYNEKVEVISRVDTFYNKYGLGIKNYSWIVKEA
+                     IAIIILIHGLGSSFRFGFLRHNVNIVDNIQATLIDSDNFYIYKNSWIEEFNKNGYSVY
+                     GIDLQGHGESDGIDNLRLHINDFDDFSYDIIDHIKKVYQSIMLENDNKDNLYNNNKME
+                     SMEKMP"
+     gene            complement(<10695..>15606)
+                     /locus_tag="PGSY75_0102500"
+                     /note="ortholog of PF3D7_0102500"
+     mRNA            complement(join(<10695..10768,10922..11010,11120..11198,
+                     11283..>15606))
+                     /locus_tag="PGSY75_0102500"
+                     /product="erythrocyte binding antigen-181"
+     CDS             complement(join(10695..10768,10922..11010,11120..11198,
+                     11283..15606))
+                     /locus_tag="PGSY75_0102500"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="erythrocyte binding antigen-181"
+                     /protein_id="KYO03671.1"
+                     /translation="MKGKMKMCLFFFYSVLYFVLCTYVLGISKELLKERTQSLNDNNN
+                     DSYNNNNINDQLSFANEVVRFIENEKDDKEDKTMKIITRPVDNTLNRNTDNSFLNIKK
+                     YGRKAEYLNRSSFVQRAYISDCQVKRKAHTWICENEGNNNICIPDRRVQLCIAALKDI
+                     KNSGSERMDRELLTDKVFESAMYETDLLWKKYGFRGYNDFCDDVRNSFLDYKDVLFGK
+                     DLDKNNISKLVEKNLKSFFKEDSTILSPDVWWGIYGAKLWRSMIKPYIDFGCKIPDDS
+                     EPQINRWLREWGKYNCKLLKEKQKSLEKQCSVNKRKTDCSSKCNSECYSYRNLIKRQK
+                     YEINILAKRYVQVIRYNIFNKKIVQPNNAYDFIKANCTDCKDIDFKTLFEFEYGKYEE
+                     KCMCQSFLDLRIQFKDYEVCSFNADKHTVSSDKRFCLAKKEFKPWQCDKNTFEKVHNE
+                     GVCVSPRRQGFCLGNLSYLLSDDIYKIHNKQLLIEIIMASQQEGKLLWKKHGIILDND
+                     NACKYINDSYNDYRDVVLGNDLWNDKNSVKVQQNLNMIFERNFGYKVGEHRLFKSIKE
+                     LKYVWWILNRDKIWDSMKCGIQEVDPRRISCKKMDELENMPQFYRWFSQWAHYFCKEK
+                     EYWESKLNNNCKDPKGKSLCNETTCQNVCTRMNYWTYTRKIAYQIQSAKYDKDKTSFN
+                     LAKDKDVSTFLKENTNNCSNIDFTKIFDELDKLFKERCPCMDTKTLETKNKEMLSLEK
+                     ISDEETDINEESEEEEESQEYELLARRTNGNKGTKSDPNEIEKNKDEQQPEKEEATQT
+                     SGSLEVQENKDSDSINGGGATTDKANPSEELEEVPKDASNTEEIKEQPALTESPENSP
+                     KQAQAQGESEQKSNESERSESDQPPTGGEASELKNETSLEQERKESSSSAEEDSSKTP
+                     SENTSSQDTEAPSENTSSQDTEESSIGQTDEHVVDKEPVSTNLEHGVVDKEQMSDPNK
+                     STGKNVSLEGDKDEAVESTVSITDSNEQKGQSTQSTHIPVVVGEKEENSISPVTENSE
+                     SASGLNSTNGIETTTIDVKEQQTIKSDESVSETSESSSEISSVVDASHEKTETVPPGT
+                     SIEEEKEILKSKQIDTTSEPDLGSNDQKDVTDNSAEVNRNDDNNLPNSIDNPSDDINR
+                     EVITASETQDVSEPKGSNKETSIEVPSITVTTSDDRSSVEEERKTKEEPVTQREILES
+                     IQNSVNEHTPDNEQKDEREALRSEEYKLYSGTPSEDISERDLNDIKSLKANMDNISLG
+                     DSSENRESAEGTESRHRELRQHDFRGEGNFENDVGQVQDSVIENEEFKKLLNKEYEEN
+                     DNEEMMNGTTYSMKDRVNNLSSEEKMNEYKNRNVTEAREEILRMSKTNTCSNNHSLKY
+                     CDYMERNKDLLETCSLENRLHLCCAISDYCLKFFNPNSLEYFNCTQNEFDDPTYNCFR
+                     KERFTSMHYIAGGGIIALLLFILGSASYKKNLNDEDGFYDSNLNDSAFEYNNNKYNKL
+                     PYMFDQQINVGNSDLYSEGIYDDTTTF"
+     gene            complement(<18877..>21026)
+                     /locus_tag="PGSY75_0102600"
+                     /note="ortholog of PF3D7_0102600"
+     mRNA            complement(join(<18877..18951,19062..20759,20925..>21026))
+                     /locus_tag="PGSY75_0102600"
+                     /product="serine/threonine protein kinase, FIKK family"
+     CDS             complement(join(18877..18951,19062..20759,20925..21026))
+                     /locus_tag="PGSY75_0102600"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="serine/threonine protein kinase, FIKK family"
+                     /protein_id="KYO03672.1"
+                     /translation="MLNMLQKKKTSFLRSILIKFIIISFLGILYLFFCNVDLFEGKRT
+                     NHFELIVKGSRYLAENRKESETVNDKLNNNNVDNFRVRGNENGCAINIEETSRNNCEG
+                     KNKLMVGCTKGLKKLWNKISCNSLYDENIDSNNDNKYNNMKDSTCSNNNDLLKKESQE
+                     KSVNFKKVDDDSIISSDINKNCLDEKNNINEEHDSKNIYNWDLGRKSLEKLLGCSKNF
+                     SINGVKYENWDIIQIPTCGASRIKEKCQNIYKVVIKSKERDDIVGNNKKMGNCNNFDN
+                     IKGKDNEEEDEIKLFMKKVPIDIWVKQYDLMRKYDGEYLSVGENFVMESVVLAFLNEH
+                     HPGIAPKFYKFLYEPDMNYDMNNNCDEKKSSNVHIYTNLDTFNESLREQVNNNQKGYV
+                     VMISEFFGEDVFDYTISEKERLGTEEWFKDVNKILYKSLKLLIRLHNAGICHLDLTPE
+                     NILITKNFDMRLCDFGKSAPVYTTKLRHTKEMNKQIFFESCQPNIGKNPNTPPECWDL
+                     FLKYESLDVDDPLEYLKSIIDPEERKMYYYDVRSADKYMLGIFFIFLWNDGYLWNSAE
+                     VEDDDYSQFVKSGMNFDSFELTKSWPRGLKVILKQLLDENYRKNLNLNDLLIHPWWSY
+                     "
+     gene            <23756..>24732
+                     /locus_tag="PGSY75_0102700"
+                     /note="ortholog of PF3D7_0102700"
+     mRNA            join(<23756..23827,23974..>24732)
+                     /locus_tag="PGSY75_0102700"
+                     /product="putative merozoite-associated tryptophan-rich
+                     antigen"
+     CDS             join(23756..23827,23974..24732)
+                     /locus_tag="PGSY75_0102700"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative merozoite-associated tryptophan-rich
+                     antigen"
+                     /protein_id="KYO03673.1"
+                     /translation="MIFHKCFKVCSLSCAILWGIVTSSIMQPDKQQEKDQLSNHFIST
+                     EQLLDISEKWKELEWNNWFSRMENEWENLNLVLQNDKRNILQDRHSNWKDWIQHLENK
+                     WENINENINPEYKTNLLHISLTWNEEQWGNWAYNTLKCFLENDWNILIKEITEQINTH
+                     IDQRWTEWLHEQNSIWISNDWIIYENAFWENMIKLDSSKYAWTHEVKQYFIKWNERTN
+                     HQNFMWNNWIHNKNEIINHIKKDNIDDWTKDKYDSFNKWREIFLEDWITSQKWKKLAK
+                     "
+     gene            complement(<25260..>27053)
+                     /locus_tag="PGSY75_0102800"
+                     /note="ortholog of PF3D7_0102800"
+     mRNA            complement(<25260..>27053)
+                     /locus_tag="PGSY75_0102800"
+                     /product="hypothetical protein"
+     CDS             complement(25260..27053)
+                     /locus_tag="PGSY75_0102800"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03674.1"
+                     /translation="MNNINDNDIQNSDVNEIKNDEYMEERYYNINNEREDSVQNNNMN
+                     DNENNMIGEKHDNSDENINNSIGGTTHKEHVNEYKKIKSFCKLRRKFVYMRRKDYNSY
+                     IYNRNKNKNKKETEGNVHEMYNMNNNNNNNNNNNNKNNNNNNNHNHNNNNNNIRYNNN
+                     INSLDSFSDLFLKFIKQFIDNINMHLNNVKNYFRSYVCNDNMKYVFYLFIIYMLLNIM
+                     IIFFSMFVYFFLYFYFIPQNKYVFPIDFSLVKNPIEDYLQNEKRYNIVNKMNNMDNMD
+                     HINHMDHMNNHNNIKNNCNNINMMKNFEKSNLNESEDFYIKYFDSLKVDILNSINNKF
+                     NCCCSHECNWFNNMLYDKDNNYDYNYNMNDQEIRKRNYYLYNNKLKGFYKDFQNNILR
+                     GHVLFQNKVHYSDKEEFYMNFSPFNYLFFFKKKTEKDNLLNIKNGYKIDIFLNFSYMN
+                     NEYNDKFNFIQLVTEIFNKNNNVMFRNEKLYINNNNYEFIKKLHLFLNAPFYFFNIFN
+                     NKTKEIRLVHDYKYTPNFYKIQIYIYPPIQIHKASIVILVYVNFIYYYMYNYPFVFFY
+                     IFVFFLSFILIFFNTILFFILSCYYYFKNGI"
+     gene            complement(<27923..>29806)
+                     /locus_tag="PGSY75_0102900"
+                     /note="ortholog of PF3D7_0102900"
+     mRNA            complement(<27923..>29806)
+                     /locus_tag="PGSY75_0102900"
+                     /product="aspartate--tRNA ligase"
+     CDS             complement(27923..29806)
+                     /locus_tag="PGSY75_0102900"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="aspartate--tRNA ligase"
+                     /protein_id="KYO03675.1"
+                     /translation="MINCLFQLNGRLSYLKKYLLLINLFKLKNKHINFISIRKELFVC
+                     GLKKMEKDDVVNNTVPATEETVMSDKKKEKKAKKLAEKELKLAKKLERENLKNEAAKV
+                     LDYVCDDINKDNYGYIKVSTLKKYADSIKDLYNLEDIYNFFVKTEGCENEKREICVDK
+                     NVDNVKDEYNSELNLLEKKKIWVRGRIHDIRAKGSIAFIILRHKLYSLQCILDIKNNN
+                     NDKNMMKWVSNLSLECIVDIYGEIKKPEIPIDSTNIKYEIHINKIFCVSRTMKELPFL
+                     LKDANMKETNEELTIKVNQDNRLNNRCFDLRTYANYSIFSLQSVICHIFRSFLLQENF
+                     VEIHTPKLLGESSEGGANAFKINYFNQNGYLAQSPQLYKQMCINSGFDKVFEVGPVFR
+                     AENSNTYRHLCEYVSLDIEMTYKFDYMENVYFYDSMFKHIFKELTDNEKNQTFIKTIK
+                     NQYPSDDFVWLDNTPIFTYEEAIKILIKNGKLVLKEEDILTYDLTTDLEKELGKLIKA
+                     SHNTDYYIIINFPSCLRPFYTMYKEDDPKISNSYDFFMRGEEILSGSQRISDMKLLLE
+                     NIKLFNLDPNKLNFYIDSFAYSSYPHSGCGIGLERVLMLFLGLNNIRKTSLFPRDPKR
+                     LVP"
+     gene            complement(<30659..>32240)
+                     /locus_tag="PGSY75_0103000"
+                     /note="ortholog of PF3D7_0103000"
+     mRNA            complement(join(<30659..30726,30871..30945,31089..31229,
+                     31392..31628,31698..31796,31977..32048,32129..>32240))
+                     /locus_tag="PGSY75_0103000"
+                     /product="putative vacuolar protein sorting-associated
+                     protein VTA1"
+     CDS             complement(join(30659..30726,30871..30945,31089..31229,
+                     31392..31628,31698..31796,31977..32048,32129..32240))
+                     /locus_tag="PGSY75_0103000"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative vacuolar protein sorting-associated
+                     protein VTA1"
+                     /protein_id="KYO03676.1"
+                     /translation="MVEGQNDTSLGEGKKINMKSIEFVLKKSEELETNHSLVSFLCIL
+                     YVVEKLNDYVKVNYTDIDKKNVLIKCLNKAEEMRPSFGSLDYNVLSNFCEKLFLAADK
+                     ADRNEVITKKTLQMFFTSKMFYEILNHFNSLSTEENKKYVYAKYKTIYLKKCFDNNII
+                     PEPGSPKNEDAISEVDNKIGEENKEEKEQITNDKYEHYEDNKINNYYENDNDYYKERE
+                     KLSTQNKRIEDTVDFNLSLKHAQYAVNALIFEDRDTAKRELKLSLSYLE"
+     gene            complement(<33004..>37587)
+                     /locus_tag="PGSY75_0103100"
+                     /note="ortholog of PF3D7_0103100"
+     mRNA            complement(<33004..>37587)
+                     /locus_tag="PGSY75_0103100"
+                     /product="putative vacuolar protein sorting-associated
+                     protein 51"
+     CDS             complement(33004..37587)
+                     /locus_tag="PGSY75_0103100"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative vacuolar protein sorting-associated
+                     protein 51"
+                     /protein_id="KYO03677.1"
+                     /translation="MENKSNRRKNVGSMLYDYYNIETRNKVDEFEECSDNNMKNINNI
+                     NNINSINSINIINNLNNISIVNNSIDDNNLFFDKTDEKNENLKEKSTILKRSDNDNIN
+                     LRSDRNYKNKNNDIKECNEKNEMNKINCINEFDMDCSNFNVNDYFKELLEKSSMYDLI
+                     NKSRKIDKEIKQNDSCMQTLIYENYNKFINAADSLVLLKEKFKCVKNKMNEINNDLEY
+                     IDKQSNFLNNDVFKNYEKIQNLIEIKKLLNDINEIMKIPEYMYSNILQKKYIKSLKMF
+                     IKVIPFFHKNKDLVIFQNLYLDCNNLASIACHFFLKKLNKEKNLKKLPMRINQSGTTM
+                     GDNKSDTTMGDNKCDTTMGDIKGDIKYDNICVNHLTHNKNYDDKSDECFYFFDNKNLE
+                     ESFKSLHSYVLTSEEVAECLNLVLSYGMDIKEIKKLYLKNRINCLKYIMYHIFNLKNH
+                     GFFVMQVDDLKSSFFDPNYEEISIDKQNKKNGPKKNEDNKNNHNKEYIFFNNIFENIF
+                     ILSYKHLLYFFFSFLENYEKIFMKKNNFLNNNDENKSYSKSFFYDERDYIDDKNLHNN
+                     IEYLRYLIDNLDESVRYKNGNKRCEDFFMSYDNINNDDNINNIYHDKYSYLHNSFDLN
+                     KKILLLNDLFNIDDDKKIIEVLLDIFFKVLCKITIDYIYMFNPPIKLIVKLLKIFIDN
+                     INIHNNKIYYKDKILYYMNRFIKKIYYVLLKLYFYNLCFHINIYLYTYFQTCNKKKLI
+                     DILESRNELAHYIILKLCLTVMDFEPFYVQIKLDNNFYVKHFFNFVIIYLESLSKHID
+                     SFIYYFVCVHEKGSILKHIKDEEKKENNKGGNNSNPDGNNNNNNNNNNINNIDSNNMD
+                     SPNICHKHFDKNLSKDLFYFTYESADNIIYEDKENIFTHKNLYYILDEENNIHCKHTK
+                     KKDDRFCADYKKLKNYLYSSACVDNIHMQHILVNIKKYMKMEYTKFLKHITGSLKFGK
+                     IKKIKETYFLLCLVWVFHNIKKDGVSKIFNVITDMYKETNDLINGCERIDMGCSLDSL
+                     LHKDIYPFIKEKEIENKNIKKLKLNDDDCDNYDQSVEYTNDDHIFINKSNEESEDKEK
+                     KDLTFTYNEKEKENKLYDFCFDDNNICDNYSHQGDTTNTIIKITKDEQDKKQNNNDEN
+                     RKKKYVIGISNFVKYKFNEKCNELTNVFISYYINKISYHIKSYIEKDTYEEDTKSNIV
+                     SYNFVYCMKRIDMFYTYLKYFIYQNKVPNVINFEEGQEREYAFSDMYEKIEEELAKLG
+                     KKYIKDKIIVDKNDTVVDKNGNVVDKNDNMVYKNDNVVDKNDKVVNNNDNAVNNNDNV
+                     VNNNDNVVNNNDNMVDKNDNMVDKNKNIIRKEYIIDDKKHNEDNKISNIDSKEQNMEN
+                     DNLIFDMNKDEKNLEMYMYKLYMLKMKNYRKKLPSEINKILLLIIKILFKNYMEYIRK
+                     CHMNAKKLYKMQIDFFFFYHCLKHYIPCDDENVLFVILNEVLINAKGRIRGIQNKRDE
+                     DDCASSYQGYLLLDDIHVDLEENKLFILKMFKE"
+     gene            complement(<38973..>40445)
+                     /locus_tag="PGSY75_0103200"
+                     /note="ortholog of PF3D7_0103200"
+     mRNA            complement(join(<38973..39397,39566..>40445))
+                     /locus_tag="PGSY75_0103200"
+                     /product="nucleoside transporter 4"
+     CDS             complement(join(38973..39397,39566..40445))
+                     /locus_tag="PGSY75_0103200"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="nucleoside transporter 4"
+                     /protein_id="KYO03678.1"
+                     /translation="MLKKSEETKIKVIFFFIGLLLSLPSHILINVSFLINHIYKEEIA
+                     ITVMGFLSGFMIISSFLQLTFEFTSFKWIMICNGFNVFNLLLLLIFVCVMKCSKYYIY
+                     GISGLIGFFIGYLYSSCTKYTLLFPLKVNSYMVTGISFSSLFFFGINLLMSYFSIEDG
+                     NINSYYNTIYLSIGTIVFIEFIVLITIIFIQYNSPFFKEQKEKIESAQNIKCLSYSAS
+                     NYLCDVEKGKNKSTENIQTNNVSMISKFKNKIKTVVSMFNCANIIEGACLIRYYYLCL
+                     IPIFFSFFVTCIIYPHMIPNKLNKNVYYKYLFMFLYQLSDLIFHIIVTVYYNAFNFFK
+                     QKYVAILCLSRVFLLLLSFKIKNLTEESFLYSNTFISFLIFVIGGSNGALINISYARI
+                     ADCFEESTKKTKQIAVASSFCALCLLMSFALAPWFCHAIIHL"
+     gene            complement(<41656..>44253)
+                     /locus_tag="PGSY75_0103300"
+                     /note="ortholog of PF3D7_0103300"
+     mRNA            complement(<41656..>44253)
+                     /locus_tag="PGSY75_0103300"
+                     /product="hypothetical protein"
+     CDS             complement(41656..44253)
+                     /locus_tag="PGSY75_0103300"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03679.1"
+                     /translation="MYIQYRLFSERSLWRFLEINKNDNYILVSDLKNILCKQSNINYN
+                     NKIDICFSIYKEGDSFEEDDSNNNNNNNNINKNIGNEKDNLSDQGNKKNLLYYNKSGY
+                     ENINNNINDNTYNNKENNINFLNNDDKIYNGTKILIHRQVKKKNNITDVITHKAKKEI
+                     IINTEEKQKINIPPEFLCKLCNYLLLESYIIVCNNNCGYSVCRSCLLFYILNCFIKEN
+                     EKKMNYIDMNMLNTDNIIKCPICQGVLKYGILNKKMELTIKKFVEERKDIHSYNLSME
+                     ERNNRYLKILDRLNIENIEDLCIDRKNKKNLFDNHIFKHIEKKYIHSHITQDNKNILE
+                     KNEEPKIINHFLYLIDNYKLNCIKEYGMLYVDFNNYLFDSIQKIKVKSIYEQQINDNK
+                     DNTSVNINIHDDCDKNMNLSLRKDNMTEQVDKSANNVDDISGVDHIKRELIQEGVMKV
+                     KTEEYGESNVKGATNDPFNCLSMLKNMSSYLTGMVGDDKCDDMVRIKKEERKDLNNIN
+                     NVNNINDDNNDIDKENDCVDDFKEDMYNQTKTYIIPISFVGGETSYSLIGIYAVKDLY
+                     MRIDGKKNEGSSNNLTSTSSSLFNKGNNNNVDDSFVETFLKKWFHYENQNEKKVGNIF
+                     EKLKSGNIYNIECINKYEKTCFFPARKQPIYTIINTKRQKTKKKTNIEISLDFKKFKD
+                     IVLSVDNYIKYGSRPTNYEPRKEKIQGTNISLSNNNNNNNNMEMNENDNEGKEQEINN
+                     RDNIFNEEKDTLHNILDLQNEQDDILTCSINLQHEFKDIYQTLYDTSIIPISINNNFN
+                     VNNPYANYCALLPFLTKKDFYLFRKLQRIYKEKYLKKLYKHVKQNNLNMNIFFNAINA
+                     LYFATIRKD"
+     gene            complement(<45554..>49957)
+                     /locus_tag="PGSY75_0103400"
+                     /note="ortholog of PF3D7_0103400"
+     mRNA            complement(<45554..>49957)
+                     /locus_tag="PGSY75_0103400"
+                     /product="putative zinc-carboxypeptidase"
+     CDS             complement(45554..49957)
+                     /locus_tag="PGSY75_0103400"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative zinc-carboxypeptidase"
+                     /protein_id="KYO03680.1"
+                     /translation="MLFKNEDSGNSVYCFTYNNFNNDSISDILNVRNDNKNNENKEKN
+                     DEDDKKTNLLLELNGENEENKRQGDKQYEDLCLLSFKNMEQSNDNIKMQEEMFNSSYE
+                     TNIKNIVKVVYHEDYKLLYENTDIHVELPSILYDTDIKKNNDYINKCDKKEDDDYINK
+                     CDKKEDEDYINTYNQHNDVRKIENLKYFIKHNWKNINRINEKLFLKNLKELDEILNYN
+                     FLNICKNKYKQYDKKRINERHLSYHDNFLSHYIIYKRNKFIKQNKNEYINGNHYDVHE
+                     STNTYDDIETTRLKHNNINSNDNNMKDCVNKYPYDYIKEPLNFSCPCYENKIENIYCL
+                     NIPGYKYKYIYPPVNNINDEKIKELYIPKGHILFNSKFESANLKYVIKEEKDKEVYSL
+                     FLNQDIRMKEKKNQWFYFSASYVPNEYYTNELYKMKMYNKDITNMGDNMKVINNYLNG
+                     TGNNINSNINKVDNTTNNINNIYNINNINSNNIIYTKWRGQRCMNQYLNDINNEEIDT
+                     NPGGNGKYSLDACDKFTVRNVKKLEKPFTVRFKIENMAKPFFLYKYGHSPLSFSECKY
+                     KLENIKWQRNTYDIKYIKNNSCKHYNIKKNSMEYYNYNTYTLEFSYDFMYEYDTVYFA
+                     SCYPYTYSYLNEYLCLIRNFLKDHLTINYIEQKLCKTSCGFDCPVLCITNYDNEEGYN
+                     KKELIEDLEKKKKNIIERNNLNDENLYDENLYDEKLYDENLYDGRDISNNVVRKEIKK
+                     NRYILTSKKFGINKVDNNLFDDMKNGYTNEYEYDNMDKEYLDIKKKNICCEEEKEKYD
+                     IIKYNVDKDYSYNCYYDECHNVKREKNNFICCLNDKCNCVLSEHIKGRKSIMDCTNFL
+                     NKMKWCKKKMYTSNNFMKTFETLLKKDYIYSRENKKNNGMKKIKRFEENCHNNLICKT
+                     KDEKRNFSEKKKKKKKKIIVLTARVHPGETNSSYAIHGFISFIISNNIYAHILREKFI
+                     FIIIPMLNIDGVILGHNRYCYNGFDLNRQWSNPIAYIHPTIYSAKSLIKNISQKNKII
+                     FFCDFHSHSRKYNCFVFGNQGTCNYVNNKKICEVFPEIFSHALPWFALVDTVYKADNE
+                     NKGSARLIGGKEFGIDCSYTFEISLFGIQIRKDFNIMYNEKKDIFYIQNYFERCHNGG
+                     DNKKIGGNIKRDDDKKIGGNIKRDNDKKVDDIKADGDAKADGDVKADGDVKADGDIKA
+                     DDRYDNMNMHYINNNYYYDKNSYDFLYFDENLLFMTGVSFGLCLFKYMNFLSYNKSSI
+                     YRRTCEEKEKEDMFTEECSTLCVNNKDDKEKYNETKKQNDHIFKKENNLDYDKGGDII
+                     LSDTDHPMVNSCVCNNMNQNKSKSKMEYKNILNKYGFIKLKSSNKYIKELKRIRKLKK
+                     KKENVIKEVYEFRKKTKQNKSYNTYMFGSYKVNINDVIRILNKLKIVDHNGKYKGFDF
+                     NNSLDMKKKIKSKSKHKNKNKCKNKKVIVIL"
+     gene            <51156..>57305
+                     /locus_tag="PGSY75_0103500"
+                     /note="ortholog of PF3D7_0103500"
+     mRNA            join(<51156..53479,53662..55833,55962..56055,56137..56249,
+                     56371..56460,56546..56726,56991..>57305)
+                     /locus_tag="PGSY75_0103500"
+                     /product="hypothetical protein"
+     CDS             join(51156..53479,53662..55833,55962..56055,56137..56249,
+                     56371..56460,56546..56726,56991..57305)
+                     /locus_tag="PGSY75_0103500"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03681.1"
+                     /translation="MNCCNELNVINLIISLIKKNKVNDDLLSVKNLYTLIKTNKVPIS
+                     LKLYNEKQNIFVSICTILCNKLKVYLYNILSKRREEEKEEEKEEDEEKKKKKNFIKKN
+                     SFLCNQDYVVDYSVDYSVDYSVNYSVNNSVNNSVNYSVDYDICNNIHKSFVTIEFFLK
+                     NLTLCFKHINDNKDKDIDKNKDVIFLTCINNISILLNIYQNNNTKNDKICNEHFFLII
+                     IKYIKYLFVHIYNNQNIFNDKNNKEVFYSCLTSIIKNLLENTIKQNKKIKYKTLKLFY
+                     LIHQKIQDIYIIDILFNRLSLYLFLLYKTCEQLTNITNFILKIFVISSNQILLYYYNK
+                     NKILNDNKEIDESTPNHYANINVYYKKYKFFLQENKKKIYNSLLTLEGKQNVDNNDNT
+                     KNLCVYINKQNNKNYENHKIQHTHIIDNNNSLIQQYNHVNKLNYNPHNLSNIYFFSYY
+                     ILINYNKNIKDIFPLCRVIIEHYPFLNKNLVLMSFIFILSEMFYDNNEHWLYHLNLLY
+                     ENGLSNYLENCDISADDVQNVTRMLNDQINDNSNNNNNCHYNNNNCHYNNNNCHYNNN
+                     NCHYNNNDHHPYDHTYNHIKNVKIKIPQHEHQKYINQNKLAPLYYDLSFIFNHLIKMI
+                     KEDDQNNNYIINNIENYSVESLNYYIENYYFKYMFNIFLFKKKENKYILKYLKGYIYY
+                     RYIFNVINHNSSPEHFNIFNYILDLYIVSNFNCIQNENLLLSSSTQKNILSDNNIIYS
+                     LDFFVQPNNTNSYDNLKENVQLTNVFNQENERKSVLINEVSMFSLLFIEQNIIDIFLD
+                     DVILSAWDDLERNKKINDHAHYETDTSKHMNNKSSYNFIKKWWDDNYYSADNKDTNKI
+                     KMKDDKKDDEKNDKKDDKKDDKKDNKKDDKKDDKKDDKKDDKKDDEKNEEKEKYILKY
+                     KYLHFLNYYLDSLILITYIYLQMNIRKINKESINFGVYSNSDIDNNKKSDTTTNRSDS
+                     TNNKKIINYYITAMQHDIMKHILNEYYPMLNNYFSLAILIKRIHDKRNIKKVIEKIML
+                     FLSSNKVKKNYNNLKKENIQHNRNHEYMKYYTTLIIICLNKAFYISYLCMYHDLIEKI
+                     FIKNFVYLLLKINNACTYNKELAKYTIINIYYYMKQNKTKQKIKNIKNDTQINQVYNY
+                     NVYDNEHIKEKNKYKNNNILSTNEISYPINNIQQLQIKHIINYHHDILSSYIYKKIIN
+                     IDSFKNATKILQLTQFLVQYDYYTYIYKDVCLNIIKYTKQIHFSFQSKEIKNNLYFLI
+                     LQLFNCILYLYYKYINHNRIYISEQNQYFEYIKEYVLKGYIHINLQHLYQKIKKNQEH
+                     LDSSRNTNDVVIKKINNDNINKQLNNNDNSYIINNVQKNHSTLFQPNEEEKKKLYLQN
+                     YILFKLYEDIFNQDYKDIINNENKKKTNEYKIKDLINNYINNLNKHINKTKIVNLLID
+                     DDFYDLNDQSKNIKYNNINNAKNLDDNNYFNHYNQNNSMSYEDIRYTTSHIFLFAKVF
+                     LCSDNLYLRFSAHLCILRCLYIFSTRLYELYPKIHQIWTYMKINFYKNSYMNDILVLK
+                     IINYIITIDDKFSVDRIINDMFPQIFDRLKTFETNKEICKQSYEYKFLQTTLLFFLNI
+                     SRQEQYFEKTYSYIFFFSLKCLNKIMNEEIRKISLNIICNLYLNDIPKIKKGIDSILC
+                     IKERIKFLHDDKKYITDNIFIKENVNDIEIIDGLNSLSCILNIINVKDIISLIIHIDI
+                     SSLHFLIFYMSILNEQYKYKCRFNQHTLIVFDHFKD"
+     gene            <58377..>63219
+                     /locus_tag="PGSY75_0103600"
+                     /note="ortholog of PF3D7_0103600"
+     mRNA            join(<58377..62336,62567..62822,63026..>63219)
+                     /locus_tag="PGSY75_0103600"
+                     /product="putative ATP-dependent RNA helicase"
+     CDS             join(58377..62336,62567..62822,63026..63219)
+                     /locus_tag="PGSY75_0103600"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative ATP-dependent RNA helicase"
+                     /protein_id="KYO03682.1"
+                     /translation="MYVSFFSLNFCFYVTFYFLLITLFTRNCLCFVSNEREESYNIIL
+                     TKERKKNKPNKTKYFLYNFFKKKKINVNPYYKTIPILPPRAYLPYCQNIKDKNNKINI
+                     KLKDKNNKYDYYHNKNVSKYNNIKIQNDDVTTNNNQKNMSSLLSKKKKKKKKKPTFSK
+                     KEMLRIKKKNDKFKFLNKKIKKIYKTKDTHIKHFKDNIKGNSLKNDKENIFLIDKQSS
+                     DNNYKSNIEQQYQDNNHSYDEKKKKKKKKFHKFKRNKKQENILNMFENNLNYSIDKLN
+                     KKTKKYEIFKQNENIKNDVLQNEILNKILSKETTSKNIINNNKKNKNLNKQNKNLNKQ
+                     NNNVNKQNNNVNKQNKNLNKKNNNVNKQNKNLNKQISNNKIYNKKDIRQNTIEIPINN
+                     SKNKKNISNNINNYTHEEKFNINCEHGNNKIKHYIDDITNQYNQHKITPLSTNINENQ
+                     KNNHQTHNSYNDHQYINTKNITNDHKNFITKNFITTNSQVNNNNQPIPNIQEIFKVSK
+                     SIDNFRRQIQIKNNAENNTDAIKKRLQQYDSIIDFNANKNIIITEDVTEKEKEKKKKK
+                     KLNYTFYDVGIYDNFINIYLKYNDINYTTDHQAKYIPMILFFLNNVNVDLYNCYKKRM
+                     TCDHNNIVNQNSNIISEQKNKLLSTYNMSNVFSPDQMVINKKMDQQQKDTSCSINNVY
+                     DDDNNNNNNNNDFIIENNPLVNSNSSIKDNTLHSRQNHDVSNKIKYLKEDHIKDNENN
+                     YIDVHADDKEKTSNVKQILYVNKYNDKLKKLIRTFFLHCPTGTGKTFIYLLPLFQEIS
+                     NFNFLQYEKNQIQKNKSYDENNLFHKHKFFYANKNINEQLTSFVCVNKTEEQAFINYN
+                     MERMKHIFNYLINQNKKSNLKTENKANDSLKNEKTYNFDEKKKKKKKKKDILLITYNK
+                     ELAVQIYELYKDIINSFYKSYDASFFKNNNSIIYPSSIQKDVHMLIEKININFKAKLN
+                     MNVHLLIGGNNIKYQLKSLKKKTKNNNNNNNNNINNNNIDEHNINDKHTNEQHIQSSF
+                     YDEENINIYIGTPGRLHKLIHEKKIIKLNNISTVIFDEYDFFFNSMKVKNNHKNKENV
+                     VELENQFFAKLLKSIYLKNKEEDVQKKKIIKDTNNIQQYKNNISVVNVICCSATSAIY
+                     PYLTYTKHIITTNFLNNLYSEFINDKYITDQNHKERKQIQNEHVTTSDTSITKKKKEI
+                     LNNENNNNNNNDDNYSCSSSSSSSGDGDDDLHLNHQKNNDTKQTNNSFINYKREQIML
+                     NDLFKINSIVNMPKNLIHLNYCYDKKNKERNNNATSNFLRVLFSNPLNKNVLVFCNTK
+                     KKVLDLWSLFRNRFDVDIQTIFSQKDKGKKKIFKDINYANFFKNDLIDYKNLKKYVNF
+                     LFISTNLLYRGINCMGFTTIINYDMPFDTTEYVHRCGRIGRINNKGAIINIFEKKMKR
+                     NYNKEIFNKLNIKTYDIDCYMNNMFTFKEKIKR"
+     gene            <63529..>65753
+                     /locus_tag="PGSY75_0103700"
+                     /note="ortholog of PF3D7_0103700"
+     mRNA            join(<63529..64588,64713..64981,65144..65260,65359..65416,
+                     65552..65608,65692..>65753)
+                     /locus_tag="PGSY75_0103700"
+                     /product="putative L-seryl-tRNA(Sec) kinase"
+     CDS             join(63529..64588,64713..64981,65144..65260,65359..65416,
+                     65552..65608,65692..65753)
+                     /locus_tag="PGSY75_0103700"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative L-seryl-tRNA(Sec) kinase"
+                     /protein_id="KYO03683.1"
+                     /translation="MNFVLLFYGPPCSGKDKFINYLLKRNKVIYLFLYFFVNIKNETE
+                     CSYKQNVEEKNFFIKIIKYYYQIKEREQKNILRTIRRKEDNIAPSFSFLIFLTRHFLN
+                     IINKKSSIFILNKYKNAQNETFDRLEGKKKHHKNSRKKIKRKNNNQINNNHKYNKIYK
+                     KFFYKPYIHKYNKKMFFIFYKKIYKFIKYFKKFLTYNFNTYIYYISTDQIENLFYHNT
+                     NNIIDAFKRQQIERIDTNNCHVCTLNKSKFYIFHKKDKKINGNIFYPVFKKSNIINKN
+                     DTVFIKLKKTNKKEKKKQNKKPTSYNQIKYWNLSREIAYEYCKNIMRRGGTQNRIIIL
+                     NDTFHLPSMRKEYYILTKKYPYNYIQTYINTPLATCLNRNKKRVKFKYISSKTIIRNY
+                     KCHKKYSIQSKQQKYLSKMIHVVKSKYKWQEKILSLQVNTFYKKYKTKKSKLVHILRF
+                     IYNHFDNFKNMDTIKIRKHDKKKNDMNANKLNILNVTINKIIHEKLKNLPNEKKNEYA
+                     KRFHVIKLEILKECRMNKMITPEYIDKKLDIS"
+     gene            complement(<66037..>68174)
+                     /locus_tag="PGSY75_0103800"
+                     /note="ortholog of PF3D7_0103800"
+     mRNA            complement(join(<66037..66084,66207..66308,66395..66450,
+                     66599..66703,66806..66875,66991..67232,67323..67524,
+                     67647..67769,67894..67966,68053..>68174))
+                     /locus_tag="PGSY75_0103800"
+                     /product="actin-related protein"
+     CDS             complement(join(66037..66084,66207..66308,66395..66450,
+                     66599..66703,66806..66875,66991..67232,67323..67524,
+                     67647..67769,67894..67966,68053..68174))
+                     /locus_tag="PGSY75_0103800"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="actin-related protein"
+                     /protein_id="KYO03684.1"
+                     /translation="MNDDYVNNIYPNQPVIIDNGTGYIKSGFAGEDIPSLVFPSYVGR
+                     PKYKRVMAGAVEGNIFVGNKAEEYRGLLKVTYPINHGIIQNWNDMENIWIHVYNSLKI
+                     NSDEHPILLTEAPLNPQKNKEKIAEVFFETFNVPALFISMQAILSLYSCGKTNGTVLD
+                     CGDGVCHCVSIYEGYNITNTITRTDVAGRDITNYLSYLLRKNGHLFNTSSEMEVVKNM
+                     KENCCYVSFNMSKEKNSSEKSVTTLPYILPDGSQILIGSERYRAPEVLFNPSILGLEY
+                     LGLSELIVTSITRADMDLRKTLYSHIVLSGGTTLFQGFGDRLLNEIRKFAPKDITIRI
+                     SAPPERKFSTFIGGSILASLATFKKIWISKQEFDEYGSVILHKKSF"
+     gene            <71713..>73311
+                     /locus_tag="PGSY75_0103900"
+                     /note="ortholog of PF3D7_0103900"
+     mRNA            <71713..>73311
+                     /locus_tag="PGSY75_0103900"
+                     /product="parasite-infected erythrocyte surface protein"
+     CDS             71713..73311
+                     /locus_tag="PGSY75_0103900"
+                     /inference="similar to DNA
+                     sequence:PlasmoDB:PF3D7_0103900"
+                     /codon_start=1
+                     /product="parasite-infected erythrocyte surface protein"
+                     /protein_id="KYO03685.1"
+                     /translation="MIKKTTRLVFYLYMTIWCLFIDKCQNSETNNNNYNDYYNNYLSK
+                     IHSFKSPFNVENLENGWNIDYSSVSSNKHVVLIPSIYNRRGVLYNKNPIKSDNFIIEF
+                     NFFIERKYYKENIDQKYYKDENKDVHEIVYKTKSDEKLNTSNKTNNKNQKEIKRNGFA
+                     LWLLKDEFIIKEANSDVNLVLEEEEYNIFGYKNVFNGIGILFQLKNNNNNNNNNNNNS
+                     DILNVSMVVNNGNESINPDDSNIFKNIPIDMIMINNLIHTKIICNKKEITIAFYYPKS
+                     NNYINTLIMKQDIARENYIAFTSFNYKEDDNKQYNQNKNVYVPTFVGIKQILTFNLNN
+                     INDINNNNNNNNYNKDISANDINTSVNEILNHMNPQNNNINQTIDVLKSITTLLQKFM
+                     TYQINSEKKLLQNIDMLNQKLEYVQSELKIIKKNLINQTEDPKNLQKIFSTELTGLKN
+                     LFHTHTQHHKKNIEDITNKLTKKIEKNNELKLLTEKAHKLEQIINKGNSSVYILCLVF
+                     ALLIIFTLILIYKKIRDVEKKHIL"
+     gene            <74204..>74953
+                     /locus_tag="PGSY75_0104000"
+                     /note="ortholog of PF3D7_0104000"
+     mRNA            join(<74204..74261,74363..74417,74575..>74953)
+                     /locus_tag="PGSY75_0104000"
+                     /product="thrombospondin-related sporozoite protein"
+     CDS             join(74204..74261,74363..74417,74575..74953)
+                     /locus_tag="PGSY75_0104000"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="thrombospondin-related sporozoite protein"
+                     /protein_id="KYO03686.1"
+                     /translation="MLMRISRYFFLLYLIKAHLDSFSRYGTRFRESTLETYIDSGDVT
+                     YNNFIINKRLLKEHSHCDAWSEWSACSKTCDYGVKIRVRISTDEKKSQGCQNITESTI
+                     CHIQICPETYEEAEKTYLHNKENEQKKKLKTKYILIFTIFSVINIIVLLICLILSIKK
+                     KII"
+     gene            <76525..>78992
+                     /locus_tag="PGSY75_0104100"
+                     /note="ortholog of PF3D7_0104100"
+     mRNA            join(<76525..77296,77392..>78992)
+                     /locus_tag="PGSY75_0104100"
+                     /product="putative membrane protein"
+     CDS             join(76525..77296,77392..78992)
+                     /locus_tag="PGSY75_0104100"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium membrane protein, unknown
+                     function"
+                     /codon_start=1
+                     /product="putative membrane protein"
+                     /protein_id="KYO03687.1"
+                     /translation="MGDFNDLSIELKKTELIKEELKNLSHIIHNEFNFFCQNENKNIT
+                     LSNNIKDSYNDDIFSTSTLNNLYTSWKLEDFSHFDFNSILDILKRNQYVMCSIYFLII
+                     FSCLYFLTLLLYTKCIKRMLKKWFCKYCTSHISENSSHNEDRTLLQSVMKKSCYFITY
+                     SFITFLLLLLLLSGITYMHYFIKTKRGIHDNICNIYTKIDAFLLNKCTDPNTVDISCY
+                     SAEHILTDVDSILKEYKKMKLRAKDDSFLDENTPFPLLERYITTFNKLNILKENINKN
+                     NEELENGYFHTYPALTGISETLTTILNEGNKNFDNARNIIKEVKSTIKYSFHTIDETI
+                     RNIFNDNLPKFTELITKAGKSIKGINNKYKIKERIPKYTNIILLTNIILLLPPLLILL
+                     GIIIFMIYIVIGNIQKNNNFFIKLFGHFSAYFGFLTIVILSFGILFLSTSVIGGTTCI
+                     LSERILKNELHLDILNNTLIDYCIKNENAPLIDDNITTNLVSKINSFDTGPIDKNINE
+                     YEKHFTTLKTSFYEDSLNFMDYIWVVIVKQDHNMFLNRIRNREIKLSLLATSIINEDI
+                     KIGDVEAMGIRSYLYKLNQIIFPQRNGKICFNDIVCEKEANTYNITENSNTDDPKYVS
+                     IRNQINEELRNDLDAIIQLFVYKARILKEKIFDINDLDSNEKNKIGWSEYTPRNTHGT
+                     KKKSIINTFLINVIESINFSEIIYFFDKMKDQFNVLKSLILLKIDTLTKNTNCNKFVK
+                     EFIDVRKDYCNKVVLNLSTLSIYLIIFAITSFLLWYLFLFLWFYYNIKPS"
+     gene            complement(<79542..>80936)
+                     /locus_tag="PGSY75_0104200"
+                     /note="ortholog of PF3D7_0104200"
+     mRNA            complement(<79542..>80936)
+                     /locus_tag="PGSY75_0104200"
+                     /product="StAR-related lipid transfer protein"
+     CDS             complement(79542..80936)
+                     /locus_tag="PGSY75_0104200"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="StAR-related lipid transfer protein"
+                     /protein_id="KYO03688.1"
+                     /translation="MSLRRRKFILLSFVFFVVELVVGYDNIINNYRNISREVVYNKNV
+                     VINIKLDNNIYKNKINSRILKENKEESLEAAAFNEKTKEDVKESCNYHTSSSVFNNDK
+                     ENTSSFIKTGESYEGNNIQGQAQAQVEGSIENASLNLRTKNGTLINDEMLDYYLNFCD
+                     QVNNKTFPFNECTKLHTSDMVTLCKNNNDEKSKITYDLLGYGEMDDVSAYSLSYALND
+                     VETIKDWNKNIYKLNYLNLKKSDIQEKIDKNEKINVNKFILQNEKDVPEDERKYLYLI
+                     NGLPWPFKSQDTIYEVYQKYYNKKNMLLIINKSLNDVFDNNSSYARINNYENFFCIYP
+                     KSKNSYDKGVKYVMSIIYDVNIPKFIQNNILNQIFPDLIFNLHNTSVAITDKTVGTVV
+                     DLSKSEQNAWHVHSLKDVKPSDTPIVENIPTEQDNSYGMGFIKMIFVDGPYNFWIINV
+                     NFFKKIFGLFFNTQ"
+     gene            <86502..>94556
+                     /locus_tag="PGSY75_0104300"
+                     /note="ortholog of PF3D7_0104300"
+     mRNA            join(<86502..90828,90946..94090,94217..>94556)
+                     /locus_tag="PGSY75_0104300"
+                     /product="putative ubiquitin carboxyl-terminal hydrolase
+                     1"
+     CDS             join(<86502..90828,90946..94090,94217..94556)
+                     /locus_tag="PGSY75_0104300"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative ubiquitin carboxyl-terminal hydrolase
+                     1"
+                     /protein_id="KYO03689.1"
+                     /translation="KKNEQNKDNISTRNSNHNNAHTSIGKNKKDLNNMSASKNMMDEN
+                     IHKTKNSNNNINNNNNNNNNNCSSSSSSSSDTDAVERQNNNLPYSSNNNMKKKKKKKK
+                     KLKEKLNNNIKHNDIITKSCMFPANKIIKNDQFEDYEIKNSKHLLHKNVNNIYNQCEQ
+                     NLSLHEDVLKDLLAKGEYNEQHMIKKKKIKNNKINKKILDNKETFLHTQIPETYDNIH
+                     TYIVDNRKNKYSPSDDENKDNASKEERAHPLKKKIKGKKNIKSNIKRVPRNKENKQER
+                     TRRIQNDNSDNNNNNNNDNLNSDEGDDNNGNDNSYDESDIYDENNNSTDNDNDNDNST
+                     NENFNDQEENISDDHYQQSNSDNTNKENKMNIKRRTSFDKDKMRYTIHNIEDIKKKSK
+                     KIMNKNENEKYLYNSDYMNGSYDFVMQKKKEKKKKKQQESENQNEKEKEKHNDYYNNN
+                     DRHDNRNKFNKDNYNNKDNVLVNDQPFNYTKRKGKKKNKNDTLKDQYNDENIKEYFHT
+                     LIEGQVSKNIKNKKKKNSQRDCSLNKSNKEKGIKKERILHNKHFKDTDSEEDQNNKNK
+                     KKNKNNIYLKKNYDQENEKDNNEYENEKSYIKMSRPYYEEDETSYRKQNIKEWSSYTK
+                     YKENKLNLDDEVIVNKGNDQQLNRINKNEKNKEEDKYDKYKKDNKNQTDDPLYDNIKN
+                     YDNDNKGLEFFSNNFFHIKKFIEKKDSENVHMSKIENSQKEEELNLKKNNLNSSGKTE
+                     KLEKFLGIYKENNEAMDFYKSVLIEENNNMNRSKSMINKNGLNDDHRHKDNISKINRY
+                     NSDDTYIKVQNNNDNEKEIYNSDLSNDNNKKSNNNNNNNNNNNNNNNNNNNNNNNIHN
+                     NNSGDKNHRNNYNNNDIYMCKNVKNIILSLELSNEEKINEVRKILFYSSSDEKKYIMN
+                     EILNILYIYPQLYVSCIISLFYLFILDNDIFERHFNADDLVYLFNEKIDFRYAEWFLK
+                     TYLFYKYKYSDNTYTKGSTYYIKKGSPRNSIKREGSYMYVDENIKLDNIKKNDLNEGN
+                     QKGVDDNKMDDNKIDDNKIDDNKIDDDNNKTHGYDDDDNNNQNSYNTNGSTNIKKIHK
+                     NTFDPFFEKHSNSSLIDSGDDYLCDINNLSNNKKDINILWTYFESSKCVGYNECKTLL
+                     SLCLKNENETSINNISASKVRSLVISIWSNIPSSKPKRSFIKLIFNWINNKKDDLYKK
+                     KNLFYLLKSEKKNNKNLSKICFNYFLNYLIKYKDNCSNDIIYILYLIDENELKIYSRN
+                     FIQNHKINFNQFISIWNIMCILFWDTDEINNFIFLQKNKYYYYDFMLIFLKTFYDYIN
+                     VNRDMREIMKMKLKKTFLTEYHQDTESPEEHMSTYQEKKDAYNKDDRLSYMKKMSLSN
+                     SSINKEDKHEDQNEYLNLFDIENIINNFNFTDFVNNEISKDNYFDSFFAASNMPIPSM
+                     SNISLTGTHTSQHDKNARHNYNSPFCHPLWRNRQEKERDLQRMKEEEERLKRRGGGVP
+                     VTEAYDIENLIFLGICIKIVICRISNLLNAKSCLQQFHYFLNHKKLGLKIFKYSNIIL
+                     VYFIPFFKKYYFLWKFIEHEIDKDIMNLIKYIMDHLENMQVENIPLSICNINHNSSHM
+                     NQGISNQNGTERIYTENLHNINNNINNNVNNIYNNNKCGPSSYRHTQNIHHNINSIHN
+                     NSVNNNFNKKNDHHIRDKIEKNKSDIYLLKSTKNNMPFDHNGRLTNSNINFMKNKNLL
+                     ISKQEEEKYKSFQSLNYNRIKHNNNNSIQANNIQMNNITLNNNNINLLKYKNDQNKQG
+                     EYFNLNNMKYSLYGKNKNNMNNDNITKHIFNEKNNNKDDYIGPFNNNSSYDINEEDDE
+                     HYISYDDMFRNYDSEESNISNSKNTSENFNVKDFITNLHFTNLDDDSNIISKNFFSSK
+                     KINDQKCQPKCEPKYDPKYEPKYDPKYDPKYDPKYEPKYEPKYDPKYDPKYEPKYEHQ
+                     GSSIKNQNNKLINKSKYDPFASSSESSNYNEDKNIMYMYSNEQNYKNSKKILSEKKKK
+                     KSQTINHINRMDSNRPHTNEEYQEKDQSTSLIGSLGREDSFDKTSHKDNHFDHHKNNH
+                     FDHNKNNHFDHHKNNHLDLTNNHIIKNGKHMRNIKPRCSNDDNSTSKYEEHVNEHMIG
+                     KHTNRRNSLYSYPTQINKMSDQMENQKVKKNTSLEKNIHHMNDNYDEINFTEKYFEND
+                     YYGSDQHDKQNDGMNNMNNMNNMDHMNRVNPMNHMNHMNRLNHNNINDARGGGVKIKK
+                     YLMLPVDKFTFEHMSKRNYPHPPVGLMNLGNTCYLNSLLQALYSTVSFIVNLFLFKIN
+                     QTNNKVMTTDRANYEMYRVQMYKQNGNLELDYFLEEIKSFFKNMLTTDKSYISADRVL
+                     NMLPVELNNRNQQDVTEVFRYIFDKLGGSEKEFLRLIFSGVVMQKVQCQKCLFISKTK
+                     EIIHDLSFPVPISTNEKLSIQKFFDTFIQKEKIYGNNKYKCSRCNKKRNALKWNEIIS
+                     PPCHLILILNRYNWSFSSNEKKKIKTHVKINSKIVVNNFDYKLYGAIIHGGISASSGH
+                     YYYIGKKSERQNKKKSSWYQMNDSIVTKANSKMINKISKDLSNDHTPYVLFYRCKQAP
+                     ISPDLYF"
+     gene            <95810..>97576
+                     /locus_tag="PGSY75_0104400"
+                     /note="ortholog of PF3D7_0104400"
+     mRNA            <95810..>97576
+                     /locus_tag="PGSY75_0104400"
+                     /product="4-hydroxy-3-methylbut-2-enyl diphosphate
+                     reductase"
+     CDS             95810..97576
+                     /locus_tag="PGSY75_0104400"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="4-hydroxy-3-methylbut-2-enyl diphosphate
+                     reductase"
+                     /protein_id="KYO03690.1"
+                     /translation="MSVTTFCTVPKTDKCNIYISKRAFSVFIFYFSFFLFFQFYFVCP
+                     SFSVIIHESKKKKTTMRRKTPILQLFENCITTKKNGNFYSSKRYITNYYNVPLKIQKK
+                     NQVPNVMKSFFLYGPNGKYNYVTNIIKEKNKTPFSFFLYNKYFLANAQIKKCNYHQEI
+                     NKMNIKKDGNKKIYIHTKRDTNQSDTNQSHINQSHINQSHINQSDTNQSDINQSDTNQ
+                     SDTNQSDTNQSDINHSDTNQSDTNQSYTNQPNEKKSENFNDVKNPNDRDTKKILYLIN
+                     PRGFCKGVSRAIETVEECLKLFKPPIYVKHKIVHNDIVCKRLEEEGAIFIEDLNDVPD
+                     ESILIYSAHGISPQIREIAKKKKLIEIDATCPLVNKVHVYVKMKSKENYDIILIGYKN
+                     HVEVIGTYNEAPHCTHIVENINDVEKLNFQTNKKLFYVTQTTLSMDDCALIVQKLKNK
+                     YPHIETIPSGSICYATTNRQTALNQICTKCDLTIVVGSSSSSNAKKLVYSSQIRNVPA
+                     VLLNTVNDLDHQILHNVNKIALTSAASTPEEETQKFVNLLTNHPFNYTLQYFDGVQEN
+                     VPKWKLPKNLMDMIKEREQRKK"
+     gene            complement(<97915..>98745)
+                     /locus_tag="PGSY75_0104500"
+                     /note="ortholog of PF3D7_0104500"
+     mRNA            complement(<97915..>98745)
+                     /locus_tag="PGSY75_0104500"
+                     /product="conserved protein, unknown function"
+     CDS             complement(97915..98745)
+                     /locus_tag="PGSY75_0104500"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="conserved protein, unknown function"
+                     /protein_id="KYO03691.1"
+                     /translation="MVPILLLLIYIYIYFFLNNIQHMCCIKHMYRSKNIIFYGRSKVL
+                     FLNNKRSFFLNKRRNIIINSKKDIELNNLNMDFCEVDLDEFCHKQFDEKNKSCSYIPY
+                     NKDKFIIKVNELIKERKIKVLPGYAEFCKHIFIENFTDATIETMEINNKNRDLIKTDY
+                     ISRRDNELPVLVRWLCKKDIKDQIMKAKYLDLILYSKDQIDKENKEMKNKPKNISNCD
+                     YSIICIKAQNEDYELPMTPITMLRNTLITEGGSGVHLNREKYLDSVKYWRHHVSIIDN
+                     "
+     gene            <99305..>103033
+                     /locus_tag="PGSY75_0104600"
+                     /note="ortholog of PF3D7_0104600"
+     mRNA            <99305..>103033
+                     /locus_tag="PGSY75_0104600"
+                     /product="hypothetical protein"
+     CDS             99305..103033
+                     /locus_tag="PGSY75_0104600"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03692.1"
+                     /translation="MIIIKCLGNFRNINKVSLSFYSTQYIKPFPFFSYYHINNKKKKE
+                     KPIYATLISNKISHFTTYNENIRIKKKKKKEKNHIYVTKKKCDIQNNDIIYHSDNFDE
+                     VDKYNINNEINENRIKSDIINLINNIKNINNIQNGHINVNINVINELMNIILHVNYNI
+                     NCFFNLKKKYVIGFLWSMVKCINIIEHEKLFDQNIITHLKYFFIFLSNKVIQKNLLES
+                     LYHPVDIKQFIFSFLNIKLNENNIKAIDSIKIHDLDNFIKYLKCYPYEVKLSHKSETK
+                     EKIETNIFYQENNEKQKIKNNKKENNNNQNEHGNHISDQIQNKYLPLLQECIDINLVI
+                     HSIYSYICDKIKIINMEIKTVIDFLELANKNSKNGVSSNISNILLYKIQHKNNYNNNY
+                     YNNNDNIYYHNNNDNICHHNNSTVSIYNFSVFQVCRFINIIINYNIKQTNKFISSIIN
+                     ILSYEQYYPTKDKINYYNFNQYLSHNVYNENVDIQNDNIIHVSAPKHLCNKWLYKATP
+                     RDIASLIRDISRLNFMNYHFYNILIEAFFIKTDPNKNGYTTYGNRNNNTSKNNEAKIK
+                     DNINININNNNNSNNNNHYYYGSKTICRKNNNTTHFSSQSNQNLQLEDIRNYVDILTA
+                     LSNINYTHNKYINFFINKIIKDEKNSVLFFNKKNIQNVVITLRNLLLLIYKENDIINK
+                     MIHFIVTNNNHINIKQLIMIYYSLYNYINKIFHMENIKYVGNPSQIFFNISDEKNNIT
+                     HNNITYNNTTNNYNKLHIHHDDVMSNNKYNAMKEKEHNFSYISIEYIKQYIHHYMFKI
+                     FHIIFIKKEHIDSLQGLVNFYYATSYSINNLSLQMYQFFYEHFSYILDTKKKGKENII
+                     LETILQIFLFHYKNNIVHKKFLISLLNFMNANILVDLDNLYTITSIAHHFNIINEDFL
+                     NTNINFINKEINKIENIKGPTPTDDNISININKTKKEKNYIYYNNDENKEHIDISHSD
+                     KQDDIYKYNQLDNTNINNIKNVNVYKKNMINDNNEKYYTNKVMKCIFFLITNNTFLNT
+                     SIRNFIKILVLLKKMFKKKTHFNDEEYKITQQIFLSLNIYCKRKENVKKYMNHKINSR
+                     NNHDIHFYIRHHFFIPYTILKNIVKRNIVSHKKVHISSFQYKLSDYFNKKKIMYRSEY
+                     YLKHGLIVDFLILKNNKPFLLLEIDGIYHFNISTDVGDYDIIHNNMLLLKNGKTLFRN
+                     NILESFDHLKFLSIPWYFFLQTQWIKKLDILLNENGLF"
+     gene            <103498..>105516
+                     /locus_tag="PGSY75_0104700"
+                     /note="ortholog of PF3D7_0104700"
+     mRNA            <103498..>105516
+                     /locus_tag="PGSY75_0104700"
+                     /product="putative transporter"
+     CDS             103498..105516
+                     /locus_tag="PGSY75_0104700"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative transporter"
+                     /protein_id="KYO03693.1"
+                     /translation="MDINKLSLTKKYMLFSLFCVYIITCVGIFFNWISLSDFFFHGNV
+                     YINDCNNIYESSEYKRTYKCEEQDKKVQALYPIILCSNFIMSAISGTFFDYFGPKITA
+                     LFGHVCNIISWILIGLQKENSNIIIFGSIFLGLSSDCSFIPLLSLIYLFPRNHTIYTV
+                     ILGCCASLSFSIPIFLDLFSKDGDEKSFQLVCFLYCFIILVPFFFILIIFLPWQHINY
+                     DTSNKKEQSFNNTLDQLKGYIISNKSLNLSFNNFSSAITEEHIDEDQEGGSSFGRWMY
+                     QESEKSKSKSESKSNTGPMIQQNEVNIINKYNMNDISCDNHNNNNNNYYYNGVNFNNN
+                     TINIMNKKNKSANIYSLEDMENNSNVLNVYKNNPLNISVKNMSQIIYTNSSMNSSHLV
+                     LRKSNDKLNDHMKYNTNDLISNMSNNNKINNYISDEKYYKDIYYIDDKNDNKQNGIKY
+                     NLRNDIKNGIKMENSIEMKKKKYIYSFIHISTLWKEIKIIFFSLKYLSICYYFTIYNL
+                     SLVNYNECAKLFFKNYEDIQNMLKIFGPLSVIPCALFGILIQKIHILILIFILLINSI
+                     LMYVFALIKYKLFSYFSAFSYLIVTGCYTTQLYCYIQIMFPTNHFGKIAGTTSMISGL
+                     LSLLNIPIYNYYIVDYNNNDPTPFAYFVILLLLSTFPLLYLIYKKCQN"
+     gene            <108702..>110462
+                     /locus_tag="PGSY75_0104800"
+                     /note="ortholog of PF3D7_0104800"
+     mRNA            <108702..>110462
+                     /locus_tag="PGSY75_0104800"
+                     /product="putative transporter 1"
+     CDS             108702..110462
+                     /locus_tag="PGSY75_0104800"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative transporter 1"
+                     /protein_id="KYO03694.1"
+                     /translation="MKNSIFHKVIKGVKGLKLKTDPNLPGAKQKTPLNIKRFSLLIIL
+                     IIYTATSACIYFDWSAIRNLLLHVGKYKHLNVDEYSDITLSPQYKRINALYPMTLAVH
+                     FTTSVFCGFLYDHIGPKFTAIIGQLFNIICWILLSIDTKVVDTTLWGFIFLGLGADTA
+                     FIPALTVSNLYPDASTFILTVIGAAASLSYAVPATLDLILKYFPNISFRYICYGYILL
+                     ILVPCLLTAAFLLPLKPFKALDYYLEKNNETTKHTNGEGRSRSSNNNYTNEEDEFNFK
+                     NNTSGMIDKDSREKNVNTDAQNDDNDDNISSHDLENNIKINKNNNNNNNINNNNNYNN
+                     ITKKNTKISDQSTVKKDKCIDSSKNILHDEEDFHKKSIFLFFKILISYPSVCVITYFI
+                     LFNISTVFYGMVTDTYFSYDRSIINVINILMPLSSIPCVIFGRFINKYGAAVIILTIN
+                     TLSVLMHLCALIKFRFAGLCSAFLYMCVTSVYTSQIYCFIQNSFPSVVFGKLLGFASL
+                     CGGVFSLLCENLYDLIITKDSSSIDPTNISLLIVIVFIIMFLPLSILYVRKYERSIEN
+                     FGEKNKLPMNSQVNKNKHEF"
+     gene            complement(111333..111637)
+                     /locus_tag="PGSY75_0104900"
+                     /note="ortholog of PF3D7_0104900"
+     ncRNA           complement(111333..111637)
+                     /ncRNA_class="RNase_MRP_RNA"
+                     /locus_tag="PGSY75_0104900"
+                     /product="RNase MRP"
+                     /inference="similar to DNA sequence:RATT:1"
+     gene            complement(111712..112028)
+                     /locus_tag="PGSY75_0105000"
+                     /note="ortholog of PF3D7_0105000"
+     ncRNA           complement(111712..112028)
+                     /ncRNA_class="other"
+                     /locus_tag="PGSY75_0105000"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="unknown; annotated by similarity to unknown
+                     transcript annotated in Pf3D7"
+     gene            <114082..>114513
+                     /locus_tag="PGSY75_0105100"
+                     /note="ortholog of PF3D7_0105100"
+     mRNA            <114082..>114513
+                     /locus_tag="PGSY75_0105100"
+                     /product="hypothetical protein"
+     CDS             114082..114513
+                     /locus_tag="PGSY75_0105100"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03695.1"
+                     /translation="MSTCKKRNNELLLPIAKLQKSFPLIEWWQGKEILHKIQKKNQKN
+                     FEKNPCDSLWGKFINCLRKYPNTFSKCKIEASRYMQCLSSINASDEVNNKPMNYIKVL
+                     EYLKIFNETSRFKYKKPELTDYSYSQKLSFQKGKDDNNDIF"
+     gene            complement(<115178..>116884)
+                     /locus_tag="PGSY75_0105200"
+                     /note="ortholog of PF3D7_0105200"
+     mRNA            complement(<115178..>116884)
+                     /locus_tag="PGSY75_0105200"
+                     /product="hypothetical protein"
+     CDS             complement(115178..116884)
+                     /locus_tag="PGSY75_0105200"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03696.1"
+                     /translation="MRILKNAVNKCNLFLQHTRRPASNISRLKMLSDIYKKKNSLLVQ
+                     LNNNILNESILCRNVSTNIMEKKNDGLEEQMSNDDIIKFFEENKNMNIDKLYNLIKNL
+                     SRKRIEERKKIVENEKFLNIIEEIENRISIMNTRYLCNFSLRLVSLSINNDDIKRILT
+                     KISEHVLKKMNVNPRDLVGICYSLSLCNNMNEYFFEHIKKETISNIDAYTPTLLTQLL
+                     ESMRLSQNLDVELTNLIVEKMCEEIDRFTTKDVTLALKTLSMAGIPRGFLIRRLCNLV
+                     FDNISHFHHTSLINIIYNLTKLKFTTTSHIDVIYKNVEENLENCNVTTLCELLYTFYM
+                     NEINEECKINRIFENIKYEQFNTTKTAILIDFIHAATYYNKHIEKEKLFSLIDLLFKR
+                     TIPKSLTLIAKIREPIYFLSTHSNFKYDLNNISPSWLNAMNDFLRIDHEKLQALKTFH
+                     EVQNVLNTVAPNFKLNFIPLQIVESYSVDFIEHEKKIIIDLDTIVRHTSFQMKHQHFE
+                     QLGYKTAKVHFWKWRKCRSEKEQQNYLCDIIYSVTDQKQNLDEINQIDNEKKLTISEQ
+                     SE"
+     gene            complement(<118026..>118704)
+                     /locus_tag="PGSY75_0105300"
+                     /note="ortholog of PF3D7_0105300"
+     mRNA            complement(join(<118026..118498,118689..>118704))
+                     /locus_tag="PGSY75_0105300"
+                     /product="putative cyclase-associated protein"
+     CDS             complement(join(118026..118498,118689..118704))
+                     /locus_tag="PGSY75_0105300"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative cyclase-associated protein"
+                     /protein_id="KYO03697.1"
+                     /translation="MTSEGSIQLKDDQWDVINYKDGKIIKLSQVELNNAVNIYNCENT
+                     TFVIENNKFKSLQIEKCVKCNVVLNNLISSIEIINSKKVKIQVLGKSSSISIDKCIGV
+                     EFYLSKENVECEFTTALSSEMNVHIQGQDDEWTEITIPEQFQHHLENGKLTTRVSDLY
+                     KF"
+     gene            complement(<119432..>120004)
+                     /locus_tag="PGSY75_0105400"
+                     /note="ortholog of PF3D7_0105400"
+     mRNA            complement(join(<119432..119622,119794..>120004))
+                     /locus_tag="PGSY75_0105400"
+                     /product="hypothetical protein"
+                     /note="encoded by transcript variant 2; alternatively
+                     spliced"
+     mRNA            complement(join(<119432..119643,119794..>120004))
+                     /locus_tag="PGSY75_0105400"
+                     /product="hypothetical protein"
+                     /note="encoded by transcript variant 1; alternatively
+                     spliced"
+     CDS             complement(join(119432..119622,119794..120004))
+                     /locus_tag="PGSY75_0105400"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function;
+                     transcript variant 2; alternatively spliced"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03699.1"
+                     /translation="MKLWLVVCFLFLLSNNFIWAKQDDEVKKNKRYMLRKKFKNNKIH
+                     IMQNEPNKIFLQVQSKHIYDPTGVFRGASTIYFSRLMWGAIIFVIMFILVSIIGIYLY
+                     VDNLENTLSHKNKHHKNVMNHYIVNPNPMHN"
+     CDS             complement(join(119432..119643,119794..120004))
+                     /locus_tag="PGSY75_0105400"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function;
+                     transcript variant 1; alternatively spliced"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03698.1"
+                     /translation="MKLWLVVCFLFLLSNNFIWAKQDDEVKKNKRYMLRKKFKNNKIH
+                     IMQNEPNKIFLQVQSKHIYDPTGVFRDMHNFALGASTIYFSRLMWGAIIFVIMFILVS
+                     IIGIYLYVDNLENTLSHKNKHHKNVMNHYIVNPNPMHN"
+     gene            complement(<120891..>121922)
+                     /locus_tag="PGSY75_0105500"
+                     /note="ortholog of PF3D7_0105500"
+     mRNA            complement(<120891..>121922)
+                     /locus_tag="PGSY75_0105500"
+                     /product="hypothetical protein"
+     CDS             complement(120891..121922)
+                     /locus_tag="PGSY75_0105500"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03700.1"
+                     /translation="MAIKLCRNFLRSNTKKAIFFKERDDIKKSFDDNNSVLEDSSFDS
+                     PLKASDEFPSYMQPSEKNSSWSEEWRDENLKLREKDKRYNLSVSDNYAYSVPYNYKIV
+                     IPNKGKNIKDEKDKRKKLLNDEKFIKEEYSRDVSNTLNYSDFCGFRNPTLSTFENYRY
+                     WQDSGFKKFMNRIFPIKIPEHRKIDPLLREYIYFLHSFDPYRFTFKRLSERYLFPENV
+                     IRSIYKEESVKRFLEDYQLCDDKTKRISKKEAVLKIKELIYSKKIGYKDIGDYENIKN
+                     EQDEFCGHKNTFDQINRQIIQVESISAFPLPDRRNPVPKRVDIDMTVCNTSNVKIMNW
+                     INPNDKVIF"
+     gene            complement(<122671..>126741)
+                     /locus_tag="PGSY75_0105600"
+                     /note="ortholog of PF3D7_0105600"
+     mRNA            complement(join(<122671..123761,123955..126419,
+                     126599..>126741))
+                     /locus_tag="PGSY75_0105600"
+                     /product="hypothetical protein"
+     CDS             complement(join(122671..123761,123955..126419,
+                     126599..126741))
+                     /locus_tag="PGSY75_0105600"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03701.1"
+                     /translation="MNHLFSFQTNLNDIFTGDNIKKSENSCDYCIKRKRVCKCDTIKE
+                     ELGSEHISILNELIDLKKYYDEVCEKIVDKYQDVVHRFEYDKDIVKYIKKHNINDEIE
+                     CVDWLYFYELLKERKILENIINTKEDKDNMTSFNSFHINEEANFISCINYYLKINKYN
+                     NVHHNWMGMSLNPFNEYINNNYNFDIFNRNENIDDINKEKKNDFLNYHSLLKMKNEKE
+                     DMYNERTKKKDDILLSLLYKDKKFYPLYYYSYILYENEKWISGINNTGNILHLENIEY
+                     VWNKTVREGNKIKLFHLITCDCLKIKDIHNIYMNNNKNNMEINKDKIKIIEESIHIER
+                     ILCISQLVCSLGMINIGGCFIMKIKLSFDNFLLSIFSILSICFKKVDVYRPSCCYLQN
+                     IIFLIGIHFNGITSIFLSCLNNWVQLAQKEIVPFLSGNYKYNVEDDIVKIKEKEQKKI
+                     KLNDNILHDNRKEDNMWNYINHSIIPLKWIKSNYLKEYKNCINHFIEYIIYELKKCIN
+                     VSNMSLIKKNIENTKNTYISQFFEEHKIIDIKKKDKLIYKFMDHIYEDVDLLNETYQE
+                     KNKDKINDHKYSTMDNISISSEDINNETFFNNNINNADNKNWLKINNTILYETEEKGI
+                     YFRNTYYKNNYCNDNIKKYRKKITALLKKIKFKNFSNMDDNNINLEDDDDINENKKTP
+                     TNNHHNNNNNNKNELFQLDEYIIKKRKFSMDKNLILKHHLEFENLLKKQVYFTSKNWF
+                     KSYLHNSVDKYNNSFFLKKKNIFKDILKCRYYLYYNNYDIHINSFKQILKQYEPLNIS
+                     YINYELHANVIDCLFTLTNCAYLNIFQDSSFLEQFIVISNEQNVYNFFSKFQNGHYVY
+                     FDEKIKSHILSEHGSKKRDTEHSETFLNLDDMYENKKSYKAISELLISCIKDKNSCSF
+                     IYIDMNSIYPNFVDVVEKELKIKNYLVGSLIIAYNFLKKNGNMIIRLSSVLTFFTAGL
+                     IYILFCSFDKIEFFIPPSCDDISLDIFLYCHNFNENYIYRHYIQFIWDALICNKHIDE
+                     KLFNMDEKNKLEKPINKRRKADLYFSVPMYYLMNKHFVMFLKKFNSFYFKHHINVCLN
+                     FMKEPKYFYHNKILIKSLLTHFFKAYVIQAKTFENVYKSIGMSYDNFYEGREDSDDED
+                     EEEDEENQEEDQNKKEEQKVVEEKEKIHETYDEEKSFKTFLDLNRNVSNEKNQFEFYS
+                     SDSNYSIMCEYKNVPSEISISESAWDSS"
+     gene            <131163..>140000
+                     /locus_tag="PGSY75_0105700"
+                     /note="ortholog of PF3D7_0105700"
+     mRNA            <131163..>140000
+                     /locus_tag="PGSY75_0105700"
+                     /product="asparagine-rich antigen Pfa35-2"
+     CDS             131163..140000
+                     /locus_tag="PGSY75_0105700"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="asparagine-rich antigen Pfa35-2"
+                     /protein_id="KYO03702.1"
+                     /translation="MKKNPKNTEELTDLPHIDNSDNCMKMNNIKNDDNGNNNYGKSDN
+                     TNETNINDTSSYNKYGNNFLSYNGNYGSNKMYNNQNMNNRYYNKIHFNEENYEYFGRS
+                     RNYKNSNNNSNYNNNNNNNYNYYNHNNNSNNNNNNNSSGINMSNNYHDGDYVKYNKKG
+                     STIHNRYNNIYTTSTTHNTYNNNNNNNNNNNNNNNNNNNSSSSQNCHISNNNISGNNY
+                     HYYNPYNYYNGCTSIDNEFNEKDHKQISSKKMSNSVTTGRSEYTIESKEYQGNDMNKK
+                     KNEFNKNDTCTNDMKTNDIRPMNKDQNMKKNIRINKNYFPKGIASPINNGNTNDTYIR
+                     DDTVVNTYEESFTIKNKKKNYYRYQNNYKNNNSNHFYNSLNMKLVNYGNFGYNNNNHY
+                     NNNYNNNSNNYYHNNNNYHNNHRVNIHMSYKNKNNSMNNYYPYNNYIDAKENDTMQKG
+                     TSSRNIIYDNKNDDTNFNCFGKDKYGNKKNEIDKKQNESVAVYDKNSNKEDHKDDNKN
+                     NSSNDNIPKINNSDNCNSTSEDIIKTNNEENNTCISPQNNSVVEFNNTNMEENVSYAN
+                     NDNTSKDIIMDNICDTYKNESKSFEKNIYSTIYNDKEKINHDGDMVTEKDNSDIIYKE
+                     IENNYYKKNSNDKKKDDNNIGNVKAYPSLYDTFDNNDKRDDENGMTEIKGGEENLDIK
+                     KISNKNSMDKNNVSYLENEQYLKCKIGEVKNKNEEVKSSEYNNNNNYNNNYNYNNNSH
+                     NNYNNNYYYYHNNVNDYDDYYDINDNNNLFKDENFDYTPNNKYFKYNNRNNIKNDHLS
+                     KSHIQSNMNYNNMNSSYNYTSGNILHSEGNKELSYEKNYYSFSKNETFKKKGLNKNYT
+                     NVYSFNYSNKSGKNMKNQNYAYNNFNSGYQRSNVSKDNKYNDNEGNNMYGNDDNNHKG
+                     NTTQNNDIINDKMGDNRKIKNEKYEDKEKYEDKEKYEDKEKCEDKEKCEDKEKYEDKE
+                     KYEDTEKYEDKEKYEDKEKYEDKEKYEDTEKDQNIDKDKNIDNDQCQYQYQDQNIDND
+                     QGQDSIIKNNNIISIEDDKKECDIYYHRDNNIINYDKTDNNCDIQYISNSQNDEPNIT
+                     IENKEEKNLTTDITNCDGSTITNNKNYTYNNYTNEEKNRIRNNCQGVINMIPDNDNIN
+                     HHPISKKRFGYYKDKNFFYNKNVEADNNVRNYVDHAPIHISTYNDSYKTNFQRKKDYN
+                     SYDMTMPYKKDSKYYKKKGKLERRIKEHNCYSSIVGENERNKIIDTIGLTTSNGYINH
+                     NNQNVQNVQNVQNVQNVQNVQNVQNIQNFKNISNIQNVQDMPNISKFPNMPNISNISN
+                     GSNIPNMYNVQNIPHVKGQDQFCNSTYGRSNKERKAIISSNSTTNVTFDTKKKATQNT
+                     WVIDHINNEEEEQMNNITSISNTTMNCYKSEFSCYKDNYKYKKHSTHISTPNYSMNKD
+                     NGVINVISSGDKLIKNEYMYNEEKGRKRGNKINNKTNWQKKGLILEKHREKINVVLNE
+                     EMNIPNVVNCTNTSTELNVAKESQMYDELKQKKKNKKKIEELYCMKKPIDLLHVRSKS
+                     ENLHCRKNSFKNLEISMTKPHMQHFEQSINMEGFRCILSKIMINYEGEMIVDDQEEEE
+                     NKREHEHGNEHGNEYGNEHENEHENEHEKKHENKHENEHENKHENKHENKHENKHENK
+                     HENNPENKHDKEDNVIEKKDEDEKKNEKDHKEEENEINNIKEEPKDDSNNNVCNESNV
+                     IHHDKLKNNETISTNFCDCSMIKNDDSFGDCVISNSCVYKENDINRNSCINKMKQLKD
+                     DNIKKDNGMEEKYMNNMNTNTIDSIHFDSIHIDSLHIDNLHIDNININTTNNIYKNGD
+                     ITNNNRNTGDMNRVLFNSRENITDDYSMKTQNTFLCIYDENNQEIFDKKNKKKKGVYQ
+                     KNDLSSDIILNKYSLVEKNNCDLRIYTNHINNSDKNMENCYDLSCGMKTYDNMNNKNV
+                     GIDTYVNEGAKITNRLWNNNIDRYSYKSGRNKVHYNEYDKLEGGNYGYHHNNMMYKRY
+                     ANNNNNNYDDDNDNINNDDNNNNDNNNNDKNNNDKNNNDKNNNSSSHYNNYHHNNYYH
+                     HNNYHHHNNYHSNNHFNNYHHHNNYHGTNHFNNYHHNNMNSYNEGRTIPNNSYGGKNS
+                     YNNNNMGEHINNIDITASQRVLKDDTNKNNLYMVHNQHNFEEYKNYMNTNVMRYNNVH
+                     KKKYITGTNYQVSNYNDTYHFNNMRGKQYYLNKYNYNNHHDMVYANGKNVEVYKHMRA
+                     NNKIETYNNMIDGMNDINVNNNIRDNMHNYSNDSYVHAQSGDVQKIYTNDDIPNDKHN
+                     NSNSNGNNNMVAVDINEENNKNNKDNKIEVINKCDDNNDENDKMDTKSVVSYKSYGNK
+                     SGISDKYFNKHNNDNNYKYNNNHYYNQSNDMNKITNKYMNHNNSNDNFKDNNNSSNDR
+                     NNYHNSDRNNYYYHSHKNSYDYVVENIPSQNKRRHRKYMPTNNYQLNENHSTINNNNN
+                     NNNNNNNDNTYKKYYYNNNYNNNNYSYYCNDDNYYKQTHEKNNQDYHNDDFNLSVNYY
+                     EENIKENNKRNDNSELLKSEENINEENKVEKEENNEKLICNENFICDEKLICDEKLIC
+                     DENFICDEKLICDEKLICDENFICDEKLICDENFICDEKLICDENFICDENLTCDDQI
+                     DGDIKKIQENVIPSKVDKDIKRRKKKEHFNNNSFSKADIFNNSYNVKNLNNNDNKNMT
+                     TISDDTNTVNEKNAKNKKKKKNYQNNVDVVVDSMETAPRAREEKLRKKYLKDNKKIYK
+                     LKDNNIKDNNIINEDRHFDDNCKDDNNCDGSNYDDNNNNSNSNNNDNNNYNENNNNYY
+                     YDDSTLIKKNSYTYKVKDHLYYNYNRNNSSTNKYESNYIAHEHNTYNNNNNNNNNNNN
+                     NKNENYANPYEYKKNSYNKNNNYNNRSNNMYDTNSYNKGYKNYKNKNHKTTPTEQYKK
+                     S"
+     gene            complement(<140468..>143266)
+                     /locus_tag="PGSY75_0105800"
+                     /note="ortholog of PF3D7_0105800"
+     mRNA            complement(join(<140468..141603,141895..>143266))
+                     /locus_tag="PGSY75_0105800"
+                     /product="hypothetical protein"
+     CDS             complement(join(140468..141603,141895..143266))
+                     /locus_tag="PGSY75_0105800"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03703.1"
+                     /translation="MATNSNNKNNSNNNNNLENINLSIHKIFNCRHSVPSKFFEDEKE
+                     NIRKRRCTVAHMYEKNVNSKNINYDSLTYNFNNSIRKRRKYSPNISTQLYKKYSPLKS
+                     RIGLRNSVDESIKKSACIRSIVNNTIKNKTRDSSYIPNEKKSCYIGDKNNKIIYEACK
+                     YNEKNNYIDENMNDRKMYINKNLHDTYIMSNTTQSDNFFRSKNINRINSLITNRETAP
+                     IYMNSESTLSSFNFEPNIEQKQSKLTLDMKSTIYIPSDMSLFNKNKYSFISNMSLEDI
+                     KKMNNEYTSKNNYNVEINNKINEHLPLKRRHSTHVSGEYDKYNNSESYLMNKRLKDGQ
+                     HICKNNVRRYSDTLELNMLNNNIAPNEKNNEYISKKDQDHYIGNSNNYNKYNNNNNSM
+                     NNMNNMNNSTVLYEYDKRNLAHLKQNDNQLNKSVASHYEENNHPLLHTCFFKNAEDFE
+                     NNDIKRKEKVESKEEDEFVMKKDAEYVFSQKFFQDIYSNIKSKGELNFIDELLQLDEE
+                     NYISKSKLNKIVENAKNKEMKYHYIDRMFLYRHAKNVIDDADYEKYKNKCRSEYKYLD
+                     VPFPNLCDIMNLKCISNDDEIDDTDEFYDAEVALLEEYYSRCNKQKLQKGNNIFLDNK
+                     KQKTKLEKHKDKKGKEKIKKNQQELNEDHNNKIILKNNKMNFNKNDITEDLSILEKRD
+                     KLMLFMNKMKRQKDSFYESIIDAPDFSKLLEPVFSLNESFLLSHQLFNVQYAAQLGPV
+                     VYLTKTEDENYIYRAIEVSRLFEEKVKSILDNQKNHSGMKNKSDSYDCFTNEKNPFLH
+                     ELDVKYYLRIPMSTGWNHFGYLKNQNNVLFFRRPKNN"
+     gene            <144978..>146333
+                     /locus_tag="PGSY75_0105900"
+                     /note="ortholog of PF3D7_0105900"
+     mRNA            <144978..>146333
+                     /locus_tag="PGSY75_0105900"
+                     /product="putative DNA binding protein"
+     CDS             144978..146333
+                     /locus_tag="PGSY75_0105900"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative DNA binding protein"
+                     /protein_id="KYO03704.1"
+                     /translation="MLKQFKHILNTSHLYSLDFSFGTRFLKSCFSSLRTYENKTYEPL
+                     NTLKFPGLVIYVNKDNIEKYEENILKYLKTNVIGFDTEFIIDINEKENNNENKLISSY
+                     IENGKDNNYINSQLINIFNKKKKKKKNYAYNLSNNEENKKILCLIQLCSSDLCFVFNI
+                     HKLNGHIPISVKNILENEEIIKVAHDIKNEKDMFISNNIQIKNVFDLYNYAIDNFIYP
+                     PSLQFLVKIYLKKFLDKKFRLSNWLNYDLLQEQILYAAIDAYASRQIYFNLDENKKNS
+                     KSYILNYIIQEELTKSSHQQCSTYNTCKYNDLNNQNIIKREEKLKNMESINNTIHNEK
+                     KIYISNQHQNEYDLNRKQLQSYSKHINLNNKNYGFLEKYKVQLINNLKNEIHNKCKNM
+                     NNLSFIEEMTFSNNTYKNILSLKHNQNNYNLIKCSSINYDEEINACYQILTYLNQMLS
+                     P"
+     gene            complement(<146981..>149674)
+                     /locus_tag="PGSY75_0106000"
+                     /note="ortholog of PF3D7_0106000"
+     mRNA            complement(<146981..>149674)
+                     /locus_tag="PGSY75_0106000"
+                     /product="hypothetical protein"
+     CDS             complement(146981..149674)
+                     /locus_tag="PGSY75_0106000"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03705.1"
+                     /translation="MRSKYYKEEENKGFIKTHYFRKIDTEKIDKKLINLENNFNSEDV
+                     YLDIVIHDKERNNFDFFLMRITESSSVNNSLDTWNHIDITNIYNYILYDNKYCSDILN
+                     EKKGYLILKLKYTNENNIITSYFKVHCRNTKWDNDKKVWHIPLFYIFEMSKLTLFLGG
+                     SVSDTVLYYLCKLFHHFSSIKNVNANLKINELPKEQFIKAEETCDTTNKEKNNNHDEN
+                     TDANHNNNDHDNNIDVQVNCIKQDGLYPNDIRNSSPKVVLEKKNDSNYKNGLHYDNTI
+                     KSEVNNLNDVLRVNHMHTQQKEGEHSCIENNRMNNLQNIKNEEINIIEKDLALKRNSD
+                     VSYKEKKIRNDDDRNCNTDDDTHYGYNDDNYYDYDDSCDNENGNSDNKNGNSDNKNYN
+                     CDNKNYNCDNKNGNSDYKNYNCDNKNLSCNSNNVSCSMQEKKILKESDKNGEKEITFN
+                     FDIFIKDNKLNFIDYIKNVRMFRIEHIIINNIVKGDTMHIKIIPYNEEIVTKIKQMNF
+                     IQWNRTENILLIKKNNFKKFYMNIIKCFNFKLCSYYDYFKLFRQKIMENDSKSLKGNF
+                     SVTTNITINTEYLSNKFNKRKMNFHNIEEENIEKTNIKKNLKKKKKYKSGLTGYESTD
+                     SCNSDELSHNVDSSYYEGRELVNKIKLVGAANNYYKEVIYNKLNKIKHLRPPNYTYDP
+                     KGLITTNGAGTKGIEIFDMPSDINEWNKISFCIVPNEKKDIDLYDPKILCSLVSDVYL
+                     LKEKALDIILKNYKKWPEYTDVFWNTICSENEFIICNKNFNTRQKLAHDRLFNKQYFY
+                     IFNMESIKHSNYYNPLFLCKALITLGEGILVQHPYDAEYIIISNSNDFNAIQFYNYLH
+                     EKKKKKKKLPLFVTPKFIYDCILNYSISYPSKNKNHFAFSQ"
+     gene            complement(<152266..>153417)
+                     /locus_tag="PGSY75_0106100"
+                     /note="ortholog of PF3D7_0106100"
+     mRNA            complement(<152266..>153417)
+                     /locus_tag="PGSY75_0106100"
+                     /product="putative vacuolar ATP synthase subunit c"
+     CDS             complement(152266..153417)
+                     /locus_tag="PGSY75_0106100"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative vacuolar ATP synthase subunit c"
+                     /protein_id="KYO03706.1"
+                     /translation="MSEIPMCLFIACSTRDNTSREYIYTILKNRLLGSHICIDTNILD
+                     VPTNIKFCSFDDLLKCADDLQKYDSYAYGCLKKIEKIAKEYDENIELKIIYQRQHINI
+                     DQYIRRFTWDDAKYPRSRSLTDTIDIMINNITKLSDEIQIKSSMLNDLKEKKKKEVPK
+                     NDSNNFFLRNLNEILTPQTVSESDFIETEYLTTLIAYVPKNSVDDWKNNYEKFSSYVV
+                     PRSTEQFKDLIDKDGNTLWKVFVFKKFAEDFKKEAKVKKFVVKSFKYDEKQYNDMMES
+                     RTKVEAEIIRQETFLRRMCLAAFSDIFIAFIHINILRVFCESVLRFGVPPNFASFSIR
+                     INGESKEKKVRKKLYDIFSSTDSIGKNYIKRSDENDDEIYPYVSVSFKI"
+     gene            complement(<155721..>156552)
+                     /locus_tag="PGSY75_0106200"
+                     /note="ortholog of PF3D7_0106200"
+     mRNA            complement(join(<155721..156231,156425..>156552))
+                     /locus_tag="PGSY75_0106200"
+                     /product="hypothetical protein"
+     CDS             complement(join(155721..156231,156425..156552))
+                     /locus_tag="PGSY75_0106200"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03707.1"
+                     /translation="MENINGLNKYDHPNEAIKKMVDKIINKLNKTQKDSSERIYYSRK
+                     EMMKYFVEAQVIFEYYDVEKKGEIDITLFPKMARQLKQVYDIRDINNFKKEMKIKKID
+                     KMDLQLFFTLLKRKILHSINNNNNNNSSFRQHFDILDMQKKQLLDVDELRTYLGLMGD
+                     KINKDDFNLLLKHNLINNPRINKDDIVLDENKEIKNISFNAYLDMLTCYKYI"
+     gene            complement(<157505..>161612)
+                     /locus_tag="PGSY75_0106300"
+                     /note="ortholog of PF3D7_0106300"
+     mRNA            complement(join(<157505..157834,157950..158248,
+                     158528..>161612))
+                     /locus_tag="PGSY75_0106300"
+                     /product="calcium-transporting ATPase"
+     CDS             complement(join(157505..157834,157950..158248,
+                     158528..161612))
+                     /locus_tag="PGSY75_0106300"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="calcium-transporting ATPase"
+                     /protein_id="KYO03708.1"
+                     /translation="MEEILKNAHTYDVEDVLKFLDVQKDKGLKNDELNDRRLKYGLNE
+                     LEVEKKKSIFELILNQFDDLLVKILLLAAFISFVLTLLDMKHKKIEICDFIEPLVIVL
+                     ILILNAAVGVWQECNAEKSLEALKELQPTRAKVLRDGKWEIIDSKYLYVGDIIELSVG
+                     NKTPADARIIKIYSTSLKVEQSMLTGESCSVDKYSEKMEDSYKNCEIQLKKNILFSST
+                     AIVCGRCIAVVINIGMKTEIGHIQHAVIESNSEDTQTPLQIKIDLFGEQLSKIIFIIC
+                     VTVWIINFKHFSDPVHGSFLYGCLYYFKISVALAVAAIPEGLPAVITTCLALGTRRMV
+                     KKNAIVRKLQSVETLGCTTVICSDKTGTLTTNQMTTTVFHLFRESDSLTEYQLCQKGD
+                     TYYFYECSNLTNDIYAGESSFFNKLKEEGNTEALTDDGEGGLLDDNDPYNDYYSSDSK
+                     KMKHDLNNTNNTSRGVNNMNIPLKEMKTNENTIISRGSKILEDKINKYCYSEYDYNFY
+                     MCLVNCNEANIFCNNNSEVVKKFGDSTELALLHFVHNFDILPTCSKNNKMVAEYEKTS
+                     TATTTQSSNKKERTVRGINKFFSSKNDNSHVNNTLNENDKNSSNYNNGNIINNSNYSI
+                     AHGATNGYEAIGDNTFEHGSTFENCFQSKGANNKLKDTTSPHNNNKNNNNNNNNNNNN
+                     DDSVPSECISSWRNECKQIKIIEFTRERKLMSVIVENKKKELILYCKGAPENIIKNCK
+                     YYLMKNDIRPLNETLKNEINNKIQNMGKRALRTLSFAYKKLSSKDLNIKNTDDYYKLE
+                     HDLIYLGGLGIIDPPRKYVGKAIKLCHMAGIRVFMITGDNINTARAIAKEINILKKNE
+                     GDDDGNNKNTQICCYNGREFEDFSLEKQKHILKNTPRIVFCRTEPKHKKQIVKVLKDL
+                     GETVAMTGDGVNDAPALKSADIGIAMGINGTEVAKEASDIVLADDNFNTIVEAIKEGR
+                     CIYNNMKAFIRYLISSNIGEVASIFITALLGIPDSLAPVQLLWVNLVTDGLPATALGF
+                     NPPEHDVMKCRPRHKNDNLINGLTLLRYIIIGTYVGIATVSIFVYWFLFYPDSDMHTL
+                     INFYQLSHYNQCKAWTNFRVNKVYDMSEDHCSYFSAGKIKASTLSLSVLVLIEMFNAL
+                     NALSEYNSLFEIPPWRNMYLVLATIGSLLLHVFILYIPPLARIFGVVPLSAYDWFLVF
+                     LWSFPVIILDEIIKFYAKRKLKEEQRTKKIKID"
+     gene            <164894..>165767
+                     /locus_tag="PGSY75_0106400"
+                     /note="ortholog of PF3D7_0106400"
+     mRNA            join(<164894..164955,165125..165222,165325..165410,
+                     165543..>165767)
+                     /locus_tag="PGSY75_0106400"
+                     /product="putative pre-rRNA-processing protein TSR2"
+     CDS             join(164894..164955,165125..165222,165325..165410,
+                     165543..165767)
+                     /locus_tag="PGSY75_0106400"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative pre-rRNA-processing protein TSR2"
+                     /protein_id="KYO03709.1"
+                     /translation="MNDDNTLALLYEGINLIFNKWTILRLAVTNNWGGINSEEKKKKL
+                     IDYVHNFVTNNNAKNKLCDYLRDEMSVLFNVDIEDDSDIEIADLILDLYQNLKKKNYD
+                     ILEKIKNIQVYDISCSQEKNLIQTYENEDEENMDDDYSSSSDNEYSNEESSDKE"
+     gene            <166587..>170498
+                     /locus_tag="PGSY75_0106500"
+                     /note="ortholog of PF3D7_0106500"
+     mRNA            <166587..>170498
+                     /locus_tag="PGSY75_0106500"
+                     /product="hypothetical protein"
+     CDS             166587..170498
+                     /locus_tag="PGSY75_0106500"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03710.1"
+                     /translation="MYELNNKNDDNDKNINSFVNKDDIKYKNYIDDEDIKQNIKREKE
+                     KKDHHDIFKINDIKHLDHVNNTTNEDTKNIIEYSICNQNETHNEQNNNNNNNNNEDED
+                     DNIYTLVSSSNEGGSKNIQMSRNKIYENSLDQINNSELIKENNVNEYSADYPFNEHNN
+                     MNEGHSKNYKNETSFDKDNNTNENILQIKHDNKNDYVNNLEEYNLQDNDNIKNEENIY
+                     IHNNDNQNYDIHNYHMNNKKKHNKVNNFSEKEKILELHKNDKVTNIIIYKRMYQSFIL
+                     LKKEYRDLIDEHKKKININKKLNYEFNSLKNNSYYSNFFFKNDSDNLFDDLALGISNI
+                     FKWMDIDNKIIQTNFNKDKKEKKTGKDDDDNNNNDCLDDNNNNDCVDDNNNNDCVDDN
+                     NNDCVDHNNNNPVDDNNNNPVDDNDNNNNKCVDEDNKNCDNLKNSPFHKNSIINEQTT
+                     HDIHSIENHDDTSNVEIEEKKGKLHFNPSQNGVDTIISMTDNHDNISDDENKEELNKK
+                     KNELNILNENNKGEIYSKDKSIDDELISNTLLNKDNCEIISNSNNNKNDNIKNNNIKN
+                     NNNNNYNIQYKEDKNNDQEVNNKTTIIIKQTKEDILNNLTHTSNKIQKSSQNYPFDKK
+                     ENILFKNNKGIKEKEIINDKIKKGCILQNIKIKEGIIHNKNNTFYDYRTKRNSYLWQR
+                     DNVIRKKNVKYYNSPNKLEYKTKCNYNHKKGYQPLKLNKNSLKENIIDYIKKRLHNRN
+                     KYENNINHIKKNNQNENNLIPHSLNKINQNINIPNQNIKSDTQNINTISDNIEDNTFL
+                     LNWDIYKKTNNQYNQFTKSIFHICSYKENEYIPINVNNFFLNNKKINTTADLSLKCLK
+                     KNMEFILRKKQNKVISNINKNVNDKNNLILNHIKNVHEPVTLKNTSSIILKKKRCQKK
+                     SSSLFNKYNTHMINKKLKYCVKYSHNDISKCVIKQKHWRNVIYKTNKEKKEIFYFLLK
+                     KIIIYFEKKKKKGNILKTYKLKLVQNNENYIYIYLFQIRKYQKMASDIFLLTEKSSLP
+                     VQKKYSMFRKNQKKKKKYEQTSKHDESECEEKYEADGNKLKRNVFQLYMNEHKKYSVS
+                     IEKNDIMEQNKNMDNINNNNENNNNNNNNNDDDDSNIHTPNVVNDTLIDKNVKCMDTI
+                     ENNKLQTKDLTTQFEDMLKQHIVTLNLLDKKIDIIKKDPPEEKNNHNNVDDNNNSDDN
+                     EDAVIIIGMKIILNDKYLLILVDALNSIEYNVKKWLDLHEEILMSHIKENLNISNFFK
+                     YYNINLYTFFVNFLNNVENYIEEFPFYFSILFEDMFPFSLS"
+     gene            <171004..>171894
+                     /locus_tag="PGSY75_0106600"
+                     /note="ortholog of PF3D7_0106600"
+     mRNA            <171004..>171894
+                     /locus_tag="PGSY75_0106600"
+                     /product="hypothetical protein"
+     CDS             171004..171894
+                     /locus_tag="PGSY75_0106600"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03711.1"
+                     /translation="MKYILLFYTLFIFFYNIPYDYLEKKKYIACFDSVTQNDEVDIFY
+                     NSPSRIQGEKRKHRILYGLLRKGRKRKRRRNKSSRRNRPQTRKNKNKRKKMKKKNEKL
+                     AKRRRRKERNRKKKQLKKEKRRRKKKEKKQKKEMKKKEKKERKRRKEEEKLNLKSQEN
+                     NNSVNQNKFNNNNNNNNDDDDNEDDHEKDMDGVNNQNDNYDNTQNNINIKNGKVPINN
+                     NNDNMESSNQNNNTTNIQKNNKNNKNNEYSNAYEEHKNYPLNTYNNDIHTKVIDLDKL
+                     QHTSKTEIIEKLNRAIEMLQ"
+     gene            <172899..>177092
+                     /locus_tag="PGSY75_0106700"
+                     /note="ortholog of PF3D7_0106700"
+     mRNA            <172899..>177092
+                     /locus_tag="PGSY75_0106700"
+                     /product="small ribosomal subunit assembling AARP2
+                     protein"
+     CDS             172899..177092
+                     /locus_tag="PGSY75_0106700"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="small ribosomal subunit assembling AARP2
+                     protein"
+                     /protein_id="KYO03712.1"
+                     /translation="MDDKKKHHKKKKVGKKSKKKKINKNGNNKKYHKAFAFSGGIKSA
+                     HRRKQHLFELEEKKLRVQKIFKEGNKSSPLIVVIQGAKGVGKSTLLKSLIKYYVGITI
+                     NDIKGPISIFTKNLKRYTFIEVNDDILHMIDVAKIADICILVIDGSFGIELETLEFLN
+                     ILYTHGLPKVLGVVTHLDKFKDSKSIRKRKKKLNKRYSEELVEGSKLFFLSGIQNNRY
+                     NKTEIRNLCKFLSVIKKPIISWREQHGYILGLKLDVDDLLINNQIESQKNNIQNEHIH
+                     GEHIYGANYDDEEKEKKITNFLKNCDDKINVSIEGYVYGSKIYKNQKVHIPNIGDVEI
+                     DNIQILQEPFKLDEQKKNPNIYAPMSDVGNLTFDFDNMYIHIPKNKVNFTRDELLLPD
+                     QGEGTISGGHIKEKEDNTIQDSDGGGDDDGDVGDDDDVDDDDDVGDDDDVDDDDDVDD
+                     DDDDNDYDDDDDDDENHNKDKSSSHNNQSKDKEKYITDSIKMIRELQKSNGVFSKQQK
+                     DNLMLFNETNENKDPSNIRRKAPSNVYISEKQKKKKQQDNYVNEKAEEYNKLESILYE
+                     KKNNDDEYYCANNVIISSDDEKEENDASFREFYRKYGLKGDMSDEGGNDDINMYNGQE
+                     NEEKLKDAYDKLLNGGEDEDDYDDESDGEENDDDEENDDEENDDEENDDEENDDDEEN
+                     DDDEENDDEENDDEENDDEENDDDQNDDDDDDNNNNNNNNSKELKNKNTLDHNKTKMN
+                     HMQAHDMADILSFDNKISLDTFIYDFSYIKRKNNLLYFRGDVINVIKREERKLVQSSH
+                     LKEYEESFYFLKNILSTDIVENNKGEYYSYMNEENYYYDELDTFRGDEEDVFIFNNLS
+                     ISMYDIVDSNVVDNFFSRYDSVYRMFFKNRKRGDMEVNEEGDDNNSDNNIDDDNNNSD
+                     NNIDDDNNNSDNNSSDDNNNSDNNNSDDNNNSDDNNNSDDINNSDDNNNNMKGKGIGN
+                     TFDEPDIKENLKKLKEEKLIEKEKFKETEKIGVLNNGYGSSVNIGEYVRIEINIEKKK
+                     LAILKNNLIICGGIQTYEEKDSLIHCRIKKHRWFPKLLRSNDPLIFSVGWRRYQSIPI
+                     YSISERNNVRLRYLKYTTEHMHCNCTFFGPLASVNSGILALYNYKKVPFYRICINGLI
+                     IETNNNLNIMKKLKLIGEPYKIFKNTAFVKNMFNSDLEVCKFLNCPVVTPSGIKGLIK
+                     NKINNNGDFRCTFADKIRMSDIVILKLYVNVKIKKFYYFDIENKIKSINELRYIYNIY
+                     VNHNNNYRSMPFRHFYHTKIQIKSKLLKDLPFKSKPKLFKKLQNHSNINNKQQTTLIN
+                     KKNKKTDQINFSALPNPKLAAKWYQMLHTIKKNIIDQKKQKSQLSYHKKLKEKLKIQQ
+                     TKSKVVKQRKKISYKKGRK"
+     gene            <178510..>180376
+                     /locus_tag="PGSY75_0106800"
+                     /note="ortholog of PF3D7_0106800"
+     mRNA            join(<178510..178609,178814..178897,179103..179172,
+                     179344..179382,179505..179617,179736..179788,
+                     179977..180070,180165..180217,180338..>180376)
+                     /locus_tag="PGSY75_0106800"
+                     /product="ras-related protein Rab-5C"
+     CDS             join(178510..178609,178814..178897,179103..179172,
+                     179344..179382,179505..179617,179736..179788,
+                     179977..180070,180165..180217,180338..180376)
+                     /locus_tag="PGSY75_0106800"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="ras-related protein Rab-5C"
+                     /protein_id="KYO03713.1"
+                     /translation="MAYYLSNLNNNEKYETNQNYNSTKVFNSKLVLLGDTSVGKSCIV
+                     VRFAKNEFYEYQESTIGAAFMTQLIDIGERTIKFEIWDTAGQERYRSLAPMYYRGASA
+                     AVIVYDITNKKSFEGAKGWIHELKSVHSNDIIIALAGNKNDLEEHRAVDRELAESFAN
+                     SNNILFIETSAKTGQNVNELFLRIAKKLPLHKKEQEKCPAIQINNTEETKKKCC"
+     gene            <181708..>183777
+                     /locus_tag="PGSY75_0106900"
+                     /note="ortholog of PF3D7_0106900"
+     mRNA            <181708..>183777
+                     /locus_tag="PGSY75_0106900"
+                     /product="putative 2-C-methyl-D-erythritol 4-phosphate
+                     cytidylyltransferase"
+     CDS             181708..183777
+                     /locus_tag="PGSY75_0106900"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative 2-C-methyl-D-erythritol 4-phosphate
+                     cytidylyltransferase"
+                     /protein_id="KYO03714.1"
+                     /translation="MHFVHAFIRYVIIIYFIKWNGYNFHILKRQCFKDDENIKERSVR
+                     KCKKNNCSNMYHSIVYIKNKRGVRGEEQKKKKIINNKYLYLLNNFIDINKDKTYLSTS
+                     LNRKYFKNQKNDAHKICKNKIEDYKTINLYMNKIEEESKEEKQNEEDILNKDNINNKP
+                     IYINNNNNNNDIFYDKFNTKQYEKIIKKKNIHSILLCGGIGKRTELIGPKQFLKLNDI
+                     PLFIYSFNLFIKCNLIKSLTLVCDKKHFASIIQSINVYNKLLLKRKIINSFLKNVNDK
+                     LNVNMKEYHENEEDNIKEFNSQKINIEDSHFNDASNITDYINKNTYIIYDNEKNKCIL
+                     DMKELLNDLSKGIRIRKKHEKNEKHIIRIKPKHININRYKLLKIVESGKERLDSFLNA
+                     MKSIDIELNSQTYIYELLKKYNEEKNEKNDNILYEFENININNCNKNHNSNNDNIENN
+                     NIKKKKKKKINVTNILIHDGARPFLSEFDFFNLIYYSTVDKNVILGSKATDTIKLIQH
+                     EEENKKKTTSHFIKKTIDRDTIFQAQTPQIFDSKTLHNNILEYILPNKNNEKNIKQKI
+                     NINIINNNNHSNSEEQNSKQFTDTSSLYEYFNKSKKKKKIFVLQSNFPNFKVTTPEDV
+                     LHSFFLMKYIYNYKFIDIEQSIFKDEYINSHSTYILKKQFNNFFFYDALNEKQKILYH
+                     KFYYISK"
+     gene            <184869..>186123
+                     /locus_tag="PGSY75_0107000"
+                     /note="ortholog of PF3D7_0107000"
+     mRNA            join(<184869..184992,185136..185203,185476..185562,
+                     185635..185715,185899..185958,186037..>186123)
+                     /locus_tag="PGSY75_0107000"
+                     /product="centrin-1"
+                     /note="encoded by transcript variant 1; alternatively
+                     spliced"
+     CDS             join(184869..184992,185136..185203,185476..185562,
+                     185635..185715,185899..185958,186037..186123)
+                     /locus_tag="PGSY75_0107000"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="transcript variant 1; alternatively spliced"
+                     /codon_start=1
+                     /product="centrin-1"
+                     /protein_id="KYO03715.1"
+                     /translation="MSRKNQTMIRNPNPRSKRNELNEEQKLEIKEAFDLFDTNGTGRI
+                     DAKELKVAMRALGFEPKKEDIRKIISDVDKDGSGTIDFNDFLDIMTIKMSERDPKEEI
+                     LKAFRLFDDDETGKISFKNLKRVAKELGENITDEEIQEMIDEADRDGDGEINEEEFMR
+                     IMKKTNLF"
+     gene            complement(<186446..>188176)
+                     /locus_tag="PGSY75_0107100"
+                     /note="ortholog of PF3D7_0107100"
+     mRNA            complement(<186446..>188176)
+                     /locus_tag="PGSY75_0107100"
+                     /product="hypothetical protein"
+     CDS             complement(186446..188176)
+                     /locus_tag="PGSY75_0107100"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03716.1"
+                     /translation="MIKSRKQYNVIILYFIRVQRRKFFSFMKYKYGQEGIVEKEYGND
+                     MYKKIKIHKKNVNIKSDSDIYPCGNKCLSPIYYNNIYDCRNKYNNRIYLCNNKYFSHK
+                     CNSRAYKKSVFYEEVNEKNNCENNLNLLNIIKNSNIEKFNIYDCTLFLNYFIKNKKNK
+                     EFDKELKDRNKIKLSSSLYKESNDKILKNILNFEPQNIFFFFNKYAELRDRNSIEILF
+                     GNIIHNHLNYFSLYYLTDIIYNIAILNCNFKNNQDNLYQFLNYIIFNVIKENKNIKHF
+                     EKKVTNKLKISFDIIRNDDKKKKPIYIKSIENNKEKKKNAKGNFLQNKGNDNDTYIVV
+                     TPKNGSPYMNEQIKNKNIKNNNINNNNNNNYYYNSNCIMMNGSFRENDIYNIDLKNSK
+                     FDHNNNLKNKIKSSCNNNEDNNKSKFSINTLSNIMLYKLIYSLAKIKHNEPYIKELFI
+                     LLIPYIRYLIQNKNYIYSKDRNDVLVKIIWSFAFLKIRDIHLFVDFSISIQLILYDLK
+                     LEYLKIIKKIYENLLIFDETLLDKLDARINQIEENAPEQFSYPRKKQFKKKKKRIHIG
+                     DEIKFDKEKK"
+     gene            <189187..>191274
+                     /locus_tag="PGSY75_0107200"
+                     /note="ortholog of PF3D7_0107200"
+     mRNA            join(<189187..189360,189502..189626,189755..189848,
+                     189968..190042,190139..190318,190396..190442,
+                     190548..190593,190742..190819,190934..191052,
+                     191199..>191274)
+                     /locus_tag="PGSY75_0107200"
+                     /product="putative carbon catabolite repressor protein 4"
+     CDS             join(189187..189360,189502..189626,189755..189848,
+                     189968..190042,190139..190318,190396..190442,
+                     190548..190593,190742..190819,190934..191052,
+                     191199..191274)
+                     /locus_tag="PGSY75_0107200"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative carbon catabolite repressor protein 4"
+                     /protein_id="KYO03717.1"
+                     /translation="MFKGNKIRVGTINIFNSAFYTIKEKLSVYPFEYSHNIGRKNLLY
+                     KHFFDNKFDIICLQEVDSFMINDLNKKFLDHDFILHTPKHVNTKSPKSNNCCIAYKKC
+                     FKLIQEKQFDNETSVIKNLINYSSESGCEIQDAFIRELSKRTSMANMIILELSNQTFL
+                     GICNCHIHWNPLYPDIKLYHTYLIIRDFYKFIENTLQDIPFIPLLLLGDFNSTPHIDN
+                     KKEGEIIQESGVYELITTGRISKNHAHHPARLRKSEAFYSYPELKIPPFKSVFKEING
+                     KEPEFTNKTPSFEGCIDYIFYKELIPISTETIPRNIKDIKMLPNEHFPSDHVMLTSEF
+                     FIV"
+     gene            complement(<191419..>192731)
+                     /locus_tag="PGSY75_0107300"
+                     /note="ortholog of PF3D7_0107300"
+     mRNA            complement(join(<191419..191952,192069..>192731))
+                     /locus_tag="PGSY75_0107300"
+                     /product="putative protein, unknown function"
+     CDS             complement(join(191419..191952,192069..192731))
+                     /locus_tag="PGSY75_0107300"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative protein, unknown function"
+                     /protein_id="KYO03718.1"
+                     /translation="MIQFVKCFLLFILLYSSDIIICLHYSNRIQNHLYMYQTNNSTNE
+                     ENIYNMKTFSKLPIVENIRNITHSTNYFSYEHFIILEKPNEHFTIHNIKLMCQKKNHN
+                     QPNQFNLKILAVLLSTSYKQENISNIFQNICKNGFSCLFKIQLGKNKSLVDHNKIVHL
+                     KSIDNDLKRNKNNNNRHKITFYYICEDLNYYNQKQQSNEFKYVFNYEQLAFLKCENYL
+                     TVQVENLVGINYNKEVDNLNSEYISFYCSQRVICNMHMEDLYKDDNNNKLKNYIFYEL
+                     TYRCVPPKVCSLCGNNSTCKLEKLYNKKKEITHFYNNLEYNESGIFDRLLLNKEQEEE
+                     RNKTSFITNLEYNAIRYYFDDMITVGGNTYHILEICKCSKDYVQEGLSCVKKEKDKFY
+                     IRYANR"
+     gene            <194734..>195195
+                     /locus_tag="PGSY75_0107400"
+                     /note="ortholog of PF3D7_0107400"
+     mRNA            <194734..>195195
+                     /locus_tag="PGSY75_0107400"
+                     /product="hypothetical protein"
+     CDS             194734..195195
+                     /locus_tag="PGSY75_0107400"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03719.1"
+                     /translation="MYRRYVWNSIFRDINYRLKKIYHSFYYAQSHIKYVMLILFPAII
+                     WTTRYRADTQLGYFFYINDEKLYPTYRHNIIKKKMKWKNGSKFYLNDNVTVKDAKSII
+                     YEGEKNVPDKIKLGCKGRIMDDNDNLAMAVRAFCKRDPKIFIWQDEHSQYL"
+     gene            complement(<196100..>200856)
+                     /locus_tag="PGSY75_0107500"
+                     /note="ortholog of PF3D7_0107500"
+     mRNA            complement(join(<196100..196174,196318..196447,
+                     196592..196664,196842..>200856))
+                     /locus_tag="PGSY75_0107500"
+                     /product="lipid/sterol:H+ symporter"
+     CDS             complement(join(196100..196174,196318..196447,
+                     196592..196664,196842..200856))
+                     /locus_tag="PGSY75_0107500"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="lipid/sterol:H+ symporter"
+                     /protein_id="KYO03720.1"
+                     /translation="MFVKNFIHKLKELKQKSLDKFANLLYDYGGYVYDRPCTFIICSL
+                     ICCLLLTCGFYFKEHEKDIYKLYSISNSYAYETNETINDFFYKSRRCFILVESNVNLL
+                     KPKILRELQKFEEGTKDIEVDLSEINECKSASELPPEQSPVAKELYKTLIQRSEENLK
+                     SGKINGSLFDYSDLDDNGKSILSVQGQENNNDDDIIEGDNKNDENNNNNNNNNNNSED
+                     DSNNEVDNNDDDDDDEDNDDGDNEEEDEEKKKSLREKLYRKIYEMLKKKKENIVLDEN
+                     SPNVNYSDYKDDVFYPYQYIPPMLIKSDRCKLHNVFADKNLNIDLREASDGLKKQITY
+                     TLEDICEKKYGDCNFSSLFLYYEKGNGYIDYPIKVDNLDFYVNRRTYKEMMFKGILGN
+                     MVYEKSGSKFIIKSANAIMTVIPLLNSHTYEPYALAYEKKLIDYVRFYNLDDIIQDEE
+                     TNDNNDPFIRFHVFTDRSLEDEVDRISKIDNLTRLLLLIGVLLIFMYALFNNVTSVLY
+                     RSKPLCAVMGIFCGFLGFLSGSGFLYFLGVKSVPPAETVPFLVIGVGVDDVFVILNSY
+                     SLLFMVKDNKKRIQMCLKDSALAITVTTLTNIIAFLISAISPFYSICAFSLFTASSLF
+                     FGYLMVLTFLLSFLCIEAKLEKKKRNIFTGTLHLFRSIFMKNSKKENNKKTDKENNNL
+                     NADDKKNDLSLELKNNEDDYENVSIYEWIHNLYLFEESINKKKKNLAVVYTSNGNPPH
+                     NNNNNNNMNEELGLVDSSKIVSIEDLKQRNVRTHDGSLQNKDDNKKKNKTEKKKKAQD
+                     NNGNNYNNIKSSNLKCDNDMNGKNGKNDMNDMNDNNDNNIINTPSSGEEKDKKINVLN
+                     DVFNDITIKPNDNNILLDRGDIIKSSGYDSSYNDLHSSSLPNPSSNEILNKTSMVYDE
+                     IYLNDNKKEIECSSKNLVNDIKKNDMIHDDSFNIINNKNMISPSNEINNSNNTNKFNN
+                     NSTELATKDTQHFINGHDKNIYLLSSHDNALFYKYIYEEPKGNIGKYFRSLVKNYYVP
+                     FLSSKFGKTIVYIMFTCLIALSIYGCTLMKKGIKYDKAFPVDSYVRRFTSAKIKYFPD
+                     FGDFIEVYYFDKNFINKYRGLKNNTKEFASSFLYSDLTDRQIMNGPKINKNVHWENTN
+                     LQEELINMHNTLESQEFVTSVANGFTFFLNKNKSSLRKENPQEFYEIFANWLKKDFVG
+                     NLFKNDFVFLNGKLVAWRFHYFQKNVDDSEISSKWLKASKQITKLENHNVQMVCFHLS
+                     SIFNETDESIIEVTLINLGITILTILVVTAYIIKGFYSCVIIALIIFLIDLCIFGFMC
+                     LCGITMNIISMVILVLSVGFSIDHTSHIVQAFSHSMGRTRDEKMKESLHLMIGPVLHS
+                     GLSTWFVISTLFFSNKDFTVIFFQTLSLVLFFSITFSSMFLPVLLSSFGPLH"
+     gene            <206157..>209774
+                     /locus_tag="PGSY75_0107600"
+                     /note="ortholog of PF3D7_0107600"
+     mRNA            <206157..>209774
+                     /locus_tag="PGSY75_0107600"
+                     /product="putative serine/threonine protein kinase"
+     CDS             206157..209774
+                     /locus_tag="PGSY75_0107600"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative serine/threonine protein kinase"
+                     /protein_id="KYO03721.1"
+                     /translation="MLISNRKRRKTYIYNDKYQYVNKKIKDKFIFMCLIGVGGFSCVY
+                     KIKKKERKKKYIHHDQNERNKKYVHHDQNERKKKYIHHDQNERNKKYIHHYQNERKKI
+                     YIHHDQKENGNNKFYALKKIKFYANPKNLKEQILLNLREIKYLNLLKKYKNIVYLHEY
+                     WIEMHKPFYKEKKKIKVNKKKKKIKKQKISLFKDTIKIIKKKKKDKLKKKKKIEFFFK
+                     NIQYSSDTDDIKIIFEDADPQKIKNNNNIKDIKQKMEKVYKNNNKKNDKNCVNNNKKK
+                     YNVVINKGIEKKYIINKIKINAKKKIYIYRHIYKNMYALFNIKKNSYYRYNNENFKLL
+                     KKNNLFINKNQSNIYHSCYYYSSYATTNKFKSLKEKQFTYISSFSSQICCSTIRRKTF
+                     SYNQNENYQERKELNKYYNYNSSKCLDKHILNKPSMLYQNKNKHNNNNKKKKDNNIVL
+                     NTLQTFYDDSNVYNLENVDAKETKQYNKYNNIESIEEMKNKNNKQIYFIYNNIYTIQN
+                     IKYTSYTSDISTIDHINIRNSFSLSNIFSCKTQNKDNNIFCQRHTKFINRLSKNKKNK
+                     LSQKKYYINKNKKKNNNKLKKIKIRKMFQMKKKKKKKILKNVNIRRNKNMYMYLSYIK
+                     FMIRHNLCNKIHKEFKQLRNNVVRQIILHIFNYKTYPMNHIIKYTCNFYKKEIFLSTC
+                     KKRIFFFIIYCFHKSDYVYSRLYGQEIKKKKKTKKIQRIRNIQVQNVRAYKYRPFINN
+                     KEYSTDSKQIIYFLLNITLKNYIDYILRKRHFLCSHYHLLIQKKWFIYNTTNVLSYYY
+                     LNQRMDNNNLMFNNNFILTNYMDRYTNFFKKKLCNDKIISYDMNQNLPNKYLSLKGDK
+                     KINITTTYLYMKIRKILNKYSKRNEDKKNISKNKYSYNNRSFALLSYIKKKHKHNKIY
+                     NHIKEKNRYNKKTKYKFNLYIRMEYCKNTLENYINTREHININRNYEIIQMIILGLYY
+                     IHNNNIMHRDLKPSNIFISNNNIVKIGDFGLASYDYTYLKNNIRKKRKRKSNNLSYEY
+                     DIPKINILNLKKKKNTTPFNITSNNNNNNNKNNIIGEKKEILFKNCCNKNNIHTKEIN
+                     SNSSFQYFKKKKKNFHYHHTLGIGTKIYAAPEQLLGNKYTKAVDMFSLGLIIVDLFTI
+                     TKTYMERMKILCNARHRILPDLLIKKYPQVAKLCKNLLSLDYQLRWTSEELYKKKKYI
+                     Y"
+     gene            <210383..>211729
+                     /locus_tag="PGSY75_0107700"
+                     /note="ortholog of PF3D7_0107700"
+     mRNA            <210383..>211729
+                     /locus_tag="PGSY75_0107700"
+                     /product="putative membrane protein"
+     CDS             210383..211729
+                     /locus_tag="PGSY75_0107700"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium membrane protein, unknown
+                     function"
+                     /codon_start=1
+                     /product="putative membrane protein"
+                     /protein_id="KYO03722.1"
+                     /translation="MRINICLHNFFFLFFFCFFFLFFFLNTTECFQQEEKLKKLKKLL
+                     NKKIKFDINEKHKNGYKSTRYSFIYIHELTLTDYVDYVLNKSADYDCVLFYINVESNN
+                     NISKLDRKTLILLEIFNEVARQIIFNNFVLYNEYEDVLLNKEIKNQDIETVHINNTKD
+                     DNNMYETKDANDKYGKNNVSLLKPLFFFYINFNKSHMNPIKHVHMIYNLPEFVYINNN
+                     TFSNVDYQLIIDSKYMLEYYIKAIKKIDYNHTEINNKMIETYFKEFIYLHNKDNMNKI
+                     QEKNQKEKEKEKIFITLLIIFLFLFLYIFVLILQKYNFLIFLCSYLLYFICLSGLFHC
+                     LINKSELYNTSKNLDSFFHKYIYRSTNSQYICEGFIFSFLILFITLLFFILLKFSSNI
+                     KEDTFLLLHKSKKINILSLCILCVIFMSLKFIHDINLYKIYFSTYYFFPPLKFFRK"
+     gene            <212579..>216067
+                     /locus_tag="PGSY75_0107800"
+                     /note="ortholog of PF3D7_0107800"
+     mRNA            <212579..>216067
+                     /locus_tag="PGSY75_0107800"
+                     /product="putative double-strand break repair protein
+                     MRE11"
+     CDS             212579..216067
+                     /locus_tag="PGSY75_0107800"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative double-strand break repair protein
+                     MRE11"
+                     /protein_id="KYO03723.1"
+                     /translation="MKSTHNNLNDEEKLMNHNEKSNKNFNGELLSGYIKNTSNDMNRG
+                     DVYPSNDKNTRIVSIKNVYNNMYKTSDSLFCKQENEEDQMENRIIRNDRRDIENKGNI
+                     YINNNNINDGVIINENKSYDNRSSILNDNNNNNNNNHHHNNNHNNNNNNNSNCTYSVH
+                     NINLNEEKNEKIYYSNNKEGIQKSNEKNVSSKKEEKCYTNNFSHTDSKNSVVRNNVTD
+                     PFKKMSNNSTIKENKNYITNSIVEERNREHRYNIINEQEHVKLFKNMNLEEIKNILSN
+                     NDPSTLKILLCTDNHLGYKENNSIQKKDSFNSFEEILFIAKKLNVDMILNSGDLFHKN
+                     KVSEYTLFKSMYIIRKYCHINENDKEIQKNDTVSNNVNCNDINNDDKSVKKGNEELDQ
+                     LDQLDQLDQLEEEEEEVCNMYNVQVKEIKNYKYEYYKNDHTVDRNNNVVNTNNNFDDT
+                     ISRLSSIPIVKNNNGDLYKDGTNNINNIKSLQKKNEMNNCDHSGDLNIEQNDDSNTNF
+                     YEKEEDYDDDNIILNMLKKNKGKTMKTNKKKRQINNIFDSDNDDIMINQHHHHHNNDA
+                     DDLDNVDDLDNVDDNYSDEIQFEEEQIKYYNELKENNKEFFNKLKICSVNEKFKKLIP
+                     FYTIHGNHDYPYSYEYISPLDILNISNLINYIGKNNLNNIIVKPILLNKYKSKISIYP
+                     IGWLKDERLYRSFENNEVKFILPSDYKNRINILVLHQNRYIRSAYGNNTKNFIKESFI
+                     PKFIDLVIWGHEHFSKPFLEESIFNSFYNLQLGSSVRTSICPNEYGDKFIGLLEIKNQ
+                     RFRFIKINLETVRPFEMKEIKLADYELNFNLESVLKEFLHEQTHAILDKIKNNFLEEI
+                     KKYYLFKILFHTKNKLQTYTTNKECQDEYNNVDLFTKKINEYLNDANDANQYKSLISI
+                     SKEDVNNFYNNLKNEDFYSSTFIYFAFSDTYDTFDLLKIKKDVYEKPLLKIKVEYDDV
+                     NIINTQLFGSLFINIIANPSEFLSFYRKKIRQKDIYNDNNNNKSNNNNNNNNIGKKNN
+                     NDDTYNDNNNFNNNNNNRSDEDGDKDLHNMEYINEYNKVFDILFDYCDIKNKLSILNE
+                     YVIMDTIQNFILNTNSSFNSNTNVTSDFTSINSMVDKCFKNKVESIEKKLGDMSAENI
+                     TDAYLTDILTKINNSS"
+     gene            complement(<216426..>217466)
+                     /locus_tag="PGSY75_0107900"
+                     /note="ortholog of PF3D7_0107900"
+     mRNA            complement(<216426..>217466)
+                     /locus_tag="PGSY75_0107900"
+                     /product="hypothetical protein"
+     CDS             complement(216426..217466)
+                     /locus_tag="PGSY75_0107900"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03724.1"
+                     /translation="MLFLFLFFFIIHLSYSININGKNNLFINTSCDNNKKKKKWHSQN
+                     IKRDVMQISNVNQSRNVMNMRDAKPPQSSNNKINVNPPQSSNNKINVNPQQSSNNIKN
+                     VNPQQSSNNKINVNPPQSSNNKINVNPPQSSNNKINVNPQQSSNMRNIKKSEYFYESI
+                     NKKEGEIYPKKYNFQRKNNVIYKQIPEFTYPYKKYNIDDIYYGRILSINSKKIKLDIL
+                     CDRKAYLNTSEYFNNYMMNKYIYNILNINNIIKVQIKNIEKIHQKIHVDIKKYTYEEF
+                     LSSFKNNNIYINSKVIHIKQNYALLYLAPKIIGKLMYDKNEDMRNLHVGNDVHVKIDY
+                     FDKIKNELYLIR"
+     gene            complement(<218547..>219667)
+                     /locus_tag="PGSY75_0108000"
+                     /note="ortholog of PF3D7_0108000"
+     mRNA            complement(join(<218547..218595,218706..218800,
+                     218901..219410,219665..>219667))
+                     /locus_tag="PGSY75_0108000"
+                     /product="putative proteasome subunit beta type-3"
+     CDS             complement(join(218547..218595,218706..218800,
+                     218901..219410,219665..219667))
+                     /locus_tag="PGSY75_0108000"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative proteasome subunit beta type-3"
+                     /protein_id="KYO03725.1"
+                     /translation="MGSIYNYNGGCVLGMSGSKCVAIACDLRLGANTFTTISTKFSKI
+                     FKMNNNVYVGLSGLATDIQTLYEILRYRVNLYEIRQEAEMDVECFANMLSSILYSNRF
+                     SPYFVNPIVVGFKLKHYIDEEGEKKVNYEPYLTAYDLIGAKCETNDFVVNGVTSEQLF
+                     GMCESLYVKDQDENGLFETISQCLLSALDRDCISGWGAEVLVLTPEKIIKKKLKARMD
+                     "
+     gene            <220909..>222915
+                     /locus_tag="PGSY75_0108100"
+                     /note="ortholog of PF3D7_0108100"
+     mRNA            <220909..>222915
+                     /locus_tag="PGSY75_0108100"
+                     /product="hypothetical protein"
+     CDS             220909..222915
+                     /locus_tag="PGSY75_0108100"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03726.1"
+                     /translation="MKSPYFRKYSERILSLLCNNKKCGTHTHIRSYKKMFSTLNNVVS
+                     NEEENKNIQDAHATDSNNEIIIEKYKNLIRNTKLIKDIKEKKNNFQPNGQINQTNSFP
+                     SPKKKEKIKSKTIINDIININDTNLDSSQNNLNKSQNDSCNNLMSSKDEKYVILKKQI
+                     TKEFIHQVFLPHVESQIIYHLKTYTPDQIVNIFQVYSYLYYYDKKKEMIDQLLEYLEY
+                     RLDCFSVHNVLLILEPLYILNQTNNIYIYRLIINYLYKIEDKLNIYNYIGISRVFTKI
+                     LIDLYFKEQEEKQKGHNLLSIKFILKYFKEQKFKKKITPNERSIPHIEYITNFMLQVI
+                     DKIEKQLDLLSAIELTDLLSVMSNYSYKNNYSKYYIPLEYKNNTTMQQNNELSLDISN
+                     ECIHVIHQNNKKLYIYNLSTDNSYLFKENIIAFLIVNRIIQKYTELTTLHKITNMHNL
+                     IKLSIYDDQYIKLIENDINNYHYINNIHHKYLSLLTWCLFKYNILYKYINKLKPILQQ
+                     NIYNFNAKGFARLSHAIYEHKDILYQIANNLIKNINQMNINEFLCFFYSLVLHDLLPY
+                     QILNQKNNKDMMNSVHVNHNTKDIHTTGNDNIINILNKNISNLNKRDILHKCLQYIEK
+                     NKRDMNKEQMVKIVQLLKKKKQQRYLYILDMLPDEWKGMLHLIN"
+     gene            <226786..>233205
+                     /locus_tag="PGSY75_0108300"
+                     /note="ortholog of PF3D7_0108300"
+     mRNA            <226786..>233205
+                     /locus_tag="PGSY75_0108300"
+                     /product="hypothetical protein"
+     CDS             226786..233205
+                     /locus_tag="PGSY75_0108300"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03727.1"
+                     /translation="MESYIRESKKLTLKSNKGKKLLRYLDISLNNKSLHDSHILELVK
+                     ILKKIIKIVYNTYYCLNIDLSENYITCGGLKTLLKYILNYNENIGVNILKLYKNSIKD
+                     DGALLIKQLVYIQKIPMEELHLSHNLIQDNACKELLLSFVQAKKDSTYVYPRYDKYQN
+                     PYKHAQIPVWIRLEYNCIHNPKDILKEVEDCAKKKRGYKSNLIVCSALKSDKRCCPYK
+                     CLNATIRNTPIMHVYMFIHQKENIVNGKMKEEKTDFVSLEDGLDKNEKSNLNNDKNGD
+                     ENMLILDNSKQGNKNKFKNANDEEEDDEEDDDEFEEEEIDVDEEEDDDEDDEDEDDDE
+                     DDDDEDDYDDDDDDDEDDDDDEDDDDDDDDDDDDDNYNLKDKNNLKSFEKNKKIKGNK
+                     KGSEKTFHVNKGMVVDNNNNKKNINNEEDEKNFDKKKGMNKKKRKKKKKRTNSYNNNN
+                     NNNSNNNMVGESKKKNNLPQDKKNSSTNTCTKFMNNTHNINKSFSNIASDIYNKDTNM
+                     NSLYNNENSLPLYIILDCSAVLDMKELWKDKSFLPFSFPGLLYLYNNKLLKGNTINNN
+                     NSNNNNNNNNNSNNNNNNSNNNNNNSSGNNNKIGNDNFICLMCSYVANELKMVCQKSE
+                     IIRQKMINLKLNIWDKLSELGIIEFLSVPKDFKENKKNFLNSSFLTDEQIKLANEYYD
+                     ISYETLQMIQFSIVWSTYIFKLSNKEIVIENNKKEINKSDMKKSKKTIFTEVLYLTSS
+                     SNIYSFFEYLYEQDINFILPLCVTVNQINKYIQEEHSYIIDILMNNCKPDKYSKLQFN
+                     KLFFQQFIKEKYSKYLNNNTKEVLLNGKKKPSKNIMSSTKQLSGDMMEHVNEEEHMLN
+                     NNKDGISPQNNIHNNNIHNNNNNNSGSQYLSDNMRTMRLADDMLNNSNDMKKKKNSKK
+                     FSAIHQMVDNKSPSQPNLQNNNNNSYDIYDIISVKSFSNDNVNNLCNVDKMINVHNNM
+                     LSSKNPKEDELLKEHNLYMKKGNEVVPNNQYYNLGEYNKLNMQMLNIQDLDILEKRTD
+                     INDIFNNSMSETNKSANNNNNINSNSSNNNNINNNNNNGGMKTNSVSVENNVVVDNRN
+                     NKKKTDGLENMIYCSTIENKLMGLNNNKMEGTDNINNDNINNDNINKNNINKNNVGGV
+                     HNIDCELTTEDGMLQKKETNKDKTGNQSDKVSIYELLINAFNGKKKNVTKNVNEKNRN
+                     GENEESVGLISEANVNMNNMNNINSSSCKDEKDESVLMSQIKMKNEHLNEEEELQLKG
+                     KTNDKDNVINEKRKSMMEKKSISLNKNVNNNDNLSFLTNQQDDNINHANNNTNNTNNL
+                     RNTINKMSVFHNNNMNNIPSVNVIQNDEDNSVLLDGNENIFFKKGSSIMNFIDADHNT
+                     TNVMNKMERRLTNNMKVGHNNIISDDKDEELMHVEKLNNGELVYIGRKNLLSEQLLDQ
+                     HKIFEWKHSFENHKVDIMNTSMLLEELILNPTVCKYIPGELYNKILKCYEKLDFMITN
+                     LNNINEEMETMENNNNNNINNINNINNINNDRGDNNLDDIVNNNVKTNILKNDNMKTI
+                     TSERNRLNSSVNKNDVNMMYDDFKNYWDSPLGKNNNMNNMMSGINNINGVSNSMNLST
+                     KELMKSLSNGSIPLNQKMNSLTSSLPHDFLLNNNNNMLGSMTNNNNNNINSNNNSNNS
+                     NNNSNNNNINLGVATSLNNPNILQNHLNNSMLKNNMVNKNSVPNLASHLNNNNKVSKR
+                     KSALSTYNNNMNESNNSVNGNMNLNLNMNMNSANNLSNPSVMMMLMNAQNNSVGSNEL
+                     NFNNNKNNSIQKKYINNNKNDNNINNNINNNNNDMTLLLNSMNDVRMNSNALLNNTNL
+                     FFQGNGYKKDESNNGNKMSKDMSLINNTLMGVEMKKNDNTNNNNNNMNNNSNNNNNNN
+                     NFVGGRDLKDIKTLNKLLLLNNNNLNSIKGGVLNEKQLLNYINSNSNNNNNSMNGMPS
+                     VNSNIDSNLLSFLNMTKNNNNNNNNNNNNNNSNNNNNSSNNAASGISCSGINNKNLMI
+                     NNQNLKNNNHNNNNNNDKFKGNPFSDFNGMVTSNNIKKILNNENNNNNNLYMMNNNNN
+                     KTPLNDINVKYVEALNNQFNFLSRDSRKMETENNGINILNFSNDLEKKSNNAMVDVCE
+                     KTNNKKI"
+     gene            complement(<233812..>235547)
+                     /locus_tag="PGSY75_0108400"
+                     /note="ortholog of PF3D7_0108400"
+     mRNA            complement(join(<233812..233964,234009,234054..234178,
+                     234268..234339,234440..234523,234603..234670,
+                     234806..234972,235089..235335,235538..>235547))
+                     /locus_tag="PGSY75_0108400"
+                     /product="putative mitochondrial carrier protein"
+                     /note="encoded by transcript variant 1; alternatively
+                     spliced"
+     CDS             complement(join(233812..233964,234009,234054..234178,
+                     234268..234339,234440..234523,234603..234670,
+                     234806..234972,235089..235335,235538..235547))
+                     /locus_tag="PGSY75_0108400"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="transcript variant 1; alternatively spliced"
+                     /codon_start=1
+                     /product="putative mitochondrial carrier protein"
+                     /protein_id="KYO03728.1"
+                     /translation="MDADNKNLVFHTFMGSIIGCTISKILLYPLDTIKINKQIYKQPF
+                     EKGNQENKKTLLSYFKNKNKNTIFFYNFIKTYGYKNMYKGFTFSSLTTIPATCLYFCC
+                     FEYLKLKKLQYNKISQEKELINDKSNKSDDLNFISYFSLAFLSEAISCIFFVPIDVIK
+                     ERLQAQKYLQLKEHKKTSILIKEYIHKQGLSRLYRGYVSTCLAYGVFCGSFFFFQNIG
+                     QNIMKKLDIESSHYNNLKLNLACSFFSGFISSPLDIVRIRGLKKLFREDSGKIYNLFK
+                     GNFYRCCLLSLSMTINVSVIEMYKKYMISKKS"
+     mRNA            complement(join(<234332..234339,234440..234523,
+                     234806..234972,235089..235335,235538..>235547))
+                     /locus_tag="PGSY75_0108400"
+                     /product="putative mitochondrial carrier protein"
+                     /note="encoded by transcript variant 2; alternatively
+                     spliced"
+     CDS             complement(join(234332..234339,234440..234523,
+                     234806..234972,235089..235335,235538..235547))
+                     /locus_tag="PGSY75_0108400"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="transcript variant 2; alternatively spliced"
+                     /codon_start=1
+                     /product="putative mitochondrial carrier protein"
+                     /protein_id="KYO03729.1"
+                     /translation="MDADNKNLVFHTFMGSIIGCTISKILLYPLDTIKINKQIYKQPF
+                     EKGNQENKKTLLSYFKNKNKNTIFFYNFIKTYGYKNMYKGFTFSSLTTIPATCLYFCC
+                     FEYLKLKKLQYNKISQEKELINDKSNKSDDLNFISYFSLGSKISTAERAQENVHINKR
+                     VYSQTRVIKIV"
+     gene            complement(<239370..>240952)
+                     /locus_tag="PGSY75_0108600"
+                     /note="ortholog of PF3D7_0108600"
+     mRNA            complement(join(<239370..239474,239630..239704,
+                     239866..239998,240117..240282,240417..240609,
+                     240704..>240952))
+                     /locus_tag="PGSY75_0108600"
+                     /product="hypothetical protein"
+     CDS             complement(join(239370..239474,239630..239704,
+                     239866..239998,240117..240282,240417..240609,
+                     240704..240952))
+                     /locus_tag="PGSY75_0108600"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03730.1"
+                     /translation="MFSRIKHCRYLKIQRLNSNGYDHLKKIYFMHMPYKNITNENKEQ
+                     IKHYEEYKEDCNILKRLRKNDFTHILNDDDKKDINKLKRKLLKLLKDYHPDMYIKDKN
+                     VERKKKKEEIFIEIYNKYKNIDKDFQHMGFSDIIDESIYEDEDERNERIEKYKRYSEG
+                     KRNDITTKHVEMYIVISILLTFGLVFSICVYLPFNGSSYDLEHIYENIEERKDDNVVT
+                     CFYNPIMRRYEYLPKNKNYIPPNPRQLYNFYKNNFPELPIDKDILKLKHFEMIKLPKN
+                     RAKKCRLFYDMKTNELIFLKKKKKDFAAIS"
+     gene            complement(<242258..>245703)
+                     /locus_tag="PGSY75_0108700"
+                     /note="ortholog of PF3D7_0108700"
+     mRNA            complement(join(<242258..242300,242393..242474,
+                     242588..242720,242914..>245703))
+                     /locus_tag="PGSY75_0108700"
+                     /product="putative secreted ookinete protein"
+     CDS             complement(join(242258..242300,242393..242474,
+                     242588..242720,242914..245703))
+                     /locus_tag="PGSY75_0108700"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative secreted ookinete protein"
+                     /protein_id="KYO03731.1"
+                     /translation="MKIYSLFVICFIILKICLCKNININDEGKKNQRVIKNENEEEKN
+                     NKRNNKKVQHNKVNHKKNNSVTKKIGEQKNKKIDEEKNKKIDEQKINGEQNINGEQNI
+                     NGEQNINGEQNINGEQNINGEQKINGDHHPNQFTEGLEKHSLDDKLFDDAELNDIIHK
+                     EKFFESLKNDNDVDNFLLVDEEMERLMEEEKQKSRKLEEDEEEEEEQEDDDEEEDNDE
+                     KWKNKSESNNSNNSNNSNSNNNNNMHANYDMYDNTDIYNDHNNVDIIQEEDMNEKEAF
+                     LNFEKKFNQVEDNNDSNDENNKIEDFISDNIHHSTDNVSHENIEVKKELPHKNENIIK
+                     GKDDNLTNQNFNNNNNNNNIVNNQMQYKTYKEKYEEEILNKPESIKYFFEVITEIVII
+                     IKLGLIYRYTNFLIPFKNFVISKTLEYIEKICVTFLSIHKFGREKYPDIYGFFLILVI
+                     LYILKYILKKILYRAYYNKYGMSKKYFLKNQSSENMYIENLLKRILYNVEKKKVLSNY
+                     ENILQDILENTDNLLVNSNIINKENKNIYTDMISNINNIGVFTYISTQALKKINHKSD
+                     LIINELTTSGFIDEDTSNKMDKLKNFSSINEYPYIDIKKYKENLINEYDEQFLLNDKI
+                     RYSGFQSTENDKSPPNNKYNMDSYNIDSYNIDSYNMDNSNVDNNININNHMDENINMN
+                     NNYLSDKYMDDSPYDENNMHEHLQHPNKQDYVSTKNTLKDRKLHSFYNNMDINKKDDN
+                     YMNKMMMDSDLQNYNTRKNMYLNPSFKEDLKNNDYANNSTDFVEGKEIQQADKYKTSD
+                     MNEEKKFEPIYNHNNKTILNNLNPFSPINDYNNKKNSLNEEQNNTNDSDVITNIANSY
+                     INKPPTNINRYTHPSIYNAHNKVTNPLLNTQGNVSKDLEQRKNTETLMNNKMEENYLI
+                     DKVTNNDMEEHMENKLDEEKLKMNTHMMNNVFEGGKEYIKTNEDLNNINKAGDHFLHN
+                     KIRSFSYTQSPYQGVENANNKNQKYLTQRKERQQIVATKSPFN"
+     gene            <247118..>249431
+                     /locus_tag="PGSY75_0108800"
+                     /note="ortholog of PF3D7_0108800"
+     mRNA            join(<247118..247133,247315..247382,247495..247626,
+                     247772..247842,247951..248006,248133..248438,
+                     248593..248772,248903..248973,249057..249110,
+                     249217..249270,249357..>249431)
+                     /locus_tag="PGSY75_0108800"
+                     /product="hypothetical protein"
+     CDS             join(247118..247133,247315..247382,247495..247626,
+                     247772..247842,247951..248006,248133..248438,
+                     248593..248772,248903..248973,249057..249110,
+                     249217..249270,249357..249431)
+                     /locus_tag="PGSY75_0108800"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03732.1"
+                     /translation="MLIEKYDEKPKFDLGFSPFYFISYPLYNIQCRSILYKHLNNYDA
+                     NITYTPLININNLNIKTYIIYIFNSLHQIYNNEGIRGLYKGLIPMLAHIVSKKSIYYF
+                     LEKIHFVIFRRLRSEKRRDIYDKKLIRNYENNLMNDKENDNNFIGDSINSKIVKQINF
+                     VKEENNFIKKKKKKKYFHLSLYHSFYEYVSCILSYPLLNISTKLIIFQNNSKSLLYNI
+                     KNIIRLTYMYDGIYGFFKGLNNYLIIQSMDKVLNCFLYRTFSNSCSYDKVVTIKVVLS
+                     TCLNTIMAPYIQYSILNRSQSLVPGLCKETTFSQFFSNFNWKSHLSNVSVGLVAAGVQ
+                     LIIIALLPKDTSKNEDIIDNEKDDNV"
+     gene            <250564..>251238
+                     /locus_tag="PGSY75_0109000"
+                     /note="ortholog of PF3D7_0109000"
+     mRNA            <250564..>251238
+                     /locus_tag="PGSY75_0109000"
+                     /product="putative photosensitized INA-labeled protein 1,
+                     PhIL1"
+     CDS             250564..251238
+                     /locus_tag="PGSY75_0109000"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative photosensitized INA-labeled protein 1,
+                     PhIL1"
+                     /protein_id="KYO03733.1"
+                     /translation="MLSSISPKRYSFDKQGNIKEIDFLSCKSIILPQQHLNAKDNFIC
+                     TTSILPNFYETPPDKASKLKMTQENNIDKANMGTNVYVQRTSSLSNMNVLQYADEVHN
+                     NLQDSNVHEINEPLIFADVNQYCGDANAQGIDPGVVAVSNALFAYNSAFQSIPIKSSP
+                     NVFKRRSKGEANSEWSNAFVTRVDPYECTDPEEEFKPYEVTKYYDEGKVKTVFNFDQE
+                     NYNQDM"
+     gene            <252772..>255989
+                     /locus_tag="PGSY75_0109100"
+                     /note="ortholog of PF3D7_0109100"
+     mRNA            join(<252772..252985,253096..>255989)
+                     /locus_tag="PGSY75_0109100"
+                     /product="LCCL domain-containing protein"
+     CDS             join(252772..252985,253096..255989)
+                     /locus_tag="PGSY75_0109100"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="LCCL domain-containing protein"
+                     /protein_id="KYO03734.1"
+                     /translation="MLKITCVILFFYIIKSLFVYTKSPETSLEKITEFRQQHRKTLDG
+                     RLCAAAFLHDDQTYTNCSTSLSPDGTSGREWCYVEVQLLGKGSRDWDYCRDSINYDKL
+                     RLHAKKVFEEKSLEADRLKDRLHVLNSRVYSMLQKYDSVCGKKHELINSRIEKINEWL
+                     DKSSESIIKIENNSNDLNSTKSIINQLQIDIKEENKNLKQSEENCKNLPGYENEPDSD
+                     GLKVSYFNNLFFDGIPIETRIEKDINFLYNSRGPLENLSPHKYSIRYESYLFVPHNGT
+                     YTFTIETDCYVRLLINNKVILTYGLEEVVDITDENMYYNNQHDMNQYNDGYKLNTPLS
+                     FSYRKYSNIKYTLNNDDGSEIIKKNSIPIELVGGEKHKFVLEISHSAHLKYKNEESSS
+                     FKLYWKSSRINQQIIQSHYFFTENIIPPTRFSSLDPDIFELGLVDINEHVYKNDNKWI
+                     ITKVNTKYIGLHLLKTQEHPQYNNFSLSINTGSNLFIASPIDNVFPLSPYKDSLWKVF
+                     DTNDIIEIENTGNSNNNNVNVNNNNMIHKKKQFKIKFIPLKNKSELKFYVSNNIPFFI
+                     FAQQRKIFPTICNGEEQILSLPSNAAFKECEESSSLSYEFNCIAGLSSLHMDKKFHVW
+                     RSSNSGIGEYIKVSFNAPVQINKFRFKPRDDVLTWPSEISLLFDDTEVIIPVLHTSNI
+                     EHNTTKLEHPIITTFVKIEIKDMFLNHNETGGSFELVGNSCNFTNDDYLVAHHASIDI
+                     IDCHNNTLNNIPDVLPLIHGDKFLITCDPNCIDNLSGEVYGSDVYSIDSSICKASIHA
+                     GVCNIQNKYNCKFLIIINEKQKNYIGTLQNNILSLNQSNNSNLSFSFSPILNPNFSQF
+                     YSSHPNSYSIVFKRNDDLNLPNKFLIDYGDIFTNYGSFAYGWNKPITFLNSSAQKKNF
+                     YSNGLYSGGIPFPPATASQHCITDLECQTNFWTFQTHENGTYTIQVLVGNLSSNIKQN
+                     AFIEVNGLPLIKNIQLEKNEYFVAVKNVHVTSRSLIFTSTCLETDNQCANAKTTIMAL
+                     QILKI"
+     gene            complement(<256739..>257437)
+                     /locus_tag="PGSY75_0109200"
+                     /note="ortholog of PF3D7_0109200"
+     mRNA            complement(<256739..>257437)
+                     /locus_tag="PGSY75_0109200"
+                     /product="putative mRNA cleavage factor-like protein"
+     CDS             complement(256739..257437)
+                     /locus_tag="PGSY75_0109200"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative mRNA cleavage factor-like protein"
+                     /protein_id="KYO03735.1"
+                     /translation="MLSANISSNLNNTAVNITSRENKGEWLLYPQSNYEFNIDEKLKN
+                     KFIIDKEKCKKRINAYNKNGIRNSVLAIILCHRYEYPHLLLLQHIESQKYYLLNGKYK
+                     TWEKPKEVLKKKLQKYINKIKDIHFTPAQINKEQEETVEIGDFLGEWWRTQFNSVFLP
+                     YLPAHISRPKEYIRLYQVILSPKCIFHLPPGFTLKAIPLFDLNNCGLAISGLSSILSR
+                     FKLHCMVQEQDVEN"
+     gene            complement(<259028..>260118)
+                     /locus_tag="PGSY75_0109300"
+                     /note="ortholog of PF3D7_0109300"
+     mRNA            complement(join(<259028..259859,259982..>260118))
+                     /locus_tag="PGSY75_0109300"
+                     /product="putative fatty acid elongation protein,
+                     GNS1/SUR4 family"
+     CDS             complement(join(259028..259859,259982..260118))
+                     /locus_tag="PGSY75_0109300"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative fatty acid elongation protein,
+                     GNS1/SUR4 family"
+                     /protein_id="KYO03736.1"
+                     /translation="MIRNIITKTNDEYSMEIIGHIRSYPKRPIFFIEEIYPFLNYVSF
+                     KWERDFKPFQFIQFVHNKYLICPLIVIIYLLFCKYGNILMRDKKALNLKRTISIWNFV
+                     LSFFNLLVTIKLYPVLIYIIYHYSLTGLLIIPPIYTCGFGSVGLWICFFIISKYFELI
+                     DTLFLILKKKEITFLHWFHHSTVLLYTWDTYYEEIPVGFVFICINAVVHTIMYFYYFL
+                     ASCYNKKFKWSIIVTFIQICQMFLGVLLTSYCLYISYIYTYNNKWAVSFVHKLKNNVT
+                     FQYGHYISRKNIILASLMYISYLYLFINYFFHRYIISYLLKKKKKS"
+     gene            complement(<263166..>263463)
+                     /locus_tag="PGSY75_0109400"
+                     /note="ortholog of PF3D7_0109400"
+     mRNA            complement(join(<263166..263207,263335..>263463))
+                     /locus_tag="PGSY75_0109400"
+                     /product="putative tubulin-specific chaperone a"
+     CDS             complement(join(<263166..263207,263335..263463))
+                     /locus_tag="PGSY75_0109400"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative tubulin-specific chaperone a"
+                     /protein_id="KYO03737.1"
+                     /translation="MEYMEMELKVLKINHAAVRRLLKELIFYEEEEKELRGKLNTLKD
+                     ENKSENEIKRAKD"
+     gene            complement(<264389..>265368)
+                     /locus_tag="PGSY75_0109600"
+                     /note="ortholog of PF3D7_0109600"
+     mRNA            complement(join(<264389..264630,264997..265050,
+                     265230..>265368))
+                     /locus_tag="PGSY75_0109600"
+                     /product="putative cold-shock protein"
+     CDS             complement(join(264389..264630,264997..265050,
+                     265230..265368))
+                     /locus_tag="PGSY75_0109600"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative cold-shock protein"
+                     /protein_id="KYO03738.1"
+                     /translation="MLRGKIHIHFNSYKKYFFSQLINKKKHDKITGNVIMFDKRKGYG
+                     FIKPNDGGPDIFVHYTDICQSRTFEVTNEEKKKLAWNASMEDITQKKEEYNFEHDNNK
+                     NNKKKEIKKEFKYLVPGERVKFSVIYDEKSNSSKAINVDYID"
+     gene            complement(<266062..>266209)
+                     /locus_tag="PGSY75_0109700"
+                     /note="ortholog of PF3D7_0109700"
+     mRNA            complement(<266062..>266209)
+                     /locus_tag="PGSY75_0109700"
+                     /product="conserved protein, unknown function"
+     CDS             complement(<266062..266209)
+                     /locus_tag="PGSY75_0109700"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="conserved protein, unknown function"
+                     /protein_id="KYO03739.1"
+                     /translation="MEGQHKEKNTKIKKSKKPLVVSNRKPFNVFEKKKSSKPLVRDPR
+                     FSDFS"
+     gene            <267089..>268801
+                     /locus_tag="PGSY75_0109800"
+                     /note="ortholog of PF3D7_0109800"
+     mRNA            <267089..>268801
+                     /locus_tag="PGSY75_0109800"
+                     /product="putative phenylalanine--tRNA ligase"
+     CDS             267089..268801
+                     /locus_tag="PGSY75_0109800"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative phenylalanine--tRNA ligase"
+                     /protein_id="KYO03740.1"
+                     /translation="MSTNNVEEKKNEELYNFLSILEEEFKLRKIENNNNNSNDDDVNK
+                     REDNIEYYKKLKDEKGLDVLINEYTTSLKISNKYNIDHNKVMGMIKKLETLYYIINVI
+                     KSFNTYHLNEEGIQYLKEGSPEFIVIKYVIENNKCTLEDLKKKLGKIGDIGLNTNLKN
+                     RSIQLNKADKSLTSNSNINDIEDFTQIYLNIISQYGHDEELLFAHLKNEIHKKKQLNN
+                     DKMKNCCKDDNNIINNLIQDLKKRKLLEIKKNSYSHVIKTSIFKKDIKKQITDINYLL
+                     LKNEEYKKYDIKKYNFFSSGKKINKGNIHLLTKQMRTFKDIFFSLGFEEMETHNYVES
+                     SFWCFDALYIPQQHPSRDLQDTFFIKEPEYCMNKFVDTQYIDNISRVHTYGDYGSFGW
+                     NYKWKLEESKKNVLRTHTTANSCRALFKLAKEYKETGSIKPKKYFSIDRVFRNENLDS
+                     THLAEFHQVEGLIIDKNIGLSHLIGTLAAFYKYIGIHKLKFKPTFNPYTEPSMEIYGY
+                     HEESKKWLEVGNSGIFRPEMLRSMGFSEEVSVIAWGLSLERPTMIKYNIKNIRDLFGY
+                     KSVV"
+     gene            <269329..>270394
+                     /locus_tag="PGSY75_0109900"
+                     /note="ortholog of PF3D7_0109900"
+     mRNA            join(<269329..269500,269654..269739,269892..269919,
+                     270060..270195,270328..>270394)
+                     /locus_tag="PGSY75_0109900"
+                     /product="putative phosphatidate cytidylyltransferase"
+                     /note="encoded by transcript variant 1; alternatively
+                     spliced"
+     CDS             join(<269329..269500,269654..269739,269892..269919,
+                     270060..270195,270328..270394)
+                     /locus_tag="PGSY75_0109900"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="transcript variant 1; alternatively spliced"
+                     /codon_start=1
+                     /product="putative phosphatidate cytidylyltransferase"
+                     /protein_id="KYO03742.1"
+                     /translation="VPSDITLLEYKYSKNNKKKKINSLKKLFIYLSFFTFGNNCNKLN
+                     SQDVIHILSNVYSDNKISNDEKLNTLNILNILNTRQKDIDRQVKCKMYSFLGSLLFPM
+                     FCLRQFKYYDSKTKIIILPFTTILGLYLGSFCGNILTGRFNDYRRSKFLGTLPANVFI
+                     KK"
+     mRNA            join(<269329..269500,269654..269739,270060..>270089)
+                     /locus_tag="PGSY75_0109900"
+                     /product="putative phosphatidate cytidylyltransferase"
+                     /note="encoded by transcript variant 2; alternatively
+                     spliced"
+     CDS             join(<269329..269500,269654..269739,270060..270089)
+                     /locus_tag="PGSY75_0109900"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="transcript variant 2; alternatively spliced"
+                     /codon_start=1
+                     /product="putative phosphatidate cytidylyltransferase"
+                     /protein_id="KYO03741.1"
+                     /translation="VPSDITLLEYKYSKNNKKKKINSLKKLFIYLSFFTFGNNCNKLN
+                     SQDVIHILSNVYSDNKISNDEKLNTLNILNILNTRQKDIDRQDPYYFQCFA"
+     gene            <270889..>271593
+                     /locus_tag="PGSY75_0110000"
+                     /note="ortholog of PF3D7_0110000"
+     mRNA            <270889..>271593
+                     /locus_tag="PGSY75_0110000"
+                     /product="hypothetical protein"
+     CDS             270889..271593
+                     /locus_tag="PGSY75_0110000"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03743.1"
+                     /translation="MGYHKLRLSMMLVLIISCVLFFSISPSEELFQMKGLDRTEKNLA
+                     VNLMKIYEDTKVEETNFYKNFDRVHNMFEEIKKKKNINNNYDEKHIKKEIASDLNPSL
+                     SESFMESRFMDSSFIEMQSKGPVEEETIWRALYDTQLRRSPPIEEIHVFSSEDVKKEY
+                     EEAKMDSFISQIDMIKSEFDKNLNYMNTEMLRQENKKNIMECACLFYHYLKQMNNKRT
+                     YKNEPLRKAYSTKILC"
+     gene            complement(<272183..>274582)
+                     /locus_tag="PGSY75_0110100"
+                     /note="ortholog of PF3D7_0110100"
+     mRNA            complement(<272183..>274582)
+                     /locus_tag="PGSY75_0110100"
+                     /product="selenocysteine-specific elongation factor selB-
+                     like protein"
+     CDS             complement(272183..274582)
+                     /locus_tag="PGSY75_0110100"
+                     /inference="ab initio prediction:Augustus:2.5.5"
+                     /codon_start=1
+                     /product="selenocysteine-specific elongation factor selB-
+                     like protein"
+                     /protein_id="KYO03744.1"
+                     /translation="MININVGVLGHVDSGKTSLCKCLSEILSTCALDKHKESKERGIT
+                     IDLGFSSFYIKKKIKYNYNINHKKEIETKLQNYQENDKNDLLFYKREEKYESHNIQYD
+                     NIININSNEEHKNSQNTNLTYHHTNNIYFYDEEIIQICLVDCPGHYSLLKTIIMGSEI
+                     TDIILLVIDINKGIQKQTIECLVLCNIINSDIIIVLNKIDLIPLHLREKKINSMKKKI
+                     QQAFYKFKSLQKLKYHIVSISANVKGKDNKGDQNETLSDDNMKSKKQTLSDDDMKSKK
+                     QTLSDDNMNDQNETLSDDNMNDQEKKSSDDNMKDQEKKSSDDNMKENMNTLNKEHIVS
+                     YTKSSSDTCTSKTINIKEIINVLSDVIKIPEREISTYEDFYFLYDHSFNIKGKGTIFT
+                     GTVIKGKIKINCNVNILSLNEIGKVKEIQSFKKKVHEGKKGSRLSLLILNNSIKNLKK
+                     NERGVIVYETSNISYFSMFICKVKQVEFYKKNINNSEHLICIIGFSSTECYGYFFKKL
+                     KNKNETDVSKKINYEKISQEDKVFPSISGGILNNDDKFDKKGNYLLIDRLSYDDNNKS
+                     DHCDYNNKSDHCDDNNKSDHYNNNNKNDHCDDIYFLVIMKKRIHCFEKEKCIFLKNDE
+                     HTNCRICLYGEIIEIIDKNCIYKKDDSFVFNKQPNIYKYEEYKDFKILKEKNKKGYID
+                     KIIDEHTIICKNLFQSSNQVIPYIDKKIYIIKSTNDSKNLNATNVNTTNVNATNVNAT
+                     NENTSNILHTGTIIKPFAKQGKVIVSFDDDISYLKNDFKSYIFLLLYYKDVFSKKNVF
+                     L"
+     gene            <275091..>275516
+                     /locus_tag="PGSY75_0110200"
+                     /note="ortholog of PF3D7_0110200"
+     mRNA            <275091..>275516
+                     /locus_tag="PGSY75_0110200"
+                     /product="putative FAD-linked sulfhydryl oxidase ERV1"
+     CDS             275091..275516
+                     /locus_tag="PGSY75_0110200"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative FAD-linked sulfhydryl oxidase ERV1"
+                     /protein_id="KYO03745.1"
+                     /translation="MNIEKCYEQSCKNRDKKNESNVNGLYENKKKQIYPPDRDEIGRA
+                     SWLILHTISANYPDNPSENDKIKHTKFFYAFSNLYPCHICKLDLLNILKKYHLNCNNK
+                     IKFSTFIFNLHNIINQEIGKDLYPCQDIQTIIDKYKTVD"
+     gene            complement(275726..276000)
+                     /locus_tag="PGSY75_0110300"
+                     /note="ortholog of PF3D7_0110300"
+     ncRNA           complement(275726..276000)
+                     /ncRNA_class="other"
+                     /locus_tag="PGSY75_0110300"
+                     /product="RNA of unknown function RUF5"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="unknown"
+     gene            complement(<276404..>277223)
+                     /locus_tag="PGSY75_0110400"
+                     /note="ortholog of PF3D7_0110400"
+     mRNA            complement(join(<276404..276965,277057..>277223))
+                     /locus_tag="PGSY75_0110400"
+                     /product="putative DNA-directed RNA polymerase 2"
+     CDS             complement(join(276404..276965,277057..277223))
+                     /locus_tag="PGSY75_0110400"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative DNA-directed RNA polymerase 2"
+                     /protein_id="KYO03746.1"
+                     /translation="MAEVRFCEECNNILYAKSDKKSKKLIYVCRSCEYISLKPNENNN
+                     IVARINYNYDRKEDIYIHPETKNDPALGRVRDWTCKQCGNNEAVFLQLAEKISYNPMA
+                     LIYVCTNKNCYYWEKEAQKIHDDNYFKSDKSSDISEDEDLLNKNFFIKHEKDNFSLLN
+                     HDDNIKKNKKAWRTIKEEGDDDEDDEEKKNKQEEEEGNKLQQELYKILNLNDKKSNDE
+                     LQNEVQSEVENDYDINVEEYFCEE"
+     gene            <278726..>285121
+                     /locus_tag="PGSY75_0110500"
+                     /note="ortholog of PF3D7_0110500"
+     mRNA            join(<278726..284920,285029..>285121)
+                     /locus_tag="PGSY75_0110500"
+                     /product="putative bromodomain protein"
+     CDS             join(278726..284920,285029..285121)
+                     /locus_tag="PGSY75_0110500"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative bromodomain protein"
+                     /protein_id="KYO03747.1"
+                     /translation="METRRSLKEKNNQKEFDIIKQNVQNKNASHKHAENKTAESKNVL
+                     KHSASEKSKAGNKNVRKESQEKENNSFNLKEDLEKKIKNKRTNSKDLAKNNIKNNVPR
+                     RKEKKNYIISSTLSIGDDDIKDKCDNKNDNYNISKRLRVYEKKNIEYEKGKHATHMNR
+                     LTKEEKRSSSISNRGNNKNNHKTTFKSNHNNNKKVGGTQRVPEEINTTQGKLNNIKKS
+                     KSSNNKCDDNNNICDNKNIYDDNNNICDKNNICDKNNICDNNNICDNNNICDKNNICD
+                     DKYQYDDDIIDTNLFEEKKENLNDILKIINNNKESINNLPDDKKEEKEKHVDVDHALS
+                     DLCSDNKICSDNNLCSDDNYNISKESGKKRKKRASHLDKKLDDLSKIIQENEENDLNM
+                     IKQIHEIIKSEKEQSQDSCSDIINKTRKERNLDIHKDNIKILKDVDEQIRDEDDIMSS
+                     DDKARKEEIEKRDIKKNKEVDKIIYDKLENNNSKKNENISENITTNMHTYICENICEN
+                     ICENININNMNSKNNNTHHNNVKKKSERTSNKKKEEENNRDDDNDSYNCIEMEPLTHR
+                     LSENKSENKEQQIILNRSIKRRLSQILDNMKKKKIFEIINNDNDDYTNICFNSHNIKE
+                     KLIERVMINKLTRISCNENDNLNNGNENTNYYLDKINLDVIYNKLHYDLYKNEEEFHD
+                     DVFLMFQVLKNIIEETKDKKEQMNLFNLRKNEFKNYEHEFYKMLISVRGTKCANKFMM
+                     DQQRYHEKEDKYFFKFFMESEKLSHDDKEKVGIASKNKINIININSNNNNNSNNNNNF
+                     VSEDHTCVSNKYKPSTSSIMLKGLNVENHKNNPKHEINKEGDDNIVNIYITDEEYELS
+                     AKGCEDTYKDNMSNADNMDIISNSVLLCNRADHLNIINNNEGLHLKSSSNINNSNNNN
+                     KCTNNDKYSSLVLNNHIEHKDILNGEHISSPNYITSVENVDKKGLHILEGINDHIKQQ
+                     PIHDNNNNDHDNDHNDNNNDNNNNNNNINNNNYYYNKSENTNKRLLKQWEKMLRDNVL
+                     KLLKNDNNSFYFKTPVLEDSSINDNIKEDYKMKIKKPMDYITISKNLSDGIYKEPIDF
+                     YYDMKLIYKNCIDFNPDIEENKYIIDAAKSSDLKFEYLWNKWKEKINNNFCDLNNNIF
+                     NEVYYIEFFKKITKKKKKHSSIYTMWIDYLISNNINIQEFSKLRNININELNKKCKPK
+                     ININNINLINYKKLNKNNLLSYIFKEEYNNILNTKKKSLTVSSTGFIDESIDNNTNNF
+                     STQNIQGNDLPDLNVQIKNLDTTSYDNIKNCKDNINQLCNLYEMENNHHLNQTHVSFE
+                     NSNLKDDTHHSDEKKDTEDDNNSKEYNMDDINNYSLQENNKIKIVLKDSNAVHNFEQN
+                     VENKSKGEQKKSTKMLKKRKRNKNVILFEENIFDNYLENKKSCMLKCDKNVFITDCFY
+                     YKNIFRNLHEFIDDHSTEGNDEKMNSHQNGTDCENVISKKNVNRDNNLNNDDSLNNDD
+                     NLNNDDSLINNDNLINNDDNLNNDDNLNNNNVNINLGEVQQNHNRNLIEETKQISHNE
+                     ENSKKLWKEKTTTLYNYDNKNYKTHVFHYSSNEEKKNTYITNDVNNINENLKIQFTQK
+                     TIHPHEHDGNILTVQEKTKEFMNKSCNISNEDKICIHIKKSNNIQMSKIPKSVFSGFS
+                     EDYQDESSSEDEKKVAEKNSNDKKVDENNINDKKVDEKNANDKKVDENNINDKKVDEN
+                     NINDKKVDEKNINDKKVDERNVCEKYMNAHKHATNDHINESYECVSFNDTLKCDVEYE
+                     KNAPSYFITYGNIINNIISNNEDTHEDNASQIQNENKNCNFYDKEDMSHAQMERHGEK
+                     MCDYNNEKKKKEVILKHTREGNDNNYNDDKNYDDKNYDDENLMNSDDSILFNISNKNF
+                     YNFHLLFKKDEKLKKEFFLQNKISEKTLLLNLYVDYSNMEDTSFFHINNTNFYNYYFD
+                     DYFYFFIKSCYDLDLYIKIQRKNIFLTDEKYFEFLKIHIMNKSTKNKKIPFYLCNNSV
+                     EQNNNLIKVLDNCFKHFNLYNGNSSSTLTLYDSVNEISFLLSQIRIYIKEIDILLRLD
+                     INKTTNTTTISILKKKVALMT"
+     gene            <286827..>292448
+                     /locus_tag="PGSY75_0110600"
+                     /note="ortholog of PF3D7_0110600"
+     mRNA            join(<286827..291011,291161..291293,291393..291790,
+                     291900..291979,292090..292128,292229..292278,
+                     292411..>292448)
+                     /locus_tag="PGSY75_0110600"
+                     /product="phosphatidylinositol-4-phosphate 5-kinase"
+     CDS             join(286827..291011,291161..291293,291393..291790,
+                     291900..291979,292090..292128,292229..292278,
+                     292411..292448)
+                     /locus_tag="PGSY75_0110600"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="phosphatidylinositol-4-phosphate 5-kinase"
+                     /protein_id="KYO03748.1"
+                     /translation="MRCNSVNIRNVLELSLKKKIKENTNLSDEEILIIYKRFNYISYN
+                     GKLNYDNFEKSLGILGSIKNAYLYKSIFKAFDLNNDNYLDFYEFCVAINIMLKGNKKD
+                     KLKLSYRIVNAGFNSNEHVGVLHKRSNISNEENQTNFNNINGDNNIDSIDNIDSIDNN
+                     DNIDNIDNNDNIDNNDNIHNNDNIHNNSDYHNNNNNSDNIHNNNVTHQNSLGQPLEKK
+                     NSNDHSNKHPSSENKIYNIDDEYNEKIKKNKKKDYSNYITYENFEKIVLSINDIKRQL
+                     LGTGDEIITSQIKYTFRSLSILCDDGIYRMNFECYKKALKCNEFLKLLGIHTKVADVF
+                     LQHELIKKKQKRTKDQSYKNRKYKNDTNKLTNHRIIKSLSESTNTRGSLLNDSTSILF
+                     LRKPKKKKKRKKKKKKKKLKLFERKNTFSSSMENKNNNRKIKTVSKILSKVNNISTTE
+                     AEVVVVVDPDREPISNECHHKQNEQNEQNEKNKNITFSHHHNNSNDNNIKTNSCVTNN
+                     IMNTKQSNEEKKQNEYLCSKNIYDKSNKTNDKIQLPNCDIFECSIIKSDKNILKEENN
+                     HYKNQRETYEYFTIDNNIFYNDPIIISKKNSNDRDKKLLKTFSSSSLKKKSYLKNYHY
+                     HIKKINKDNNIKGQDDVNYINIKGEDDANYINMKDEDDANYINTSNDPNNKVPKKKNN
+                     CNNSYYNNVSFNSAYYEYHSDIDMIHFTYNLKKKKKNTMSHRPSSKEYEKKTIYHKES
+                     HSNEKMKNVQMNENDLNILGKNNDITNEEDKKEKKGCDALNRGGYIKEQVQCQIDAFE
+                     NEEENKIYIQEYKECVEKYKEYVNQREGHLKDEEEEKNDDEEENESDEDESDEDESNE
+                     DESNEDENKNDSTDNHDNHDNNNNNNDYMNYCNNPFKDDDTLSALEKHLTNNNMIKMM
+                     SAKYLYHKFLEYKDFMNTTNMFSHFNKIYSYEGDKKHKDNKNVLKQTCNNNNDINYYS
+                     SICEEEIKKKKNEKKSSLNVEFGDDIIKKKFFISSVNSHYVMINNDLTKEQMLYLIRN
+                     ILMSIEDYLKKEKNRDYNKIFFLFFSIFIYNTQNDGVDQKEMHEEEKWDQTNRSEDKK
+                     GGNISNNQNVSNNQNVSNDQNISNNQNISNNHNLSNNHNLSNNHNISNNHNLSNNQNN
+                     IYDKILRESLVNQKKYIKLNIFKNIILVISIVRYFLHTITISQKYTSSYDSLDDSNMI
+                     KSMNSLKLNEINILLNRANEILERYSLGSVENKKVYINKSNYYNSPKKGKLSVSLRQS
+                     KQKKTFHRILAVYFGHERWDLVMNMMIGIRISSIKKFSISDISNYFHHKDVLQLPTSN
+                     AQHKVIFKNYAPIIFKNIRNFYGIRSKEYLTSVGPEQVISNMVLGNLSTLSELLSEGK
+                     SGSLFYFTSNGKYIIKTVCRNIHNLSKKLLPKYYEHIKKNPDSLLTRLYGIHSIKYQN
+                     NLGRKKKKIYFIVMNNFFSSIVEIHRRYDIKGSLVGRTVPETKREDHTIALKDVDIDE
+                     LGDIINIGPENKDRLLKVLKADADFLKENMLLDYSLLFGIHYRELSKDVVNWEETKTN
+                     HINHIYDCKGNCIASRPFHQCDYGGIISVDKKKIFFFGIIDIFTKWSIKKKFEHTFRT
+                     IQKFDGKNISCIHPNAYAKRFVTFIENHMK"
+     gene            complement(<294633..>295973)
+                     /locus_tag="PGSY75_0110700"
+                     /note="ortholog of PF3D7_0110700"
+     mRNA            complement(<294633..>295973)
+                     /locus_tag="PGSY75_0110700"
+                     /product="putative chromatin assembly factor 1 protein
+                     WD40 domain"
+     CDS             complement(294633..295973)
+                     /locus_tag="PGSY75_0110700"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative chromatin assembly factor 1 protein
+                     WD40 domain"
+                     /protein_id="KYO03749.1"
+                     /translation="MSSPKESKKRKSNALDEACLELSEEVENDVSHEKVDEDEEEDVE
+                     TQFNNWKTNSGLLYDFVCRKELEWPSLSVDFGDFHHENIENNVLNQIVCVGTHTSNKE
+                     PNFLYVCDVLFPLEQVPQEKCIYKSNENYEGFDFCSEKKKFTIKSKIAHTGEVNRIKF
+                     VPLEKKNFVVTKAVDGNVHLFDINKHKIETVDDKMNPEVSFIGNQSDGFGLDFQPLKK
+                     YILTCANDGLINVYDYNNLTTKTVQPFYKVQYKSPINDISPTNDPNLILACADNGYIL
+                     IFDFRVKSNEPAQQTLGQQVPVNTVALNTFTGLFASGSDNGKIKVWDLKKFHEPQHII
+                     NAHKEAIIRLNFSPNDTSILASASNNRFINVYDLNKIGEELDAIDLSDGPSELIFSHG
+                     GHTQPVTDFNWNHHKKLKMFIGSTSEDNTLQFWQLKSELLDETNTIPTSNTDVE"
+     gene            <298189..>299389
+                     /locus_tag="PGSY75_0110800"
+                     /note="ortholog of PF3D7_0110800"
+     mRNA            join(<298189..298646,298817..>299389)
+                     /locus_tag="PGSY75_0110800"
+                     /product="putative transcription initiation factor TFIIB"
+     CDS             join(<298189..298646,298817..299389)
+                     /locus_tag="PGSY75_0110800"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=3
+                     /product="putative transcription initiation factor TFIIB"
+                     /protein_id="KYO03750.1"
+                     /translation="NVSNENNNVRRKMLRNFRNSRNTSCPDCKEKGIIICDTSEGTQI
+                     CNGCGMVVESKILSEEQEWRNFQNDGQSKNTDRNRVGEISDIWLENNLTSTTFIKSSK
+                     KLQHLNMMTQINKNDQTLISAFNILKLICDTFFLRSNVIERAKEITKELQDMEQLKNR
+                     INNLNMLAVVYLACREAGHIKSIKELITFDRSYKEKDLGKTINKLKKVLPTRAFVYNE
+                     NISHLIYSLSNRLQLSIDLIEAIEYVVKKASTLITTSHRLNSLCGGSIHLIVELNTSE
+                     EKNLKLPNISQIATVCGVTTNTLKTTFKELLNAAEYIIPKYYLSEDNPKLSLLKQKYL
+                     SEDKRKKK"
+     gene            complement(<300192..>305506)
+                     /locus_tag="PGSY75_0111000"
+                     /note="ortholog of PF3D7_0111000"
+     mRNA            complement(join(<300192..300299,300437..300586,
+                     300684..300806,300920..300976,301045..301107,
+                     301238..>305506))
+                     /locus_tag="PGSY75_0111000"
+                     /product="putative kinesin-8"
+     CDS             complement(join(300192..300299,300437..300586,
+                     300684..300806,300920..300976,301045..301107,
+                     301238..305506))
+                     /locus_tag="PGSY75_0111000"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative kinesin-8"
+                     /protein_id="KYO03751.1"
+                     /translation="MESGNKKRIDTYEENEWIEKEGGNNFEDIKNADYSVSSNIEDVL
+                     ISNRTTENENEEMTGEYMSSSDISMKGGEKNAYKRVRHKEINKEDISIGNNNKCVIND
+                     NHVDNNDDQYDDNHIHNNEEENIQSVSFIDPEATPEKMNILISNSNSYIMNDNIHTES
+                     NHHNNIYIDHIHFDNIYNNNNEKNTKESYDKNKLCVIYKNQNESQNTNHNINTNPNFI
+                     SNDQFKETKDESNNNPVDELMKDIKIFNNSMQSISSTNNLSFQKNLSKMYSELASNKN
+                     LESLHNLFKDTSFGGNMEKAQFLKNILLASCLPQNGIMGIKKTEDSINKDIENNKEVV
+                     NINNKVPISDSINIQDSEYINQKRSSSYSSNEYIEGFNITNLSESQNLISNIEPTAVV
+                     MYSSPAKNNLDVKEGEENMEKKETKNILENVDVNTNTNDWNIKDDISPLNLNQYKETS
+                     MINMWNKSSSKKNISSNEWAKMKKSFCNIENNLIDYNKLNKTNSENNIEGIQNEIIDE
+                     EIKNIETSPYMNYLSNDNIMTVRNTNISNEPFPALDYVEQMGSNETMFIDNFEKCQVA
+                     KEPTSPFFHLYNSNDSSKVSCMGQDNNDINVDNINNKIDVNNINNKIDVNNINNDIYI
+                     DNIKNNNNNDIDKHTSVYKHMPTKCHINNISPSNAGDRSKLSSPALQSMKTKISNTHL
+                     ITKEEEVGASLKICKNEFTKLEHSKVNTVKIKSPKNVSKVCPNKNAINVPKVVKVKNK
+                     TNENVKTPKITKRNSDNTSGRVDQKMNHNININNNNNNNNNNNNNITVNNNVSVNNHI
+                     QTHEISNNHGGSSSSSPPVHQNGTLTNNICVKSNKNEKNPSVEKDITYNMNVVIRCRP
+                     MSMSEKNDGAKNVIKILDNKMVVLLDPSDNSDNVLRQNRSREKKYVFDYVFDENSSQE
+                     DVYNNSVKCLIDAVIKGYNSTVFAYGATGAGKTHTIIGYKNEPGIMMMILKDLFERIK
+                     MLQIMNEYKVKCSFIEIYNENICDLLNPSNEYLDVREDPIKGVTVSNIFEVCTTSVEE
+                     IMELIHTGNRNRTQEPTDANKTSSRSHGVLQVIVEETEKGQGVYQQTKRGKLCVIDLA
+                     GSERASQTNNKGMRMLEGANINRSLLALGNVINALVLRSKGNSKSNFIPFRDSKLTRL
+                     LKDSLGGNCKTVMIANISPSHLSYEDTHNTLKYANRAKNIKNVVTSNSIVVKHHLTMY
+                     IDVIEKLKNEIEFLKEQLNEKEKMHDYMSTNSTNYDYYDQLKDYEKNCSKEELIHIIA
+                     MLKKENQRLKMCDPQDGGMNNNNNDDNNNNDGDDNNNDGDDNNNDGERNNIVSDPFNH
+                     NEYNNSSKLEDDMVTNKHNEELAKYKEEVNNLKMMNEKLFIDNKNFQLKLQEYVNISK
+                     NLKTLNEEYKKQIDGFKSMVHNHDMNHIQIKKKLDDLKKKYAQLKESTDDKDNEDVLE
+                     KWKNELTKATYYKLLSINGYLYYITNLLLNERKKIKMIILDIERKLIQNKEIGTHKIS
+                     EDDIKVLQENKMDHQLKLNILQTNNLIKDLPIKIKDDKMKNFLYLFYTNKVLLQEKEE
+                     LQDFFELSSTIIKQKEKQIEDLKGQLKDINVSIMSKK"
+     gene            complement(<308057..>308806)
+                     /locus_tag="PGSY75_0111200"
+                     /note="ortholog of PF3D7_0111200"
+     mRNA            complement(join(<308057..308135,308440..308543,
+                     308696..>308806))
+                     /locus_tag="PGSY75_0111200"
+                     /product="hypothetical protein"
+     CDS             complement(join(308057..308135,308440..308543,
+                     308696..308806))
+                     /locus_tag="PGSY75_0111200"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03752.1"
+                     /translation="MESSKVIKMKNKLNTFEIFMNQYIVKYKNTKECFMCKHKITSNH
+                     IEKMENICPKMWKYFHGIINQPQCPLQSFGKVLKVKDLRFEELEKYKESLQRK"
+     gene            complement(<309545..>312766)
+                     /locus_tag="PGSY75_0111300"
+                     /note="ortholog of PF3D7_0111300"
+     mRNA            complement(<309545..>312766)
+                     /locus_tag="PGSY75_0111300"
+                     /product="putative replication factor c protein"
+     CDS             complement(309545..312766)
+                     /locus_tag="PGSY75_0111300"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative replication factor c protein"
+                     /protein_id="KYO03753.1"
+                     /translation="MDENSNYADDLSGFDYILNEEINKEKSVREKNKFDIYDEYELLL
+                     NKKKKRRNENINNNIYNNKRSNCGYNQGLHLNHFHKDIIDNNFSSNYIFNNYMFLREY
+                     VYKNNLLGDDIFFKKEQISLQKKKEIKKLLNSNEDINDFIKIYDCNHNYPPMYIQKRK
+                     EDGINYINDHNVNEYIENKYEEHNMSGRHNLISKNNKDFRKLLEQLLAQIKEEDKIIS
+                     EIKRKKEQQMKEEQQMKGEQQMKGEQQTDNHQNNINFVEKYRAKYFSELLTDESINLE
+                     VLSWLKKWNDKIKNEKNMNSNNNIKSEQEKNNDFERVLLLGGSSGKGKTTLAYVIANH
+                     FKFNVIEINGSDDRNKETLIPFIESVVCINSVISKPNLCIIDEIDGLSSTQQNIDSIM
+                     KFLNKKDKKNKSIIKRPIICICNDIYHKSLKELRKISKVIIVENINIEMLKTRINYIC
+                     DKENIKINNEAINKLIDICKSDIRSILNTIYFLSIGSRNTTXXXXXXXXXXXXXXXXX
+                     XXXXXXXXXXXXXNNKGVIINMELLNSYLFYKDANNNYIELLNMIYVKNKNKKITSKL
+                     LQDCHDFFYINLANEYNYSQSYYYIYDNLLSIPFNDFDFSKLSYCLDFLSFCDHLEYQ
+                     QKNILNYSLQKTLYYVVYLFIITIHLNTNSHIQYILINNSHTNYFQRKKNQVQKIKDN
+                     FVNEQFGVITYKYIYSKHFFSEIINYLFSFFYMNEFFFKNVHLWGKYSYYNDLDLPKY
+                     ILVPYEYKNINKFKTFCIKLLYIMTLFNISFTNISISATSANGFSNNNFINNINKNIN
+                     QDHDQYQDVNHNINHNNKKNNTDSYMNTQHNEKHNTYKNPSTHKLYIFDPFVDDILIF
+                     ADKKVHLFSNFQNIYNKYMSPNIITNTFHFKTLTNFLNTQVCETLNELKKWVNNTSLQ
+                     FNNKKNSMDNMQIMKTSKKNNHNKTTFEVTYSPNFNISLTDMILIAYQNSYKKSFQTY
+                     FENEQNNQKNLKLVNKNDQEKQFNVEHNILKTKVLFNKQHTNLTISDLVTQEKQYMKE
+                     TINKDIQIYFAGRYVKTKGSYKNIEERCNAVLQPLNFYIYQID"
+     gene            <313887..>316139
+                     /locus_tag="PGSY75_0111400"
+                     /note="ortholog of PF3D7_0111400"
+     mRNA            <313887..>316139
+                     /locus_tag="PGSY75_0111400"
+                     /product="hypothetical protein"
+     CDS             313887..316139
+                     /locus_tag="PGSY75_0111400"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03754.1"
+                     /translation="MACEKENEISENSWQKNNDNGSEINMCIKENSLKYEEDNINENI
+                     SYDDIISQNLNEKNSSESSIDSLFTEDNNKKKIYNTKNNINIKNKLSKNINKTIEENS
+                     HISINTEYTYSYYNNKNMTNNLCNSKYMNTDINNTLCKDIIINDINNKDIIITDINNN
+                     KDLIITDINNKDEIITDINNKDLISDINKNKISKDIYKKENMNGDNIYNKEKKKTLLV
+                     NQAVFFTPKKSTLNSSNEKKDMEYKKLKNINHDNISKDIINGHSSYKKFYEANSMTSI
+                     NNNNSSNNYLNNIEEKRNKNETFSTQTILRRKENLLLDNNNINNNNNNINGVNICKDV
+                     KEINNDNINNMNKFEYLMCQDKEEREKQEKNIYTIMGSEIERDKNKDKYNEMNKDKYS
+                     EINKNIFNDIYNDNKNIDVDIKRKGSNSYKINTYNKMINIENDMNGYHHNSSRSEHNF
+                     DIFNENERIKFFHVNKLNSINDKENDISSNSKKLDYLNLCNYSTEKKTDMLNLLQELL
+                     SYCECLKRNRKKSSYEIQKIRESYNKVSDLLKETLKREQNSHIKIEELRNIINNYNEK
+                     FERIKNSSEGTITNLNKNVQTLIELNNNLENEMNKIIEENIYLRKTIQHEISLNKEIN
+                     DLRKQIEILSNDKILLIDQIDSLRLENSKIENEKNVLLSDKTILNCKIDQLENEIKNN
+                     VHIHKKNLSEKEDNNPFIIYTDEEINEHINNYLNLNHEERKELFKNFLYHWRETNKAG
+                     QKFYDQAFYN"
+     gene            complement(<318005..>319678)
+                     /locus_tag="PGSY75_0111500"
+                     /note="ortholog of PF3D7_0111500"
+     mRNA            complement(join(<318005..318177,318297..318740,
+                     318873..318962,319099..319186,319358..>319678))
+                     /locus_tag="PGSY75_0111500"
+                     /product="putative UMP-CMP kinase"
+     CDS             complement(join(318005..318177,318297..318740,
+                     318873..318962,319099..319186,319358..319678))
+                     /locus_tag="PGSY75_0111500"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative UMP-CMP kinase"
+                     /protein_id="KYO03755.1"
+                     /translation="MNYQKLFLIYFFMFIVKYPYLFVENFHILKNSKHFPFYLNRTNG
+                     SYKKEEHFKIENQYYNKITRKFYTFKKNIYTSTSNFSINSYNISEKQFFSNNKFIMNK
+                     DQPFVIFMLGGPGSGKGTQCKLIQEKFDFTHISAGDCLREYLKKCEKNEVNTKHQEIV
+                     EDCINNGKIVPVDITLELMKIKMESEIAKRKKQEQNKLNDQSESGVEKKKDSFSFKKL
+                     DENANLKNINLEEYNNKLKYVNNIYENKDVLEILKNNKCEQEAKYKFIIDGFPRNFDN
+                     FNGWINIIGNYAYVHLCLFLYCDEEIMIERCMNRGLTCGRVDDNMDTLKKRFDTHNND
+                     CIPIINLFLKENKCIYINANKNIQDVWSDIQYVFTNM"
+     gene            complement(<320795..>321541)
+                     /locus_tag="PGSY75_0111600"
+                     /note="ortholog of PF3D7_0111600"
+     mRNA            complement(<320795..>321541)
+                     /locus_tag="PGSY75_0111600"
+                     /product="hypothetical protein"
+     CDS             complement(320795..321541)
+                     /locus_tag="PGSY75_0111600"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03756.1"
+                     /translation="MCDVIKLCETEELKELFIKEYNEYLKFIRNVELYYDKLEINWKK
+                     FHLFYEQNKKDPLEYHKEKNKHNKIKKVQNRKKNINIYSDYQSIEKYFKINQEKDIQN
+                     NCYYYKKFDYDKNSFILYTLKKNVTNAVELYLNINIEKLNKIKNCLLNYINDFCKRQI
+                     NQIINLIILCEIKLNNLYISQKNHHINNNIKIKHIHLINNIIHFNQQFIFEVTKNLIP
+                     FFTNFNIFSSPHYFNYHFKYFNNCMEIIGE"
+     gene            complement(<321780..>322133)
+                     /locus_tag="PGSY75_0111700"
+                     /note="ortholog of PF3D7_0111700"
+     mRNA            complement(<321780..>322133)
+                     /locus_tag="PGSY75_0111700"
+                     /product="hypothetical protein"
+     CDS             complement(321780..322133)
+                     /locus_tag="PGSY75_0111700"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03757.1"
+                     /translation="MLLKRNNTLHDFPYHLYWFGLRPNLRNMFNDNNYKFSCLEEFYL
+                     FRFSNINSFNLLNLNHSNNNFVNVWFDNLDNLIKCFTIKYSSNKSKIYLYEQYFQKKF
+                     PVNDIFDYKNPRNFY"
+     gene            <324110..>326944
+                     /locus_tag="PGSY75_0111800"
+                     /note="ortholog of PF3D7_0111800"
+     mRNA            join(<324110..324976,325111..325235,325330..325417,
+                     325519..325602,325757..325887,325992..326055,
+                     326190..326352,326478..>326944)
+                     /locus_tag="PGSY75_0111800"
+                     /product="hypothetical protein"
+     CDS             join(<324110..324976,325111..325235,325330..325417,
+                     325519..325602,325757..325887,325992..326055,
+                     326190..326352,326478..326944)
+                     /locus_tag="PGSY75_0111800"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03758.1"
+                     /translation="NNLNINNKNNELLNNKKNGYKNNIKKKKKKIIKENNGNEQNNGN
+                     EQNNGKEQNNGKEQNNGKEQNNGKEQNNCNNTLTLKNEENDSNLFKTHRNKRNNKNDG
+                     IEKHKGDVIKNESDVIKNESDIIKNDVTKRKNYITTPNDDIIKEDKNNNLVKMNGYNI
+                     KDIRRKKKDNNKEYIRDHMKKKKDIIINNKGKKNNTTNNNDIDSNSNNNNDINSNNNS
+                     NNNNNNNSNNNSNNNSNNNSNEYTKRKNTYKKHLNEPYKNENNKKKVNEKKYNNNVYI
+                     NNNIKKNHVNKNKNENYLQNVWLFLFDNEVRKENEQCVGKIISLDTFNTIEKFYKNYK
+                     YMKSPSAIKEYYNIYLFKHNFRPLFDEYPNGFICTVKNASHFKNDNVDLIWEKMVLLA
+                     IGEEFSLIDLCGLQLCIRDNEMFFKIWMKNYSNYLKNILIKKLKDLLDLPSNTSLVIR
+                     NLSNVYNNKKNQQGKEKNEKAKKNYNKNNKGSEFTASKKDSLKMNNYPNIVPPQNYLG
+                     NYNVYKYNLDMNLFYLYNNQNMPNPYIYLPVNVASNQLNNIYPDYMYDSNMNYPIDIY
+                     NNNNNLLSNDINAPSNCVNNKMNGSAIIEKKNKIDYGLKNNEDYKKKYMYSLNSNDIY
+                     EDSKSSTCIKSVNTDDEYEYNNSSNNNNNSNYLNNKQI"
+     gene            complement(<328023..>328592)
+                     /locus_tag="PGSY75_0111900"
+                     /note="ortholog of PF3D7_0111900"
+     mRNA            complement(join(<328023..328079,328271..328402,
+                     328536..>328592))
+                     /locus_tag="PGSY75_0111900"
+                     /product="hypothetical protein"
+     CDS             complement(join(328023..328079,328271..328402,
+                     328536..328592))
+                     /locus_tag="PGSY75_0111900"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03759.1"
+                     /translation="MENSSKTISQNTIKAHVEANDECKEKKEKYLKCFNNWYKNNFLK
+                     GDLTQACDDYYEDYQMCVMNDLNKKGLGHLSNVEKEK"
+     gene            complement(<328783..>331166)
+                     /locus_tag="PGSY75_0112000"
+                     /note="ortholog of PF3D7_0112000"
+     mRNA            complement(join(<328783..328825,329241..329306,
+                     329635..330481,330596..330696,330880..>331166))
+                     /locus_tag="PGSY75_0112000"
+                     /product="putative TatD-like deoxyribonuclease"
+     CDS             complement(join(328783..328825,329241..329306,
+                     329635..330481,330596..330696,330880..331166))
+                     /locus_tag="PGSY75_0112000"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="putative TatD-like deoxyribonuclease"
+                     /protein_id="KYO03760.1"
+                     /translation="MKLVFHYIKYINVLLYISNIFLKSNSLKIYKDLRYINTLNKYKG
+                     LQIKKRSNLKKNHNIRRMEDNESSFIDIGSNLTDKMFDGVYNSKKHENDLQNVLNRAK
+                     NNNVDKIIITCTCLAEIDKSLKICETYDPEGKFLYLSAGVHPTNCYEFIDKNKHEEKE
+                     IIAKKEYEEFIEYFKNKQGDNSKMENDNKKICDDKKDVNNFNEILLEKSLDTIPGFKY
+                     NEKDKEYLEKLKNKIIKYPNRIVCIGEIGLDFDRLYFCSKYIQIKYFIFQLKLVQMFN
+                     LPMFLHMRNCSETFFKIVDIYKFLFEKNGGVIHSFTDKKDIVHNIVQNYKNLYIGVNG
+                     CSLKSLENINAVKKIPLDHLLLETDAPWCGVKKTHASYEYIKDTYEKRAYTNLKKIKN
+                     IIKCDDSTIFKERNEPYNIADIAEITYKVREEAMPFNLFCKKIRCNTLNLFKKLR"
+     gene            <332817..>333308
+                     /locus_tag="PGSY75_0112100"
+                     /note="ortholog of PF3D7_0112100"
+     mRNA            <332817..>333308
+                     /locus_tag="PGSY75_0112100"
+                     /product="hypothetical protein"
+     CDS             332817..333308
+                     /locus_tag="PGSY75_0112100"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="conserved Plasmodium protein, unknown function"
+                     /codon_start=1
+                     /product="hypothetical protein"
+                     /protein_id="KYO03761.1"
+                     /translation="MKVLNNRLVVLCPIIILFFFLNSVVLGNNYRNNINFHETENAAK
+                     AMRKLLSGEINSIKLDNGDELKIKLNDEKHKDSIKGNKNYSFISNLEEEIYSQTDLLR
+                     KEQEMNEQNIKIIEDRQEFYILNNDEIENVATHFVLENNFDELNIPSFKQSLIDIIQS
+                     LNN"
+     misc_feature    335859..>336370
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="interrupted by gap;
+                     centromere"
+     misc_feature    <336471..337385
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="interrupted by gap;
+                     centromere"
+     gene            <341439..>346886
+                     /locus_tag="PGSY75_0112200"
+                     /note="ortholog of PF3D7_0112200"
+     mRNA            <341439..>346886
+                     /locus_tag="PGSY75_0112200"
+                     /product="multidrug resistance-associated protein 1"
+     CDS             341439..346886
+                     /locus_tag="PGSY75_0112200"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="multidrug resistance-associated protein 1"
+                     /protein_id="KYO03762.1"
+                     /translation="MTTYKENVGISNKGYKKKQSCRNMSFLNFATFDWVRPLINDLLK
+                     GNVQELPNICGNFNIPYYASKLEENLRDIQVKNYEIYNEKKSSDEHVLHHCNSNDASE
+                     KKVYNVYYNNILWSILKTFKFRIILIISFYILETLLVTLGGKFIDYYMRILEGQKIPF
+                     YLSFLKDFKVFSGLVVVMVMFFHLFFEALLYFYFHLFTINLEVSLMYFLYKINLYSNN
+                     NHLKNPDELYNRYRKFSSHTEIDEISRDFFSKNVSSYSSGIKNNNKIMDNNNNNFMEN
+                     DYIINFIKSRNKMENDSLNENRNSPNVNIYNIMFSDVPSVTFFVTSCINLFNVFIKIF
+                     MSFYVFHIKIGSNSVGISIWMSIALYSTMILFEFLPSLYKSKYLIYRDKRIDNMHHVL
+                     KEFKLIKMFNWESFAFKYINIFRIKEMKYCKIRLYLSNIGVFISAVSSDIIEVVIFFM
+                     YLKDRLNKKEEIKFTSIIMPLYVYKILISNVVNFPNLVNNVMEGSVNIKRLNNYINDH
+                     LFYNDIKNYFMYSTRYNKDYNIVVDSTFLKNENITSHDDSTSSYNLKHLKKGIKNKLT
+                     NMFKYFFFYHKLNYHKNIINKQILSGSFNNIDDNTDKKMCFQEHKSNSTYNYNANYIH
+                     EKKEEYENIHNSSNSTMSNEFEAKRNNNEFIIKLENCSFGLSYDNKCDNDNILKNINF
+                     NLKRNSLAIIIGNVGSGKSAFFHSILGDLSMTHGNMHIENFFKKMPILYVPQNSWLYM
+                     GNIRSMILFGNEYNPLIYKYTILQSELLNDLSTIENGDMKYINDDHSLSKGQKVRICL
+                     ARALYEHYIHMYKLCKNYEKRFIQLNEILDKDLINNKNFFSYNNKKSKLVNYNIPFNE
+                     NYLHKCLMDDNNLYLYLLDDVFTSLDPSISKKIFYNLFCKEDNISFKDNCSFIISMNK
+                     STLDNFLIEDILDNVQYEVEIFEIQDKTLKYRGNISEYMEKNNLNITKESHWCYSNLN
+                     TIDYTRIKLFDEVELNNVKHSNKMLYKEAYLVKGNTESVSFEIDSINKEYIKKKRKKN
+                     YKKENMNNNNKDNIHMNHDHKNYNDINLGHNFTDDSATVSSLGNEYTLDTNTSNNSDK
+                     EENVKPVYNKDIHEKFNKSSSLPFVKSSSNMINNPNNIKYEDNSSCFKGSISLETYLW
+                     YFQQVGFVLLTFVVIFMLISIFTDEIKFVFLTMMSIISKNNKEQSNIILQKQARYLEY
+                     FVILPIISLITSGICFAMIIYGNITSAIKVHNNILCSILNAPLYIFYNNNLGNIINRF
+                     IIDISAFDYGFLKRIYKAFFIFFRCILSSLLIIYMLRDCVFIFPFVIILIYFFVFKRF
+                     SRGCKESQRLFLACHTPLCNIYSNALSGKNIINIYKKNTYLLDIYEHHIINFRINYFI
+                     KWLINIWASLYIKIFILLLTTYIIMHPHLYSSGIIKLYEEKNYDRILSTLGYCISFSA
+                     RLGVIIKFLLCDYTHIEKEMCCVQRLEEFAKISNQENASMNMNKENELNVITTQTYKE
+                     KNESTSDKIFSIIENKNISLSSIINRSQDDESEKKYGIKFENVYISYKKKIPLVNGTY
+                     KYIDEEPSLKNINMYALKNEKIGIVGKSGAGKSTILLSILGLINISQGKITIEGRDIR
+                     TYNRKGEDSIIGILPQSSFVFYNWNIRTFIDPYNNFTDDEIVHALKLNGINLGKNDLY
+                     KYMHKQDMKLNYKKYKNIIQTSKVINQSNDNTILLTNDCIRYLSLVRLYLNRHKYKII
+                     LIDEIPIFNLNNSTNDELNSFLIGKAKSFNYIIRNHFANNTVLIISHHANTLSCCDYI
+                     YLLRKREITYRCSYEDVKTQSELSHLLEMDD"
+     gene            <352450..>357287
+                     /locus_tag="PGSY75_0113100"
+                     /note="ortholog of PF3D7_0113100"
+     mRNA            join(<352450..353445,353592..>357287)
+                     /locus_tag="PGSY75_0113100"
+                     /product="surface-associated interspersed protein 1.1
+                     (SURFIN 1.1)"
+     CDS             join(352450..353445,353592..357287)
+                     /locus_tag="PGSY75_0113100"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="surface-associated interspersed protein 1.1
+                     (SURFIN 1.1)"
+                     /protein_id="KYO03763.1"
+                     /translation="MQKIGITSNILIELEKNIVKRSGPIEVWKKKFLEEVSEKINKSL
+                     KKEDTKECKKNCRNFNYWMDDKEEDFVSKKFFLNEFITSSVWKNEFEKAIINILKKEA
+                     KSCSRNRKKYPKEIRNIMGELEDYIDDINDYKEKLKSGYCWSEKYTDYIIWLKKMKEH
+                     FMTHKDWNLLKNNKYKRYIVKYLKRSLDDMFQNKIECISDIPDIKEEVVELVSKHKTN
+                     VDLKSSNGEDVKNVNTEIFPTPKDPEIKEPPIEIVSKPLEWLLFNNFTMSGNNSTPEY
+                     SRVTNYKVRPTSIQVMNKVPPTVTSNFLPKDFPYIVAWILGAIIAGTLFVFGRTRKKQ
+                     KAITLRTEEVVKEKIKVVDEAKEKKIPVRTENEHMKKNFFWKWVTIIEIHFLIIEDIR
+                     KYEWDMNKEDFLSICINEFMNEKNRKCLYNEDDDFNSTEVMIKGQTFLWNKWMERHKY
+                     ILDKWKEEESFKYLKNDWKREEYEYMKKIYKELLLSLRGDTYNMSQRQKIIWKKWIAK
+                     HPYRIREKIIDQWFHKLFEEINKNNIISDEIIDVLLNDYIESDKNCEHIYNMSEKKEK
+                     LKLILWIQIYMCVLEEEEKYKLQSEKEMFIDTCIYKLKDKKKHDEEEYDERNKELMKI
+                     LNEMKKMEILNTDDEIRKKWKHQDWFKQMRKEWIREENRYLNEINEEIIRNYNMELKR
+                     YMFEKHWEDIKLKWIDNIDGDHIDGDHIDGDHIDGDHIDGDHIDGDHIDGNHIDDAWS
+                     AIIKYFERDDEEGRKYIQKKTHYFTNKLYDIECIKENTLQSDEVKEKFNIKTIIDIHM
+                     VIIEDIENDEWKKDKGDFLHICFEEFIKRKEFKEEGLYKIIINNEEKNNALNISDNNI
+                     IYILQNTWSEWFKRHTYILDQWKKEEWFKDLKNDWKREEYEYMKKIYKDLLLSLRGDT
+                     CNMSQRQKLIWRRWIAKHLYHINDNTVKKWFKEILEQLDKGNIINLSYIENEINKLNE
+                     ENEKNLLNEHQISYNKKKILTTILWIQIHMMVLEESKKDACKKSKEIFLDTCIDELKK
+                     EEEEKKKEKLHSHEKTKEIIKIVEDMKKLNNLDIDEHRATEWKKKKWFKEMKKDWVYI
+                     RDRYLLDLEERHKYDQYQCEELIDVSSLDVQKNISKWNWENIQFKWIDYENEKDWLKG
+                     VHVDGYIYEDIKGAMNDDVDEYIYEDIKGAMNNDVDEYVKDNMEKDANTNVDKDHIKK
+                     YKECDDFFKMENPLIWQTVIEIQLKIMEESKKEKWETNKYDFLDICIEEYIKNENKDN
+                     SRNILEDEIFSMNKNIMWDTFIETHRYILEKWKREEWFHNLKKEWEDEILNYLNSSEN
+                     RNDANNKNCNESNTNFMIEKEKIVFRKWINKHIEELKDCYEDEKNPFLEEEEVKKKKK
+                     LILTAWIQIHMMVLERFKEDEFLRTKELFIDAYIEEFKKDKHPNKYNNKIINMLEIIK
+                     KNIHHTNLNNEMNEWKNETWFKQWKDDWIKEENGNVFWLAQKRKERCTGKKYQKSEKK
+                     YEQKDKYMNEYNIGKCYINIHKNLLKKYLKYMNFKWIDDDNEIDWLRIVGNDQKDKQN
+                     KKKKIDKVSEE"
+     gene            complement(<358334..>360312)
+                     /locus_tag="PGSY75_0113200"
+                     /note="ortholog of PF3D7_0113200"
+     mRNA            complement(join(<358334..359977,360103..>360312))
+                     /locus_tag="PGSY75_0113200"
+                     /product="putative exported protein"
+     CDS             complement(join(358334..359977,360103..360312))
+                     /locus_tag="PGSY75_0113200"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="Plasmodium exported protein, unknown function"
+                     /codon_start=1
+                     /product="putative exported protein"
+                     /protein_id="KYO03764.1"
+                     /translation="MSMVSLKKIKIHDKIIHTNKHNNEEKRKKVVDLKLTIEQNDNIK
+                     SKGLFFYRDFYFVLFLLVCIFQSFYEPPFNHPRSDQNQKRTHKRHYHYRLLTDYHHIS
+                     DTITYKTNTLYQPSNEKKEEKKKKEKKTSGLSNIFLSGTNKAQTKVSNNKRDISLTVQ
+                     KQNNVTNKSKNNKNDKRTISISKKRNHSCSNNNNNKEEEEKCTKNFTQYLDYFNSNFK
+                     ENKNKNTTLTNQLYQQQSHNSLNNNNTTISQSDKYTNTNIPHNNNEHVKEQPCNNRTQ
+                     KRNKMINYQRQGSQTSYNSRYDSITNNYQRQGNQTSYNSRYDSIKNNYPRQGSQTSYN
+                     SRYNSITNNYPRQNSQTSYNSRYNSITNNRKHSETEELQERYTVYTNKLQKSGNRHES
+                     LHSYNIKENTKNNKKKAQGNNIKDNKNFNKHTNELLNGDQNGPHGYLVPYGYSVPYGY
+                     SGPYGYSVPHDYSVPYGHDAHTGHSNNFLQSSQYTPYEQNGSYPPYGNIVYYGPYIQN
+                     GNHMEPIPYVVTPSGELMLPHYDPHANGGYVVMPVDSFTQQQINLYIDSTVQTRELQM
+                     RQVYTQELMEYKRELKLNYEYERRMSKLQRRLINLSTIFMLIGSIILMCMT"
+     gene            complement(<362672..>364583)
+                     /locus_tag="PGSY75_0113300"
+                     /note="ortholog of PF3D7_0113300"
+     mRNA            complement(join(<362672..364366,364491..>364583))
+                     /locus_tag="PGSY75_0113300"
+                     /product="exported protein (hyp1)"
+     CDS             complement(join(362672..364366,364491..364583))
+                     /locus_tag="PGSY75_0113300"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="exported protein (hyp1)"
+                     /protein_id="KYO03765.1"
+                     /translation="MKNIKRELFLFFVVLFFLYIICGCIYEKLYECQYNKIYNNPHES
+                     EKYRQFNKIRLLSENKNILEFNKEKISLHDYINNDNYNTLDAIDYNFYNDKEEQCNDT
+                     TCVDKKNYNRTNNNEEECSKNFYQYLKYMEQNVNVNTNNINTELQIISNDHNKQNYNY
+                     DNNSDNNNNNSDNNNNNNSEYGETNYFLERNNKLIDSQQNEMNNIFQETINKTLTYDM
+                     STENSHTNNNSIHYETQNGNREYMNLSNNNLTYIISPYDILPYNDQNNLSQYETLDSN
+                     HCNDLNIYNPYYQPIDLPYYEPVSYAHDRSNNYSHHSNHNYSHHSNHNYSHHSNHNYS
+                     HHSNHNYPHHSNHNHNHSHHNHPHHNHSHHNHSHHNHSHHNHHRYGPGGDPYHRHDHI
+                     MDRSYYNNNLQNDNDDMMLTYNQMNDNKSLYDEQNFELELKKIIKKNHLQNGNITDSC
+                     DTRVSDYNKKLVEYNKKLNEYNEKLNEYTRRLNEYNKKHNENKQSRQNNNENTLSQDI
+                     VLYGADFQNAFRYRQNTRSYYSNIHSNREEDLDRVIDFTNNNNASEDEYTFGNEQEIY
+                     HQHSKRLEKKLFDYQNGTNPLINFLERHF"
+     gene            complement(<365808..>367254)
+                     /locus_tag="PGSY75_0113400"
+                     /note="ortholog of PF3D7_0113400"
+     mRNA            complement(join(<365808..366851,367072..>367254))
+                     /locus_tag="PGSY75_0113400"
+                     /product="putative exported protein"
+     CDS             complement(join(365808..366851,367072..367254))
+                     /locus_tag="PGSY75_0113400"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /note="Plasmodium exported protein, unknown function"
+                     /codon_start=1
+                     /product="putative exported protein"
+                     /protein_id="KYO03766.1"
+                     /translation="MDVKNLKNILTYINRYDNEKNIFQAKQRIQTNKIKNNHFVSFGH
+                     PFFIYILFIYIFQSFQKHPFYQSYPNLHIINTYHKFNNHRLLTEYQHLFENKKDRKSI
+                     FYQTYKTNDKYFNPYDHDDGCNLNFIQYLNYFHKKYRQKEKLQLPMLREYENYSAPPY
+                     NTVDQGANQYSHVLQLQNEKDKKYEQIRQNDKNSQNEKDKKYEKDIQYEQNSQNEKDI
+                     QYEKDIQYEQNSQNEKDIQYEQNERNITNGEYTPYYECDINCHLFNYYYNNPNSYTTY
+                     SISLDRGFILPFPSSQTDYMNYLDDNRFYTYDDNEEEEYDEYEEYEEYEKYNEQEQYD
+                     DDIYLYNKQNNIRVFPKYTNKFNVYPYNIEMSYLEDGRTSYKKVNYSDKKYKENFFSE
+                     LIILFLFICYFLHGIA"
+     gene            <369626..>374758
+                     /locus_tag="PGSY75_0113600"
+                     /note="ortholog of PF3D7_0113600"
+     mRNA            join(<369626..371851,371936..>374758)
+                     /locus_tag="PGSY75_0113600"
+                     /product="surface-associated interspersed protein 1.2
+                     (SURFIN 1.2)"
+     CDS             join(369626..371851,371936..374758)
+                     /locus_tag="PGSY75_0113600"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="surface-associated interspersed protein 1.2
+                     (SURFIN 1.2)"
+                     /protein_id="KYO03767.1"
+                     /translation="MKPRSQETEERRKTKGVHSGGSKKGSKDKVKKQPVPKFIERNGL
+                     HGSSNEKTSNSESSTSDIRKSRRGRPANSKNNRGDGRNRKNKRLQEKHRLTELSDKRL
+                     KRRKEIIPPNPSHHMKEVEPIVKNGNNMEEEEELSESDYQNEFETDSDSYQYIEATIE
+                     SRPNDDGINSIFGIQFPNFFDYTDFDLSDFSLSNIPYPSIRLPFFPRSSRIYKGIYDG
+                     ISRIPLGPTHINMYQRNVVDTASEIVNKVRDNMGSDEKGNDKPERSTDEMRGGDGKNT
+                     RKPDTCSDVGQDVSNHPSEQEDVDRREKEGKKEEDEMAKESKDSEGSHTNTGEGNTRS
+                     SNPNDVSKDNESNGVSEPREGSDGNNESNDLNFETSNKRKDDVDLTSTCTGLTNGDNY
+                     GTDCTSMNNENSIDSEGKTITTYVSGDGRCNTFPRFNSSPRSNCMTASSPSDDYKSEN
+                     EKNLPLEANNEQILSNDLGEYHEEAVTADMTDPSIISVSPVHEVEVSIPPNETTCEGV
+                     IYTGDASPCKQSSNSIGIESSRMGPSSNGGNISNEISRITTVSTMGSHQSLNSDSSQM
+                     MSKMLGMNSVEPSAISIKGTTMEAPQYSSLSQTMGEDGGSGQTYSKGQEQKGKETESV
+                     GLTNEGSTNEGSTSEGSTSDSHTSNGHTSDGHTSDGHTSNDRTRDGLKIASRMRRSPQ
+                     RNSTNELSITRRISKNGGTPIINKTHKSFSSFFDFSSLTKNISISLAIFGVIFLFIFS
+                     NKHSSLGMFNKKKKKRRRKSVLINEDNMNTKMLERYEDIDDENNKFDEDDCNDNELNK
+                     RSLILPYKKEEEEVYKIEDQIERIGNEIIEREKSKYINVEHISDENTYDYNNIYSDDD
+                     IKCVDVMSIIKEKKEIWKWKTIIEIQMVVIEEIHNEEWDMNKEDFLSICINEFMNEKN
+                     RKCLYNEDDDFNSTEVMIKGQTFLWNKWMERHKYILDKWKEEESFKYLKNDWKREEYE
+                     YMKKIYKDLLLSLRGDTYNMSQRQKIIWKKWIAKHPYRIREKIIDQWFDKLFEEINKN
+                     NIISDEIIDVLLNDYIESDQNCEYIYNMSEKKEKLKLILWIQIYMCVMEETEKDSCIK
+                     KKETYVDTLIENIKDKEYIIDVVEDIKKDIHTLPLNQSICKWKKEKWFEELKNNWKVE
+                     ENKRLNYIPLKNNNDIYKEVIEKSVTYIEKNILHKLLDDINFKWIDEDNENDWLKVTE
+                     NNSKDENNIIYINKKNNENRNIYINKNINKEENKMKCSEIKYMFDNMTLQGNTEDYHE
+                     NNNNTFNNNKNIFNNNKNIFNNNNNTFNNQFSEDPINQNKEDINRNNDQINIMFNQHK
+                     NEWIQVIKLHLDLIDECKKEEWEKNKYDFLDICIEEYIKNENKDNSRNILEDEIFSMN
+                     KNIMWDTFIETHRYILEKWKREEWFHNLKKEWEEEILNYLNSSENRNDASNKNCNESN
+                     TNFMIEKEKIAFRKWINKHTEELKDCYEDEKNPFLEVEINKKKKKKNYKLIAWIQIHM
+                     MILERFKEDEFLRTKELFIDICIEGIKKGYLYKNNDIIIQMLYKLKSDIYNSCEYLLS
+                     QQKDDKKKEKEEWYKKLKKYWMDKGSTHFNFLRQKDNYETILDIIKQSMLIVYNNMFI
+                     KNYDDQNFQWIDEDNEKDWLKIVDIKTEKRLRHNICEHKRLKDIKNDIQNKMSILKDI
+                     YKTKEMLTFYSEEI"
+     gene            <377111..>378763
+                     /locus_tag="PGSY75_0113700"
+                     /note="ortholog of PF3D7_0113700"
+     mRNA            join(<377111..377221,377378..377512,377693..378092,
+                     378201..>378763)
+                     /locus_tag="PGSY75_0113700"
+                     /product="heat shock protein 40, type II"
+     CDS             join(377111..377221,377378..377512,377693..378092,
+                     378201..378763)
+                     /locus_tag="PGSY75_0113700"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="heat shock protein 40, type II"
+                     /protein_id="KYO03768.1"
+                     /translation="MATLRKTNLQEIFYFSKFFMNACFISLLIITVNCFNYAQYVYNK
+                     DIGVYNEEIGIIYKRWLAESNKNFFFNKDNVGFGNSSLDYYSVLGVSKGCSEDDLRRA
+                     YLKLAMKWHPDKHVHKGTKEEAEEKFKNICEAYSVLSDNEQREKYDLFGIDALKQSGF
+                     NSSNVEGNISINPLEVFTKAYSFYNKYFSKSGSLGNNNIFTHIKNLYPLRNEVSEDCS
+                     YNNVEEYEVPLYVSLEDLYNGCTKKLKVTRKRYDGSYLYYEDYYLNVDIRQGWNNGTK
+                     ITFHGEGDQSSPDSYPGDLVLVLHTKNHNRFVRKSRDLYYRHIITLEQSLTGFDFVIK
+                     SLDNRDIYIQIDEVVKPDTKKVITNEGMPYSRDPNIRGNLIVEFDIIYPNTIKKEQKK
+                     LIKEIFKENN"
+     gene            <382666..>391755
+                     /locus_tag="PGSY75_0113800"
+                     /note="ortholog of PF3D7_0113800"
+     mRNA            join(<382666..385789,385879..387200,387349..390012,
+                     390121..>391755)
+                     /locus_tag="PGSY75_0113800"
+                     /product="DBL containing protein, unknown function"
+     CDS             join(382666..385789,385879..387200,387349..390012,
+                     390121..391755)
+                     /locus_tag="PGSY75_0113800"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="DBL containing protein, unknown function"
+                     /protein_id="KYO03769.1"
+                     /translation="MRNYIESLEGNKNGWMLKKNILKREINKKTDEKANTSYDTTQYD
+                     NDYFWRWIRLLKYEIKNEVWNTPSYLILYKYLTDVNRSNIHDTSHNELRNNEESESST
+                     EQIEQIKQIKQNNEQIEKIEQIKQIEQNNEKIEKIEQIKQNNEQIEKIEKIEQNNYQI
+                     EQNNYQIEQNSEQIEGPNNIIDTNSMKNINYYIWREIQKSVLQYMLKHYDDKDNYSHI
+                     LFEWDIIINNFLEDELKIKIKERDRQIDEALKKENISHIYLNIDINKFIEEKLKDKIK
+                     NNINEDTTCDIHTINKKLVPVRRYNLNTDNILEYLKDIYNKYKKNKNIIKLKEDIMKE
+                     FEKVIYEKKNIYIKNEFKNIEDINNFDDYKDYCKDLYRNINDFIDIFFTNDIVEDKTT
+                     KEIQCIIKNIRQLVGINYFDKYMERIKIKKMEELKESEVTDLLDNFKDSDGFNKSITS
+                     DKLACAYFYKDEYEYPQCFRFFKEWLENISKEKTKWEEFLNKIKYEDKDQYEKYLEIY
+                     RSYLYDARQIYNTYENTCKDEKYSGPIHSDEYAQIIYNIWHSLNMNTSDDISNFFKIP
+                     KFLLSDEGSVKSKVDIKSEEHKTRRIDNTPNYNNNDNNNNDNNNNNNDRGISGFLQGD
+                     TKIYKSDNILPHNINNDDLSLDLSTKFPHLILFKEKEAKDMSDDIIIKHKFYCSRNVN
+                     NNDQMGICKYNLNDNMRKKGIKHQGIYHNDMYHHDNKMNKKTYDLSEYIYIPERRKDI
+                     CTKYFQEINFNKNINLKRQLLEAIIKTCVVVAKNLLEKHEGDIHKTMRDIKNSFFDIK
+                     DIVIGLDIVENNHDAYIEPIIKKIFEEGNNNMERDRVFWWDLHKKIIWAGMINQIQKE
+                     IKEKKTTKQKKEQEDIYIDLSLPSDQIDQFNRWYIEWTEQYCNQKLIKMNELKKQCYN
+                     NKNINVCNKNCKNKCNHFYKWNDKKKKEWNELAKKFEQMKNEGNYKNIYINNFTPEMF
+                     LSLNCKTCDCIPKEGKLFEQSYDEYREVCKACPQKKGNEKKKEHGLESGHKGHVRSRR
+                     RRDTSSIIVKPSKENLKTLISVQCEPRYSYKLDCVTDQNMFSVCNMIHDIDKTSKCPG
+                     KKSENKDVDTNISHFNDNSGDVKYGVYCPPRRKEICLDAVNKMFTDDKSNCLIDAFVS
+                     VAKKEGELLWEQYEDKNKAMTAIRRSYADLADIIKGTDLWLEDDHTKKASENIKNEFY
+                     LGDKNNDGITRKQWWEKYRRVIWKGMLCGIQDKVNSTFPSERLCFFHKDFDEIPQSLR
+                     CFVEWTEKFCEERKKKIEEFKMKVDEENKTKISKELKSCNETNGESYTESCRSYKEWT
+                     DKKRDEYNQQLNKYNSDKNNGKYNDIEDANSDSASQYLVKKCPNCNMEDIEKEAFGYP
+                     EGYENTCKCLIEPKNEERVSSESEESSVEEEEPPKDKDAKEEISESDINTQEVSPNTP
+                     TIDGREEDHIEITDTPVEKNDFKNYNFPTFLTAVGGIIILVTLLYRYTFLGLLFGRKK
+                     KDVKKKRIDMINILHIPTNNYNMPNEKDINSYEFFGSDPVELYDIKSKKHCGITSQSY
+                     ICIENPYAAILSEREQRILEESSDSDIDYEHEEMDLENMFLKKKPKNKTLIEIHLEKR
+                     KNMNNREEGSNRKVPKNITWFEIHMKGKDNNKEDIHIKYDIDKISDNNNNKGDSMYYD
+                     EYDEYDEYDEYDEYDSMDYDEYDEYDSIDYDECDNINYDECDNINYDECDNTNYDECD
+                     NINYDECDNINYNKDDIPDYIYDKPNKCSEEENIRHMEHIHDILKKNTDELISIFIES
+                     YNRKLDDEEYNNILCILENKTKEDDQNNIVNMREDNKNDMHKETTKRVDTTLSDNICD
+                     KNKKKKKKKKKKNKKKKKKRKNKNKNKNKNISICKNTYDQKLLWEEWFNRKNEDFLNS
+                     LNEEYTHINLNNFIDNDNNYKNANYILDDVNKYPLTSYLNNIYKYFIEKGVQYFDDIN
+                     NILKNNINEDKTHNNNYNDNNNTINNYYYDEEYEYDMYPGLRNPKRNYKILCEEIREE
+                     WNVINNVDKDKKKNNTSLVKIISLNDIINTMREDKTNDKMRKEDVNNRNVKKETKKWS
+                     GNSNDIDYIDESDDSDDSDDSNDSNESDDSDDSDDSDDSNDSDDSNESDDSDDSDDSD
+                     DSNDSDDSNDSDDSYDSNDSNDNNDSKANDKSDDSNYSDKDNMNKNHLSDDKKCTFII
+                     PPKYYNSNIKENENYMGYDIIPKVYNEMLEKDGYNNFSDYNKIEENRIKENVSCPSDD
+                     NKYNLKDDDVFEYNEVNYNSNKDEKPFDPSEVISICDICCNDKKRKDNHLTCDCILYK
+                     RKDNVCYCSVCKEKEKNMREDLLVVKYNEYPIRLPDPLNLLYLLISRKLWKAVKYFFF
+                     FYYLFKCTLLKLLFQRYGKRPTRQIIIKSKKERTQEICFYPIKEENKKAYVNYKDEPH
+                     LINKKKCMCVDCYCKNCNNLSDIPNECTCSKINEDTNNDMINISEIFYRFIKFITIIE
+                     IYLCVIEEIKMEEWEKKKPNFFMIFVEEIEEIDDIKDDINNKNNDAIIFYGHRDKRKK
+                     TKKRKKNNKINEINNCDEDCHINSIYNIKDNEENVNKIKKRYEKKEKKKVTIPKSNEQ
+                     LIDECLKKRNDLMKNIYDEKINIRNDKLYDEKNEKLEETSKKEQSNEYNNKDYYFPVE
+                     DKKNVIFLNIFNKYNKFWKELIKKKNCMLELWRKEKWFQELKERWINEEKYILHEQDK
+                     EKEKYLNRSGDKNENLHTEKRKKNINSKRDDNNNNNKNDDDDGDSNNYYDNVANKFLK
+                     RKEIVWRIIIQNILLNLEIWDKYEWFNLLVEEKASSFDIFQLFDFKNDVYFLNDNLFD
+                     NNMLYCASTKNYGVMENDNDDDKIMKIQNLNEKLKNGKAEFKDILSYLHTYMLDDCKR
+                     DELIKEKELLLKICTEEIIKKLEENEKK"
+     gene            complement(<392326..>393217)
+                     /locus_tag="PGSY75_0113900"
+                     /note="ortholog of PF3D7_0113900"
+     mRNA            complement(join(<392326..392988,393149..>393217))
+                     /locus_tag="PGSY75_0113900"
+                     /product="exported protein (hyp8)"
+     CDS             complement(join(392326..392988,393149..393217))
+                     /locus_tag="PGSY75_0113900"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="exported protein (hyp8)"
+                     /protein_id="KYO03770.1"
+                     /translation="MNIYIRTISFTLFIFLLIFSSNHGGVQKKDNQNYNSHKFCLNCS
+                     GGYLKNSRCLSENSLSYSDEGEPLKYGANDNNYDSNLLKTEEQKQEMHEHMKMLIKLY
+                     VNSSHDPVKEQKLFQQVKKYFKHHEYKDFMSTFFKVIKIHNDITHLKKQMRSTEKKYR
+                     VITCVAAFLSTISLVFTVVILSSLNLKNENMIITTLLGLLGFIISLPLISYILSPYLN
+                     NSLDKGYRIADLYSEKILRQILHFE"
+     gene            <398360..>401879
+                     /locus_tag="PGSY75_0114000"
+                     /note="ortholog of PF3D7_0114000"
+     mRNA            join(<398360..398512,398601..>401879)
+                     /locus_tag="PGSY75_0114000"
+                     /product="exported protein family 1"
+     CDS             join(398360..398512,398601..401879)
+                     /locus_tag="PGSY75_0114000"
+                     /inference="similar to DNA sequence:RATT:1"
+                     /codon_start=1
+                     /product="exported protein family 1"
+                     /protein_id="KYO03771.1"
+                     /translation="MKERRYNSIYKKDDKMEAFRNNNKNKIHIIKVSLMNFLSVIIFI
+                     ILYIISLHVFFYKTNSFDFSLHAPILYSNGRFNRILYTTEKKKVNRRVHIQTQREPQN
+                     CNYKKSMKNYLKCLKTAPYIDDAKYGALISEEEEREMKLIKKMELEELEKRDELMEKR
+                     RLRRIERMKKKEEEERIKEEEKRKKEEEKRIKEEEERLKEEEKRLKEEEEKRLMEEEQ
+                     ERLKEEEKERLKMLEEDKLYMEREEQNKKIKLNVNDKVETFERLKSKNMDEKEKVEKK
+                     EDSVEMKKDKVEEKKDTEEVIEEEVSKDKEDTEEVGKDEVSEHKEDNEVGEEEKIEEK
+                     EDSVEVGEGEASESKEDTEEVREEEVSEDKGDTEEVGKEEASEDKEDSVEVGEGEASE
+                     YKGVVEEGGEEEKVEEKEDSVEVGEGEASEEKGGVEEGGEEEKAEEKEDSEEVGEGEE
+                     SEDKGDTEEVGKEEASEDKEDTEEVGKGEASENKEDTEEVGKEEASENKEDTEEVEEG
+                     EISENKEDTEEVEEGEISEDKGNTEEVGEGEVSENKEDTEEVREEEVSENKEDTEEVR
+                     EEEVSEDKGNTEQVGEGEVSEDKGDNEEVGEEEASEDKEDTEEVGEGEVSENKDDTEE
+                     VGEGEVSEDKGDNEEVGEGEVSENKEDTEEVGEGEVSEDIGDAEEYIRGKEEVKEPEV
+                     GNDIEEENKENYIKNLDVQDNLYEINVLNGGDIISFLENKNKLIQNEGEEDDDLNNNI
+                     VHDITDNIWNSIIYDDDNNNNNSKTNSSSEEDILDDKKLDDNTRKTMKKNYYELLNVK
+                     EDSDINEIRRKFYNLSLKYYPKMDNDKNLVLNNKFENISEAYQILGYENRRKLYDSGE
+                     FDEIDKMIIIDPVIFFNLIFTSDMMYEYTGNSQVSSFVKFFFEKNISIEDISYYVGEI
+                     MNEMIEGQTIREEKIAELLKDKLDLYIDNEDEWEKLMENEISMLLKSSFSNFILESIG
+                     WTYENVSNIFLEEKENSDINKKDIYIKEANERIIRNSIILRQCKSRFISIITNYYPFK
+                     EQNNPFIKKAQYVSSSNYILNDMKNMDYTMDNIHRAIDDLSNENISILLEEEKKEILE
+                     EILRNILKIILCDIETTVRRSAQIVLQNVEGDKNLMFKRAKGLQSLGKMILQKVN"
+     gene            complement(<402520..>403156)
+                     /locus_tag="PGSY75_0114100"
+                     /note="Pfmc-2TM Maurer's cleft two transmembrane protein;
+                     ortholog of PF3D7_0114100;
+                     multiple frameshifts and stop codons"
+                     /pseudogene="unknown"
+     CDS             complement(join(402520..402984,402986..403156))
+                     /locus_tag="PGSY75_0114100"
+                     /inference="similar to DNA
+                     sequence:PlasmoDB:PF3D7_0114100"
+                     /pseudogene="unknown"
+                     /codon_start=1
+     gene            complement(<403967..>404612)
+                     /locus_tag="PGSY75_0114200"
+                     /note="ortholog of PF3D7_0114200"
+     mRNA            complement(<403967..>404612)
+                     /locus_tag="PGSY75_0114200"
+                     /product="exported protein family 3"
+     CDS             complement(403967..>404612)
+                     /locus_tag="PGSY75_0114200"
+                     /inference="ab initio prediction:Augustus:2.5.5"
+                     /codon_start=2
+                     /product="exported protein family 3"
+                     /protein_id="KYO03772.1"
+                     /translation="IITKYIKTRTLTENYKPCDIKYMNTSIFSGNKNPQKREEKLEEK
+                     KKELKEKKKDNIKEDNNNNKENETEKNMKNNMENNMENNMEDHIEDHVDDHVDDHVDD
+                     VLEHHNSLEDIIKEYYEFTDPSIDEENKSFFKKLKFIFNMLDDVHSDLLVNNHLKNGS
+                     IFSPEFVPINVLSTMTVAFPPIGTWTLPYISRTINFMTKYKGEKIYTEHESKKK"
+CONTIG      join(LVLB01000002.1:1..404612)
+//

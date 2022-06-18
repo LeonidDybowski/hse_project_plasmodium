@@ -1,0 +1,3430 @@
+>Feature gb|CM003858.1|
+<369	>1	gene
+			locus_tag	PGSY75_0301000
+			note	ortholog of PF3D7_0301000
+<369	>1	mRNA
+			product	acyl-CoA synthetase
+			protein_id	gnl|WGS:LVLB|PGSY75_0301000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301000
+369	>1	CDS
+			product	acyl-CoA synthetase
+			protein_id	gb|KYO03132.1||gnl|WGS:LVLB|PGSY75_0301000
+			inference	ab initio prediction:Augustus:2.5.5
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301000
+<4076	>5152	gene
+			locus_tag	PGSY75_0301100
+			note	ortholog of PF3D7_0301100
+<4076	4144	mRNA
+4451	>5152
+			product	exported protein (hyp13)
+			protein_id	gnl|WGS:LVLB|PGSY75_0301100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301100
+4076	4144	CDS
+4451	5152
+			product	exported protein (hyp13)
+			protein_id	gb|KYO03133.1||gnl|WGS:LVLB|PGSY75_0301100
+			inference	ab initio prediction:Augustus:2.5.5
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301100
+<8713	>6623	gene
+			locus_tag	PGSY75_0301200
+			note	ortholog of PF3D7_0301200
+<8713	8516	mRNA
+8383	6833
+6703	>6623
+			product	serine/threonine protein kinase, FIKK family
+			protein_id	gnl|WGS:LVLB|PGSY75_0301200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301200
+8713	8516	CDS
+8383	6833
+6703	6623
+			product	serine/threonine protein kinase, FIKK family
+			protein_id	gb|KYO03134.1||gnl|WGS:LVLB|PGSY75_0301200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301200
+<11797	>10306	gene
+			locus_tag	PGSY75_0301300
+			note	ortholog of PF3D7_0301300
+<11797	11702	mRNA
+11514	>10306
+			product	putative alpha/beta hydrolase
+			protein_id	gnl|WGS:LVLB|PGSY75_0301300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301300
+11797	11702	CDS
+11514	10306
+			product	putative alpha/beta hydrolase
+			protein_id	gb|KYO03135.1||gnl|WGS:LVLB|PGSY75_0301300
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301300
+<14581	>13779	gene
+			locus_tag	PGSY75_0301400
+			note	ortholog of PF3D7_0301400
+<14581	14492	mRNA
+14420	>13779
+			product	putative exported protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0301400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301400
+14581	14492	CDS
+14420	13779
+			product	putative exported protein
+			protein_id	gb|KYO03136.1||gnl|WGS:LVLB|PGSY75_0301400
+			note	Plasmodium exported protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301400
+<17607	>16727	gene
+			locus_tag	PGSY75_0301500
+			note	ortholog of PF3D7_0301500
+<17607	17473	mRNA
+17359	>16727
+			product	putative exported protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0301500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301500
+17607	17473	CDS
+17359	16727
+			product	putative exported protein
+			protein_id	gb|KYO03137.1||gnl|WGS:LVLB|PGSY75_0301500
+			note	Plasmodium exported protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301500
+<21759	>19381	gene
+			locus_tag	PGSY75_0301600
+			note	ortholog of PF3D7_0301600
+<21759	21559	mRNA
+21390	>19381
+			product	exported protein (hyp1)
+			protein_id	gnl|WGS:LVLB|PGSY75_0301600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301600
+21759	21559	CDS
+21390	19381
+			product	exported protein (hyp1)
+			protein_id	gb|KYO03138.1||gnl|WGS:LVLB|PGSY75_0301600
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301600
+<25714	>24547	gene
+			locus_tag	PGSY75_0301700
+			note	ortholog of PF3D7_0301700
+<25714	25532	mRNA
+25326	>24547
+			product	putative exported protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0301700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301700
+25714	25532	CDS
+25326	24547
+			product	putative exported protein
+			protein_id	gb|KYO03139.1||gnl|WGS:LVLB|PGSY75_0301700
+			note	Plasmodium exported protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301700
+<32106	>33030	gene
+			locus_tag	PGSY75_0301800
+			note	ortholog of PF3D7_0301800
+<32106	32305	mRNA
+32460	>33030
+			product	putative exported protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0301800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301800
+32106	32305	CDS
+32460	33030
+			product	putative exported protein
+			protein_id	gb|KYO03140.1||gnl|WGS:LVLB|PGSY75_0301800
+			note	Plasmodium exported protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301800
+<34748	>33558	gene
+			locus_tag	PGSY75_0301900
+			note	ortholog of PF3D7_0301900
+<34748	>33558	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0301900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301900
+34748	33558	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03141.1||gnl|WGS:LVLB|PGSY75_0301900
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0301900
+<37567	>35639	gene
+			locus_tag	PGSY75_0302000
+			note	ortholog of PF3D7_0302000
+<37567	35852	mRNA
+35716	>35639
+			product	putative golgi organization and biogenesis factor
+			protein_id	gnl|WGS:LVLB|PGSY75_0302000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0302000
+37567	35852	CDS
+35716	35639
+			product	putative golgi organization and biogenesis factor
+			protein_id	gb|KYO03142.1||gnl|WGS:LVLB|PGSY75_0302000
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0302000
+<41446	>45483	gene
+			locus_tag	PGSY75_0302100
+			note	ortholog of PF3D7_0302100
+<41446	>45483	mRNA
+			product	serine/threonine protein kinase
+			protein_id	gnl|WGS:LVLB|PGSY75_0302100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0302100
+41446	45483	CDS
+			product	serine/threonine protein kinase
+			protein_id	gb|KYO03143.1||gnl|WGS:LVLB|PGSY75_0302100
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0302100
+<46805	>47657	gene
+			locus_tag	PGSY75_0302200
+			note	ortholog of PF3D7_0302200
+<46805	>47657	mRNA
+			product	cytoadherence linked asexual protein 3.2
+			protein_id	gnl|WGS:LVLB|PGSY75_0302200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0302200
+46805	>47657	CDS
+			product	cytoadherence linked asexual protein 3.2
+			protein_id	gb|KYO03144.1||gnl|WGS:LVLB|PGSY75_0302200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0302200
+<47983	>52002	gene
+			locus_tag	PGSY75_0302600
+			note	ortholog of PF3D7_0302600
+<47983	>52002	mRNA
+			product	putative ABC transporter, (TAP family)
+			protein_id	gnl|WGS:LVLB|PGSY75_0302600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0302600
+47983	52002	CDS
+			product	putative ABC transporter, (TAP family)
+			protein_id	gb|KYO03145.1||gnl|WGS:LVLB|PGSY75_0302600
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0302600
+<53305	>52644	gene
+			locus_tag	PGSY75_0302700
+			note	ortholog of PF3D7_0302700
+<53305	53237	mRNA
+53131	53030
+52931	>52644
+			product	putative CDGSH iron-sulfur domain-containing protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0302700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0302700
+53305	53237	CDS
+53131	53030
+52931	52644
+			product	putative CDGSH iron-sulfur domain-containing protein
+			protein_id	gb|KYO03146.1||gnl|WGS:LVLB|PGSY75_0302700
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0302700
+<55660	>54350	gene
+			locus_tag	PGSY75_0302800
+			note	ortholog of PF3D7_0302800
+<55660	>54350	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0302800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0302800
+55660	54350	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03147.1||gnl|WGS:LVLB|PGSY75_0302800
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0302800
+<62583	>58586	gene
+			locus_tag	PGSY75_0302900
+			note	ortholog of PF3D7_0302900
+<62583	58990	mRNA
+58895	58803
+58663	>58586
+			product	putative exportin-1
+			protein_id	gnl|WGS:LVLB|PGSY75_0302900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0302900
+62583	58990	CDS
+58895	58803
+58663	58586
+			product	putative exportin-1
+			protein_id	gb|KYO03148.1||gnl|WGS:LVLB|PGSY75_0302900
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0302900
+<68059	>65690	gene
+			locus_tag	PGSY75_0303000
+			note	ortholog of PF3D7_0303000
+<68059	>65690	mRNA
+			product	N-ethylmaleimide-sensitive fusion protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0303000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303000
+68059	65690	CDS
+			product	N-ethylmaleimide-sensitive fusion protein
+			protein_id	gb|KYO03149.1||gnl|WGS:LVLB|PGSY75_0303000
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303000
+<74600	>70293	gene
+			locus_tag	PGSY75_0303100
+			note	ortholog of PF3D7_0303100
+<74600	>70293	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0303100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303100
+74600	70293	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03150.1||gnl|WGS:LVLB|PGSY75_0303100
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303100
+<77038	>81666	gene
+			locus_tag	PGSY75_0303200
+			note	ortholog of PF3D7_0303200
+<77038	77039	mRNA
+77229	80370
+80506	80606
+80772	80850
+81589	>81666
+			product	putative HAD superfamily protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0303200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303200
+77038	77039	CDS
+77229	80370
+80506	80606
+80772	80850
+81589	81666
+			product	putative HAD superfamily protein
+			protein_id	gb|KYO03151.1||gnl|WGS:LVLB|PGSY75_0303200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303200
+<83036	>82337	gene
+			locus_tag	PGSY75_0303300
+			note	ortholog of PF3D7_0303300
+<83036	83036	mRNA
+82797	>82337
+			product	putative DNA-directed RNA polymerase subunit I
+			protein_id	gnl|WGS:LVLB|PGSY75_0303300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303300
+83036	83036	CDS
+82797	82337
+			product	putative DNA-directed RNA polymerase subunit I
+			protein_id	gb|KYO03152.1||gnl|WGS:LVLB|PGSY75_0303300
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303300
+<85562	>88219	gene
+			locus_tag	PGSY75_0303400
+			note	ortholog of PF3D7_0303400
+<85562	86869	mRNA
+86968	87041
+87171	87211
+87327	87442
+87551	87678
+87795	87875
+88002	88065
+88181	>88219
+			product	palmitoyltransferase
+			protein_id	gnl|WGS:LVLB|PGSY75_0303400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303400
+85562	86869	CDS
+86968	87041
+87171	87211
+87327	87442
+87551	87678
+87795	87875
+88002	88065
+88181	88219
+			product	palmitoyltransferase
+			protein_id	gb|KYO03153.1||gnl|WGS:LVLB|PGSY75_0303400
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303400
+<89810	>96505	gene
+			locus_tag	PGSY75_0303500
+			note	ortholog of PF3D7_0303500
+<89810	>96505	mRNA
+			product	putative spindle pole body protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0303500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303500
+89810	96505	CDS
+			product	putative spindle pole body protein
+			protein_id	gb|KYO03154.1||gnl|WGS:LVLB|PGSY75_0303500
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303500
+<97215	>97754	gene
+			locus_tag	PGSY75_0303600
+			note	ortholog of PF3D7_0303600
+<97215	>97754	mRNA
+			product	plasmoredoxin
+			protein_id	gnl|WGS:LVLB|PGSY75_0303600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303600
+97215	97754	CDS
+			product	plasmoredoxin
+			protein_id	gb|KYO03155.1||gnl|WGS:LVLB|PGSY75_0303600
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303600
+<99534	>98197	gene
+			locus_tag	PGSY75_0303700
+			note	ortholog of PF3D7_0303700
+<99534	>98197	mRNA
+			product	lipoamide acyltransferase component of branched- chain alpha-keto acid dehydrogenase complex
+			protein_id	gnl|WGS:LVLB|PGSY75_0303700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303700
+99534	98197	CDS
+			product	lipoamide acyltransferase component of branched- chain alpha-keto acid dehydrogenase complex
+			protein_id	gb|KYO03156.1||gnl|WGS:LVLB|PGSY75_0303700
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303700
+<101025	>102815	gene
+			locus_tag	PGSY75_0303800
+			note	ortholog of PF3D7_0303800
+<101025	>102815	mRNA
+			product	putative IBR domain protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0303800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303800
+101025	102815	CDS
+			product	putative IBR domain protein
+			protein_id	gb|KYO03157.1||gnl|WGS:LVLB|PGSY75_0303800
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303800
+<104021	>103166	gene
+			locus_tag	PGSY75_0303900
+			note	ortholog of PF3D7_0303900
+<104021	103934	mRNA
+103767	103408
+103311	>103166
+			product	putative phosphatidylethanolamine-binding protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0303900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303900
+104021	103934	CDS
+103767	103408
+103311	103166
+			product	putative phosphatidylethanolamine-binding protein
+			protein_id	gb|KYO03158.1||gnl|WGS:LVLB|PGSY75_0303900
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0303900
+<108008	>105061	gene
+			locus_tag	PGSY75_0304000
+			note	ortholog of PF3D7_0304000
+<108008	107811	mRNA
+107655	107506
+107414	107200
+107084	106258
+106139	>105061
+			product	putative inner membrane complex protein 1a
+			protein_id	gnl|WGS:LVLB|PGSY75_0304000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304000
+108008	107811	CDS
+107655	107506
+107414	107200
+107084	106258
+106139	105061
+			product	putative inner membrane complex protein 1a
+			protein_id	gb|KYO03159.1||gnl|WGS:LVLB|PGSY75_0304000
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304000
+<110878	>112446	gene
+			locus_tag	PGSY75_0304100
+			note	ortholog of PF3D7_0304100
+<110878	>112446	mRNA
+			product	putative inner membrane complex protein 1e
+			protein_id	gnl|WGS:LVLB|PGSY75_0304100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304100
+110878	112446	CDS
+			product	putative inner membrane complex protein 1e
+			protein_id	gb|KYO03160.1||gnl|WGS:LVLB|PGSY75_0304100
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304100
+<115053	>113476	gene
+			locus_tag	PGSY75_0304200
+			note	ortholog of PF3D7_0304200
+<115053	>113476	mRNA
+			product	EH domain-containing protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0304200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304200
+115053	113476	CDS
+			product	EH domain-containing protein
+			protein_id	gb|KYO03161.1||gnl|WGS:LVLB|PGSY75_0304200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304200
+<118514	>122854	gene
+			locus_tag	PGSY75_0304300
+			note	ortholog of PF3D7_0304300
+<118514	>122854	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0304300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304300
+118514	122854	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03162.1||gnl|WGS:LVLB|PGSY75_0304300
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304300
+<124181	>124724	gene
+			locus_tag	PGSY75_0304400
+			note	ortholog of PF3D7_0304400
+<124181	124393	mRNA
+124623	>124724
+			product	60S ribosomal protein L44
+			note	encoded by transcript variant 1; alternatively spliced
+			protein_id	gnl|WGS:LVLB|PGSY75_0304400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304400
+124181	124393	CDS
+124623	124724
+			product	60S ribosomal protein L44
+			protein_id	gb|KYO03163.1||gnl|WGS:LVLB|PGSY75_0304400
+			note	transcript variant 1; alternatively spliced
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304400
+<126066	>125301	gene
+			locus_tag	PGSY75_0304500
+			note	ortholog of PF3D7_0304500
+<126066	125854	mRNA
+125719	125621
+125504	>125301
+			product	1-cys-glutaredoxin-like protein-1
+			protein_id	gnl|WGS:LVLB|PGSY75_0304500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304500
+126066	125854	CDS
+125719	125621
+125504	125301
+			product	1-cys-glutaredoxin-like protein-1
+			protein_id	gb|KYO03164.1||gnl|WGS:LVLB|PGSY75_0304500
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304500
+<128328	>127495	gene
+			locus_tag	PGSY75_0304600
+			note	ortholog of PF3D7_0304600
+<128328	>127495	mRNA
+			product	circumsporozoite (CS) protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0304600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304600
+128328	127495	CDS
+			product	circumsporozoite (CS) protein
+			protein_id	gb|KYO03165.1||gnl|WGS:LVLB|PGSY75_0304600
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304600
+<131339	>129752	gene
+			locus_tag	PGSY75_0304700
+			note	ortholog of PF3D7_0304700
+<131339	131279	mRNA
+131199	131143
+131058	>129752
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0304700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304700
+131339	131279	CDS
+131199	131143
+131058	129752
+			product	hypothetical protein
+			protein_id	gb|KYO03166.1||gnl|WGS:LVLB|PGSY75_0304700
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304700
+<132528	>136724	gene
+			locus_tag	PGSY75_0304800
+			note	ortholog of PF3D7_0304800
+<132528	>136724	mRNA
+			product	putative membrane protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0304800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304800
+132528	136724	CDS
+			product	putative membrane protein
+			protein_id	gb|KYO03167.1||gnl|WGS:LVLB|PGSY75_0304800
+			note	conserved Plasmodium membrane protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304800
+<137769	>137251	gene
+			locus_tag	PGSY75_0304900
+			note	ortholog of PF3D7_0304900
+<137769	>137251	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0304900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304900
+137769	137251	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03168.1||gnl|WGS:LVLB|PGSY75_0304900
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0304900
+<140929	>139430	gene
+			locus_tag	PGSY75_0305000
+			note	ortholog of PF3D7_0305000
+<140929	139709	mRNA
+139564	>139430
+			product	elongation factor Ts
+			protein_id	gnl|WGS:LVLB|PGSY75_0305000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305000
+140929	139709	CDS
+139564	139430
+			product	elongation factor Ts
+			protein_id	gb|KYO03169.1||gnl|WGS:LVLB|PGSY75_0305000
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305000
+<153317	>141870	gene
+			locus_tag	PGSY75_0305100
+			note	ortholog of PF3D7_0305100
+<153317	>141870	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0305100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305100
+153317	141870	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03170.1||gnl|WGS:LVLB|PGSY75_0305100
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305100
+<155612	>157912	gene
+			locus_tag	PGSY75_0305200
+			note	ortholog of PF3D7_0305200
+<155612	>157912	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0305200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305200
+155612	157912	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03171.1||gnl|WGS:LVLB|PGSY75_0305200
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305200
+<161541	>159014	gene
+			locus_tag	PGSY75_0305300
+			note	ortholog of PF3D7_0305300
+<161541	>159014	mRNA
+			product	putative membrane protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0305300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305300
+161541	>159014	CDS
+			product	putative membrane protein
+			protein_id	gb|KYO03172.1||gnl|WGS:LVLB|PGSY75_0305300
+			note	conserved Plasmodium membrane protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305300
+<162721	>163370	gene
+			locus_tag	PGSY75_0305400
+			note	ortholog of PF3D7_0305400
+<162721	162889	mRNA
+163020	163091
+163174	>163370
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0305400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305400
+162721	162889	CDS
+163020	163091
+163174	163370
+			product	hypothetical protein
+			protein_id	gb|KYO03173.1||gnl|WGS:LVLB|PGSY75_0305400
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305400
+<175487	>163971	gene
+			gene_desc	hypothetical protein
+			locus_tag	PGSY75_0305500
+			pseudo
+			note	ortholog of PF3D7_0305500~may be nonfunctional due to frameshifts, or these may be assembler error
+175487	166464	CDS
+166461	165389
+165387	163971
+			pseudo
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305500
+<179443	>177731	gene
+			locus_tag	PGSY75_0305600
+			note	ortholog of PF3D7_0305600
+<179443	>177731	mRNA
+			product	putative AP endonuclease (DNA-[apurinic or apyrimidinic site] lyase)
+			protein_id	gnl|WGS:LVLB|PGSY75_0305600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305600
+179443	177731	CDS
+			product	putative AP endonuclease (DNA-[apurinic or apyrimidinic site] lyase)
+			protein_id	gb|KYO03174.1||gnl|WGS:LVLB|PGSY75_0305600
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305600
+<181526	>180698	gene
+			locus_tag	PGSY75_0305700
+			note	ortholog of PF3D7_0305700
+<181526	181518	mRNA
+181310	181041
+180847	>180698
+			product	putative ubiquitin-conjugating enzyme E2
+			protein_id	gnl|WGS:LVLB|PGSY75_0305700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305700
+181526	181518	CDS
+181310	181041
+180847	180698
+			product	putative ubiquitin-conjugating enzyme E2
+			protein_id	gb|KYO03175.1||gnl|WGS:LVLB|PGSY75_0305700
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305700
+<183736	>187062	gene
+			locus_tag	PGSY75_0305800
+			note	ortholog of PF3D7_0305800
+<183736	>187062	mRNA
+			product	putative P-loop containing nucleoside triphosphate hydrolase
+			protein_id	gnl|WGS:LVLB|PGSY75_0305800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305800
+183736	187062	CDS
+			product	putative P-loop containing nucleoside triphosphate hydrolase
+			protein_id	gb|KYO03176.1||gnl|WGS:LVLB|PGSY75_0305800
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305800
+<187875	>187342	gene
+			locus_tag	PGSY75_0305900
+			note	ortholog of PF3D7_0305900
+<187875	>187342	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0305900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305900
+187875	187342	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03177.1||gnl|WGS:LVLB|PGSY75_0305900
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0305900
+<188968	>188555	gene
+			locus_tag	PGSY75_0306000
+			note	ortholog of PF3D7_0306000
+<188968	>188555	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0306000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306000
+188968	188555	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03178.1||gnl|WGS:LVLB|PGSY75_0306000
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306000
+<192238	>190183	gene
+			locus_tag	PGSY75_0306100
+			note	ortholog of PF3D7_0306100
+<192238	190478	mRNA
+190269	>190183
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0306100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306100
+192238	190478	CDS
+190269	190183
+			product	hypothetical protein
+			protein_id	gb|KYO03179.1||gnl|WGS:LVLB|PGSY75_0306100
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306100
+<194434	>195919	gene
+			locus_tag	PGSY75_0306200
+			note	ortholog of PF3D7_0306200
+<194434	194471	mRNA
+194555	194672
+194771	194917
+195047	195200
+195315	>195919
+			product	activator of Hsp90 ATPase
+			protein_id	gnl|WGS:LVLB|PGSY75_0306200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306200
+194434	194471	CDS
+194555	194672
+194771	194917
+195047	195200
+195315	195919
+			product	activator of Hsp90 ATPase
+			protein_id	gb|KYO03180.1||gnl|WGS:LVLB|PGSY75_0306200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306200
+<197277	>196454	gene
+			locus_tag	PGSY75_0306300
+			note	ortholog of PF3D7_0306300
+<197277	197198	mRNA
+197022	196959
+196849	196783
+196674	196613
+196516	>196454
+			product	glutaredoxin 1
+			protein_id	gnl|WGS:LVLB|PGSY75_0306300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306300
+197277	197198	CDS
+197022	196959
+196849	196783
+196674	196613
+196516	196454
+			product	glutaredoxin 1
+			protein_id	gb|KYO03181.1||gnl|WGS:LVLB|PGSY75_0306300
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306300
+<199674	>201656	gene
+			locus_tag	PGSY75_0306400
+			note	ortholog of PF3D7_0306400
+<199674	>201656	mRNA
+			product	putative FAD-dependent glycerol-3-phosphate dehydrogenase
+			protein_id	gnl|WGS:LVLB|PGSY75_0306400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306400
+199674	201656	CDS
+			product	putative FAD-dependent glycerol-3-phosphate dehydrogenase
+			protein_id	gb|KYO03182.1||gnl|WGS:LVLB|PGSY75_0306400
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306400
+<203130	>202231	gene
+			locus_tag	PGSY75_0306500
+			note	ortholog of PF3D7_0306500
+<203130	>202231	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0306500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306500
+203130	202231	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03183.1||gnl|WGS:LVLB|PGSY75_0306500
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306500
+<203968	>204225	gene
+			locus_tag	PGSY75_0306600
+			note	ortholog of PF3D7_0306600
+<203968	>204225	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0306600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306600
+203968	204225	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03184.1||gnl|WGS:LVLB|PGSY75_0306600
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306600
+<205487	>206147	gene
+			locus_tag	PGSY75_0306700
+			note	ortholog of PF3D7_0306700
+<205487	205565	mRNA
+205648	205706
+205826	205935
+206045	>206147
+			product	putative membrane magnesium transporter
+			protein_id	gnl|WGS:LVLB|PGSY75_0306700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306700
+205487	205565	CDS
+205648	205706
+205826	205935
+206045	206147
+			product	putative membrane magnesium transporter
+			protein_id	gb|KYO03185.1||gnl|WGS:LVLB|PGSY75_0306700
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306700
+<209068	>207219	gene
+			locus_tag	PGSY75_0306800
+			note	ortholog of PF3D7_0306800
+<209068	209066	mRNA
+208817	>207219
+			product	putative T-complex protein beta subunit
+			protein_id	gnl|WGS:LVLB|PGSY75_0306800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306800
+209068	209066	CDS
+208817	207219
+			product	putative T-complex protein beta subunit
+			protein_id	gb|KYO03186.1||gnl|WGS:LVLB|PGSY75_0306800
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306800
+<211681	>212754	gene
+			locus_tag	PGSY75_0306900
+			note	ortholog of PF3D7_0306900
+<211681	211690	mRNA
+211842	212020
+212506	>212754
+			product	putative 40S ribosomal protein S23
+			protein_id	gnl|WGS:LVLB|PGSY75_0306900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306900
+211681	211690	CDS
+211842	212020
+212506	212754
+			product	putative 40S ribosomal protein S23
+			protein_id	gb|KYO03187.1||gnl|WGS:LVLB|PGSY75_0306900
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0306900
+212175	212332	gene
+			locus_tag	PGSY75_0307000
+			note	ortholog of PF3D7_0307000
+212175	212332	ncRNA
+			ncRNA_class	snoRNA
+			product	small nucleolar RNA snoR03
+			inference	similar to DNA sequence:PlasmoDB:PF3D7_0307000
+<213815	>213120	gene
+			locus_tag	PGSY75_0307100
+			note	ortholog of PF3D7_0307100
+<213815	213735	mRNA
+213464	>213120
+			product	putative 40S ribosomal protein S12
+			protein_id	gnl|WGS:LVLB|PGSY75_0307100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307100
+213815	213735	CDS
+213464	213120
+			product	putative 40S ribosomal protein S12
+			protein_id	gb|KYO03188.1||gnl|WGS:LVLB|PGSY75_0307100
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307100
+<216430	>215153	gene
+			locus_tag	PGSY75_0307200
+			note	ortholog of PF3D7_0307200
+<216430	216425	mRNA
+216183	216058
+215794	>215153
+			product	putative 60S ribosomal protein L7
+			protein_id	gnl|WGS:LVLB|PGSY75_0307200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307200
+216430	216425	CDS
+216183	216058
+215794	215153
+			product	putative 60S ribosomal protein L7
+			protein_id	gb|KYO03189.1||gnl|WGS:LVLB|PGSY75_0307200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307200
+<218548	>220041	gene
+			locus_tag	PGSY75_0307300
+			note	ortholog of PF3D7_0307300
+<218548	>220041	mRNA
+			product	EB1-like protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0307300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307300
+218548	220041	CDS
+			product	EB1-like protein
+			protein_id	gb|KYO03190.1||gnl|WGS:LVLB|PGSY75_0307300
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307300
+<221941	>220814	gene
+			locus_tag	PGSY75_0307400
+			note	ortholog of PF3D7_0307400
+<221941	>220814	mRNA
+			product	ATP-dependent Clp protease proteolytic subunit
+			protein_id	gnl|WGS:LVLB|PGSY75_0307400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307400
+221941	220814	CDS
+			product	ATP-dependent Clp protease proteolytic subunit
+			protein_id	gb|KYO03191.1||gnl|WGS:LVLB|PGSY75_0307400
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307400
+<224318	>222656	gene
+			locus_tag	PGSY75_0307500
+			note	ortholog of PF3D7_0307500
+<224318	224286	mRNA
+224091	223313
+223134	223073
+222943	222889
+222734	>222656
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0307500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307500
+224318	224286	CDS
+224091	223313
+223134	223073
+222943	222889
+222734	222656
+			product	hypothetical protein
+			protein_id	gb|KYO03192.1||gnl|WGS:LVLB|PGSY75_0307500
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307500
+<225361	>227788	gene
+			locus_tag	PGSY75_0307600
+			note	ortholog of PF3D7_0307600
+<225361	225474	mRNA
+225572	225615
+225719	>227788
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0307600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307600
+<225361	225474	CDS
+225572	225615
+225719	227788
+			product	hypothetical protein
+			codon_start	3
+			protein_id	gb|KYO03193.1||gnl|WGS:LVLB|PGSY75_0307600
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307600
+<234012	>228116	gene
+			locus_tag	PGSY75_0307700
+			note	ortholog of PF3D7_0307700
+<234012	233986	mRNA
+233807	233740
+233563	228957
+228788	228736
+228604	228506
+228384	228260
+228161	>228116
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0307700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307700
+234012	233986	CDS
+233807	233740
+233563	228957
+228788	228736
+228604	228506
+228384	228260
+228161	228116
+			product	hypothetical protein
+			protein_id	gb|KYO03194.1||gnl|WGS:LVLB|PGSY75_0307700
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307700
+<236638	>238533	gene
+			locus_tag	PGSY75_0307800
+			note	ortholog of PF3D7_0307800
+<236638	>238533	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0307800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307800
+236638	238533	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03195.1||gnl|WGS:LVLB|PGSY75_0307800
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307800
+<250695	>239166	gene
+			locus_tag	PGSY75_0307900
+			note	ortholog of PF3D7_0307900
+<250695	249771	mRNA
+249614	246077
+245886	>239166
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0307900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307900
+250695	249771	CDS
+249614	246077
+245886	239166
+			product	hypothetical protein
+			protein_id	gb|KYO03196.1||gnl|WGS:LVLB|PGSY75_0307900
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0307900
+<252071	>253480	gene
+			locus_tag	PGSY75_0308000
+			note	ortholog of PF3D7_0308000
+<252071	>253480	mRNA
+			product	putative DNA polymerase epsilon subunit b
+			protein_id	gnl|WGS:LVLB|PGSY75_0308000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308000
+252071	253480	CDS
+			product	putative DNA polymerase epsilon subunit b
+			protein_id	gb|KYO03197.1||gnl|WGS:LVLB|PGSY75_0308000
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308000
+<254626	>259575	gene
+			locus_tag	PGSY75_0308100
+			note	ortholog of PF3D7_0308100
+<254626	>259575	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0308100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308100
+254626	259575	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03198.1||gnl|WGS:LVLB|PGSY75_0308100
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308100
+<262133	>260317	gene
+			locus_tag	PGSY75_0308200
+			note	ortholog of PF3D7_0308200
+<262133	262119	mRNA
+261921	>260317
+			product	putative TCP-1/cpn60 chaperonin family
+			protein_id	gnl|WGS:LVLB|PGSY75_0308200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308200
+262133	262119	CDS
+261921	260317
+			product	putative TCP-1/cpn60 chaperonin family
+			protein_id	gb|KYO03199.1||gnl|WGS:LVLB|PGSY75_0308200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308200
+<264384	>263371	gene
+			locus_tag	PGSY75_0308300
+			note	ortholog of PF3D7_0308300
+<264384	>263371	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0308300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308300
+264384	263371	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03200.1||gnl|WGS:LVLB|PGSY75_0308300
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308300
+265965	266083	gene
+			locus_tag	PGSY75_0308400
+			note	ortholog of PF3D7_0308400
+265965	266083	ncRNA
+			ncRNA_class	snRNA
+			product	U4 spliceosomal RNA
+			inference	similar to DNA sequence:PlasmoDB:PF3D7_0308400
+<267378	>268212	gene
+			locus_tag	PGSY75_0308500
+			note	ortholog of PF3D7_0308500
+<267378	267488	mRNA
+267706	267928
+268124	>268212
+			product	putative activator of Hsp90 ATPase
+			protein_id	gnl|WGS:LVLB|PGSY75_0308500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308500
+267378	267488	CDS
+267706	267928
+268124	268212
+			product	putative activator of Hsp90 ATPase
+			protein_id	gb|KYO03201.1||gnl|WGS:LVLB|PGSY75_0308500
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308500
+<270255	>271826	gene
+			locus_tag	PGSY75_0308600
+			note	ortholog of PF3D7_0308600
+<270255	>271826	mRNA
+			product	putative pre-mRNA-processing factor 19
+			protein_id	gnl|WGS:LVLB|PGSY75_0308600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308600
+270255	271826	CDS
+			product	putative pre-mRNA-processing factor 19
+			protein_id	gb|KYO03202.1||gnl|WGS:LVLB|PGSY75_0308600
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308600
+<273225	>274833	gene
+			locus_tag	PGSY75_0308700
+			note	ortholog of PF3D7_0308700
+<273225	274505	mRNA
+274639	>274833
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0308700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308700
+273225	274505	CDS
+274639	274833
+			product	hypothetical protein
+			protein_id	gb|KYO03203.1||gnl|WGS:LVLB|PGSY75_0308700
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308700
+<275395	>275851	gene
+			locus_tag	PGSY75_0308800
+			note	ortholog of PF3D7_0308800
+<275395	275583	mRNA
+275714	>275851
+			product	conserved protein, unknown function
+			protein_id	gnl|WGS:LVLB|PGSY75_0308800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308800
+275395	275583	CDS
+275714	275851
+			product	conserved protein, unknown function
+			protein_id	gb|KYO03204.1||gnl|WGS:LVLB|PGSY75_0308800
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308800
+<280394	>276336	gene
+			locus_tag	PGSY75_0308900
+			note	ortholog of PF3D7_0308900
+<280394	>276336	mRNA
+			product	putative splicing factor 3B subunit 1
+			protein_id	gnl|WGS:LVLB|PGSY75_0308900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308900
+280394	276336	CDS
+			product	putative splicing factor 3B subunit 1
+			protein_id	gb|KYO03205.1||gnl|WGS:LVLB|PGSY75_0308900
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0308900
+<281347	>283799	gene
+			locus_tag	PGSY75_0309000
+			note	ortholog of PF3D7_0309000
+<281347	282627	mRNA
+282896	283014
+283099	283174
+283270	283365
+283463	283540
+283752	>283799
+			product	dual specificity protein phosphatase
+			protein_id	gnl|WGS:LVLB|PGSY75_0309000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309000
+281347	282627	CDS
+282896	283014
+283099	283174
+283270	283365
+283463	283540
+283752	283799
+			product	dual specificity protein phosphatase
+			protein_id	gb|KYO03206.1||gnl|WGS:LVLB|PGSY75_0309000
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309000
+<285321	>284148	gene
+			locus_tag	PGSY75_0309100
+			note	ortholog of PF3D7_0309100
+<285321	285147	mRNA
+285009	284930
+284751	284619
+284432	284349
+284212	>284148
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0309100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309100
+285321	285147	CDS
+285009	284930
+284751	284619
+284432	284349
+284212	284148
+			product	hypothetical protein
+			protein_id	gb|KYO03207.1||gnl|WGS:LVLB|PGSY75_0309100
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309100
+<291097	>285953	gene
+			locus_tag	PGSY75_0309200
+			note	ortholog of PF3D7_0309200
+<291097	286577	mRNA
+286235	286152
+286030	>285953
+			product	putative serine/threonine protein kinase
+			protein_id	gnl|WGS:LVLB|PGSY75_0309200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309200
+291097	286577	CDS
+286235	286152
+286030	285953
+			product	putative serine/threonine protein kinase
+			protein_id	gb|KYO03208.1||gnl|WGS:LVLB|PGSY75_0309200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309200
+<294586	>296937	gene
+			locus_tag	PGSY75_0309300
+			note	ortholog of PF3D7_0309300
+<294586	>296937	mRNA
+			product	putative N2227-like protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0309300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309300
+294586	296937	CDS
+			product	putative N2227-like protein
+			protein_id	gb|KYO03209.1||gnl|WGS:LVLB|PGSY75_0309300
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309300
+297666	297548	gene
+			locus_tag	PGSY75_0309400
+			note	ortholog of PF3D7_0309400
+297666	297548	ncRNA
+			ncRNA_class	snoRNA
+			product	small nucleolar RNA Me18S-Um1356
+			inference	similar to DNA sequence:PlasmoDB:PF3D7_0309400
+<299743	>302109	gene
+			locus_tag	PGSY75_0309500
+			note	ortholog of PF3D7_0309500
+<299743	299822	mRNA
+300399	>302109
+			product	putative asparagine synthetase
+			protein_id	gnl|WGS:LVLB|PGSY75_0309500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309500
+299743	299822	CDS
+300399	302109
+			product	putative asparagine synthetase
+			protein_id	gb|KYO03210.1||gnl|WGS:LVLB|PGSY75_0309500
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309500
+<304431	>304769	gene
+			locus_tag	PGSY75_0309600
+			note	ortholog of PF3D7_0309600
+<304431	>304769	mRNA
+			product	60S acidic ribosomal protein P2
+			protein_id	gnl|WGS:LVLB|PGSY75_0309600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309600
+304431	304769	CDS
+			product	60S acidic ribosomal protein P2
+			protein_id	gb|KYO03211.1||gnl|WGS:LVLB|PGSY75_0309600
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309600
+<307061	>305346	gene
+			locus_tag	PGSY75_0309700
+			note	ortholog of PF3D7_0309700
+<307061	>305346	mRNA
+			product	putative SECIS-binding protein 2
+			protein_id	gnl|WGS:LVLB|PGSY75_0309700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309700
+307061	305346	CDS
+			product	putative SECIS-binding protein 2
+			protein_id	gb|KYO03212.1||gnl|WGS:LVLB|PGSY75_0309700
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309700
+<308254	>309919	gene
+			locus_tag	PGSY75_0309800
+			note	ortholog of PF3D7_0309800
+<308254	308305	mRNA
+308472	308599
+308700	308776
+308926	309015
+309132	309216
+309386	309462
+309589	>309919
+			product	putative YTH domain-containing protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0309800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309800
+308254	308305	CDS
+308472	308599
+308700	308776
+308926	309015
+309132	309216
+309386	309462
+309589	309919
+			product	putative YTH domain-containing protein
+			protein_id	gb|KYO03213.1||gnl|WGS:LVLB|PGSY75_0309800
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309800
+<315864	>310393	gene
+			locus_tag	PGSY75_0309900
+			note	ortholog of PF3D7_0309900
+<315864	315841	mRNA
+315700	315394
+315161	>310393
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0309900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309900
+315864	315841	CDS
+315700	315394
+315161	310393
+			product	hypothetical protein
+			protein_id	gb|KYO03214.1||gnl|WGS:LVLB|PGSY75_0309900
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0309900
+<316924	>317746	gene
+			locus_tag	PGSY75_0310000
+			note	ortholog of PF3D7_0310000
+<316924	317113	mRNA
+317245	317489
+317588	>317746
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0310000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310000
+316924	317113	CDS
+317245	317489
+317588	317746
+			product	hypothetical protein
+			protein_id	gb|KYO03215.1||gnl|WGS:LVLB|PGSY75_0310000
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310000
+<318629	>320877	gene
+			locus_tag	PGSY75_0310100
+			note	gap found within coding sequence~ortholog of PF3D7_0310100
+<318629	319600	mRNA
+319815	320306
+320427	320501
+320692	>320736
+			product	calcium-dependent protein kinase 3
+			protein_id	gnl|WGS:LVLB|PGSY75_0310100A
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310100A
+318629	319600	CDS
+319815	320306
+320427	320501
+320692	>320736
+			product	calcium-dependent protein kinase 3
+			protein_id	gb|KYO03216.1||gnl|WGS:LVLB|PGSY75_0310100A
+			note	part of same gene as PGSY75_0310100B~gap found within coding sequence
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310100A
+<320833	>320877	mRNA
+			product	calcium-dependent protein kinase 3
+			protein_id	gnl|WGS:LVLB|PGSY75_0310100B
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310100B
+<320833	320877	CDS
+			product	calcium-dependent protein kinase 3
+			protein_id	gb|KYO03217.1||gnl|WGS:LVLB|PGSY75_0310100B
+			note	part of same gene as PGSY75_0310100A~gap found within coding sequence
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310100B
+<322021	>332871	gene
+			locus_tag	PGSY75_0310200
+			note	ortholog of PF3D7_0310200
+<322021	>332871	mRNA
+			product	putative phd finger protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0310200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310200
+<322021	332871	CDS
+			product	putative phd finger protein
+			protein_id	gb|KYO03218.1||gnl|WGS:LVLB|PGSY75_0310200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310200
+<334547	>338204	gene
+			locus_tag	PGSY75_0310300
+			note	ortholog of PF3D7_0310300
+<334547	337907	mRNA
+338101	>338204
+			product	putative phosphoglycerate mutase
+			protein_id	gnl|WGS:LVLB|PGSY75_0310300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310300
+334547	337907	CDS
+338101	338204
+			product	putative phosphoglycerate mutase
+			protein_id	gb|KYO03219.1||gnl|WGS:LVLB|PGSY75_0310300
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310300
+<339248	>342919	gene
+			locus_tag	PGSY75_0310400
+			note	ortholog of PF3D7_0310400
+<339248	>342919	mRNA
+			product	parasite-infected erythrocyte surface protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0310400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310400
+339248	342919	CDS
+			product	parasite-infected erythrocyte surface protein
+			protein_id	gb|KYO03220.1||gnl|WGS:LVLB|PGSY75_0310400
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310400
+<350317	>343577	gene
+			locus_tag	PGSY75_0310500
+			note	ortholog of PF3D7_0310500
+<350317	>343577	mRNA
+			product	putative DEAD box helicase
+			protein_id	gnl|WGS:LVLB|PGSY75_0310500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310500
+350317	343577	CDS
+			product	putative DEAD box helicase
+			protein_id	gb|KYO03221.1||gnl|WGS:LVLB|PGSY75_0310500
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310500
+<352575	>351947	gene
+			locus_tag	PGSY75_0310600
+			note	ortholog of PF3D7_0310600
+<352575	>351947	mRNA
+			product	putative SAC3/GNAP family-related protein
+			note	encoded by transcript variant 1; alternatively spliced
+			protein_id	gnl|WGS:LVLB|PGSY75_0310600.1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310600.1
+<352575	351947	CDS
+			product	putative SAC3/GNAP family-related protein
+			codon_start	3
+			protein_id	gb|KYO03222.1||gnl|WGS:LVLB|PGSY75_0310600.1
+			note	transcript variant 1; alternatively spliced
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310600.1
+<352572	>351947	mRNA
+			product	putative SAC3/GNAP family-related protein
+			note	encoded by transcript variant 2; alternatively spliced
+			protein_id	gnl|WGS:LVLB|PGSY75_0310600.2
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310600.2
+<352572	351947	CDS
+			product	putative SAC3/GNAP family-related protein
+			codon_start	3
+			protein_id	gb|KYO03223.1||gnl|WGS:LVLB|PGSY75_0310600.2
+			note	transcript variant 2; alternatively spliced
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310600.2
+<354250	>355162	gene
+			locus_tag	PGSY75_0310700
+			note	ortholog of PF3D7_0310700
+<354250	354300	mRNA
+354773	>355162
+			product	putative trafficking protein particle complex subunit 4
+			protein_id	gnl|WGS:LVLB|PGSY75_0310700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310700
+354250	354300	CDS
+354773	355162
+			product	putative trafficking protein particle complex subunit 4
+			protein_id	gb|KYO03224.1||gnl|WGS:LVLB|PGSY75_0310700
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310700
+<355539	>355868	gene
+			locus_tag	PGSY75_0310800
+			note	ortholog of PF3D7_0310800
+<355539	>355868	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0310800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310800
+355539	355868	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03225.1||gnl|WGS:LVLB|PGSY75_0310800
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310800
+<356839	>359196	gene
+			locus_tag	PGSY75_0310900
+			note	ortholog of PF3D7_0310900
+<356839	>359196	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0310900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310900
+356839	359196	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03226.1||gnl|WGS:LVLB|PGSY75_0310900
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0310900
+<360103	>360884	gene
+			locus_tag	PGSY75_0311000
+			note	ortholog of PF3D7_0311000
+<360103	360305	mRNA
+360413	>360884
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0311000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311000
+360103	360305	CDS
+360413	360884
+			product	hypothetical protein
+			protein_id	gb|KYO03227.1||gnl|WGS:LVLB|PGSY75_0311000
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311000
+<363760	>361522	gene
+			locus_tag	PGSY75_0311100
+			note	ortholog of PF3D7_0311100
+<363760	363511	mRNA
+363331	363107
+362996	361820
+361654	>361522
+			product	putative pre-mRNA splicing factor
+			protein_id	gnl|WGS:LVLB|PGSY75_0311100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311100
+363760	363511	CDS
+363331	363107
+362996	361820
+361654	361522
+			product	putative pre-mRNA splicing factor
+			protein_id	gb|KYO03228.1||gnl|WGS:LVLB|PGSY75_0311100
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311100
+<367145	>363967	gene
+			locus_tag	PGSY75_0311300
+			note	ortholog of PF3D7_0311300
+<367145	366085	mRNA
+365971	365875
+365772	365527
+365358	>363967
+			product	putative phosphatidylinositol 3- and 4-kinase
+			protein_id	gnl|WGS:LVLB|PGSY75_0311300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311300
+367145	366085	CDS
+365971	365875
+365772	365527
+365358	363967
+			product	putative phosphatidylinositol 3- and 4-kinase
+			protein_id	gb|KYO03229.1||gnl|WGS:LVLB|PGSY75_0311300
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311300
+<374089	>381555	gene
+			locus_tag	PGSY75_0311400
+			note	ortholog of PF3D7_0311400
+<374089	374511	mRNA
+374638	>381555
+			product	putative protein kinase
+			protein_id	gnl|WGS:LVLB|PGSY75_0311400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311400
+374089	374511	CDS
+374638	381555
+			product	putative protein kinase
+			protein_id	gb|KYO03230.1||gnl|WGS:LVLB|PGSY75_0311400
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311400
+<382517	>385422	gene
+			locus_tag	PGSY75_0311600
+			note	gap found within coding sequence~ortholog of PF3D7_0311600
+<382517	382819	mRNA
+382983	>384231
+			product	putative dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1
+			protein_id	gnl|WGS:LVLB|PGSY75_0311600A
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311600A
+382517	382819	CDS
+382983	>384231
+			product	putative dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1
+			protein_id	gb|KYO03231.1||gnl|WGS:LVLB|PGSY75_0311600A
+			note	part of same gene as PGSY75_0311600B~gap found within coding sequence
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311600A
+<384732	384835	mRNA
+384982	385217
+385357	>385422
+			product	putative dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1
+			protein_id	gnl|WGS:LVLB|PGSY75_0311600B
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311600B
+<384732	384835	CDS
+384982	385217
+385357	385422
+			product	putative dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1
+			codon_start	2
+			protein_id	gb|KYO03232.1||gnl|WGS:LVLB|PGSY75_0311600B
+			note	part of same gene as PGSY75_0311600A~gap found within coding sequence
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311600B
+<385776	>388680	gene
+			locus_tag	PGSY75_0311700
+			note	ortholog of PF3D7_0311700
+<385776	386173	mRNA
+386273	386340
+386421	386452
+386613	386631
+386764	386803
+386953	386990
+387073	387135
+387231	387289
+387363	387415
+387571	387656
+387772	387875
+387987	388160
+388285	388303
+388392	388451
+388595	>388680
+			product	plasmepsin VI
+			protein_id	gnl|WGS:LVLB|PGSY75_0311700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311700
+385776	386173	CDS
+386273	386340
+386421	386452
+386613	386631
+386764	386803
+386953	386990
+387073	387135
+387231	387289
+387363	387415
+387571	387656
+387772	387875
+387987	388160
+388285	388303
+388392	388451
+388595	388680
+			product	plasmepsin VI
+			protein_id	gb|KYO03233.1||gnl|WGS:LVLB|PGSY75_0311700
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311700
+<389593	>391732	gene
+			locus_tag	PGSY75_0311800
+			note	ortholog of PF3D7_0311800
+<389593	389618	mRNA
+389788	390006
+390109	>391732
+			product	conserved protein, unknown function
+			protein_id	gnl|WGS:LVLB|PGSY75_0311800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311800
+389593	389618	CDS
+389788	390006
+390109	391732
+			product	conserved protein, unknown function
+			protein_id	gb|KYO03234.1||gnl|WGS:LVLB|PGSY75_0311800
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311800
+<395125	>392882	gene
+			locus_tag	PGSY75_0311900
+			note	ortholog of PF3D7_0311900
+<395125	>392882	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0311900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311900
+395125	392882	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03235.1||gnl|WGS:LVLB|PGSY75_0311900
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0311900
+<395760	>396543	gene
+			locus_tag	PGSY75_0312000
+			note	ortholog of PF3D7_0312000
+<395760	395763	mRNA
+395856	395997
+396149	396285
+396416	>396543
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0312000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312000
+395760	395763	CDS
+395856	395997
+396149	396285
+396416	396543
+			product	hypothetical protein
+			protein_id	gb|KYO03236.1||gnl|WGS:LVLB|PGSY75_0312000
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312000
+<397251	>399848	gene
+			locus_tag	PGSY75_0312100
+			note	ortholog of PF3D7_0312100
+<397251	>399848	mRNA
+			product	putative E3 ubiquitin-protein ligase
+			protein_id	gnl|WGS:LVLB|PGSY75_0312100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312100
+397251	399848	CDS
+			product	putative E3 ubiquitin-protein ligase
+			protein_id	gb|KYO03237.1||gnl|WGS:LVLB|PGSY75_0312100
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312100
+<403824	>400231	gene
+			locus_tag	PGSY75_0312200
+			note	ortholog of PF3D7_0312200
+<403824	>400231	mRNA
+			product	TPR domain containing protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0312200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312200
+403824	400231	CDS
+			product	TPR domain containing protein
+			protein_id	gb|KYO03238.1||gnl|WGS:LVLB|PGSY75_0312200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312200
+<405072	>405986	gene
+			locus_tag	PGSY75_0312300
+			note	ortholog of PF3D7_0312300
+<405072	>405986	mRNA
+			product	putative 26S proteasome regulatory subunit RPN12
+			protein_id	gnl|WGS:LVLB|PGSY75_0312300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312300
+405072	405986	CDS
+			product	putative 26S proteasome regulatory subunit RPN12
+			protein_id	gb|KYO03239.1||gnl|WGS:LVLB|PGSY75_0312300
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312300
+<409129	>406883	gene
+			locus_tag	PGSY75_0312400
+			note	ortholog of PF3D7_0312400
+<409129	409111	mRNA
+408886	408116
+408008	407919
+407804	407716
+407612	407523
+407322	407276
+407120	>406883
+			product	glycogen synthase kinase 3
+			protein_id	gnl|WGS:LVLB|PGSY75_0312400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312400
+409129	409111	CDS
+408886	408116
+408008	407919
+407804	407716
+407612	407523
+407322	407276
+407120	406883
+			product	glycogen synthase kinase 3
+			protein_id	gb|KYO03240.1||gnl|WGS:LVLB|PGSY75_0312400
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312400
+<411606	>413411	gene
+			locus_tag	PGSY75_0312500
+			note	ortholog of PF3D7_0312500
+<411606	>413411	mRNA
+			product	putative transporter
+			protein_id	gnl|WGS:LVLB|PGSY75_0312500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312500
+411606	413411	CDS
+			product	putative transporter
+			protein_id	gb|KYO03241.1||gnl|WGS:LVLB|PGSY75_0312500
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312500
+413768	413850	gene
+			locus_tag	PGSY75_0312600
+			note	ortholog of PF3D7_0312600
+413768	413850	tRNA
+			product	tRNA-Val
+			inference	similar to DNA sequence:PlasmoDB:PF3D7_0312600
+414416	414341	gene
+			locus_tag	PGSY75_0312700
+			note	ortholog of PF3D7_0312700
+414416	414341	tRNA
+			product	tRNA-Ile
+			inference	similar to DNA sequence:RATT:1
+<416596	>417515	gene
+			locus_tag	PGSY75_0312800
+			note	ortholog of PF3D7_0312800
+<416596	416611	mRNA
+416995	417107
+417264	>417515
+			product	putative 60S ribosomal protein L26
+			protein_id	gnl|WGS:LVLB|PGSY75_0312800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312800
+416596	416611	CDS
+416995	417107
+417264	417515
+			product	putative 60S ribosomal protein L26
+			protein_id	gb|KYO03242.1||gnl|WGS:LVLB|PGSY75_0312800
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312800
+<418282	>419535	gene
+			locus_tag	PGSY75_0312900
+			note	ortholog of PF3D7_0312900
+<418282	418284	mRNA
+418453	418500
+418632	419191
+419292	>419535
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0312900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312900
+418282	418284	CDS
+418453	418500
+418632	419191
+419292	419535
+			product	hypothetical protein
+			protein_id	gb|KYO03243.1||gnl|WGS:LVLB|PGSY75_0312900
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0312900
+<420515	>419668	gene
+			locus_tag	PGSY75_0313000
+			note	ortholog of PF3D7_0313000
+<420515	419822	mRNA
+419726	>419668
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0313000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313000
+<420515	419822	CDS
+419726	419668
+			product	hypothetical protein
+			protein_id	gb|KYO03244.1||gnl|WGS:LVLB|PGSY75_0313000
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:PlasmoDB:PF3D7_0313000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313000
+<420743	>424102	gene
+			locus_tag	PGSY75_0313100
+			note	ortholog of PF3D7_0313100
+<420743	422410	mRNA
+422923	423298
+423410	423746
+423928	>424102
+			product	putative ubiquitin-protein ligase
+			protein_id	gnl|WGS:LVLB|PGSY75_0313100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313100
+420743	422410	CDS
+422923	423298
+423410	423746
+423928	424102
+			product	putative ubiquitin-protein ligase
+			protein_id	gb|KYO03245.1||gnl|WGS:LVLB|PGSY75_0313100
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313100
+<425175	>424474	gene
+			locus_tag	PGSY75_0313200
+			note	ortholog of PF3D7_0313200
+<425175	>424474	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0313200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313200
+425175	424474	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03246.1||gnl|WGS:LVLB|PGSY75_0313200
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313200
+<426513	>425361	gene
+			locus_tag	PGSY75_0313300
+			note	ortholog of PF3D7_0313300
+<426513	426286	mRNA
+426175	426105
+425961	425884
+425751	425631
+425450	>425361
+			product	apicoplast conserved ycf19 protein precursor, unknown function
+			protein_id	gnl|WGS:LVLB|PGSY75_0313300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313300
+426513	426286	CDS
+426175	426105
+425961	425884
+425751	425631
+425450	425361
+			product	apicoplast conserved ycf19 protein precursor, unknown function
+			protein_id	gb|KYO03247.1||gnl|WGS:LVLB|PGSY75_0313300
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313300
+<429121	>427016	gene
+			locus_tag	PGSY75_0313400
+			note	ortholog of PF3D7_0313400
+<429121	>427016	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0313400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313400
+429121	427016	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03248.1||gnl|WGS:LVLB|PGSY75_0313400
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313400
+<430146	>432866	gene
+			locus_tag	PGSY75_0313500
+			note	ortholog of PF3D7_0313500
+<430146	>432866	mRNA
+			product	putative GTP-binding protein EngA
+			protein_id	gnl|WGS:LVLB|PGSY75_0313500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313500
+430146	432866	CDS
+			product	putative GTP-binding protein EngA
+			protein_id	gb|KYO03249.1||gnl|WGS:LVLB|PGSY75_0313500
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313500
+<436026	>433422	gene
+			locus_tag	PGSY75_0313600
+			note	ortholog of PF3D7_0313600
+<436026	435833	mRNA
+435578	435377
+435280	435217
+435109	435000
+434710	434251
+434149	>433422
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0313600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313600
+436026	435833	CDS
+435578	435377
+435280	435217
+435109	435000
+434710	434251
+434149	433422
+			product	hypothetical protein
+			protein_id	gb|KYO03250.1||gnl|WGS:LVLB|PGSY75_0313600
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313600
+<439879	>436404	gene
+			locus_tag	PGSY75_0313700
+			note	ortholog of PF3D7_0313700
+<439879	439696	mRNA
+439583	439522
+439449	439389
+439248	439126
+438999	438934
+438822	438739
+438643	438576
+438432	438195
+438071	437990
+437873	437834
+437699	437585
+437433	437392
+437283	437124
+437033	436934
+436815	436760
+436602	436568
+436447	>436404
+			product	hypothetical protein
+			note	encoded by transcript variant 1; alternatively spliced
+			protein_id	gnl|WGS:LVLB|PGSY75_0313700.1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313700.1
+439879	439696	CDS
+439583	439522
+439449	439389
+439248	439126
+438999	438934
+438822	438739
+438643	438576
+438432	438195
+438071	437990
+437873	437834
+437699	437585
+437433	437392
+437283	437124
+437033	436934
+436815	436760
+436602	436568
+436447	436404
+			product	hypothetical protein
+			protein_id	gb|KYO03251.1||gnl|WGS:LVLB|PGSY75_0313700.1
+			note	conserved Plasmodium protein, unknown function~transcript variant 1; alternatively spliced
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313700.1
+<439879	439696	mRNA
+439583	439522
+439449	439389
+439248	439126
+438999	438934
+438822	438739
+438643	438576
+438432	438195
+438071	437990
+437873	437834
+437734	>437681
+			product	hypothetical protein
+			note	encoded by transcript variant 2; alternatively spliced
+			protein_id	gnl|WGS:LVLB|PGSY75_0313700.2
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313700.2
+439879	439696	CDS
+439583	439522
+439449	439389
+439248	439126
+438999	438934
+438822	438739
+438643	438576
+438432	438195
+438071	437990
+437873	437834
+437734	437681
+			product	hypothetical protein
+			protein_id	gb|KYO03252.1||gnl|WGS:LVLB|PGSY75_0313700.2
+			note	conserved Plasmodium protein, unknown function~transcript variant 2; alternatively spliced
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313700.2
+<440528	>443340	gene
+			locus_tag	PGSY75_0313800
+			note	ortholog of PF3D7_0313800
+<440528	440803	mRNA
+440981	441178
+441325	441459
+441620	441695
+441819	443036
+443126	443179
+443282	>443340
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0313800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313800
+440528	440803	CDS
+440981	441178
+441325	441459
+441620	441695
+441819	443036
+443126	443179
+443282	443340
+			product	hypothetical protein
+			protein_id	gb|KYO03253.1||gnl|WGS:LVLB|PGSY75_0313800
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313800
+<446355	>443446	gene
+			locus_tag	PGSY75_0313900
+			note	ortholog of PF3D7_0313900
+<446355	>443446	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0313900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313900
+446355	443446	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03254.1||gnl|WGS:LVLB|PGSY75_0313900
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0313900
+<452497	>448211	gene
+			locus_tag	PGSY75_0314200
+			note	ortholog of PF3D7_0314200
+<452497	>448211	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0314200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314200
+452497	448211	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03255.1||gnl|WGS:LVLB|PGSY75_0314200
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314200
+<453762	>452663	gene
+			locus_tag	PGSY75_0314300
+			note	ortholog of PF3D7_0314300
+<453762	>452663	mRNA
+			product	DER1-like protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0314300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314300
+<453762	452663	CDS
+			product	DER1-like protein
+			codon_start	3
+			protein_id	gb|KYO03256.1||gnl|WGS:LVLB|PGSY75_0314300
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314300
+<456674	>455685	gene
+			locus_tag	PGSY75_0314400
+			note	ortholog of PF3D7_0314400
+<456674	>455685	mRNA
+			product	putative serine/threonine protein phosphatase 6
+			protein_id	gnl|WGS:LVLB|PGSY75_0314400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314400
+456674	455685	CDS
+			product	putative serine/threonine protein phosphatase 6
+			protein_id	gb|KYO03257.1||gnl|WGS:LVLB|PGSY75_0314400
+			inference	ab initio prediction:Augustus:2.5.5
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314400
+<457579	>458331	gene
+			locus_tag	PGSY75_0314500
+			note	ortholog of PF3D7_0314500
+<457579	>458331	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0314500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314500
+<457579	458331	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03258.1||gnl|WGS:LVLB|PGSY75_0314500
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314500
+<459870	>460712	gene
+			locus_tag	PGSY75_0314600
+			note	ortholog of PF3D7_0314600
+<459870	>460712	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0314600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314600
+459870	460712	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03259.1||gnl|WGS:LVLB|PGSY75_0314600
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314600
+<463994	>461685	gene
+			locus_tag	PGSY75_0314700
+			note	ortholog of PF3D7_0314700
+<463994	>461685	mRNA
+			product	putative zinc finger protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0314700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314700
+463994	461685	CDS
+			product	putative zinc finger protein
+			protein_id	gb|KYO03260.1||gnl|WGS:LVLB|PGSY75_0314700
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314700
+468776	471432	misc_feature
+			note	centromere
+			inference	similar to DNA sequence:RATT:1
+<475731	>478791	gene
+			locus_tag	PGSY75_0314800
+			note	ortholog of PF3D7_0314800
+<475731	476738	mRNA
+476941	>478791
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0314800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314800
+475731	476738	CDS
+476941	478791
+			product	hypothetical protein
+			protein_id	gb|KYO03261.1||gnl|WGS:LVLB|PGSY75_0314800
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314800
+<479658	>481472	gene
+			locus_tag	PGSY75_0314900
+			note	ortholog of PF3D7_0314900
+<479658	>481472	mRNA
+			product	putative membrane protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0314900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314900
+479658	481472	CDS
+			product	putative membrane protein
+			protein_id	gb|KYO03262.1||gnl|WGS:LVLB|PGSY75_0314900
+			note	conserved Plasmodium membrane protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0314900
+<481499	>482151	gene
+			locus_tag	PGSY75_0315000
+			note	ortholog of PF3D7_0315000
+<481499	481568	mRNA
+481652	>482151
+			product	putative zinc finger protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0315000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315000
+481499	481568	CDS
+481652	482151
+			product	putative zinc finger protein
+			protein_id	gb|KYO03263.1||gnl|WGS:LVLB|PGSY75_0315000
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315000
+<483480	>482797	gene
+			locus_tag	PGSY75_0315100
+			note	ortholog of PF3D7_0315100
+<483480	>482797	mRNA
+			product	translation initiation factor 4E
+			protein_id	gnl|WGS:LVLB|PGSY75_0315100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315100
+483480	482797	CDS
+			product	translation initiation factor 4E
+			protein_id	gb|KYO03264.1||gnl|WGS:LVLB|PGSY75_0315100
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315100
+<486689	>492904	gene
+			locus_tag	PGSY75_0315200
+			note	ortholog of PF3D7_0315200
+<486689	>492904	mRNA
+			product	circumsporozoite- and TRAP-related protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0315200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315200
+486689	492904	CDS
+			product	circumsporozoite- and TRAP-related protein
+			protein_id	gb|KYO03265.1||gnl|WGS:LVLB|PGSY75_0315200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315200
+<493618	>500417	gene
+			locus_tag	PGSY75_0315300
+			note	ortholog of PF3D7_0315300
+<493618	493830	mRNA
+493924	493991
+494083	494137
+494256	494308
+494399	494474
+494582	494975
+495076	495266
+495349	495394
+495555	495609
+495704	495777
+495904	496023
+496151	499278
+499416	500183
+500361	>500417
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0315300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315300
+493618	493830	CDS
+493924	493991
+494083	494137
+494256	494308
+494399	494474
+494582	494975
+495076	495266
+495349	495394
+495555	495609
+495704	495777
+495904	496023
+496151	499278
+499416	500183
+500361	500417
+			product	hypothetical protein
+			protein_id	gb|KYO03266.1||gnl|WGS:LVLB|PGSY75_0315300
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315300
+<501428	>500661	gene
+			locus_tag	PGSY75_0315400
+			note	ortholog of PF3D7_0315400
+<501428	>500661	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0315400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315400
+501428	500661	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03267.1||gnl|WGS:LVLB|PGSY75_0315400
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315400
+<503577	>502876	gene
+			locus_tag	PGSY75_0315500
+			note	ortholog of PF3D7_0315500
+<503577	>502876	mRNA
+			product	putative mitochondrial ribosomal protein L29/L47 precursor
+			protein_id	gnl|WGS:LVLB|PGSY75_0315500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315500
+503577	502876	CDS
+			product	putative mitochondrial ribosomal protein L29/L47 precursor
+			protein_id	gb|KYO03268.1||gnl|WGS:LVLB|PGSY75_0315500
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315500
+<505328	>506948	gene
+			gene_desc	hypothetical protein
+			locus_tag	PGSY75_0315600
+			pseudo
+			note	ortholog of PF3D7_0315600~likely nonfunctional due to stop codon and possible deletion
+505328	505796	CDS
+506110	506277
+506350	506948
+			pseudo
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315600
+<507794	>510840	gene
+			locus_tag	PGSY75_0315700
+			note	ortholog of PF3D7_0315700
+<507794	510605	mRNA
+510758	>510840
+			product	putative membrane protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0315700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315700
+507794	510605	CDS
+510758	510840
+			product	putative membrane protein
+			protein_id	gb|KYO03269.1||gnl|WGS:LVLB|PGSY75_0315700
+			note	conserved Plasmodium membrane protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315700
+<512012	>510990	gene
+			locus_tag	PGSY75_0315800
+			note	ortholog of PF3D7_0315800
+<512012	>510990	mRNA
+			product	putative zinc finger protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0315800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315800
+512012	510990	CDS
+			product	putative zinc finger protein
+			protein_id	gb|KYO03270.1||gnl|WGS:LVLB|PGSY75_0315800
+			inference	ab initio prediction:Augustus:2.5.5
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315800
+<513420	>514424	gene
+			locus_tag	PGSY75_0315900
+			note	ortholog of PF3D7_0315900
+<513420	513737	mRNA
+513909	>514424
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0315900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315900
+513420	513737	CDS
+513909	514424
+			product	hypothetical protein
+			protein_id	gb|KYO03271.1||gnl|WGS:LVLB|PGSY75_0315900
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0315900
+<516023	>515001	gene
+			locus_tag	PGSY75_0316000
+			note	ortholog of PF3D7_0316000
+<516023	>515001	mRNA
+			product	microneme associated antigen
+			protein_id	gnl|WGS:LVLB|PGSY75_0316000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316000
+516023	515001	CDS
+			product	microneme associated antigen
+			protein_id	gb|KYO03272.1||gnl|WGS:LVLB|PGSY75_0316000
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316000
+<518168	>518875	gene
+			locus_tag	PGSY75_0316100
+			note	ortholog of PF3D7_0316100~Starts late compared with Pf3D7
+<518168	>518875	mRNA
+			product	putative mitochondrial ribosomal protein L27 precursor
+			protein_id	gnl|WGS:LVLB|PGSY75_0316100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316100
+518168	518875	CDS
+			product	putative mitochondrial ribosomal protein L27 precursor
+			protein_id	gb|KYO03273.1||gnl|WGS:LVLB|PGSY75_0316100
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316100
+<526323	>519095	gene
+			locus_tag	PGSY75_0316200
+			note	ortholog of PF3D7_0316200
+<526323	522279	mRNA
+522156	>519095
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0316200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316200
+526323	522279	CDS
+522156	519095
+			product	hypothetical protein
+			protein_id	gb|KYO03274.1||gnl|WGS:LVLB|PGSY75_0316200
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316200
+<527879	>530860	gene
+			locus_tag	PGSY75_0316300
+			note	ortholog of PF3D7_0316300
+<527879	527924	mRNA
+528104	528180
+529334	530029
+530170	530232
+530420	>530860
+			product	putative inorganic pyrophosphatase
+			note	encoded by transcript variant 2; alternatively spliced
+			protein_id	gnl|WGS:LVLB|PGSY75_0316300.2
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316300.2
+527879	527924	CDS
+528104	528180
+529334	530029
+530170	530232
+530420	530860
+			product	putative inorganic pyrophosphatase
+			protein_id	gb|KYO03275.1||gnl|WGS:LVLB|PGSY75_0316300.2
+			note	transcript variant 2; alternatively spliced
+			inference	similar to DNA sequence:PlasmoDB:PF3D7_0316300.2
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316300.2
+<529364	530029	mRNA
+530170	530232
+530420	>530860
+			product	putative inorganic pyrophosphatase
+			note	encoded by transcript variant 1; alternatively spliced
+			protein_id	gnl|WGS:LVLB|PGSY75_0316300.1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316300.1
+529364	530029	CDS
+530170	530232
+530420	530860
+			product	putative inorganic pyrophosphatase
+			protein_id	gb|KYO03276.1||gnl|WGS:LVLB|PGSY75_0316300.1
+			note	transcript variant 1; alternatively spliced
+			inference	similar to DNA sequence:PlasmoDB:PF3D7_0316300.1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316300.1
+<534307	>531272	gene
+			locus_tag	PGSY75_0316400
+			note	ortholog of PF3D7_0316400
+<534307	>531272	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0316400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316400
+534307	531272	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03277.1||gnl|WGS:LVLB|PGSY75_0316400
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316400
+<536124	>537509	gene
+			locus_tag	PGSY75_0316500
+			note	ortholog of PF3D7_0316500
+<536124	>537509	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0316500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316500
+536124	537509	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03278.1||gnl|WGS:LVLB|PGSY75_0316500
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316500
+<539726	>538448	gene
+			locus_tag	PGSY75_0316600
+			note	ortholog of PF3D7_0316600
+<539726	539534	mRNA
+539389	538785
+538663	538557
+538472	>538448
+			product	putative formate-nitrite transporter
+			protein_id	gnl|WGS:LVLB|PGSY75_0316600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316600
+539726	539534	CDS
+539389	538785
+538663	538557
+538472	538448
+			product	putative formate-nitrite transporter
+			protein_id	gb|KYO03279.1||gnl|WGS:LVLB|PGSY75_0316600
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316600
+<540287	>541415	gene
+			locus_tag	PGSY75_0316700
+			note	ortholog of PF3D7_0316700
+<540287	540590	mRNA
+541054	>541415
+			product	putative HVA22/TB2/DP1 family protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0316700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316700
+540287	540590	CDS
+541054	541415
+			product	putative HVA22/TB2/DP1 family protein
+			protein_id	gb|KYO03280.1||gnl|WGS:LVLB|PGSY75_0316700
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316700
+<542827	>543059	gene
+			locus_tag	PGSY75_0316800
+			note	ortholog of PF3D7_0316800
+<542827	>543059	mRNA
+			product	putative 40S ribosomal protein S15A
+			protein_id	gnl|WGS:LVLB|PGSY75_0316800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316800
+542827	>543059	CDS
+			product	putative 40S ribosomal protein S15A
+			protein_id	gb|KYO03281.1||gnl|WGS:LVLB|PGSY75_0316800
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316800
+<545734	>543802	gene
+			locus_tag	PGSY75_0316900
+			note	ortholog of PF3D7_0316900
+<545734	545519	mRNA
+545373	>543802
+			product	putative E3 ubiquitin-protein ligase
+			protein_id	gnl|WGS:LVLB|PGSY75_0316900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316900
+545734	545519	CDS
+545373	543802
+			product	putative E3 ubiquitin-protein ligase
+			protein_id	gb|KYO03282.1||gnl|WGS:LVLB|PGSY75_0316900
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0316900
+<547770	>546930	gene
+			locus_tag	PGSY75_0317000
+			note	ortholog of PF3D7_0317000
+<547770	547326	mRNA
+547243	>546930
+			product	putative proteasome subunit alpha type-3
+			protein_id	gnl|WGS:LVLB|PGSY75_0317000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317000
+547770	547326	CDS
+547243	546930
+			product	putative proteasome subunit alpha type-3
+			protein_id	gb|KYO03283.1||gnl|WGS:LVLB|PGSY75_0317000
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317000
+<550225	>553249	gene
+			locus_tag	PGSY75_0317100
+			note	ortholog of PF3D7_0317100
+<550225	551418	mRNA
+551615	>553249
+			product	6-cysteine protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0317100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317100
+550225	551418	CDS
+551615	553249
+			product	6-cysteine protein
+			protein_id	gb|KYO03284.1||gnl|WGS:LVLB|PGSY75_0317100
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317100
+<558499	>553829	gene
+			locus_tag	PGSY75_0317200
+			note	ortholog of PF3D7_0317200
+<558499	>553829	mRNA
+			product	cdc2-related protein kinase 4
+			protein_id	gnl|WGS:LVLB|PGSY75_0317200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317200
+558499	553829	CDS
+			product	cdc2-related protein kinase 4
+			protein_id	gb|KYO03285.1||gnl|WGS:LVLB|PGSY75_0317200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317200
+<573637	>563612	gene
+			locus_tag	PGSY75_0317300
+			note	ortholog of PF3D7_0317300
+<573637	>563612	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0317300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317300
+573637	563612	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03286.1||gnl|WGS:LVLB|PGSY75_0317300
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317300
+<577460	>575803	gene
+			locus_tag	PGSY75_0317400
+			note	ortholog of PF3D7_0317400
+<577460	576185	mRNA
+576041	>575803
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0317400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317400
+577460	576185	CDS
+576041	575803
+			product	hypothetical protein
+			protein_id	gb|KYO03287.1||gnl|WGS:LVLB|PGSY75_0317400
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317400
+<583634	>578838	gene
+			locus_tag	PGSY75_0317500
+			note	ortholog of PF3D7_0317500
+<583634	583374	mRNA
+583076	>578838
+			product	kinesin-5
+			protein_id	gnl|WGS:LVLB|PGSY75_0317500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317500
+583634	583374	CDS
+583076	578838
+			product	kinesin-5
+			protein_id	gb|KYO03288.1||gnl|WGS:LVLB|PGSY75_0317500
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317500
+<588267	>589293	gene
+			locus_tag	PGSY75_0317600
+			note	ortholog of PF3D7_0317600
+<588267	588290	mRNA
+588666	589036
+589203	>589293
+			product	putative 40S ribosomal protein S11
+			protein_id	gnl|WGS:LVLB|PGSY75_0317600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317600
+588267	588290	CDS
+588666	589036
+589203	589293
+			product	putative 40S ribosomal protein S11
+			protein_id	gb|KYO03289.1||gnl|WGS:LVLB|PGSY75_0317600
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317600
+<591869	>600909	gene
+			locus_tag	PGSY75_0317700
+			note	ortholog of PF3D7_0317700
+<591869	598957	mRNA
+599064	599135
+599223	599299
+599451	599517
+599691	599737
+599870	599941
+600101	600143
+600241	600314
+600414	600716
+600828	>600909
+			product	putative CPSF (cleavage and polyadenylation specific factor), subunit A
+			protein_id	gnl|WGS:LVLB|PGSY75_0317700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317700
+591869	598957	CDS
+599064	599135
+599223	599299
+599451	599517
+599691	599737
+599870	599941
+600101	600143
+600241	600314
+600414	600716
+600828	600909
+			product	putative CPSF (cleavage and polyadenylation specific factor), subunit A
+			protein_id	gb|KYO03290.1||gnl|WGS:LVLB|PGSY75_0317700
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317700
+<601908	>601243	gene
+			locus_tag	PGSY75_0317800
+			note	ortholog of PF3D7_0317800
+<601908	>601243	mRNA
+			product	putative proteasome regulatory protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0317800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317800
+601908	601243	CDS
+			product	putative proteasome regulatory protein
+			protein_id	gb|KYO03291.1||gnl|WGS:LVLB|PGSY75_0317800
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317800
+<602434	>604718	gene
+			locus_tag	PGSY75_0317900
+			note	ortholog of PF3D7_0317900
+<602434	602496	mRNA
+602697	>604718
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0317900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317900
+602434	602496	CDS
+602697	604718
+			product	hypothetical protein
+			protein_id	gb|KYO03292.1||gnl|WGS:LVLB|PGSY75_0317900
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0317900
+<605180	>605788	gene
+			locus_tag	PGSY75_0318000
+			note	ortholog of PF3D7_0318000
+<605180	>605788	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0318000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318000
+605180	605788	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03293.1||gnl|WGS:LVLB|PGSY75_0318000
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318000
+<606858	>607979	gene
+			locus_tag	PGSY75_0318100
+			note	ortholog of PF3D7_0318100
+<606858	>607979	mRNA
+			product	stomatin-like protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0318100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318100
+606858	607979	CDS
+			product	stomatin-like protein
+			protein_id	gb|KYO03294.1||gnl|WGS:LVLB|PGSY75_0318100
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318100
+<611179	>618417	gene
+			locus_tag	PGSY75_0318200
+			note	ortholog of PF3D7_0318200
+<611179	>618417	mRNA
+			product	putative DNA-directed RNA polymerase II subunit RPB1
+			protein_id	gnl|WGS:LVLB|PGSY75_0318200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318200
+611179	618417	CDS
+			product	putative DNA-directed RNA polymerase II subunit RPB1
+			protein_id	gb|KYO03295.1||gnl|WGS:LVLB|PGSY75_0318200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318200
+<622566	>618951	gene
+			locus_tag	PGSY75_0318300
+			note	ortholog of PF3D7_0318300
+<622566	622476	mRNA
+622352	621928
+621773	>618951
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0318300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318300
+622566	622476	CDS
+622352	621928
+621773	618951
+			product	hypothetical protein
+			protein_id	gb|KYO03296.1||gnl|WGS:LVLB|PGSY75_0318300
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318300
+<627483	>623903	gene
+			locus_tag	PGSY75_0318400
+			note	ortholog of PF3D7_0318400
+<627483	627127	mRNA
+627010	626815
+626687	626589
+626462	626420
+626231	626168
+626068	626018
+625868	625811
+625714	625635
+625543	625438
+625355	625282
+625162	625091
+624968	624828
+624743	624674
+624562	624481
+624384	624318
+624215	624145
+624050	>623903
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0318400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318400
+627483	627127	CDS
+627010	626815
+626687	626589
+626462	626420
+626231	626168
+626068	626018
+625868	625811
+625714	625635
+625543	625438
+625355	625282
+625162	625091
+624968	624828
+624743	624674
+624562	624481
+624384	624318
+624215	624145
+624050	623903
+			product	hypothetical protein
+			protein_id	gb|KYO03297.1||gnl|WGS:LVLB|PGSY75_0318400
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318400
+<630492	>645293	gene
+			locus_tag	PGSY75_0318500
+			note	ortholog of PF3D7_0318500
+<630492	>645293	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0318500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318500
+630492	645293	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03298.1||gnl|WGS:LVLB|PGSY75_0318500
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318500
+<648750	>645532	gene
+			locus_tag	PGSY75_0318600
+			note	ortholog of PF3D7_0318600
+<648750	>645532	mRNA
+			product	putative cleavage and polyadenylation specificity factor
+			protein_id	gnl|WGS:LVLB|PGSY75_0318600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318600
+648750	645532	CDS
+			product	putative cleavage and polyadenylation specificity factor
+			protein_id	gb|KYO03299.1||gnl|WGS:LVLB|PGSY75_0318600
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318600
+<651054	>651413	gene
+			locus_tag	PGSY75_0318700
+			note	ortholog of PF3D7_0318700
+<651054	>651413	mRNA
+			product	trophozoite stage antigen
+			protein_id	gnl|WGS:LVLB|PGSY75_0318700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318700
+651054	651413	CDS
+			product	trophozoite stage antigen
+			protein_id	gb|KYO03300.1||gnl|WGS:LVLB|PGSY75_0318700
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318700
+<652654	>654076	gene
+			locus_tag	PGSY75_0318800
+			note	ortholog of PF3D7_0318800
+<652654	653415	mRNA
+653513	653633
+653814	653908
+653981	>654076
+			product	putative triosephosphate isomerase
+			protein_id	gnl|WGS:LVLB|PGSY75_0318800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318800
+652654	653415	CDS
+653513	653633
+653814	653908
+653981	654076
+			product	putative triosephosphate isomerase
+			protein_id	gb|KYO03301.1||gnl|WGS:LVLB|PGSY75_0318800
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318800
+<656203	>654584	gene
+			locus_tag	PGSY75_0318900
+			note	ortholog of PF3D7_0318900
+<656203	656128	mRNA
+655923	655837
+655701	>654584
+			product	conserved protein, unknown function
+			protein_id	gnl|WGS:LVLB|PGSY75_0318900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318900
+656203	656128	CDS
+655923	655837
+655701	654584
+			product	conserved protein, unknown function
+			protein_id	gb|KYO03302.1||gnl|WGS:LVLB|PGSY75_0318900
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0318900
+<658614	>664271	gene
+			locus_tag	PGSY75_0319000
+			note	ortholog of PF3D7_0319000
+<658614	>664271	mRNA
+			product	putative P-type ATPase
+			protein_id	gnl|WGS:LVLB|PGSY75_0319000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319000
+658614	664271	CDS
+			product	putative P-type ATPase
+			protein_id	gb|KYO03303.1||gnl|WGS:LVLB|PGSY75_0319000
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319000
+<665410	>665087	gene
+			locus_tag	PGSY75_0319100
+			note	ortholog of PF3D7_0319100
+<665410	>665087	mRNA
+			product	putative E3 ubiquitin-protein ligase RBX1
+			protein_id	gnl|WGS:LVLB|PGSY75_0319100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319100
+665410	665087	CDS
+			product	putative E3 ubiquitin-protein ligase RBX1
+			protein_id	gb|KYO03304.1||gnl|WGS:LVLB|PGSY75_0319100
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319100
+<669020	>666300	gene
+			locus_tag	PGSY75_0319200
+			note	ortholog of PF3D7_0319200
+<669020	>666300	mRNA
+			product	putative endonuclease/exonuclease/phosphatase family protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0319200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319200
+669020	666300	CDS
+			product	putative endonuclease/exonuclease/phosphatase family protein
+			protein_id	gb|KYO03305.1||gnl|WGS:LVLB|PGSY75_0319200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319200
+<669953	>670553	gene
+			locus_tag	PGSY75_0319300
+			note	ortholog of PF3D7_0319300
+<669953	670378	mRNA
+670497	>670553
+			product	putative ubiquitin-conjugating enzyme
+			protein_id	gnl|WGS:LVLB|PGSY75_0319300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319300
+669953	670378	CDS
+670497	670553
+			product	putative ubiquitin-conjugating enzyme
+			protein_id	gb|KYO03306.1||gnl|WGS:LVLB|PGSY75_0319300
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319300
+<672628	>676716	gene
+			locus_tag	PGSY75_0319400
+			note	ortholog of PF3D7_0319400
+<672628	>676716	mRNA
+			product	putative kinesin-8
+			protein_id	gnl|WGS:LVLB|PGSY75_0319400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319400
+672628	676716	CDS
+			product	putative kinesin-8
+			protein_id	gb|KYO03307.1||gnl|WGS:LVLB|PGSY75_0319400
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319400
+<678176	>679409	gene
+			locus_tag	PGSY75_0319500
+			note	ortholog of PF3D7_0319500
+<678176	678296	mRNA
+678375	678473
+678605	678759
+678873	>679409
+			product	putative RNA-binding protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0319500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319500
+678176	678296	CDS
+678375	678473
+678605	678759
+678873	679409
+			product	putative RNA-binding protein
+			protein_id	gb|KYO03308.1||gnl|WGS:LVLB|PGSY75_0319500
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319500
+<680308	>681023	gene
+			locus_tag	PGSY75_0319600
+			note	ortholog of PF3D7_0319600
+<680308	680435	mRNA
+680536	680686
+680832	>681023
+			product	putative elongation factor 1 (EF-1)
+			protein_id	gnl|WGS:LVLB|PGSY75_0319600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319600
+680308	680435	CDS
+680536	680686
+680832	681023
+			product	putative elongation factor 1 (EF-1)
+			protein_id	gb|KYO03309.1||gnl|WGS:LVLB|PGSY75_0319600
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319600
+<683323	>693284	gene
+			locus_tag	PGSY75_0319700
+			note	ortholog of PF3D7_0319700
+<683323	683464	mRNA
+683646	683748
+683916	693010
+693172	>693284
+			product	putative ABC transporter
+			protein_id	gnl|WGS:LVLB|PGSY75_0319700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319700
+683323	683464	CDS
+683646	683748
+683916	693010
+693172	693284
+			product	putative ABC transporter
+			protein_id	gb|KYO03310.1||gnl|WGS:LVLB|PGSY75_0319700
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319700
+<694940	>693525	gene
+			locus_tag	PGSY75_0319800
+			note	ortholog of PF3D7_0319800
+<694940	>693525	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0319800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319800
+694940	693525	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03311.1||gnl|WGS:LVLB|PGSY75_0319800
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319800
+<697206	>696331	gene
+			locus_tag	PGSY75_0319900
+			note	ortholog of PF3D7_0319900
+<697206	>696331	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0319900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319900
+697206	696331	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03312.1||gnl|WGS:LVLB|PGSY75_0319900
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0319900
+<699855	>700798	gene
+			locus_tag	PGSY75_0320000
+			note	ortholog of PF3D7_0320000
+<699855	699883	mRNA
+700044	700152
+700262	700324
+700458	700594
+700702	>700798
+			product	protein phosphatase inhibitor 2
+			protein_id	gnl|WGS:LVLB|PGSY75_0320000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320000
+699855	699883	CDS
+700044	700152
+700262	700324
+700458	700594
+700702	700798
+			product	protein phosphatase inhibitor 2
+			protein_id	gb|KYO03313.1||gnl|WGS:LVLB|PGSY75_0320000
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320000
+<702748	>704071	gene
+			locus_tag	PGSY75_0320100
+			note	ortholog of PF3D7_0320100
+<702748	702914	mRNA
+703062	703168
+703354	703440
+703546	703692
+703807	703850
+703958	>704071
+			product	SNARE protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0320100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320100
+702748	702914	CDS
+703062	703168
+703354	703440
+703546	703692
+703807	703850
+703958	704071
+			product	SNARE protein
+			protein_id	gb|KYO03314.1||gnl|WGS:LVLB|PGSY75_0320100
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320100
+<704808	>706445	gene
+			locus_tag	PGSY75_0320200
+			note	ortholog of PF3D7_0320200
+<704808	>706445	mRNA
+			product	CPW-WPC family protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0320200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320200
+704808	706445	CDS
+			product	CPW-WPC family protein
+			protein_id	gb|KYO03315.1||gnl|WGS:LVLB|PGSY75_0320200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320200
+<707981	>709588	gene
+			locus_tag	PGSY75_0320300
+			note	ortholog of PF3D7_0320300
+<707981	>709588	mRNA
+			product	putative T-complex protein 1 epsilon subunit
+			protein_id	gnl|WGS:LVLB|PGSY75_0320300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320300
+707981	709588	CDS
+			product	putative T-complex protein 1 epsilon subunit
+			protein_id	gb|KYO03316.1||gnl|WGS:LVLB|PGSY75_0320300
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320300
+<719817	>710497	gene
+			locus_tag	PGSY75_0320400
+			note	ortholog of PF3D7_0320400
+<719817	>710497	mRNA
+			product	oocyst capsule protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0320400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320400
+719817	710497	CDS
+			product	oocyst capsule protein
+			protein_id	gb|KYO03317.1||gnl|WGS:LVLB|PGSY75_0320400
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320400
+<723773	>725041	gene
+			locus_tag	PGSY75_0320500
+			note	ortholog of PF3D7_0320500
+<723773	>725041	mRNA
+			product	putative nicotinamidase
+			protein_id	gnl|WGS:LVLB|PGSY75_0320500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320500
+723773	725041	CDS
+			product	putative nicotinamidase
+			protein_id	gb|KYO03318.1||gnl|WGS:LVLB|PGSY75_0320500
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320500
+<726741	>725656	gene
+			locus_tag	PGSY75_0320600
+			note	ortholog of PF3D7_0320600
+<726741	726670	mRNA
+726546	726434
+726339	726306
+726060	725992
+725766	>725656
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0320600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320600
+726741	726670	CDS
+726546	726434
+726339	726306
+726060	725992
+725766	725656
+			product	hypothetical protein
+			protein_id	gb|KYO03319.1||gnl|WGS:LVLB|PGSY75_0320600
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320600
+<727947	>729341	gene
+			locus_tag	PGSY75_0320700
+			note	ortholog of PF3D7_0320700
+<727947	727983	mRNA
+728123	728187
+728339	728420
+728524	728585
+728683	728769
+728873	728930
+729082	729148
+729260	>729341
+			product	putative signal peptidase complex subunit 2
+			protein_id	gnl|WGS:LVLB|PGSY75_0320700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320700
+727947	727983	CDS
+728123	728187
+728339	728420
+728524	728585
+728683	728769
+728873	728930
+729082	729148
+729260	729341
+			product	putative signal peptidase complex subunit 2
+			protein_id	gb|KYO03320.1||gnl|WGS:LVLB|PGSY75_0320700
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320700
+<732208	>733662	gene
+			locus_tag	PGSY75_0320800
+			note	ortholog of PF3D7_0320800
+<732208	732598	mRNA
+732752	>733662
+			product	ATP-dependent RNA helicase DDX6
+			protein_id	gnl|WGS:LVLB|PGSY75_0320800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320800
+732208	732598	CDS
+732752	733662
+			product	ATP-dependent RNA helicase DDX6
+			protein_id	gb|KYO03321.1||gnl|WGS:LVLB|PGSY75_0320800
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320800
+<736726	>738095	gene
+			locus_tag	PGSY75_0320900
+			note	ortholog of PF3D7_0320900
+<736726	736819	mRNA
+737473	737724
+737965	>738095
+			product	putative histone H2A variant
+			protein_id	gnl|WGS:LVLB|PGSY75_0320900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320900
+736726	736819	CDS
+737473	737724
+737965	738095
+			product	putative histone H2A variant
+			protein_id	gb|KYO03322.1||gnl|WGS:LVLB|PGSY75_0320900
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0320900
+<739592	>740682	gene
+			locus_tag	PGSY75_0321000
+			note	ortholog of PF3D7_0321000
+<739592	>740682	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0321000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321000
+739592	>740682	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03323.1||gnl|WGS:LVLB|PGSY75_0321000
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321000
+<745693	>744187	gene
+			locus_tag	PGSY75_0321200
+			note	ortholog of PF3D7_0321200
+<745693	745563	mRNA
+745445	745395
+745277	745217
+745119	744955
+744870	744803
+744675	>744187
+			product	putative N-acetylglucosamine-1-phosphate transferase
+			protein_id	gnl|WGS:LVLB|PGSY75_0321200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321200
+<745693	745563	CDS
+745445	745395
+745277	745217
+745119	744955
+744870	744803
+744675	744187
+			product	putative N-acetylglucosamine-1-phosphate transferase
+			codon_start	3
+			protein_id	gb|KYO03324.1||gnl|WGS:LVLB|PGSY75_0321200
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321200
+<748318	>747082	gene
+			locus_tag	PGSY75_0321300
+			note	ortholog of PF3D7_0321300
+<748318	>747082	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0321300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321300
+<748318	747082	CDS
+			product	hypothetical protein
+			codon_start	2
+			protein_id	gb|KYO03325.1||gnl|WGS:LVLB|PGSY75_0321300
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321300
+<752083	>748856	gene
+			locus_tag	PGSY75_0321500
+			note	ortholog of PF3D7_0321500
+<752083	>748856	mRNA
+			product	putative peptidase
+			protein_id	gnl|WGS:LVLB|PGSY75_0321500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321500
+752083	748856	CDS
+			product	putative peptidase
+			protein_id	gb|KYO03326.1||gnl|WGS:LVLB|PGSY75_0321500
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321500
+<752947	>755342	gene
+			locus_tag	PGSY75_0321600
+			note	ortholog of PF3D7_0321600
+<752947	754846	mRNA
+755008	>755342
+			product	putative ATP-dependent RNA helicase
+			protein_id	gnl|WGS:LVLB|PGSY75_0321600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321600
+752947	754846	CDS
+755008	755342
+			product	putative ATP-dependent RNA helicase
+			protein_id	gb|KYO03327.1||gnl|WGS:LVLB|PGSY75_0321600
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321600
+<761477	>755792	gene
+			locus_tag	PGSY75_0321700
+			note	gap found within coding sequence~ortholog of PF3D7_0321700
+<755986	>755792	mRNA
+			product	putative microtubule and actin binding protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0321700B
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321700B
+<755986	755792	CDS
+			product	putative microtubule and actin binding protein
+			protein_id	gb|KYO03328.1||gnl|WGS:LVLB|PGSY75_0321700B
+			note	part of same gene as PGSY75_0321700A~gap found within coding sequence
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321700B
+<761477	756591	mRNA
+756513	>756339
+			product	putative microtubule and actin binding protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0321700A
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321700A
+761477	756591	CDS
+756513	>756339
+			product	putative microtubule and actin binding protein
+			protein_id	gb|KYO03329.1||gnl|WGS:LVLB|PGSY75_0321700A
+			note	part of same gene as PGSY75_0321700B~gap found within coding sequence
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321700A
+<761936	>768099	gene
+			locus_tag	PGSY75_0321800
+			note	ortholog of PF3D7_0321800
+<761936	>768099	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0321800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321800
+<761936	>768099	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03330.1||gnl|WGS:LVLB|PGSY75_0321800
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321800
+<770043	>773016	gene
+			locus_tag	PGSY75_0321900
+			note	gap found within coding sequence~ortholog of PF3D7_0321900
+<770043	770381	mRNA
+770553	>772286
+			product	cyclic amine resistance locus protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0321900A
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321900A
+770043	770381	CDS
+770553	>772286
+			product	cyclic amine resistance locus protein
+			protein_id	gb|KYO03331.1||gnl|WGS:LVLB|PGSY75_0321900A
+			note	part of same gene as PGSY75_0321900B~gap found within coding sequence
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321900A
+<772744	772816	mRNA
+772921	>773016
+			product	cyclic amine resistance locus protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0321900B
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321900B
+<772744	772816	CDS
+772921	773016
+			product	cyclic amine resistance locus protein
+			codon_start	2
+			protein_id	gb|KYO03332.1||gnl|WGS:LVLB|PGSY75_0321900B
+			note	part of same gene as PGSY75_0321900A~gap found within coding sequence
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0321900B
+<774207	>773692	gene
+			locus_tag	PGSY75_0322000
+			note	ortholog of PF3D7_0322000
+<774207	>773692	mRNA
+			product	peptidyl-prolyl cis-trans isomerase
+			protein_id	gnl|WGS:LVLB|PGSY75_0322000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322000
+774207	773692	CDS
+			product	peptidyl-prolyl cis-trans isomerase
+			protein_id	gb|KYO03333.1||gnl|WGS:LVLB|PGSY75_0322000
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322000
+<777450	>775684	gene
+			locus_tag	PGSY75_0322100
+			note	ortholog of PF3D7_0322100
+<777450	>775684	mRNA
+			product	RNA triphosphatase
+			protein_id	gnl|WGS:LVLB|PGSY75_0322100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322100
+777450	775684	CDS
+			product	RNA triphosphatase
+			protein_id	gb|KYO03334.1||gnl|WGS:LVLB|PGSY75_0322100
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322100
+<781844	>778141	gene
+			locus_tag	PGSY75_0322200
+			note	ortholog of PF3D7_0322200
+<781844	781799	mRNA
+781686	780416
+780338	780297
+780165	780076
+779957	779872
+779777	779696
+779603	779539
+779401	779339
+779167	779016
+778929	778886
+778750	778716
+778620	778566
+778471	778414
+778274	>778141
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0322200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322200
+781844	781799	CDS
+781686	780416
+780338	780297
+780165	780076
+779957	779872
+779777	779696
+779603	779539
+779401	779339
+779167	779016
+778929	778886
+778750	778716
+778620	778566
+778471	778414
+778274	778141
+			product	hypothetical protein
+			protein_id	gb|KYO03335.1||gnl|WGS:LVLB|PGSY75_0322200
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322200
+<784553	>782688	gene
+			locus_tag	PGSY75_0322300
+			note	ortholog of PF3D7_0322300
+<784553	>782688	mRNA
+			product	diacylglycerol O-acyltransferase
+			protein_id	gnl|WGS:LVLB|PGSY75_0322300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322300
+784553	782688	CDS
+			product	diacylglycerol O-acyltransferase
+			protein_id	gb|KYO03336.1||gnl|WGS:LVLB|PGSY75_0322300
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322300
+<786612	>789212	gene
+			locus_tag	PGSY75_0322400
+			note	ortholog of PF3D7_0322400
+<786612	788921	mRNA
+789132	>789212
+			product	regulator of initiation factor 2 (eIF2)
+			protein_id	gnl|WGS:LVLB|PGSY75_0322400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322400
+<786612	788921	CDS
+789132	789212
+			product	regulator of initiation factor 2 (eIF2)
+			protein_id	gb|KYO03337.1||gnl|WGS:LVLB|PGSY75_0322400
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322400
+<790990	>795250	gene
+			locus_tag	PGSY75_0322600
+			note	ortholog of PF3D7_0322600
+<790990	793042	mRNA
+793203	>795250
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0322600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322600
+790990	793042	CDS
+793203	795250
+			product	hypothetical protein
+			protein_id	gb|KYO03338.1||gnl|WGS:LVLB|PGSY75_0322600
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322600
+<803086	>795482	gene
+			locus_tag	PGSY75_0322700
+			note	ortholog of PF3D7_0322700
+<803086	796098	mRNA
+795608	>795482
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0322700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322700
+803086	796098	CDS
+795608	795482
+			product	hypothetical protein
+			protein_id	gb|KYO03339.1||gnl|WGS:LVLB|PGSY75_0322700
+			note	conserved Plasmodium protein, unknown function
+			inference	ab initio prediction:Augustus:2.5.5
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322700
+<804722	>805920	gene
+			locus_tag	PGSY75_0322800
+			note	ortholog of PF3D7_0322800
+<804722	804821	mRNA
+805015	805203
+805469	805599
+805696	805759
+805859	>805920
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0322800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322800
+804722	804821	CDS
+805015	805203
+805469	805599
+805696	805759
+805859	805920
+			product	hypothetical protein
+			protein_id	gb|KYO03340.1||gnl|WGS:LVLB|PGSY75_0322800
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322800
+<807153	>806259	gene
+			locus_tag	PGSY75_0322900
+			note	ortholog of PF3D7_0322900
+<807153	806991	mRNA
+806884	>806259
+			product	putative 40S ribosomal protein S3A
+			protein_id	gnl|WGS:LVLB|PGSY75_0322900
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322900
+807153	806991	CDS
+806884	806259
+			product	putative 40S ribosomal protein S3A
+			protein_id	gb|KYO03341.1||gnl|WGS:LVLB|PGSY75_0322900
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0322900
+<809810	>809268	gene
+			locus_tag	PGSY75_0323000
+			note	ortholog of PF3D7_0323000
+<809810	809793	mRNA
+809626	809529
+809316	>809268
+			product	putative translation machinery-associated protein 7
+			protein_id	gnl|WGS:LVLB|PGSY75_0323000
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323000
+809810	809793	CDS
+809626	809529
+809316	809268
+			product	putative translation machinery-associated protein 7
+			protein_id	gb|KYO03342.1||gnl|WGS:LVLB|PGSY75_0323000
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323000
+<811616	>816475	gene
+			locus_tag	PGSY75_0323100
+			note	ortholog of PF3D7_0323100
+<811616	>816475	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0323100
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323100
+811616	816475	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03343.1||gnl|WGS:LVLB|PGSY75_0323100
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323100
+<817401	>818720	gene
+			locus_tag	PGSY75_0323200
+			note	ortholog of PF3D7_0323200
+<817401	>818720	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0323200
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323200
+817401	818720	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03344.1||gnl|WGS:LVLB|PGSY75_0323200
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323200
+<819411	>820658	gene
+			locus_tag	PGSY75_0323300
+			note	ortholog of PF3D7_0323300
+<819411	>820658	mRNA
+			product	conserved protein, unknown function
+			protein_id	gnl|WGS:LVLB|PGSY75_0323300
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323300
+819411	820658	CDS
+			product	conserved protein, unknown function
+			protein_id	gb|KYO03345.1||gnl|WGS:LVLB|PGSY75_0323300
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323300
+<824443	>821159	gene
+			locus_tag	PGSY75_0323400
+			note	ortholog of PF3D7_0323400
+<824443	>821159	mRNA
+			product	Rh5 interacting protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0323400
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323400
+824443	821159	CDS
+			product	Rh5 interacting protein
+			protein_id	gb|KYO03346.1||gnl|WGS:LVLB|PGSY75_0323400
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323400
+<826652	>828013	gene
+			locus_tag	PGSY75_0323500
+			note	ortholog of PF3D7_0323500
+<826652	826687	mRNA
+826843	827011
+827195	827504
+827581	>828013
+			product	survival motor neuron-like protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0323500
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323500
+826652	826687	CDS
+826843	827011
+827195	827504
+827581	828013
+			product	survival motor neuron-like protein
+			protein_id	gb|KYO03347.1||gnl|WGS:LVLB|PGSY75_0323500
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323500
+<828950	>831202	gene
+			locus_tag	PGSY75_0323600
+			note	ortholog of PF3D7_0323600
+<828950	830603	mRNA
+830744	830970
+831074	>831202
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0323600
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323600
+828950	830603	CDS
+830744	830970
+831074	831202
+			product	hypothetical protein
+			protein_id	gb|KYO03348.1||gnl|WGS:LVLB|PGSY75_0323600
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323600
+<833925	>831898	gene
+			locus_tag	PGSY75_0323700
+			note	ortholog of PF3D7_0323700
+<833925	>831898	mRNA
+			product	putative U4/U6.U5 tri-snRNP-associated protein 1
+			protein_id	gnl|WGS:LVLB|PGSY75_0323700
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323700
+833925	831898	CDS
+			product	putative U4/U6.U5 tri-snRNP-associated protein 1
+			protein_id	gb|KYO03349.1||gnl|WGS:LVLB|PGSY75_0323700
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323700
+<838219	>840960	gene
+			locus_tag	PGSY75_0323800
+			note	ortholog of PF3D7_0323800
+<838219	>840960	mRNA
+			product	hypothetical protein
+			protein_id	gnl|WGS:LVLB|PGSY75_0323800
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323800
+838219	840960	CDS
+			product	hypothetical protein
+			protein_id	gb|KYO03350.1||gnl|WGS:LVLB|PGSY75_0323800
+			note	conserved Plasmodium protein, unknown function
+			inference	similar to DNA sequence:RATT:1
+			transcript_id	gnl|WGS:LVLB|mRNA.PGSY75_0323800
+
