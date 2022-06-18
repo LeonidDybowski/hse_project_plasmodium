@@ -273,9 +273,9 @@
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
 |-|-|-|-|-|-|
 |*P. falciparum*|1|CAD52315.1|U4/U6.U5 tri-snRNP-associated protein 2, putative|Отсутствует|0.0|
-|*P. vivax*|1|EDL47370.1|ubiquitin carboxyl-terminal hydrolase, putative|Промотор|66.0|
+|*P. vivax*|1|EDL47370.1|ubiquitin carboxyl-terminal hydrolase, putative|Ген|66.0|
 |*P. gaboni*|1|KYN96971.1|putative U4/U6.U5 tri-snRNP-associated protein 2|Отсутствует|0.0|
-|*P. knowlesi*|1|CAA9990777.1|U4/U6.U5 tri-snRNP-associated protein 2, putative|Промотор|66.0|
+|*P. knowlesi*|1|CAA9990777.1|U4/U6.U5 tri-snRNP-associated protein 2, putative|Ген|66.0|
 |*P. yoelii*|1|VTZ81486.1|U4/U6.U5 tri-snRNP-associated protein 2, putative|Отсутствует|0.0|
 
 ![9_start](https://user-images.githubusercontent.com/60808642/174450484-aef3618d-3e5a-40c3-b36c-083b961f3e02.png)
@@ -286,9 +286,9 @@
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
 |-|-|-|-|-|-|
 |*P. falciparum*|1|CAX64058.1|NIMA related kinase 4|Отсутствует|0.0|
-|*P. vivax*|1|EDL43099.1|serine/threonine-protein kinase NEK4, putative|Промотор|73.0|
+|*P. vivax*|1|EDL43099.1|serine/threonine-protein kinase NEK4, putative|Ген|73.0|
 |*P. gaboni*|1|KYO01330.1|NIMA related kinase 4|Отсутствует|0.0|
-|*P. knowlesi*|1|CAA9986571.1|NIMA related kinase 4, putative|Промотор|57.0|
+|*P. knowlesi*|1|CAA9986571.1|NIMA related kinase 4, putative|Ген|57.0|
 |*P. yoelii*|1|VTZ75464.1|NIMA related kinase 4|Отсутствует|0.0|
 
 ![10_start](https://user-images.githubusercontent.com/60808642/174450491-6e1b7a00-943d-444e-b8d1-aa407d3ff280.png)
