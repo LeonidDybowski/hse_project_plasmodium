@@ -1,0 +1,298 @@
+>Feature emb|LM993669.2|
+<2	622	gene
+			locus_tag	PY17X_API00700
+<2	622	CDS
+			product	30S ribosomal protein S2, putative
+			protein_id	emb|VTZ82048.1|
+914	609	gene
+			locus_tag	PY17X_API00800
+914	609	CDS
+			product	hypothetical chloroplast reading frame 93, putative
+			protein_id	emb|VTZ82049.1|
+1022	938	gene
+			locus_tag	PY17X_API00851
+1022	938	tRNA
+			product	tRNA-Ser
+1255	1025	gene
+			locus_tag	PY17X_API00900
+1255	1025	CDS
+			product	probable protein, unknown function
+			protein_id	emb|VTZ82050.1|
+1358	1286	gene
+			locus_tag	PY17X_API00951
+1358	1286	tRNA
+			product	tRNA-Gly
+3634	1373	gene
+			locus_tag	PY17X_API01000
+3634	1373	CDS
+			product	chaperone protein ClpM, putative
+			protein_id	emb|VTZ82051.1|
+4013	3639	gene
+			locus_tag	PY17X_API01100
+4013	3639	CDS
+			product	apicoplast ribosomal protein L11, putative
+			protein_id	emb|VTZ82052.1|
+4194	4124	gene
+			locus_tag	PY17X_API01131
+4194	4124	tRNA
+4275	4212	gene
+			locus_tag	PY17X_API01161
+4275	4212	tRNA
+			product	tRNA-Gln
+4298	4369	gene
+			locus_tag	PY17X_API01200
+4298	4369	tRNA
+			product	tRNA-Phe
+4582	4346	gene
+			locus_tag	PY17X_API01300
+4582	4346	CDS
+			product	probable protein, unknown function
+			protein_id	emb|VTZ82053.1|
+5814	4585	gene
+			locus_tag	PY17X_API01400
+5814	4585	CDS
+			product	elongation factor Tu, putative
+			protein_id	emb|VTZ82054.1|
+6290	5868	gene
+			locus_tag	PY17X_API01500
+6290	5868	CDS
+			product	apicoplast ribosomal protein S7
+			protein_id	emb|VTZ82055.1|
+6683	6306	gene
+			locus_tag	PY17X_API01600
+6683	6306	CDS
+			product	apicoplast ribosomal protein S12
+			protein_id	emb|VTZ82056.1|
+7081	6689	gene
+			locus_tag	PY17X_API01700
+7081	6689	CDS
+			product	apicoplast ribosomal protein S11
+			protein_id	emb|VTZ82057.1|
+7188	7078	gene
+			locus_tag	PY17X_API01800
+7188	7078	CDS
+			product	apicoplast ribosomal protein L36
+			protein_id	emb|VTZ82058.1|
+7439	7197	gene
+			locus_tag	PY17X_API01900
+7439	7197	CDS
+			product	probable protein, unknown function
+			protein_id	emb|VTZ82059.1|
+8176	7436	gene
+			locus_tag	PY17X_API02000
+8176	7436	CDS
+			product	apicoplast ribosomal protein S5
+			protein_id	emb|VTZ82060.1|
+8706	8185	gene
+			locus_tag	PY17X_API02100
+8706	8185	CDS
+			product	apicoplast ribosomal protein L6
+			protein_id	emb|VTZ82061.1|
+9118	8732	gene
+			locus_tag	PY17X_API02200
+9118	8732	CDS
+			product	apicoplast ribosomal protein S8
+			protein_id	emb|VTZ82062.1|
+9480	9118	gene
+			locus_tag	PY17X_API02300
+9480	9118	CDS
+			product	apicoplast ribosomal protein L14
+			protein_id	emb|VTZ82063.1|
+9701	9477	gene
+			locus_tag	PY17X_API02400
+9701	9477	CDS
+			product	apicoplast ribosomal protein S17
+			protein_id	emb|VTZ82064.1|
+10104	9709	gene
+			locus_tag	PY17X_API02500
+10104	9709	CDS
+			product	apicoplast ribosomal protein L16
+			protein_id	emb|VTZ82065.1|
+10758	10123	gene
+			locus_tag	PY17X_API02600
+10758	10123	CDS
+			product	ribosomal protein S3, putative
+			protein_id	emb|VTZ82066.1|
+11037	10765	gene
+			locus_tag	PY17X_API02700
+11037	10765	CDS
+			product	apicoplast ribosomal protein S19
+			protein_id	emb|VTZ82067.1|
+11796	11056	gene
+			locus_tag	PY17X_API02800
+11796	11056	CDS
+			product	apicoplast ribosomal protein L2
+			protein_id	emb|VTZ82068.1|
+12020	11793	gene
+			locus_tag	PY17X_API02900
+12020	11793	CDS
+			product	ribosomal protein L23, putative
+			protein_id	emb|VTZ82069.1|
+12621	12022	gene
+			locus_tag	PY17X_API03000
+12621	12022	CDS
+			product	50S ribosomal protein L4, putative
+			protein_id	emb|VTZ82070.1|
+12719	12648	gene
+			locus_tag	PY17X_API03100
+12719	12648	tRNA
+			product	tRNA-Pro
+12805	12735	gene
+			locus_tag	PY17X_API03200
+12805	12735	tRNA
+			product	tRNA-Glu
+			note	tRNA Glutamic acid
+12885	12813	gene
+			locus_tag	PY17X_API03300
+12885	12813	tRNA
+			product	tRNA-Lys
+12969	12895	gene
+			locus_tag	PY17X_API03400
+12969	12895	tRNA
+			product	tRNA-Asp
+			note	tRNA Aspartic acid
+13072	12983	gene
+			locus_tag	PY17X_API03500
+13072	12983	tRNA
+			product	tRNA-Ser
+13165	13082	gene
+			locus_tag	PY17X_API03600
+13165	13082	tRNA
+			product	tRNA-Tyr
+13257	13171	gene
+			locus_tag	PY17X_API03621
+13257	13171	tRNA
+			product	tRNA-Met
+13601	13529	gene
+			locus_tag	PY17X_API03641
+13601	13529	tRNA
+			product	tRNA-Cys
+13687	13616	gene
+			locus_tag	PY17X_API03661
+13687	13616	tRNA
+			product	tRNA-His
+14326	13703	gene
+			locus_tag	PY17X_API03700
+14326	13703	CDS
+			product	apicoplast ribosomal protein S4
+			protein_id	emb|VTZ82071.1|
+14425	14353	gene
+			locus_tag	PY17X_API03801
+14425	14353	tRNA
+			product	tRNA-Thr
+17137	14457	gene
+			locus_tag	PY17X_API03901
+17137	14457	rRNA
+			product	large subunit ribosomal RNA
+17252	17179	gene
+			locus_tag	PY17X_API04001
+17252	17179	tRNA
+			product	tRNA-Met
+17332	17261	gene
+			locus_tag	PY17X_API04101
+17332	17261	tRNA
+			product	tRNA-Arg
+17357	17428	gene
+			locus_tag	PY17X_API04201
+17357	17428	tRNA
+			product	tRNA-Val
+17432	17503	gene
+			locus_tag	PY17X_API04301
+17432	17503	tRNA
+			product	tRNA-Arg
+17513	17590	gene
+			locus_tag	PY17X_API04401
+17513	17590	tRNA
+			product	tRNA-Leu
+17673	17602	gene
+			locus_tag	PY17X_API04501
+17673	17602	tRNA
+			product	tRNA-Asn
+17702	17772	gene
+			locus_tag	PY17X_API04601
+17702	17772	tRNA
+			product	tRNA-Ala
+17823	19258	gene
+			locus_tag	PY17X_API04701
+17823	19258	rRNA
+			product	small subunit ribosomal RNA
+19391	19461	gene
+			locus_tag	PY17X_API04801
+19391	19461	tRNA
+			product	tRNA-Ile
+19593	19523	gene
+			locus_tag	PY17X_API04901
+19593	19523	tRNA
+			product	tRNA-Ile
+21160	19728	gene
+			locus_tag	PY17X_API05001
+21160	19728	tRNA
+			note	small subunit ribosomal RNA
+21282	21212	gene
+			locus_tag	PY17X_API05101
+21282	21212	tRNA
+			product	tRNA-Ala
+21311	21382	gene
+			locus_tag	PY17X_API05201
+21311	21382	tRNA
+			product	tRNA-Asn
+21471	21394	gene
+			locus_tag	PY17X_API05301
+21471	21394	tRNA
+			product	tRNA-Leu
+21552	21481	gene
+			locus_tag	PY17X_API05401
+21552	21481	tRNA
+			product	tRNA-Arg
+21627	21556	gene
+			locus_tag	PY17X_API05501
+21627	21556	tRNA
+			product	tRNA-Val
+21652	21723	gene
+			locus_tag	PY17X_API05601
+21652	21723	tRNA
+			product	tRNA-Arg
+21732	21805	gene
+			locus_tag	PY17X_API05701
+21732	21805	tRNA
+			product	tRNA-Met
+21851	24546	gene
+			locus_tag	PY17X_API05801
+21851	24546	tRNA
+			note	large subunit ribosomal RNA
+24559	24631	gene
+			locus_tag	PY17X_API05901
+24559	24631	tRNA
+			product	tRNA-Thr
+24658	26079	gene
+			locus_tag	PY17X_API00100
+24658	26079	CDS
+			product	FeS cluster assembly protein SufB, putative
+			protein_id	emb|VTZ82072.1|
+26097	26234	gene
+			locus_tag	PY17X_API00200
+26097	26234	CDS
+			product	hypothetical protein
+			protein_id	emb|VTZ82073.1|
+26248	26565	gene
+			locus_tag	PY17X_API00300
+26248	26565	CDS
+			product	hypothetical protein
+			protein_id	emb|VTZ82074.1|
+26562	29618	gene
+			locus_tag	PY17X_API00400
+26562	29618	CDS
+			product	DNA-directed RNA polymerase subunit beta, putative
+			protein_id	emb|VTZ82075.1|
+29621	31339	gene
+			locus_tag	PY17X_API00500
+29621	31339	CDS
+			product	DNA-directed RNA polymerase subunit beta', putative
+			protein_id	emb|VTZ82076.1|
+31352	34253	gene
+			locus_tag	PY17X_API00600
+31352	32944	CDS
+32961	34253
+			product	DNA-directed RNA polymerase subunit beta'', putative
+			protein_id	emb|VTZ82077.1|
+

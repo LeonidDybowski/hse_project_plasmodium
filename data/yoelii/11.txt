@@ -1,0 +1,3671 @@
+>Feature emb|LM993665.2|
+5597	3396	gene
+			locus_tag	PY17X_1100003
+5597	5580	CDS
+5439	3598
+3503	3396
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79240.1|
+9510	8408	gene
+			locus_tag	PY17X_1100005
+9510	9496	CDS
+9374	8559
+8473	8408
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79241.1|
+12754	11685	gene
+			locus_tag	PY17X_1100007
+12754	12740	CDS
+12617	11874
+11783	11685
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79242.1|
+16298	17738	gene
+			locus_tag	PY17X_1100009
+16298	16452	CDS
+16589	16820
+16909	16978
+17147	17256
+17337	17525
+17715	17738
+			product	fam-a protein
+			protein_id	emb|VTZ79243.1|
+21164	20227	gene
+			locus_tag	PY17X_1100011
+21164	21096	CDS
+20931	20227
+			product	fam-b protein
+			protein_id	emb|VTZ79244.1|
+24027	25436	gene
+			locus_tag	PY17X_1100013
+24027	24154	CDS
+24322	24544
+24635	24704
+24794	24903
+24988	25209
+25341	25436
+			product	fam-a protein
+			protein_id	emb|VTZ79245.1|
+27853	26735	gene
+			locus_tag	PY17X_1100015
+27853	27839	CDS
+27707	26916
+26827	26735
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79246.1|
+30915	32411	gene
+			locus_tag	PY17X_1100017
+30915	31117	CDS
+31249	31495
+31592	31661
+31814	31923
+32008	32241
+32388	32411
+			product	fam-a protein
+			protein_id	emb|VTZ79247.1|
+33348	34780	gene
+			locus_tag	PY17X_1100019
+33348	33478	CDS
+33626	33848
+33938	34007
+34152	34261
+34345	34563
+34685	34780
+			product	fam-a protein
+			protein_id	emb|VTZ79248.1|
+37087	35908	gene
+			locus_tag	PY17X_1100021
+37087	37073	CDS
+36935	36084
+35994	35908
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79249.1|
+40539	39484	gene
+			locus_tag	PY17X_1100023
+40539	40525	CDS
+40404	39658
+39573	39484
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79250.1|
+43730	45180	gene
+			locus_tag	PY17X_1100025
+43730	43860	CDS
+43996	44242
+44335	44404
+44528	44637
+44718	44948
+45106	45180
+			product	fam-a protein
+			protein_id	emb|VTZ79251.1|
+47277	46154	gene
+			locus_tag	PY17X_1100027
+47277	47263	CDS
+47157	46309
+46219	46154
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79252.1|
+50686	49604	gene
+			locus_tag	PY17X_1100029
+50686	50672	CDS
+50534	49779
+49690	49604
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79253.1|
+54312	53234	gene
+			locus_tag	PY17X_1100031
+54312	54298	CDS
+54189	53407
+53320	53234
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79254.1|
+57993	56936	gene
+			locus_tag	PY17X_1100033
+57993	57979	CDS
+57850	57113
+57022	56936
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79255.1|
+61322	60252	gene
+			locus_tag	PY17X_1100035
+61322	61308	CDS
+61184	60441
+60350	60252
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79256.1|
+64751	63679	gene
+			locus_tag	PY17X_1100037
+64751	64737	CDS
+64627	63851
+63765	63679
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79257.1|
+68507	67643	gene
+			locus_tag	PY17X_1100039
+68507	68439	CDS
+68266	67643
+			product	fam-b protein
+			protein_id	emb|VTZ79258.1|
+71890	70764	gene
+			locus_tag	PY17X_1100043
+71890	71876	CDS
+71770	70913
+70826	70764
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79259.1|
+75338	74242	gene
+			locus_tag	PY17X_1100045
+75338	75324	CDS
+75215	74433
+74328	74242
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79260.1|
+79214	78147	gene
+			locus_tag	PY17X_1100047
+79214	79200	CDS
+79067	78324
+78233	78147
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79261.1|
+82611	81584	gene
+			locus_tag	PY17X_1100051
+82611	82597	CDS
+82476	81736
+81649	81584
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79262.1|
+86095	84963	gene
+			locus_tag	PY17X_1100053
+86095	86081	CDS
+85943	85140
+85049	84963
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79263.1|
+90037	88825	gene
+			locus_tag	PY17X_1100057
+90037	90023	CDS
+89889	88975
+88887	88825
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79264.1|
+93788	92867	gene
+			locus_tag	PY17X_1100061
+93788	93720	CDS
+93556	92867
+			product	fam-b protein
+			protein_id	emb|VTZ79265.1|
+97109	95985	gene
+			locus_tag	PY17X_1100063
+97109	97095	CDS
+96957	96133
+96047	95985
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79266.1|
+100442	99364	gene
+			locus_tag	PY17X_1100067
+100442	100428	CDS
+100296	99541
+99450	99364
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79267.1|
+103755	102718	gene
+			locus_tag	PY17X_1100071
+103755	103741	CDS
+103620	102871
+102783	102718
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79268.1|
+107002	105970	gene
+			locus_tag	PY17X_1100075
+107002	106988	CDS
+106867	106121
+106035	105970
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79269.1|
+110373	109303	gene
+			locus_tag	PY17X_1100077
+110373	110359	CDS
+110251	109472
+109389	109303
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79270.1|
+114351	113140	gene
+			locus_tag	PY17X_1100081
+114351	114337	CDS
+114199	113330
+113226	113140
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79271.1|
+117620	116582	gene
+			locus_tag	PY17X_1100083
+117620	117606	CDS
+117487	116732
+116647	116582
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79272.1|
+121049	119948	gene
+			locus_tag	PY17X_1100085
+121049	121035	CDS
+120898	120122
+120034	119948
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79273.1|
+124636	123553	gene
+			locus_tag	PY17X_1100087
+124636	124622	CDS
+124517	123723
+123639	123553
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79274.1|
+128664	127470	gene
+			locus_tag	PY17X_1100089
+128664	128647	CDS
+128522	127626
+127535	127470
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79275.1|
+132144	131004	gene
+			locus_tag	PY17X_1100091
+132144	132130	CDS
+132008	131157
+131069	131004
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79276.1|
+135755	134566	gene
+			locus_tag	PY17X_1100095
+135755	135738	CDS
+135612	134719
+134631	134566
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79277.1|
+139173	138061	gene
+			locus_tag	PY17X_1100097
+139173	139159	CDS
+139050	138235
+138147	138061
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79278.1|
+142887	141796	gene
+			locus_tag	PY17X_1100100
+142887	142873	CDS
+142764	141970
+141882	141796
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79279.1|
+146579	145575	gene
+			locus_tag	PY17X_1100151
+146579	146565	CDS
+146444	145725
+145640	145575
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79280.1|
+149945	148859	gene
+			locus_tag	PY17X_1100200
+149945	149931	CDS
+149798	149031
+148945	148859
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79281.1|
+153491	152334	gene
+			locus_tag	PY17X_1100300
+			pseudo
+			pseudogene	unknown
+153491	153477	CDS
+153343	152924
+152904	152500
+152396	152334
+			pseudo
+			note	YIR protein, pseudogene;~PIR protein, pseudogene
+			pseudogene	unknown
+157227	158799	gene
+			locus_tag	PY17X_1100400
+157227	157381	CDS
+157522	157768
+157865	157934
+158056	158165
+158246	158479
+158674	158799
+			product	fam-a protein
+			protein_id	emb|VTZ79283.1|
+160136	161616	gene
+			locus_tag	PY17X_1100500
+160136	160266	CDS
+160389	160635
+160732	160801
+160923	161032
+161113	161346
+161542	161616
+			product	fam-a protein
+			protein_id	emb|VTZ79284.1|
+162612	164157	gene
+			locus_tag	PY17X_1100600
+162612	162742	CDS
+162952	163174
+163268	163337
+163481	163590
+163711	163932
+164062	164157
+			product	fam-a protein
+			protein_id	emb|VTZ79285.1|
+166668	165505	gene
+			locus_tag	PY17X_1100700
+			pseudo
+			pseudogene	unknown
+166668	166654	CDS
+166518	165950
+165947	165659
+165570	165505
+			pseudo
+			note	YIR protein, pseudogene;~PIR protein, pseudogene
+			pseudogene	unknown
+170343	169174	gene
+			locus_tag	PY17X_1100800
+170343	170326	CDS
+170200	169328
+169239	169174
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79287.1|
+173838	172751	gene
+			locus_tag	PY17X_1100900
+173838	173824	CDS
+173715	172927
+172837	172751
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79288.1|
+177715	176824	gene
+			locus_tag	PY17X_1101000
+177715	177647	CDS
+177483	176824
+			product	fam-b protein
+			protein_id	emb|VTZ79289.1|
+185734	184571	gene
+			locus_tag	PY17X_1101100
+185734	185720	CDS
+185594	184725
+184636	184571
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79290.1|
+189272	188144	gene
+			locus_tag	PY17X_1101200
+189272	189258	CDS
+189134	188319
+188230	188144
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79291.1|
+193238	192157	gene
+			locus_tag	PY17X_1101300
+193238	193224	CDS
+193074	192310
+192222	192157
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79292.1|
+196770	195586	gene
+			locus_tag	PY17X_1101400
+196770	196756	CDS
+196617	195736
+195648	195586
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79293.1|
+200608	199483	gene
+			locus_tag	PY17X_1101500
+200608	200540	CDS
+200370	199483
+			product	fam-b protein
+			protein_id	emb|VTZ79294.1|
+203564	202548	gene
+			locus_tag	PY17X_1101600
+203564	203550	CDS
+203440	202721
+202634	202548
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79295.1|
+207420	206373	gene
+			locus_tag	PY17X_1101700
+207420	207406	CDS
+207266	206547
+206459	206373
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79296.1|
+210850	209384	gene
+			locus_tag	PY17X_1101800
+			pseudo
+			pseudogene	unknown
+210850	210839	CDS
+210712	210665
+210662	210573
+210570	209865
+209862	209384
+			pseudo
+			note	YIR protein, pseudogene;~PIR protein, pseudogene
+			pseudogene	unknown
+212044	211610	gene
+			locus_tag	PY17X_1101900
+212044	211964	CDS
+211834	211610
+			product	fam-c protein
+			protein_id	emb|VTZ79298.1|
+215402	217923	gene
+			locus_tag	PY17X_1102000
+215402	216447	CDS
+216629	216884
+216977	217046
+217207	217316
+217422	217664
+217819	217923
+			product	fam-a protein
+			protein_id	emb|VTZ79299.1|
+219860	221452	gene
+			locus_tag	PY17X_1102100
+219860	219960	CDS
+220127	220379
+220478	220547
+220716	220825
+220921	221154
+221348	221452
+			product	fam-a protein
+			protein_id	emb|VTZ79300.1|
+225298	223912	gene
+			locus_tag	PY17X_1102200
+225298	225245	CDS
+225117	223912
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|VTZ79301.1|
+228485	227216	gene
+			locus_tag	PY17X_1102300
+228485	228417	CDS
+228280	227216
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|VTZ79302.1|
+232224	234503	gene
+			locus_tag	PY17X_1102400
+232224	234230	CDS
+234333	234503
+			product	skeleton-binding protein 1, putative
+			protein_id	emb|VTZ79303.1|
+236660	235491	gene
+			locus_tag	PY17X_1102500
+236660	235491	CDS
+			product	rhoptry-associated protein 2/3
+			protein_id	emb|VTZ79304.1|
+240849	238813	gene
+			locus_tag	PY17X_1102600
+240849	238813	CDS
+			product	anaphase-promoting complex subunit 3, putative
+			protein_id	emb|VTZ79305.1|
+242988	245795	gene
+			locus_tag	PY17X_1102700
+242988	245795	CDS
+			product	chromatin assembly factor 1 subunit A, putative
+			protein_id	emb|VTZ79306.1|
+247479	246069	gene
+			locus_tag	PY17X_1102800
+247479	247085	CDS
+246819	246069
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79307.1|
+248285	252048	gene
+			locus_tag	PY17X_1102900
+248285	248339	CDS
+248500	248689
+249000	252048
+			product	vacuolar protein sorting-associated protein 11, putative
+			protein_id	emb|VTZ79308.1|
+253433	252642	gene
+			locus_tag	PY17X_1103000
+253433	252642	CDS
+			product	HCNGP-like protein, putative
+			protein_id	emb|VTZ79309.1|
+254937	256837	gene
+			locus_tag	PY17X_1103100
+254937	255015	CDS
+255255	256837
+			product	protein Mpv17, putative
+			protein_id	emb|VTZ79310.1|
+258408	257587	gene
+			locus_tag	PY17X_1103200
+258408	257587	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79311.1|
+261779	260550	gene
+			locus_tag	PY17X_1103300
+261779	260550	CDS
+			product	merozoite surface protein 8
+			protein_id	emb|VTZ79312.1|
+266915	263346	gene
+			locus_tag	PY17X_1103400
+266915	266483	CDS
+266338	266267
+266069	265884
+265658	264199
+264075	263998
+263667	263551
+263393	263346
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79313.1|
+268707	267531	gene
+			locus_tag	PY17X_1103500
+268707	268200	CDS
+268078	267531
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79314.1|
+269653	270105	gene
+			locus_tag	PY17X_1103600
+269653	270105	CDS
+			product	DnaJ protein, putative
+			protein_id	emb|VTZ79315.1|
+271016	270541	gene
+			locus_tag	PY17X_1103700
+271016	270945	CDS
+270856	270756
+270616	270541
+			product	Tim10/DDP family zinc finger protein, putative
+			protein_id	emb|VTZ79316.1|
+271924	273443	gene
+			locus_tag	PY17X_1103800
+271924	272025	CDS
+272196	272244
+272452	272561
+272746	272867
+273026	273443
+			product	50S ribosomal protein L28, apicoplast, putative
+			protein_id	emb|VTZ79317.1|
+275583	274009	gene
+			locus_tag	PY17X_1103900
+275583	274009	CDS
+			product	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase, putative
+			protein_id	emb|VTZ79318.1|
+277591	280161	gene
+			locus_tag	PY17X_1104000
+277591	280161	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79319.1|
+284282	283236	gene
+			locus_tag	PY17X_1104100
+284282	283236	CDS
+			product	serine/arginine-rich splicing factor 12, putative
+			protein_id	emb|VTZ79320.1|
+287500	287958	gene
+			locus_tag	PY17X_1104200
+287500	287707	CDS
+287798	287958
+			product	actin-depolymerizing factor 1, putative
+			protein_id	emb|VTZ79321.1|
+291020	288966	gene
+			locus_tag	PY17X_1104300
+291020	288966	CDS
+			product	protein kinase, putative
+			protein_id	emb|VTZ79322.1|
+296016	292379	gene
+			locus_tag	PY17X_1104400
+296016	295363	CDS
+295171	295028
+294850	294718
+294602	294507
+294269	293683
+293488	293309
+293118	292720
+292594	292379
+			product	myosin B, putative
+			protein_id	emb|VTZ79323.1|
+297683	296792	gene
+			locus_tag	PY17X_1104500
+297683	297674	CDS
+297351	297200
+296989	296792
+			product	60S ribosomal protein L31, putative
+			protein_id	emb|VTZ79324.1|
+300791	298954	gene
+			locus_tag	PY17X_1104600
+300791	300707	CDS
+300599	298954
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79325.1|
+301845	307586	gene
+			locus_tag	PY17X_1104700
+301845	307150	CDS
+307253	307586
+			product	cation transporting P-ATPase, putative
+			protein_id	emb|VTZ79326.1|
+309688	308212	gene
+			locus_tag	PY17X_1104800
+309688	309593	CDS
+309370	309263
+309091	308996
+308764	308641
+308441	308377
+308235	308212
+			product	AN1-type zinc finger protein, putative
+			protein_id	emb|VTZ79327.1|
+311276	313147	gene
+			locus_tag	PY17X_1104900
+311276	311820	CDS
+311937	312677
+312970	313147
+			product	ATP-dependent RNA helicase DDX27, putative
+			protein_id	emb|VTZ79328.1|
+314398	313235	gene
+			locus_tag	PY17X_1105000
+314398	314079	CDS
+313865	313667
+313502	313440
+313330	313235
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79329.1|
+316182	318311	gene
+			locus_tag	PY17X_1105100
+316182	318311	CDS
+			product	ATP-dependent helicase, putative
+			protein_id	emb|VTZ79330.1|
+319176	320769	gene
+			locus_tag	PY17X_1105200
+319176	319303	CDS
+319401	319457
+319603	319689
+319770	319905
+320119	320437
+320669	320769
+			product	MOLO1 domain-containing protein, putative
+			protein_id	emb|VTZ79331.1|
+321600	322715	gene
+			locus_tag	PY17X_1105300
+321600	322715	CDS
+			product	2-oxoisovalerate dehydrogenase subunit beta, mitochondrial, putative
+			protein_id	emb|VTZ79332.1|
+324136	325713	gene
+			locus_tag	PY17X_1105400
+324136	325713	CDS
+			product	centrosomal protein CEP120, putative
+			protein_id	emb|VTZ79333.1|
+339559	326018	gene
+			locus_tag	PY17X_1105500
+339559	326018	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79334.1|
+341067	342604	gene
+			locus_tag	PY17X_1105600
+341067	341117	CDS
+341235	341304
+341388	341447
+341628	341704
+341820	341870
+342052	342065
+342159	342224
+342330	342380
+342508	342604
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79335.1|
+349911	342804	gene
+			locus_tag	PY17X_1105700
+349911	343114	CDS
+342890	342804
+			product	MMS19-like protein, putative
+			protein_id	emb|VTZ79336.1|
+351836	358832	gene
+			locus_tag	PY17X_1105800
+351836	356210	CDS
+356365	358832
+			product	trafficking protein particle complex subunit 8, putative
+			protein_id	emb|VTZ79337.1|
+360498	362168	gene
+			locus_tag	PY17X_1105900
+360498	362168	CDS
+			product	actin-like protein, putative
+			protein_id	emb|VTZ79338.1|
+363596	365332	gene
+			locus_tag	PY17X_1106000
+363596	365332	CDS
+			product	UDP-N-acetylglucosamine transporter, putative
+			protein_id	emb|VTZ79339.1|
+368096	365928	gene
+			locus_tag	PY17X_1106100
+368096	365928	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79340.1|
+372874	369155	gene
+			locus_tag	PY17X_1106200
+372874	369155	CDS
+			product	DNA mismatch repair protein MSH6, putative
+			protein_id	emb|VTZ79341.1|
+375304	376149	gene
+			locus_tag	PY17X_1106300
+375304	376149	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79342.1|
+379175	377820	gene
+			locus_tag	PY17X_1106400
+379175	377820	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79343.1|
+382116	381584	gene
+			locus_tag	PY17X_1106500
+382116	381933	CDS
+381711	381584
+			product	small ubiquitin-related modifier, putative
+			protein_id	emb|VTZ79344.1|
+384314	383181	gene
+			locus_tag	PY17X_1106600
+384314	384273	CDS
+384007	383894
+383722	383673
+383564	383480
+383364	383296
+383210	383181
+			product	mediator of RNA polymerase II transcription subunit 11, putative
+			protein_id	emb|VTZ79345.1|
+385010	385990	gene
+			locus_tag	PY17X_1106700
+385010	385492	CDS
+385576	385690
+385845	385990
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79346.1|
+387259	386346	gene
+			locus_tag	PY17X_1106800
+387259	387214	CDS
+387095	386572
+386390	386346
+			product	60S ribosomal subunit protein L24, putative
+			protein_id	emb|VTZ79347.1|
+388094	388951	gene
+			locus_tag	PY17X_1106900
+388094	388951	CDS
+			product	TATA-box-binding protein, putative
+			protein_id	emb|VTZ79348.1|
+390648	389488	gene
+			locus_tag	PY17X_1107000
+390648	389488	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79349.1|
+392513	391202	gene
+			locus_tag	PY17X_1107100
+392513	392391	CDS
+392144	392060
+391766	391747
+391547	391515
+391279	391202
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79350.1|
+394460	403905	gene
+			locus_tag	PY17X_1107200
+394460	397583	CDS
+397799	398203
+398366	403905
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79351.1|
+405941	404354	gene
+			locus_tag	PY17X_1107300
+405941	404569	CDS
+404396	404354
+			product	histone deacetylase, putative
+			protein_id	emb|VTZ79352.1|
+407399	409153	gene
+			locus_tag	PY17X_1107400
+407399	409153	CDS
+			product	GTPase-activating protein, putative
+			protein_id	emb|VTZ79353.1|
+410316	413337	gene
+			locus_tag	PY17X_1107500
+410316	412506	CDS
+412713	412970
+413258	413337
+			product	transcription factor 25, putative
+			protein_id	emb|VTZ79354.1|
+415966	413987	gene
+			locus_tag	PY17X_1107600
+415966	413987	CDS
+			product	rhomboid protease ROM4, putative
+			protein_id	emb|VTZ79355.1|
+418176	417624	gene
+			locus_tag	PY17X_1107700
+418176	418073	CDS
+417937	417834
+417730	417624
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79356.1|
+420739	419504	gene
+			locus_tag	PY17X_1107800
+420739	419504	CDS
+			product	60S ribosomal protein L4, putative
+			protein_id	emb|VTZ79357.1|
+424613	422817	gene
+			locus_tag	PY17X_1107900
+424613	422817	CDS
+			product	subtilisin-like protease 3, putative
+			protein_id	emb|VTZ79358.1|
+428801	426207	gene
+			locus_tag	PY17X_1108000
+428801	426207	CDS
+			product	PIMMS2 protein, putative
+			product	subtilisin-like ookinete protein SOPT, putative
+			protein_id	emb|VTZ79359.1|
+430199	429741	gene
+			locus_tag	PY17X_1108100
+430199	429741	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79360.1|
+433317	431533	gene
+			locus_tag	PY17X_1108200
+433317	431533	CDS
+			product	subtilisin-like protease 1, putative
+			protein_id	emb|VTZ79361.1|
+436642	438510	gene
+			locus_tag	PY17X_1108300
+436642	438510	CDS
+			product	protein CAF40, putative
+			protein_id	emb|VTZ79362.1|
+440954	439392	gene
+			locus_tag	PY17X_1108400
+440954	439392	CDS
+			product	nuclear protein localization protein 4, putative
+			protein_id	emb|VTZ79363.1|
+444440	447769	gene
+			locus_tag	PY17X_1108500
+444440	447769	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79364.1|
+448870	449458	gene
+			locus_tag	PY17X_1108600
+448870	448916	CDS
+449060	449218
+449308	449458
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79365.1|
+450741	449707	gene
+			locus_tag	PY17X_1108700
+450741	449707	CDS
+			product	6-cysteine protein
+			protein_id	emb|VTZ79366.1|
+452190	457385	gene
+			locus_tag	PY17X_1108800
+452190	457385	CDS
+			product	SET domain protein, putative
+			protein_id	emb|VTZ79367.1|
+459303	457740	gene
+			locus_tag	PY17X_1108900
+459303	458978	CDS
+458847	458678
+458530	458293
+458079	457740
+			product	longevity-assurance (LAG1) protein, putative
+			protein_id	emb|VTZ79368.1|
+462092	463117	gene
+			locus_tag	PY17X_1109000
+462092	463117	CDS
+			product	triose phosphate transporter, putative
+			protein_id	emb|VTZ79369.1|
+464382	466356	gene
+			locus_tag	PY17X_1109100
+464382	464434	CDS
+464788	464980
+465253	465333
+465511	466356
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79370.1|
+473891	466815	gene
+			locus_tag	PY17X_1109200
+473891	466815	CDS
+			product	guanidine nucleotide exchange factor, putative
+			protein_id	emb|VTZ79371.1|
+475403	476095	gene
+			locus_tag	PY17X_1109300
+475403	476095	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79372.1|
+477843	481988	gene
+			locus_tag	PY17X_1109400
+477843	481988	CDS
+			product	pre-mRNA-processing ATP-dependent RNA helicase PRP5, putative
+			protein_id	emb|VTZ79373.1|
+483806	482982	gene
+			locus_tag	PY17X_1109500
+483806	482982	CDS
+			product	single-stranded DNA-binding protein, putative
+			protein_id	emb|VTZ79374.1|
+486515	494674	gene
+			locus_tag	PY17X_1109600
+486515	494674	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79375.1|
+496580	495067	gene
+			locus_tag	PY17X_1109700
+496580	496433	CDS
+496215	496093
+495972	495795
+495677	495599
+495435	495067
+			product	alpha-soluble NSF attachment protein, putative
+			protein_id	emb|VTZ79376.1|
+499363	503754	gene
+			locus_tag	PY17X_1109800
+499363	503754	CDS
+			product	structural maintenance of chromosomes protein 4, putative
+			protein_id	emb|VTZ79377.1|
+504460	506092	gene
+			locus_tag	PY17X_1109900
+504460	504532	CDS
+504649	504820
+504971	505133
+505279	505729
+505863	506092
+			product	leucine-rich repeat protein
+			protein_id	emb|VTZ79378.1|
+507258	506548	gene
+			locus_tag	PY17X_1110000
+507258	507058	CDS
+506787	506548
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79379.1|
+516353	508237	gene
+			locus_tag	PY17X_1110100
+516353	508787	CDS
+508615	508499
+508337	508237
+			product	RNA polymerase I, putative
+			protein_id	emb|VTZ79380.1|
+518999	520012	gene
+			locus_tag	PY17X_1110200
+518999	520012	CDS
+			product	ERCC4 domain-containing protein, putative
+			protein_id	emb|VTZ79381.1|
+520956	523068	gene
+			locus_tag	PY17X_1110300
+520956	521247	CDS
+521399	523068
+			product	asparagine--tRNA ligase, putative
+			protein_id	emb|VTZ79382.1|
+525460	523381	gene
+			locus_tag	PY17X_1110400
+525460	525375	CDS
+525197	524979
+524899	524846
+524675	524625
+524483	524271
+524178	524108
+523966	523683
+523515	523381
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79383.1|
+527346	532728	gene
+			locus_tag	PY17X_1110500
+527346	531770	CDS
+531861	532176
+532400	532488
+532630	532728
+			product	phosphatidylinositol 4-kinase, putative
+			protein_id	emb|VTZ79384.1|
+533559	534503	gene
+			locus_tag	PY17X_1110600
+533559	534503	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79385.1|
+535125	538382	gene
+			locus_tag	PY17X_1110700
+535125	535236	CDS
+535503	536624
+536855	537117
+537284	537509
+537597	537794
+538013	538143
+538317	538382
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79386.1|
+545361	539461	gene
+			locus_tag	PY17X_1110800
+545361	539461	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79387.1|
+550869	553166	gene
+			locus_tag	PY17X_1110900
+550869	553166	CDS
+			product	peptidyl-prolyl cis-trans isomerase, putative
+			protein_id	emb|VTZ79388.1|
+554925	553960	gene
+			locus_tag	PY17X_1111000
+554925	554746	CDS
+554627	554522
+554411	553960
+			product	stripes inner membrane complex protein, putative
+			protein_id	emb|VTZ79389.1|
+556965	558308	gene
+			locus_tag	PY17X_1111100
+556965	558308	CDS
+			product	PDCD2 domain-containing protein, putative
+			protein_id	emb|VTZ79390.1|
+561447	558787	gene
+			locus_tag	PY17X_1111200
+561447	558787	CDS
+			product	topoisomerase I, putative
+			protein_id	emb|VTZ79391.1|
+563064	563143	gene
+			locus_tag	PY17X_1111300
+563064	563143	tRNA
+			product	tRNA-Leu
+569083	570111	gene
+			locus_tag	PY17X_1111400
+569083	570111	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79392.1|
+570663	573838	gene
+			locus_tag	PY17X_1111500
+570663	570957	CDS
+571120	571235
+571368	571519
+571615	571700
+571816	571889
+572005	572632
+572837	572997
+573086	573175
+573265	573352
+573447	573528
+573609	573666
+573758	573838
+			product	WD repeat-containing protein, putative
+			protein_id	emb|VTZ79393.1|
+575136	575292	gene
+			locus_tag	PY17X_1111600
+575136	575292	ncRNA
+			ncRNA_class	snoRNA
+			product	small nucleolar RNA snoR04
+576949	576434	gene
+			locus_tag	PY17X_1111700
+576949	576434	CDS
+			product	translationally-controlled tumor protein homolog, putative
+			protein_id	emb|VTZ79394.1|
+578020	578568	gene
+			locus_tag	PY17X_1111800
+578020	578104	CDS
+578285	578568
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79395.1|
+579747	582689	gene
+			locus_tag	PY17X_1111900
+579747	580835	CDS
+580944	582689
+			product	stearoyl-CoA desaturase, putative
+			protein_id	emb|VTZ79396.1|
+587619	583466	gene
+			locus_tag	PY17X_1112000
+587619	587570	CDS
+587363	583466
+			product	MORN repeat protein, putative
+			protein_id	emb|VTZ79397.1|
+590151	592019	gene
+			locus_tag	PY17X_1112100
+590151	592019	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79398.1|
+594378	624059	gene
+			locus_tag	PY17X_1112200
+594378	610440	CDS
+610762	624059
+			product	RNA pseudouridylate synthase, putative
+			protein_id	emb|VTZ79399.1|
+625207	624665	gene
+			locus_tag	PY17X_1112300
+625207	624665	CDS
+			product	apical rhoptry neck protein, putative
+			protein_id	emb|VTZ79400.1|
+626942	627885	gene
+			locus_tag	PY17X_1112400
+626942	627112	CDS
+627294	627416
+627516	627599
+627721	627885
+			product	EKC/KEOPS complex subunit CGI121, putative
+			protein_id	emb|VTZ79401.1|
+630470	628481	gene
+			locus_tag	PY17X_1112500
+630470	629429	CDS
+629250	628481
+			product	inositol-3-phosphate synthase, putative
+			protein_id	emb|VTZ79402.1|
+632132	634021	gene
+			locus_tag	PY17X_1112600
+632132	634021	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79403.1|
+634752	635916	gene
+			locus_tag	PY17X_1112700
+634752	634806	CDS
+634977	635047
+635215	635339
+635438	635498
+635869	635916
+			product	prefoldin subunit 6, putative
+			protein_id	emb|VTZ79404.1|
+636615	636026	gene
+			locus_tag	PY17X_1112800
+636615	636302	CDS
+636101	636026
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79405.1|
+639238	637340	gene
+			locus_tag	PY17X_1112900
+639238	637340	CDS
+			product	glutathione synthetase
+			protein_id	emb|VTZ79406.1|
+641274	640492	gene
+			locus_tag	PY17X_1113000
+641274	640492	CDS
+			product	CDK-activating kinase assembly factor MAT1, putative
+			protein_id	emb|VTZ79407.1|
+642961	643638	gene
+			locus_tag	PY17X_1113100
+642961	643638	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79408.1|
+644497	647831	gene
+			locus_tag	PY17X_1113200
+644497	644607	CDS
+644909	646014
+646185	646275
+646450	646565
+646684	646775
+646859	647028
+647111	647168
+647398	647445
+647689	647831
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79409.1|
+650573	647828	gene
+			locus_tag	PY17X_1113300
+650573	648582	CDS
+648409	648275
+648180	648004
+647908	647828
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79410.1|
+652954	654752	gene
+			locus_tag	PY17X_1113400
+652954	652967	CDS
+653217	653289
+653702	653797
+653924	653987
+654154	654229
+654473	654752
+			product	ras-related protein Rab-1B, putative
+			protein_id	emb|VTZ79411.1|
+656367	655594	gene
+			locus_tag	PY17X_1113500
+656367	655594	CDS
+			product	orotate phosphoribosyltransferase, putative
+			protein_id	emb|VTZ79412.1|
+661083	657049	gene
+			locus_tag	PY17X_1113600
+661083	657049	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79413.1|
+661892	662749	gene
+			locus_tag	PY17X_1113700
+661892	662749	CDS
+			product	AKAP-like protein, putative
+			protein_id	emb|VTZ79414.1|
+663420	664226	gene
+			locus_tag	PY17X_1113800
+663420	664226	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79415.1|
+666131	665039	gene
+			locus_tag	PY17X_1113900
+666131	666008	CDS
+665865	665299
+665103	665039
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79416.1|
+667615	674725	gene
+			locus_tag	PY17X_1114000
+667615	668724	CDS
+668886	674353
+674505	674583
+674684	674725
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79417.1|
+676198	675464	gene
+			locus_tag	PY17X_1114100
+676198	675464	CDS
+			product	purine nucleoside phosphorylase, putative
+			protein_id	emb|VTZ79418.1|
+679130	677599	gene
+			locus_tag	PY17X_1114200
+679130	679079	CDS
+678954	678869
+678754	678656
+678535	678443
+678324	678049
+677841	677599
+			product	GTP-binding protein, putative
+			protein_id	emb|VTZ79419.1|
+679767	680472	gene
+			locus_tag	PY17X_1114300
+679767	679850	CDS
+680182	680472
+			product	mitochondrial import inner membrane translocase subunit TIM16, putative
+			protein_id	emb|VTZ79420.1|
+683791	681122	gene
+			locus_tag	PY17X_1114400
+683791	681996	CDS
+681875	681122
+			product	deoxyribodipyrimidine photo-lyase, putative
+			protein_id	emb|VTZ79421.1|
+685687	688062	gene
+			locus_tag	PY17X_1114500
+685687	686294	CDS
+686505	688062
+			product	6-cysteine protein
+			product	secreted ookinete protein, putative
+			protein_id	emb|VTZ79422.1|
+689222	688599	gene
+			locus_tag	PY17X_1114600
+689222	688599	CDS
+			product	ras-related protein Rab-1A, putative
+			protein_id	emb|VTZ79423.1|
+690778	691661	gene
+			locus_tag	PY17X_1114700
+690778	691380	CDS
+691518	691661
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79424.1|
+693767	691721	gene
+			locus_tag	PY17X_1114800
+693767	693730	CDS
+693572	693495
+693343	693232
+692961	691941
+691812	691721
+			product	tubulin--tyrosine ligase, putative
+			protein_id	emb|VTZ79425.1|
+697688	694422	gene
+			locus_tag	PY17X_1114900
+697688	694422	CDS
+			product	ATP-dependent DNA helicase UvrD, putative
+			protein_id	emb|VTZ79426.1|
+699882	702092	gene
+			locus_tag	PY17X_1115000
+699882	702092	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79427.1|
+702956	706240	gene
+			locus_tag	PY17X_1115100
+702956	706240	CDS
+			product	aspartate--tRNA ligase, putative
+			protein_id	emb|VTZ79428.1|
+706604	706533	gene
+			locus_tag	PY17X_1115200
+706604	706533	tRNA
+			product	tRNA-Phe
+708637	707262	gene
+			locus_tag	PY17X_1115300
+708637	708454	CDS
+708286	708102
+707986	707944
+707799	707731
+707616	707523
+707334	707262
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79429.1|
+710413	709155	gene
+			locus_tag	PY17X_1115400
+710413	710390	CDS
+710240	710079
+709967	709800
+709661	709410
+709265	709155
+			product	ribose-5-phosphate isomerase, putative
+			protein_id	emb|VTZ79430.1|
+712115	716362	gene
+			locus_tag	PY17X_1115500
+712115	716362	CDS
+			product	MORN repeat protein, putative
+			protein_id	emb|VTZ79431.1|
+720024	717133	gene
+			locus_tag	PY17X_1115600
+720024	717133	CDS
+			product	inositol polyphosphate multikinase, putative
+			protein_id	emb|VTZ79432.1|
+721448	722575	gene
+			locus_tag	PY17X_1115700
+721448	722575	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79433.1|
+725324	723192	gene
+			locus_tag	PY17X_1115800
+725324	723192	CDS
+			product	pre-mRNA-splicing factor CWC2, putative
+			protein_id	emb|VTZ79434.1|
+728169	726359	gene
+			locus_tag	PY17X_1115900
+728169	726898	CDS
+726740	726671
+726438	726359
+			product	rhomboid protease ROM9, putative
+			protein_id	emb|VTZ79435.1|
+729238	729870	gene
+			locus_tag	PY17X_1116000
+729238	729524	CDS
+729738	729870
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79436.1|
+731275	736713	gene
+			locus_tag	PY17X_1116100
+731275	736713	CDS
+			product	phosphatidylinositol 3-kinase, putative
+			protein_id	emb|VTZ79437.1|
+739019	742049	gene
+			locus_tag	PY17X_1116200
+739019	739032	CDS
+739130	739172
+739334	739398
+739544	739674
+739815	739876
+740025	742049
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79438.1|
+746033	742701	gene
+			locus_tag	PY17X_1116300
+746033	744834	CDS
+744635	744277
+744110	743378
+743126	742701
+			product	amino acid transporter, putative
+			protein_id	emb|VTZ79439.1|
+748632	753207	gene
+			locus_tag	PY17X_1116400
+748632	748876	CDS
+748966	749023
+749125	749179
+749340	749421
+749532	749603
+749709	751072
+751223	751797
+751961	752638
+752781	752835
+752939	753207
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79440.1|
+755474	754098	gene
+			locus_tag	PY17X_1116500
+755474	754098	CDS
+			product	glideosome-associated protein 40, putative
+			protein_id	emb|VTZ79441.1|
+758356	758102	gene
+			locus_tag	PY17X_1116600
+758356	758102	CDS
+			product	BolA-like protein, putative
+			protein_id	emb|VTZ79442.1|
+760947	759961	gene
+			locus_tag	PY17X_1116700
+760947	759961	CDS
+			product	NLI interacting factor-like phosphatase, putative
+			protein_id	emb|VTZ79443.1|
+762909	763657	gene
+			locus_tag	PY17X_1116800
+762909	763106	CDS
+763391	763657
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79444.1|
+765207	767912	gene
+			locus_tag	PY17X_1116900
+765207	766706	CDS
+766896	766925
+767219	767341
+767621	767673
+767846	767912
+			product	kinetochore protein NDC80, putative
+			protein_id	emb|VTZ79445.1|
+768629	768033	gene
+			locus_tag	PY17X_1117000
+768629	768033	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79446.1|
+769815	773642	gene
+			locus_tag	PY17X_1117100
+769815	773642	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79447.1|
+775551	778928	gene
+			locus_tag	PY17X_1117200
+775551	778928	CDS
+			product	TRAP-like protein
+			protein_id	emb|VTZ79448.1|
+781123	779318	gene
+			locus_tag	PY17X_1117300
+781123	779318	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79449.1|
+783258	781945	gene
+			locus_tag	PY17X_1117400
+783258	781945	CDS
+			product	ras GTPAse, putative
+			protein_id	emb|VTZ79450.1|
+784960	786522	gene
+			locus_tag	PY17X_1117500
+784960	786522	CDS
+			product	malate:quinone oxidoreductase, putative
+			protein_id	emb|VTZ79451.1|
+787748	791659	gene
+			locus_tag	PY17X_1117600
+787748	791659	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79452.1|
+794148	792958	gene
+			locus_tag	PY17X_1117700
+794148	792958	CDS
+			product	mitochondrial import receptor subunit TOM40, putative
+			protein_id	emb|VTZ79453.1|
+797068	801565	gene
+			locus_tag	PY17X_1117800
+797068	799697	CDS
+799829	800392
+800491	800659
+800841	801041
+801263	801363
+801478	801565
+			product	AP-2 complex subunit alpha, putative
+			protein_id	emb|VTZ79454.1|
+804642	806394	gene
+			locus_tag	PY17X_1117900
+804642	804746	CDS
+804872	805274
+805446	806207
+806318	806394
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79455.1|
+808166	808853	gene
+			locus_tag	PY17X_1118000
+808166	808276	CDS
+808417	808596
+808725	808853
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79456.1|
+811675	811274	gene
+			locus_tag	PY17X_1118100
+811675	811274	CDS
+			product	histone H2A, putative
+			protein_id	emb|VTZ79457.1|
+816111	816521	gene
+			locus_tag	PY17X_1118200
+816111	816521	CDS
+			product	histone H3 variant, putative
+			protein_id	emb|VTZ79458.1|
+819255	821888	gene
+			locus_tag	PY17X_1118300
+819255	821888	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79459.1|
+822550	824544	gene
+			locus_tag	PY17X_1118400
+822550	824544	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79460.1|
+825438	824965	gene
+			locus_tag	PY17X_1118500
+825438	824965	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79461.1|
+828215	828846	gene
+			locus_tag	PY17X_1118600
+828215	828379	CDS
+828565	828846
+			product	ribosomal protein L27a, putative
+			protein_id	emb|VTZ79462.1|
+831513	829252	gene
+			locus_tag	PY17X_1118700
+831513	830275	CDS
+830113	830006
+829884	829771
+829663	829584
+829438	829252
+			product	LMBR1 domain-containing protein, putative
+			protein_id	emb|VTZ79463.1|
+833524	834465	gene
+			locus_tag	PY17X_1118800
+833524	834465	CDS
+			product	malate dehydrogenase, putative
+			protein_id	emb|VTZ79464.1|
+836890	835171	gene
+			locus_tag	PY17X_1118900
+836890	836643	CDS
+836469	836361
+836275	836229
+836084	835997
+835891	835779
+835598	835549
+835440	835359
+835261	835171
+			product	rhomboid protease ROM10, putative
+			protein_id	emb|VTZ79465.1|
+837870	838671	gene
+			locus_tag	PY17X_1119000
+837870	838482	CDS
+838640	838671
+			product	trafficking protein particle complex subunit 6A, putative
+			protein_id	emb|VTZ79466.1|
+842267	838947	gene
+			locus_tag	PY17X_1119100
+842267	840796	CDS
+840378	838947
+			product	heptatricopeptide repeat-containing protein, putative
+			protein_id	emb|VTZ79467.1|
+843230	846487	gene
+			locus_tag	PY17X_1119200
+843230	843379	CDS
+843556	844688
+844891	844992
+845093	845222
+845334	845413
+845580	845650
+845740	845829
+845979	846092
+846180	846190
+846362	846487
+			product	phosphatidylinositol N-acetylglucosaminyltransferase subunit GPI1, putative
+			protein_id	emb|VTZ79468.1|
+852904	846939	gene
+			locus_tag	PY17X_1119300
+852904	852816	CDS
+852620	852495
+852362	852229
+852047	851899
+851761	851656
+851513	848893
+848713	848639
+848541	848451
+848367	848303
+848117	848056
+847957	847846
+847736	847354
+847243	847141
+847016	846939
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79469.1|
+854022	855279	gene
+			locus_tag	PY17X_1119400
+854022	854355	CDS
+854459	854681
+854850	855279
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79470.1|
+856363	859574	gene
+			locus_tag	PY17X_1119500
+856363	856834	CDS
+856954	859574
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79471.1|
+869928	860072	gene
+			locus_tag	PY17X_1119600
+869928	860680	CDS
+860532	860446
+860302	860072
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79472.1|
+874457	871854	gene
+			locus_tag	PY17X_1119700
+874457	874163	CDS
+874006	871854
+			product	cell division cycle protein 48 homologue, putative
+			protein_id	emb|VTZ79473.1|
+880333	876215	gene
+			locus_tag	PY17X_1119800
+880333	876215	CDS
+			product	acyl-CoA synthetase, putative
+			protein_id	emb|VTZ79474.1|
+881286	883487	gene
+			locus_tag	PY17X_1119900
+881286	883487	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79475.1|
+885911	883860	gene
+			locus_tag	PY17X_1120000
+885911	884781	CDS
+884645	884156
+884044	883860
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79476.1|
+893732	886745	gene
+			locus_tag	PY17X_1120100
+893732	893517	CDS
+893419	886745
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79477.1|
+895135	895830	gene
+			locus_tag	PY17X_1120200
+895135	895830	CDS
+			product	splicing factor 3A subunit 2, putative
+			protein_id	emb|VTZ79478.1|
+897452	896406	gene
+			locus_tag	PY17X_1120300
+897452	896406	CDS
+			product	secreted ookinete protein 25, putative
+			protein_id	emb|VTZ79479.1|
+899560	900081	gene
+			locus_tag	PY17X_1120400
+899560	899638	CDS
+899774	900081
+			product	ATP synthase-associated protein, putative
+			protein_id	emb|VTZ79480.1|
+901267	900452	gene
+			locus_tag	PY17X_1120500
+901267	900452	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79481.1|
+904660	902144	gene
+			locus_tag	PY17X_1120600
+904660	902144	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79482.1|
+906596	905271	gene
+			locus_tag	PY17X_1120700
+906596	905271	CDS
+			product	merozoite surface protein 10, putative
+			protein_id	emb|VTZ79483.1|
+908638	910428	gene
+			locus_tag	PY17X_1120800
+908638	910428	CDS
+			product	cleavage stimulation factor subunit 1, putative
+			protein_id	emb|VTZ79484.1|
+911305	911964	gene
+			locus_tag	PY17X_1120900
+911305	911964	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79485.1|
+913214	912099	gene
+			locus_tag	PY17X_1121000
+913214	912099	CDS
+			product	DnaJ protein, putative
+			protein_id	emb|VTZ79486.1|
+914132	914203	gene
+			locus_tag	PY17X_1121100
+914132	914203	tRNA
+			product	tRNA-Ala
+914503	914423	gene
+			locus_tag	PY17X_1121200
+914503	914423	tRNA
+			product	tRNA-Leu
+915445	917760	gene
+			locus_tag	PY17X_1121300
+915445	917760	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79487.1|
+922126	918233	gene
+			locus_tag	PY17X_1121400
+922126	918233	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79488.1|
+924786	923893	gene
+			locus_tag	PY17X_1121500
+924786	923893	CDS
+			product	pyridoxine biosynthesis protein PDX1, putative
+			protein_id	emb|VTZ79489.1|
+926207	928225	gene
+			locus_tag	PY17X_1121600
+926207	928225	CDS
+			product	mRNA-binding protein PUF3
+			protein_id	emb|VTZ79490.1|
+930479	932578	gene
+			locus_tag	PY17X_1121700
+930479	932578	CDS
+			product	inner membrane complex protein 1j, putative
+			protein_id	emb|VTZ79491.1|
+933887	934984	gene
+			locus_tag	PY17X_1121800
+933887	934984	CDS
+			product	ribonuclease P/MRP protein subunit RPP1, putative
+			protein_id	emb|VTZ79492.1|
+935690	935609	gene
+			locus_tag	PY17X_1121900
+935690	935609	tRNA
+			product	tRNA-Ser
+936444	941576	gene
+			locus_tag	PY17X_1122000
+936444	940790	CDS
+940952	941053
+941179	941248
+941395	941576
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79493.1|
+943560	944346	gene
+			locus_tag	PY17X_1122100
+943560	943869	CDS
+943967	944074
+944207	944346
+			product	nascent polypeptide-associated complex subunit alpha, putative
+			protein_id	emb|VTZ79494.1|
+947376	945220	gene
+			locus_tag	PY17X_1122200
+947376	945220	CDS
+			product	signal recognition particle subunit SRP68, putative
+			protein_id	emb|VTZ79495.1|
+948500	949588	gene
+			locus_tag	PY17X_1122300
+948500	948722	CDS
+948963	949116
+949330	949588
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79496.1|
+954559	950390	gene
+			locus_tag	PY17X_1122400
+954559	950390	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79497.1|
+958622	956169	gene
+			locus_tag	PY17X_1122500
+958622	956169	CDS
+			product	radical SAM protein, putative
+			protein_id	emb|VTZ79498.1|
+959739	962864	gene
+			locus_tag	PY17X_1122600
+959739	959834	CDS
+960132	960180
+960344	962519
+962723	962864
+			product	vacuolar transporter chaperone, putative
+			protein_id	emb|VTZ79499.1|
+963391	963762	gene
+			locus_tag	PY17X_1122700
+963391	963762	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79500.1|
+965560	964181	gene
+			locus_tag	PY17X_1122800
+965560	964181	CDS
+			product	RNA methyltransferase, putative
+			protein_id	emb|VTZ79501.1|
+966380	967080	gene
+			locus_tag	PY17X_1122900
+966380	966380	CDS
+966553	966670
+966781	966904
+967033	967080
+			product	cytochrome b-c1 complex subunit 9, putative
+			protein_id	emb|VTZ79502.1|
+968961	967582	gene
+			locus_tag	PY17X_1123000
+968961	968854	CDS
+968538	967582
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79503.1|
+971068	974904	gene
+			locus_tag	PY17X_1123100
+971068	974904	CDS
+			product	leucine--tRNA ligase, putative
+			protein_id	emb|VTZ79504.1|
+982475	975795	gene
+			locus_tag	PY17X_1123200
+982475	975795	CDS
+			product	AP2 domain transcription factor AP2-SP3
+			protein_id	emb|VTZ79505.1|
+989049	987484	gene
+			locus_tag	PY17X_1123300
+989049	987484	CDS
+			product	chorismate synthase, putative
+			protein_id	emb|VTZ79506.1|
+994619	990137	gene
+			locus_tag	PY17X_1123400
+994619	994437	CDS
+994215	994110
+994010	993967
+993698	993302
+993086	993014
+992855	992797
+992478	991789
+991639	991578
+991189	991115
+991023	990951
+990830	990775
+990679	990137
+			product	nuclear polyadenylated RNA-binding protein NAB2, putative
+			protein_id	emb|VTZ79507.1|
+996543	997754	gene
+			locus_tag	PY17X_1123500
+996543	997754	CDS
+			product	ferredoxin--NADP reductase, putative
+			protein_id	emb|VTZ79508.1|
+999114	998079	gene
+			locus_tag	PY17X_1123600
+999114	998856	CDS
+998760	998500
+998378	998331
+998215	998079
+			product	EGF-like membrane protein, putative
+			protein_id	emb|VTZ79509.1|
+1002288	1000843	gene
+			locus_tag	PY17X_1123700
+1002288	1000843	CDS
+			product	MEI2-like RNA-binding protein
+			protein_id	emb|VTZ79510.1|
+1005850	1003512	gene
+			locus_tag	PY17X_1123800
+1005850	1005781	CDS
+1005566	1005388
+1005186	1005096
+1004994	1004950
+1004727	1004686
+1004457	1004314
+1004185	1004066
+1003794	1003735
+1003570	1003512
+			product	superoxide dismutase [Fe], putative
+			protein_id	emb|VTZ79511.1|
+1007366	1009370	gene
+			locus_tag	PY17X_1123900
+1007366	1009058	CDS
+1009246	1009370
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79512.1|
+1012507	1009616	gene
+			locus_tag	PY17X_1124000
+1012507	1009616	CDS
+			product	ATP-dependent RNA helicase SUV3, putative
+			protein_id	emb|VTZ79513.1|
+1019885	1013748	gene
+			locus_tag	PY17X_1124100
+1019885	1013748	CDS
+			product	tyrosine kinase-like protein, putative
+			protein_id	emb|VTZ79514.1|
+1024454	1025320	gene
+			locus_tag	PY17X_1124200
+1024454	1025320	CDS
+			product	ribonuclease H2 subunit A, putative
+			protein_id	emb|VTZ79515.1|
+1027490	1028974	gene
+			locus_tag	PY17X_1124300
+1027490	1028974	CDS
+			product	hexokinase, putative
+			protein_id	emb|VTZ79516.1|
+1030507	1031486	gene
+			locus_tag	PY17X_1124400
+1030507	1031291	CDS
+1031432	1031486
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79517.1|
+1033290	1032497	gene
+			locus_tag	PY17X_1124500
+1033290	1033234	CDS
+1033139	1032981
+1032886	1032497
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79518.1|
+1034315	1036096	gene
+			locus_tag	PY17X_1124600
+1034315	1034396	CDS
+1034523	1034546
+1034680	1034735
+1034853	1034869
+1035123	1035250
+1035403	1035433
+1035661	1035736
+1035851	1035931
+1036055	1036096
+			product	CPW-WPC family protein
+			protein_id	emb|VTZ79519.1|
+1038461	1036473	gene
+			locus_tag	PY17X_1124700
+1038461	1036473	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79520.1|
+1039259	1039519	gene
+			locus_tag	PY17X_1124800
+1039259	1039519	CDS
+			product	anaphase-promoting complex subunit 11, putative
+			protein_id	emb|VTZ79521.1|
+1044385	1052197	gene
+			locus_tag	PY17X_1124900
+1044385	1051756	CDS
+1051860	1052197
+			product	SNF2 helicase, putative
+			protein_id	emb|VTZ79522.1|
+1054819	1053534	gene
+			locus_tag	PY17X_1125000
+1054819	1054397	CDS
+1054246	1054179
+1054083	1053979
+1053877	1053839
+1053757	1053695
+1053576	1053534
+			product	N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase, putative
+			protein_id	emb|VTZ79523.1|
+1057389	1055529	gene
+			locus_tag	PY17X_1125100
+1057389	1057218	CDS
+1057040	1056999
+1056778	1055529
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79524.1|
+1061449	1064150	gene
+			locus_tag	PY17X_1125200
+1061449	1061529	CDS
+1061679	1061789
+1061933	1062114
+1062290	1062476
+1062598	1062671
+1062770	1062866
+1062983	1063067
+1063230	1063477
+1063602	1063664
+1063801	1063914
+1064052	1064150
+			product	GAS8-like protein, putative
+			protein_id	emb|VTZ79525.1|
+1065465	1067109	gene
+			locus_tag	PY17X_1125300
+1065465	1065585	CDS
+1065812	1066557
+1066670	1066795
+1066915	1067109
+			product	sphingomyelin synthase 1, putative
+			protein_id	emb|VTZ79526.1|
+1068046	1069254	gene
+			locus_tag	PY17X_1125400
+1068046	1069254	CDS
+			product	sphingomyelin synthase 2, putative
+			protein_id	emb|VTZ79527.1|
+1070175	1071650	gene
+			locus_tag	PY17X_1125500
+1070175	1071650	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79528.1|
+1075914	1072438	gene
+			locus_tag	PY17X_1125600
+1075914	1072438	CDS
+			product	DNA polymerase 1, putative
+			protein_id	emb|VTZ79529.1|
+1078499	1077384	gene
+			locus_tag	PY17X_1125700
+1078499	1077384	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79530.1|
+1079852	1080844	gene
+			locus_tag	PY17X_1125800
+1079852	1080844	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79531.1|
+1083336	1085177	gene
+			locus_tag	PY17X_1125900
+1083336	1085177	CDS
+			product	poly(A) polymerase PAP, putative
+			protein_id	emb|VTZ79532.1|
+1086218	1085928	gene
+			locus_tag	PY17X_1126000
+1086218	1085928	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79533.1|
+1087914	1089049	gene
+			locus_tag	PY17X_1126100
+1087914	1088811	CDS
+1088982	1089049
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79534.1|
+1094817	1090207	gene
+			locus_tag	PY17X_1126200
+1094817	1090207	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79535.1|
+1095952	1098326	gene
+			locus_tag	PY17X_1126300
+1095952	1096052	CDS
+1096316	1096527
+1096629	1096758
+1096857	1096969
+1097131	1097297
+1097383	1097510
+1097638	1097790
+1097883	1097988
+1098279	1098326
+			product	oxidoreductase, putative
+			protein_id	emb|VTZ79536.1|
+1099560	1098409	gene
+			locus_tag	PY17X_1126400
+1099560	1098409	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79537.1|
+1102997	1100807	gene
+			locus_tag	PY17X_1126500
+1102997	1102950	CDS
+1102436	1102317
+1102063	1100807
+			product	3-oxoacyl-acyl-carrier protein synthase, putative
+			protein_id	emb|VTZ79538.1|
+1105223	1107712	gene
+			locus_tag	PY17X_1126600
+1105223	1107712	CDS
+			product	CRAL/TRIO domain-containing protein, putative
+			protein_id	emb|VTZ79539.1|
+1109166	1111892	gene
+			locus_tag	PY17X_1126700
+1109166	1111892	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79540.1|
+1112618	1112181	gene
+			locus_tag	PY17X_1126800
+1112618	1112181	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79541.1|
+1113399	1114505	gene
+			locus_tag	PY17X_1126900
+1113399	1114505	CDS
+			product	ATPase, putative
+			protein_id	emb|VTZ79542.1|
+1117293	1118361	gene
+1118913	1119546
+			locus_tag	PY17X_1127000
+1117293	1117476	CDS
+1117644	1118361
+1118913	1119546
+			product	pyruvate kinase, putative
+			protein_id	emb|VTZ79543.1|
+1118492	1118678	gene
+			locus_tag	PY17X_1127100
+1118492	1118678	ncRNA
+			ncRNA_class	snoRNA
+			product	small nucleolar RNA snoR35
+1121157	1122275	gene
+			locus_tag	PY17X_1127200
+1121157	1122275	CDS
+			product	mitochondrial ribosomal protein L46 precursor, putative
+			protein_id	emb|VTZ79544.1|
+1123079	1122744	gene
+			locus_tag	PY17X_1127300
+1123079	1122744	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79545.1|
+1125418	1130763	gene
+			locus_tag	PY17X_1127400
+1125418	1130763	CDS
+			product	ankyrin-repeat protein, putative
+			protein_id	emb|VTZ79546.1|
+1133117	1131714	gene
+			locus_tag	PY17X_1127500
+1133117	1131714	CDS
+			product	E3 ubiquitin-protein ligase RNF5, putative
+			protein_id	emb|VTZ79547.1|
+1135423	1134878	gene
+			locus_tag	PY17X_1127600
+1135423	1134878	CDS
+			product	mitochondrial import inner membrane translocase subunit TIM22, putative
+			protein_id	emb|VTZ79548.1|
+1137272	1136206	gene
+			locus_tag	PY17X_1127700
+1137272	1137240	CDS
+1136957	1136900
+1136684	1136206
+			product	protein DJ-1, putative
+			protein_id	emb|VTZ79549.1|
+1138287	1139405	gene
+			locus_tag	PY17X_1127800
+1138287	1139405	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79550.1|
+1142678	1146178	gene
+			locus_tag	PY17X_1127900
+1142678	1146178	CDS
+			product	transportin, putative
+			protein_id	emb|VTZ79551.1|
+1151176	1148321	gene
+			locus_tag	PY17X_1128000
+1151176	1148321	CDS
+			product	acetyl-CoA synthetase, putative
+			protein_id	emb|VTZ79552.1|
+1152921	1154063	gene
+			locus_tag	PY17X_1128100
+1152921	1153271	CDS
+1153364	1153708
+1153890	1154063
+			product	ribonuclease P protein subunit p29, putative
+			protein_id	emb|VTZ79553.1|
+1154906	1155424	gene
+			locus_tag	PY17X_1128200
+1154906	1155424	CDS
+			product	6-pyruvoyltetrahydropterin synthase, putative
+			protein_id	emb|VTZ79554.1|
+1182445	1155803	gene
+			locus_tag	PY17X_1128300
+1182445	1155803	CDS
+			product	HECT-domain (ubiquitin-transferase), putative
+			protein_id	emb|VTZ79555.1|
+1186928	1194670	gene
+			locus_tag	PY17X_1128400
+1186928	1194670	CDS
+			product	eukaryotic translation initiation factor 2-alpha kinase, putative
+			protein_id	emb|VTZ79556.1|
+1198268	1195774	gene
+			locus_tag	PY17X_1128500
+1198268	1198134	CDS
+1197974	1197834
+1197736	1197641
+1197541	1197479
+1197378	1197340
+1197221	1197150
+1197042	1196954
+1196861	1196793
+1196639	1196566
+1196451	1196395
+1196293	1196199
+1196016	1195774
+			product	choline/ethanolaminephosphotransferase
+			protein_id	emb|VTZ79557.1|
+1200419	1202573	gene
+			locus_tag	PY17X_1128600
+1200419	1200436	CDS
+1200761	1200863
+1200960	1201041
+1201157	1201356
+1201573	1201816
+1201979	1202053
+1202139	1202227
+1202377	1202573
+			product	protease, putative
+			protein_id	emb|VTZ79558.1|
+1204064	1203156	gene
+			locus_tag	PY17X_1128700
+1204064	1203156	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79559.1|
+1206580	1204872	gene
+			locus_tag	PY17X_1128800
+1206580	1206431	CDS
+1206320	1205622
+1205448	1205276
+1205172	1205109
+1204943	1204872
+			product	DNA methyltransferase 1-associated protein 1, putative
+			protein_id	emb|VTZ79560.1|
+1207471	1209180	gene
+			locus_tag	PY17X_1128900
+1207471	1209180	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79561.1|
+1211811	1209691	gene
+			locus_tag	PY17X_1129000
+1211811	1209691	CDS
+			product	glutamyl-tRNA(Gln) amidotransferase subunit B, putative
+			protein_id	emb|VTZ79562.1|
+1214194	1213322	gene
+			locus_tag	PY17X_1129100
+1214194	1213322	CDS
+			product	glucosamine 6-phosphate N-acetyltransferase, putative
+			protein_id	emb|VTZ79563.1|
+1216849	1214837	gene
+			locus_tag	PY17X_1129200
+1216849	1214837	CDS
+			product	nicotinate phosphoribosyltransferase, putative
+			protein_id	emb|VTZ79564.1|
+1219478	1218339	gene
+			locus_tag	PY17X_1129300
+1219478	1218339	CDS
+			product	DnaJ protein, putative
+			protein_id	emb|VTZ79565.1|
+1221594	1225733	gene
+			locus_tag	PY17X_1129400
+1221594	1225193	CDS
+1225348	1225398
+1225527	1225733
+			product	RAP protein, putative
+			protein_id	emb|VTZ79566.1|
+1226600	1226343	gene
+			locus_tag	PY17X_1129500
+1226600	1226343	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79567.1|
+1227885	1230188	gene
+			locus_tag	PY17X_1129600
+1227885	1230188	CDS
+			product	phosphatidylcholine-sterol acyltransferase, putative
+			product	phospholipase, putative
+			protein_id	emb|VTZ79568.1|
+1232900	1234507	gene
+			locus_tag	PY17X_1129700
+1232900	1234507	CDS
+			product	polyadenylate-binding protein 3, putative
+			protein_id	emb|VTZ79569.1|
+1237713	1235744	gene
+			locus_tag	PY17X_1129800
+1237713	1235978	CDS
+1235888	1235744
+			product	amino acid transporter AAT1, putative
+			protein_id	emb|VTZ79570.1|
+1239012	1239858	gene
+			locus_tag	PY17X_1129900
+1239012	1239083	CDS
+1239205	1239858
+			product	RNA-binding protein, putative
+			protein_id	emb|VTZ79571.1|
+1241988	1261211	gene
+			locus_tag	PY17X_1130000
+1241988	1259941	CDS
+1260069	1260186
+1260382	1260543
+1260669	1260839
+1260933	1261040
+1261137	1261211
+			product	SET domain protein, putative
+			protein_id	emb|VTZ79572.1|
+1265281	1261881	gene
+			locus_tag	PY17X_1130100
+1265281	1265230	CDS
+1264864	1261881
+			product	cullin-like protein, putative
+			protein_id	emb|VTZ79573.1|
+1267329	1268605	gene
+			locus_tag	PY17X_1130200
+1267329	1267952	CDS
+1268104	1268262
+1268420	1268605
+			product	phosphatidylinositol/phosphatidylcholine transfer protein, putative
+			protein_id	emb|VTZ79574.1|
+1270936	1268916	gene
+			locus_tag	PY17X_1130300
+1270936	1270812	CDS
+1270705	1270570
+1270397	1270337
+1270254	1270215
+1270111	1270065
+1269892	1269832
+1269731	1269643
+1269492	1269416
+1269248	1269170
+1269040	1268916
+			product	CPW-WPC family protein
+			protein_id	emb|VTZ79575.1|
+1274050	1272203	gene
+			locus_tag	PY17X_1130400
+1274050	1272203	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79576.1|
+1275791	1276934	gene
+			locus_tag	PY17X_1130500
+1275791	1275883	CDS
+1276031	1276093
+1276208	1276347
+1276440	1276513
+1276900	1276934
+			product	secreted ookinete protein, putative
+			protein_id	emb|VTZ79577.1|
+1286398	1277477	gene
+			locus_tag	PY17X_1130600
+1286398	1286191	CDS
+1285994	1283783
+1283659	1277827
+1277680	1277477
+			product	DNA polymerase epsilon catalytic subunit A, putative
+			protein_id	emb|VTZ79578.1|
+1289771	1288587	gene
+			locus_tag	PY17X_1130700
+1289771	1288587	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79579.1|
+1292276	1293790	gene
+			locus_tag	PY17X_0062300
+1292276	1293790	CDS
+			product	ribosome biogenesis protein YTM1, putative
+			protein_id	emb|VTZ79580.1|
+1295656	1298323	gene
+			locus_tag	PY17X_1130800
+1295656	1295763	CDS
+1296008	1298323
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79581.1|
+1299628	1301622	gene
+			locus_tag	PY17X_1130900
+1299628	1301622	CDS
+			product	bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, putative
+			protein_id	emb|VTZ79582.1|
+1302819	1305265	gene
+			locus_tag	PY17X_1131000
+1302819	1302911	CDS
+1303086	1303145
+1303274	1303345
+1303510	1303595
+1303742	1303904
+1304002	1304167
+1304289	1304331
+1304425	1304586
+1304730	1304835
+1304974	1305057
+1305155	1305265
+			product	TPH domain-containing protein, putative
+			protein_id	emb|VTZ79583.1|
+1307873	1305532	gene
+			locus_tag	PY17X_1131100
+1307873	1305975	CDS
+1305675	1305532
+			product	ATP-dependent RNA helicase HAS1, putative
+			protein_id	emb|VTZ79584.1|
+1310331	1311173	gene
+			locus_tag	PY17X_1131200
+1310331	1311173	CDS
+			product	tetratricopeptide repeat protein, putative
+			protein_id	emb|VTZ79585.1|
+1317470	1311735	gene
+			locus_tag	PY17X_1131300
+1317470	1317352	CDS
+1317165	1311735
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79586.1|
+1318588	1321434	gene
+			locus_tag	PY17X_1131400
+1318588	1321434	CDS
+			product	Ran-binding protein, putative
+			protein_id	emb|VTZ79587.1|
+1322383	1323366	gene
+			locus_tag	PY17X_1131500
+1322383	1323366	CDS
+			product	RNA polymerase II transcription factor B subunit 4, putative
+			protein_id	emb|VTZ79588.1|
+1325658	1324591	gene
+			locus_tag	PY17X_1131600
+1325658	1325519	CDS
+1325266	1325088
+1324937	1324591
+			product	ER lumen protein retaining receptor, putative
+			protein_id	emb|VTZ79589.1|
+1328272	1328778	gene
+			locus_tag	PY17X_1131700
+1328272	1328778	CDS
+			product	reactive oxygen species modulator 1, putative
+			protein_id	emb|VTZ79590.1|
+1330436	1329576	gene
+			locus_tag	PY17X_1131800
+1330436	1329906	CDS
+1329785	1329576
+			product	proteasome subunit alpha type-4, putative
+			protein_id	emb|VTZ79591.1|
+1331977	1333111	gene
+			locus_tag	PY17X_1131900
+1331977	1332234	CDS
+1332382	1332708
+1332809	1332898
+1333061	1333111
+			product	proteasome subunit alpha type-7, putative
+			protein_id	emb|VTZ79592.1|
+1335143	1333593	gene
+			locus_tag	PY17X_1132000
+1335143	1333593	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79593.1|
+1337134	1336076	gene
+			locus_tag	PY17X_1132100
+1337134	1336076	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79594.1|
+1340472	1338028	gene
+			locus_tag	PY17X_1132200
+1340472	1338028	CDS
+			product	phosphoinositide phosphatase SAC1, putative
+			protein_id	emb|VTZ79595.1|
+1344775	1341615	gene
+			locus_tag	PY17X_1132300
+1344775	1343408	CDS
+1343388	1342014
+1341829	1341615
+			product	large subunit rRNA methyltransferase, putative
+			protein_id	emb|VTZ79596.1|
+1347536	1346363	gene
+			locus_tag	PY17X_1132400
+1347536	1347433	CDS
+1347260	1347160
+1347003	1346823
+1346654	1346551
+1346418	1346363
+			product	V-type proton ATPase 21 kDa proteolipid subunit, putative
+			protein_id	emb|VTZ79597.1|
+1350340	1351793	gene
+			locus_tag	PY17X_1132500
+1350340	1351420	CDS
+1351555	1351793
+			product	adenylosuccinate synthetase, putative
+			protein_id	emb|VTZ79598.1|
+1353602	1352499	gene
+			locus_tag	PY17X_1132600
+1353602	1353447	CDS
+1353308	1353114
+1352915	1352499
+			product	60S ribosomal protein L7-2, putative
+			protein_id	emb|VTZ79599.1|
+1355785	1354688	gene
+			locus_tag	PY17X_1132700
+1355785	1354688	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79600.1|
+1358652	1356850	gene
+			locus_tag	PY17X_1132800
+1358652	1356850	CDS
+			product	metacaspase-1, putative
+			protein_id	emb|VTZ79601.1|
+1360096	1361805	gene
+			locus_tag	PY17X_1132900
+1360096	1361805	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79602.1|
+1363912	1366737	gene
+			locus_tag	PY17X_1133000
+1363912	1366737	CDS
+			product	DNA replication licensing factor MCM6, putative
+			protein_id	emb|VTZ79603.1|
+1369613	1367040	gene
+			locus_tag	PY17X_1133100
+1369613	1367040	CDS
+			product	RAP protein, putative
+			protein_id	emb|VTZ79604.1|
+1370816	1372351	gene
+			locus_tag	PY17X_1133200
+1370816	1372351	CDS
+			product	histone-lysine N-methyltransferase, putative
+			protein_id	emb|VTZ79605.1|
+1373689	1373617	gene
+			locus_tag	PY17X_1133300
+1373689	1373617	tRNA
+			product	tRNA-Thr
+1374908	1376998	gene
+			locus_tag	PY17X_1133400
+1374908	1376998	CDS
+			product	serine/threonine protein phosphatase 5, putative
+			protein_id	emb|VTZ79606.1|
+1381628	1378095	gene
+			locus_tag	PY17X_1133500
+1381628	1378095	CDS
+			product	NLI interacting factor-like phosphatase, putative
+			protein_id	emb|VTZ79607.1|
+1387973	1388705	gene
+			locus_tag	PY17X_1133600
+1387973	1388064	CDS
+1388254	1388313
+1388458	1388521
+1388664	1388705
+			product	splicing factor 3B subunit 5, putative
+			protein_id	emb|VTZ79608.1|
+1389547	1390740	gene
+			locus_tag	PY17X_1133700
+1389547	1390740	CDS
+			product	RWD domain-containing protein, putative
+			protein_id	emb|VTZ79609.1|
+1391848	1395771	gene
+			locus_tag	PY17X_1133800
+1391848	1395771	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79610.1|
+1399458	1396606	gene
+			locus_tag	PY17X_1133900
+1399458	1396606	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79611.1|
+1401629	1400856	gene
+			locus_tag	PY17X_1134000
+1401629	1401464	CDS
+1401193	1400856
+			product	mitochondrial import inner membrane translocase subunit TIM23, putative
+			protein_id	emb|VTZ79612.1|
+1404318	1405807	gene
+			locus_tag	PY17X_1134100
+1404318	1404365	CDS
+1404513	1404686
+1404923	1405073
+1405206	1405275
+1405381	1405435
+1405548	1405592
+1405742	1405807
+			product	ubiquitin-conjugating enzyme E2, putative
+			protein_id	emb|VTZ79613.1|
+1407407	1410373	gene
+			locus_tag	PY17X_1134200
+1407407	1410373	CDS
+			product	phosphatase 2A regulatory subunit-related protein, putative
+			protein_id	emb|VTZ79614.1|
+1411625	1412381	gene
+			locus_tag	PY17X_1134300
+1411625	1411862	CDS
+1412035	1412381
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79615.1|
+1414537	1413098	gene
+			locus_tag	PY17X_1134400
+1414537	1413098	CDS
+			product	regulator of chromosome condensation, putative
+			protein_id	emb|VTZ79616.1|
+1416806	1418184	gene
+			locus_tag	PY17X_1134500
+1416806	1416827	CDS
+1416998	1417153
+1417258	1417421
+1417555	1417703
+1417885	1417934
+1418036	1418075
+1418160	1418184
+			product	DnaJ protein, putative
+			protein_id	emb|VTZ79617.1|
+1420517	1431544	gene
+			locus_tag	PY17X_1134600
+1420517	1431544	CDS
+			product	aurora-related kinase 3, putative
+			product	serine/threonine protein kinase, putative
+			protein_id	emb|VTZ79618.1|
+1434446	1432894	gene
+			locus_tag	PY17X_1134700
+1434446	1434308	CDS
+1434054	1433911
+1433788	1433629
+1433447	1433144
+1433013	1432894
+			product	cdc2-related kinase 2
+			protein_id	emb|VTZ79619.1|
+<1436439	1435108	gene
+			locus_tag	PY17X_1134800
+<1436439	1435108	CDS
+			product	elongation factor 1-alpha, putative
+			protein_id	emb|VTZ79620.1|
+1437512	1438843	gene
+			locus_tag	PY17X_1134900
+1437512	1438843	CDS
+			product	elongation factor 1-alpha, putative
+			protein_id	emb|VTZ79621.1|
+1440012	1442549	gene
+			locus_tag	PY17X_1135000
+1440012	1440424	CDS
+1440576	1440638
+1440849	1440933
+1441043	1441344
+1441459	1441584
+1441713	1441784
+1441928	1442549
+			product	glutamate--tRNA ligase, putative
+			product	glutamyl-tRNA synthetase, putative
+			protein_id	emb|VTZ79622.1|
+1443453	1443818	gene
+			locus_tag	PY17X_1135100
+1443453	1443818	CDS
+			product	dynein light chain, putative
+			protein_id	emb|VTZ79623.1|
+1445053	1448160	gene
+			locus_tag	PY17X_1135200
+1445053	1448160	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79624.1|
+1449491	1452118	gene
+			locus_tag	PY17X_1135300
+1449491	1452118	CDS
+			product	DNA helicase, putative
+			protein_id	emb|VTZ79625.1|
+1452845	1453611	gene
+			locus_tag	PY17X_1135400
+1452845	1453023	CDS
+1453165	1453218
+1453363	1453427
+1453556	1453611
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79626.1|
+1458534	1454367	gene
+			locus_tag	PY17X_1135500
+1458534	1455120	CDS
+1454976	1454900
+1454744	1454655
+1454525	1454367
+			product	U3 small nucleolar RNA-associated protein 21, putative
+			protein_id	emb|VTZ79627.1|
+1459708	1462095	gene
+			locus_tag	PY17X_1135600
+1459708	1459723	CDS
+1460388	1460518
+1460653	1462095
+			product	T-complex protein 1 subunit delta, putative
+			protein_id	emb|VTZ79628.1|
+1463268	1464832	gene
+			locus_tag	PY17X_1135700
+1463268	1463286	CDS
+1463453	1463592
+1463683	1463757
+1463975	1464040
+1464177	1464609
+1464783	1464832
+			product	pyrroline-5-carboxylate reductase, putative
+			protein_id	emb|VTZ79629.1|
+1471771	1465359	gene
+			locus_tag	PY17X_1135800
+1471771	1471555	CDS
+1471369	1465359
+			product	patatin-like phospholipase, putative
+			protein_id	emb|VTZ79630.1|
+1474998	1472713	gene
+			locus_tag	PY17X_1135900
+1474998	1472713	CDS
+			product	Sas10 domain-containing protein, putative
+			protein_id	emb|VTZ79631.1|
+1476212	1480552	gene
+			locus_tag	PY17X_1136000
+1476212	1480552	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79632.1|
+1482572	1481571	gene
+			locus_tag	PY17X_1136100
+1482572	1481571	CDS
+			product	rhomboid protease ROM7, putative
+			protein_id	emb|VTZ79633.1|
+1483859	1484792	gene
+			locus_tag	PY17X_1136200
+1483859	1483956	CDS
+1484248	1484356
+1484589	1484792
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79634.1|
+1485368	1487083	gene
+			locus_tag	PY17X_1136300
+1485368	1487083	CDS
+			product	zinc finger protein, putative
+			protein_id	emb|VTZ79635.1|
+1488880	1491621	gene
+			locus_tag	PY17X_1136400
+1488880	1491621	CDS
+			product	zinc finger protein, putative
+			protein_id	emb|VTZ79636.1|
+1493337	1492876	gene
+			locus_tag	PY17X_1136500
+1493337	1492876	CDS
+			product	YOP1-like protein, putative
+			protein_id	emb|VTZ79637.1|
+1497196	1497651	gene
+			locus_tag	PY17X_1136600
+1497196	1497651	CDS
+			product	40S ribosomal protein S15, putative
+			protein_id	emb|VTZ79638.1|
+1501198	1498147	gene
+			locus_tag	PY17X_1136700
+1501198	1501184	CDS
+1501047	1500991
+1500884	1500844
+1500683	1500624
+1500514	1500387
+1500301	1500210
+1499985	1499900
+1499796	1499751
+1499615	1499553
+1499396	1499316
+1499224	1499112
+1498946	1498792
+1498580	1498540
+1498403	1498328
+1498196	1498147
+			product	GTP-binding protein, putative
+			protein_id	emb|VTZ79639.1|
+1511200	1502024	gene
+			locus_tag	PY17X_1136800
+1511200	1502024	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79640.1|
+1514960	1512828	gene
+			locus_tag	PY17X_1136900
+1514960	1512828	CDS
+			product	riboflavin kinase, putative
+			protein_id	emb|VTZ79641.1|
+1517998	1515709	gene
+			locus_tag	PY17X_1137000
+1517998	1517991	CDS
+1517743	1517641
+1517476	1517408
+1517309	1517250
+1517150	1517116
+1516958	1516883
+1516770	1516732
+1516579	1516492
+1516403	1516359
+1516249	1516184
+1515878	1515709
+			product	high mobility group protein B4, putative
+			protein_id	emb|VTZ79642.1|
+1518799	1521876	gene
+			locus_tag	PY17X_1137100
+1518799	1521876	CDS
+			product	exosome complex exonuclease RRP44, putative
+			protein_id	emb|VTZ79643.1|
+1525350	1523663	gene
+			locus_tag	PY17X_1137200
+1525350	1524255	CDS
+1524102	1523663
+			product	CUGBP Elav-like family member 1, putative
+			protein_id	emb|VTZ79644.1|
+1528346	1528858	gene
+			locus_tag	PY17X_1137300
+1528346	1528858	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79645.1|
+1530490	1540194	gene
+			locus_tag	PY17X_1137400
+1530490	1540194	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79646.1|
+1540980	1541807	gene
+			locus_tag	PY17X_1137500
+1540980	1541106	CDS
+1541245	1541354
+1541454	1541807
+			product	ADP-ribosylation factor, putative
+			protein_id	emb|VTZ79647.1|
+1542957	1548269	gene
+			locus_tag	PY17X_1137600
+1542957	1548269	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79648.1|
+1549852	1549319	gene
+			locus_tag	PY17X_1137700
+1549852	1549319	CDS
+			product	ATP synthase-associated protein, putative
+			protein_id	emb|VTZ79649.1|
+1552106	1550896	gene
+			locus_tag	PY17X_1137800
+1552106	1552029	CDS
+1551722	1551561
+1551364	1551103
+1550936	1550896
+			product	RNA-binding protein, putative
+			protein_id	emb|VTZ79650.1|
+1554257	1552857	gene
+			locus_tag	PY17X_1137900
+1554257	1554109	CDS
+1553984	1553722
+1553631	1553532
+1553432	1553368
+1553268	1553206
+1553115	1553042
+1552913	1552857
+			product	ER membrane protein complex subunit 3, putative
+			protein_id	emb|VTZ79651.1|
+1556288	1555158	gene
+			locus_tag	PY17X_1138000
+1556288	1555158	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79652.1|
+1556988	1557947	gene
+			locus_tag	PY17X_1138100
+1556988	1557947	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79653.1|
+1559020	1570198	gene
+			locus_tag	PY17X_1138200
+1559020	1559064	CDS
+1559177	1559305
+1559453	1559716
+1559806	1559980
+1560096	1560248
+1560458	1560799
+1560945	1561185
+1561365	1561621
+1561840	1562903
+1563049	1563347
+1563490	1563709
+1563951	1564354
+1564501	1569795
+1570039	1570198
+			product	guanylyl cyclase beta
+			protein_id	emb|VTZ79654.1|
+1575569	1571361	gene
+			locus_tag	PY17X_1138300
+1575569	1575532	CDS
+1575339	1574948
+1574750	1573659
+1573475	1573317
+1572520	1571361
+			product	E3 SUMO-protein ligase PIAS, putative
+			protein_id	emb|VTZ79655.1|
+1579319	1582768	gene
+			locus_tag	PY17X_1138400
+1579319	1582768	CDS
+			product	falcilysin, putative
+			protein_id	emb|VTZ79656.1|
+1585601	1583412	gene
+			locus_tag	PY17X_1138500
+1585601	1583412	CDS
+			product	protein arginine N-methyltransferase 5, putative
+			protein_id	emb|VTZ79657.1|
+1588641	1592317	gene
+			locus_tag	PY17X_1138600
+1588641	1591123	CDS
+1591354	1591439
+1591570	1591690
+1591832	1591905
+1592253	1592317
+			product	protein transport protein Sec24A, putative
+			protein_id	emb|VTZ79658.1|
+1593853	1599780	gene
+			locus_tag	PY17X_1138700
+1593853	1598130	CDS
+1598237	1598290
+1598447	1598536
+1598704	1598802
+1598914	1599017
+1599234	1599780
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79659.1|
+1600601	1602375	gene
+			locus_tag	PY17X_1138800
+1600601	1600765	CDS
+1600879	1600942
+1601053	1601118
+1601213	1601254
+1601335	1601373
+1601490	1601534
+1601665	1601746
+1601871	1601976
+1602120	1602231
+1602353	1602375
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79660.1|
+1603151	1602621	gene
+			locus_tag	PY17X_1138900
+1603151	1602935	CDS
+1602835	1602621
+			product	actin-depolymerizing factor 2
+			protein_id	emb|VTZ79661.1|
+1605306	1604902	gene
+			locus_tag	PY17X_1139000
+1605306	1604902	CDS
+			product	Fe-S assembly protein IscX, putative
+			protein_id	emb|VTZ79662.1|
+1606893	1607939	gene
+			locus_tag	PY17X_1139100
+1606893	1607524	CDS
+1607894	1607939
+			product	cytochrome c oxidase subunit 2, putative
+			protein_id	emb|VTZ79663.1|
+1609445	1617565	gene
+			locus_tag	PY17X_1139200
+1609445	1609460	CDS
+1609764	1617565
+			product	glideosome-associated connector, putative
+			protein_id	emb|VTZ79664.1|
+1619083	1618259	gene
+			locus_tag	PY17X_1139300
+1619083	1618259	CDS
+			product	proliferating cell nuclear antigen 1, putative
+			protein_id	emb|VTZ79665.1|
+1622092	1622688	gene
+			locus_tag	PY17X_1139400
+1622092	1622688	CDS
+			product	cytochrome c oxidase subunit ApiCOX24, putative
+			protein_id	emb|VTZ79666.1|
+1625117	1623510	gene
+			locus_tag	PY17X_1139500
+1625117	1625024	CDS
+1624918	1624848
+1624635	1624432
+1624269	1624077
+1623984	1623891
+1623760	1623687
+1623601	1623510
+			product	14-3-3 protein, putative
+			protein_id	emb|VTZ79667.1|
+1628493	1627066	gene
+			locus_tag	PY17X_1139600
+1628493	1627066	CDS
+			product	RuvB-like helicase 3, putative
+			protein_id	emb|VTZ79668.1|
+1630023	1630604	gene
+			locus_tag	PY17X_1139700
+1630023	1630604	CDS
+			product	transmembrane and coiled-coil domain-containing protein 1, putative
+			protein_id	emb|VTZ79669.1|
+1632538	1638300	gene
+			locus_tag	PY17X_1139800
+1632538	1638300	CDS
+			product	calpain, putative
+			protein_id	emb|VTZ79670.1|
+1639722	1642011	gene
+			locus_tag	PY17X_1139900
+1639722	1640706	CDS
+1640855	1642011
+			product	exonuclease, putative
+			protein_id	emb|VTZ79671.1|
+1642612	1643875	gene
+			locus_tag	PY17X_1140000
+1642612	1643107	CDS
+1643339	1643446
+1643613	1643875
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79672.1|
+1646722	1650969	gene
+			locus_tag	PY17X_1140100
+1646722	1650969	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79673.1|
+1652461	1658735	gene
+			locus_tag	PY17X_1140200
+1652461	1654464	CDS
+1654620	1658735
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79674.1|
+1659586	1664336	gene
+			locus_tag	PY17X_1140300
+1659586	1662923	CDS
+1663097	1664336
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79675.1|
+1664923	1668306	gene
+			locus_tag	PY17X_1140400
+1664923	1668306	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79676.1|
+1669029	1672250	gene
+			locus_tag	PY17X_1140500
+1669029	1671852	CDS
+1672114	1672250
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79677.1|
+1674077	1672561	gene
+			locus_tag	PY17X_1140600
+1674077	1674027	CDS
+1673835	1672561
+			product	bifunctional polynucleotide phosphatase/kinase, putative
+			protein_id	emb|VTZ79678.1|
+1674729	1675670	gene
+			locus_tag	PY17X_1140700
+1674729	1675432	CDS
+1675613	1675670
+			product	50S ribosomal protein L9, mitochondrial, putative
+			protein_id	emb|VTZ79679.1|
+1678783	1676087	gene
+			locus_tag	PY17X_1140800
+1678783	1678777	CDS
+1678629	1676087
+			product	polyubiquitin binding protein, putative
+			protein_id	emb|VTZ79680.1|
+1679717	1682220	gene
+			locus_tag	PY17X_1140900
+1679717	1681822	CDS
+1681959	1682024
+1682158	1682220
+			product	CCR4 domain-containing protein 2, putative
+			protein_id	emb|VTZ79681.1|
+1683406	1682864	gene
+			locus_tag	PY17X_1141000
+1683406	1682864	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79682.1|
+1684369	1686369	gene
+			locus_tag	PY17X_1141100
+1684369	1686369	CDS
+			product	IGPS-like protein, putative
+			product	protein AMR1, putative
+			protein_id	emb|VTZ79683.1|
+1687497	1690737	gene
+			locus_tag	PY17X_1141200
+1687497	1688408	CDS
+1688522	1688634
+1688764	1688855
+1688929	1689039
+1689185	1689306
+1689437	1689483
+1689562	1689695
+1689779	1689856
+1689977	1690055
+1690172	1690296
+1690486	1690550
+1690636	1690737
+			product	nuclear fusion protein, putative
+			protein_id	emb|VTZ79684.1|
+1692661	1693200	gene
+			locus_tag	PY17X_1141300
+1692661	1693200	CDS
+			product	reticulon-like protein, putative
+			protein_id	emb|VTZ79685.1|
+1695389	1697716	gene
+			locus_tag	PY17X_1141400
+1695389	1697716	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79686.1|
+1704179	1698750	gene
+			locus_tag	PY17X_1141500
+1704179	1698750	CDS
+			product	nucleoporin NUP205, putative
+			protein_id	emb|VTZ79687.1|
+1709428	1705976	gene
+			locus_tag	PY17X_1141600
+1709428	1705976	CDS
+			product	pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16, putative
+			protein_id	emb|VTZ79688.1|
+1711353	1720502	gene
+			locus_tag	PY17X_1141700
+1711353	1720502	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79689.1|
+1721871	1723418	gene
+			locus_tag	PY17X_1141800
+1721871	1723418	CDS
+			product	exosome complex component RRP45, putative
+			protein_id	emb|VTZ79690.1|
+1724269	1726770	gene
+			locus_tag	PY17X_1141900
+1724269	1726770	CDS
+			product	aldehyde reductase, putative
+			protein_id	emb|VTZ79691.1|
+1728829	1727359	gene
+			locus_tag	PY17X_1142000
+1728829	1728687	CDS
+1728573	1728466
+1728294	1728213
+1728090	1728031
+1727850	1727767
+1727680	1727606
+1727424	1727359
+			product	DNA-directed RNA polymerases I, II, and III subunit RPABC1, putative
+			protein_id	emb|VTZ79692.1|
+1731392	1729740	gene
+			locus_tag	PY17X_1142100
+1731392	1731242	CDS
+1731022	1730936
+1730709	1730604
+1730445	1729740
+			product	ferrochelatase, putative
+			protein_id	emb|VTZ79693.1|
+1732014	1732973	gene
+			locus_tag	PY17X_1142200
+1732014	1732973	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79694.1|
+1733882	1733236	gene
+			locus_tag	PY17X_1142300
+1733882	1733804	CDS
+1733655	1733568
+1733416	1733236
+			product	ribosomal protein S17, putative
+			protein_id	emb|VTZ79695.1|
+1734901	1735056	gene
+			locus_tag	PY17X_1142400
+1734901	1735056	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79696.1|
+1737925	1735763	gene
+			locus_tag	PY17X_1142500
+1737925	1735763	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79697.1|
+1740821	1739268	gene
+			locus_tag	PY17X_1142600
+1740821	1739268	CDS
+			product	ubiquitin-activating enzyme, putative
+			protein_id	emb|VTZ79698.1|
+1741724	1743207	gene
+			locus_tag	PY17X_1142700
+1741724	1741798	CDS
+1742083	1743207
+			product	aminomethyltransferase, mitochondrial, putative
+			product	glycine cleavage system T protein, putative
+			protein_id	emb|VTZ79699.1|
+1744338	1746795	gene
+			locus_tag	PY17X_1142800
+1744338	1745275	CDS
+1745425	1745473
+1745682	1745750
+1745831	1745890
+1746005	1746064
+1746171	1746275
+1746436	1746795
+			product	DNA topoisomerase 6 subunit B, putative
+			protein_id	emb|VTZ79700.1|
+1748854	1747198	gene
+			locus_tag	PY17X_1142900
+1748854	1747930	CDS
+1747755	1747699
+1747355	1747198
+			product	SNARE associated Golgi protein, putative
+			protein_id	emb|VTZ79701.1|
+1751848	1753623	gene
+			locus_tag	PY17X_1143000
+1751848	1751868	CDS
+1752016	1752654
+1752805	1753623
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79702.1|
+1755337	1754551	gene
+			locus_tag	PY17X_1143100
+1755337	1755131	CDS
+1754730	1754551
+			product	ubiquitin-60S ribosomal protein L40, putative
+			protein_id	emb|VTZ79703.1|
+1757282	1757566	gene
+			locus_tag	PY17X_1143200
+1757282	1757566	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79704.1|
+1758783	1759391	gene
+			locus_tag	PY17X_1143300
+1758783	1758890	CDS
+1759116	1759391
+			product	DIP13 homolog, putative
+			protein_id	emb|VTZ79705.1|
+1760442	1760885	gene
+			locus_tag	PY17X_1143400
+1760442	1760885	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79706.1|
+1772691	1761340	gene
+			locus_tag	PY17X_1143500
+1772691	1771820	CDS
+1771655	1770665
+1769872	1769805
+1769581	1761340
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79707.1|
+1778671	1775426	gene
+			locus_tag	PY17X_1143600
+1778671	1775426	CDS
+			product	rhoptry protein RHOP148, putative
+			protein_id	emb|VTZ79708.1|
+1781639	1782088	gene
+			locus_tag	PY17X_1143700
+1781639	1782088	CDS
+			product	nucleoside diphosphate kinase b, putative
+			protein_id	emb|VTZ79709.1|
+1784851	1783277	gene
+			locus_tag	PY17X_1143800
+1784851	1783277	CDS
+			product	signal recognition particle receptor subunit alpha, putative
+			protein_id	emb|VTZ79710.1|
+1786893	1787888	gene
+			locus_tag	PY17X_1143900
+1786893	1787888	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79711.1|
+1790725	1788060	gene
+			locus_tag	PY17X_1144000
+1790725	1790724	CDS
+1790523	1790431
+1790251	1790104
+1789956	1789849
+1789746	1789582
+1789420	1789343
+1789175	1789105
+1788953	1788787
+1788700	1788661
+1788391	1788268
+1788134	1788060
+			product	phosphatidylserine synthase, putative
+			protein_id	emb|VTZ79712.1|
+1794547	1797060	gene
+			locus_tag	PY17X_1144100
+1794547	1794586	CDS
+1794825	1794971
+1795358	1796632
+1796729	1797060
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79713.1|
+1799405	1798330	gene
+			locus_tag	PY17X_1144200
+1799405	1799303	CDS
+1799071	1798929
+1798776	1798711
+1798593	1798453
+1798365	1798330
+			product	suppressor of kinetochore protein 1, putative
+			protein_id	emb|VTZ79714.1|
+1800598	1801692	gene
+			locus_tag	PY17X_1144300
+1800598	1801692	CDS
+			product	U1 small nuclear ribonucleoprotein 70 kDa homolog, putative
+			protein_id	emb|VTZ79715.1|
+1802908	1804413	gene
+			locus_tag	PY17X_1144400
+1802908	1803718	CDS
+1803864	1804153
+1804345	1804413
+			product	CLAMP domain-containing protein, putative
+			protein_id	emb|VTZ79716.1|
+1806048	1804565	gene
+			locus_tag	PY17X_1144500
+1806048	1805464	CDS
+1805311	1805042
+1804941	1804854
+1804701	1804565
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79717.1|
+1807422	1810283	gene
+			locus_tag	PY17X_1144600
+1807422	1810283	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79718.1|
+1811476	1812659	gene
+			locus_tag	PY17X_1144700
+1811476	1812274	CDS
+1812388	1812659
+			product	NADH-cytochrome b5 reductase, putative
+			protein_id	emb|VTZ79719.1|
+1814540	1813406	gene
+			locus_tag	PY17X_1144800
+1814540	1814335	CDS
+1814082	1813992
+1813783	1813406
+			product	ribosome biogenesis protein MRT4, putative
+			protein_id	emb|VTZ79720.1|
+1815600	1819256	gene
+			locus_tag	PY17X_1144900
+1815600	1819256	CDS
+			product	alanine--tRNA ligase, putative
+			protein_id	emb|VTZ79721.1|
+1820674	1824903	gene
+			locus_tag	PY17X_1145000
+1820674	1824903	CDS
+			product	secreted ookinete protein, putative
+			protein_id	emb|VTZ79722.1|
+1826291	1827049	gene
+			locus_tag	PY17X_1145100
+1826291	1827049	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79723.1|
+1828320	1827635	gene
+			locus_tag	PY17X_1145200
+1828320	1828266	CDS
+1828164	1827985
+1827860	1827834
+1827747	1827635
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79724.1|
+1830526	1829272	gene
+			locus_tag	PY17X_1145300
+1830526	1830383	CDS
+1830154	1829392
+1829300	1829272
+			product	26S proteasome regulatory subunit RPN11, putative
+			protein_id	emb|VTZ79725.1|
+1834360	1832306	gene
+			locus_tag	PY17X_1145400
+1834360	1832527	CDS
+1832331	1832306
+			product	ABC transporter E family member 1, putative
+			protein_id	emb|VTZ79726.1|
+1836274	1838051	gene
+			locus_tag	PY17X_1145500
+1836274	1836327	CDS
+1836715	1836822
+1837018	1837294
+1837458	1837531
+1837754	1837825
+1837950	1838051
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79727.1|
+1839971	1838148	gene
+			locus_tag	PY17X_1145600
+1839971	1839583	CDS
+1839262	1839157
+1838975	1838827
+1838687	1838589
+1838501	1838442
+1838283	1838148
+			product	ribosomal protein L1, putative
+			protein_id	emb|VTZ79728.1|
+1841166	1843670	gene
+			locus_tag	PY17X_1145700
+1841166	1843670	CDS
+			product	heptatricopeptide repeat-containing protein, putative
+			protein_id	emb|VTZ79729.1|
+1844483	1844205	gene
+			locus_tag	PY17X_1145800
+1844483	1844205	CDS
+			product	mitochondrial import inner membrane translocase subunit TIM9, putative
+			protein_id	emb|VTZ79730.1|
+1847260	1845767	gene
+			locus_tag	PY17X_1145900
+1847260	1845767	CDS
+			product	mitochondrial carrier protein, putative
+			protein_id	emb|VTZ79731.1|
+1853142	1848649	gene
+			locus_tag	PY17X_1146000
+1853142	1848649	CDS
+			product	DNA repair endonuclease XPF, putative
+			protein_id	emb|VTZ79732.1|
+1855084	1856650	gene
+			locus_tag	PY17X_1146100
+1855084	1855117	CDS
+1855414	1855498
+1855669	1856650
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79733.1|
+1858125	1861249	gene
+			locus_tag	PY17X_1146200
+1858125	1858195	CDS
+1858487	1859254
+1859514	1860435
+1860630	1860797
+1860911	1861249
+			product	glycosylphosphatidylinositol anchor attachment 1 protein, putative
+			protein_id	emb|VTZ79734.1|
+1863334	1862060	gene
+			locus_tag	PY17X_1146300
+1863334	1862060	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79735.1|
+1864636	1870950	gene
+			locus_tag	PY17X_1146400
+1864636	1870950	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79736.1|
+1872915	1871480	gene
+			locus_tag	PY17X_1146500
+1872915	1871721	CDS
+1871595	1871480
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79737.1|
+1874342	1882520	gene
+			locus_tag	PY17X_1146600
+1874342	1874437	CDS
+1874592	1882520
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79738.1|
+1884445	1883013	gene
+			locus_tag	PY17X_1146700
+1884445	1884374	CDS
+1884218	1883013
+			product	Plasmodium exported protein (PHIST), unknown function
+			protein_id	emb|VTZ79739.1|
+1886488	1889851	gene
+			locus_tag	PY17X_1146800
+1886488	1889254	CDS
+1889439	1889851
+			product	conserved protein, unknown function
+			protein_id	emb|VTZ79740.1|
+1893492	1890814	gene
+			locus_tag	PY17X_1146900
+1893492	1890814	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|VTZ79741.1|
+1895735	1894681	gene
+			locus_tag	PY17X_1147000
+1895735	1895657	CDS
+1895436	1895222
+1895045	1894963
+1894831	1894681
+			product	U2 small nuclear ribonucleoprotein A', putative
+			protein_id	emb|VTZ79742.1|
+1897555	1897628	gene
+			locus_tag	PY17X_1147100
+1897555	1897628	tRNA
+			product	tRNA-Arg
+1898237	1898166	gene
+			locus_tag	PY17X_1147200
+1898237	1898166	tRNA
+			product	tRNA-Trp
+1898968	1899041	gene
+			locus_tag	PY17X_1147300
+1898968	1899041	tRNA
+			product	tRNA-Arg
+1899718	1899647	gene
+			locus_tag	PY17X_1147400
+1899718	1899647	tRNA
+			product	tRNA-Cys
+1900132	1900202	gene
+			locus_tag	PY17X_1147500
+1900132	1900202	tRNA
+			product	tRNA-Gly
+1902608	1903500	gene
+			locus_tag	PY17X_1147600
+1902608	1903009	CDS
+1903402	1903500
+			product	membrane associated histidine-rich protein 1a, putative
+			protein_id	emb|VTZ79743.1|
+1904731	1905848	gene
+			locus_tag	PY17X_1147700
+1904731	1905138	CDS
+1905441	1905848
+			product	membrane associated histidine-rich protein 1b, putative
+			protein_id	emb|VTZ79744.1|
+1909715	1907242	gene
+			locus_tag	PY17X_1147800
+1909715	1909113	CDS
+1908939	1907242
+			product	tryptophan-rich antigen
+			product	tryptophan-rich protein
+			protein_id	emb|VTZ79745.1|
+1912215	1913199	gene
+			locus_tag	PY17X_1147900
+1912215	1912286	CDS
+1912411	1913199
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|VTZ79746.1|
+1915710	1914411	gene
+			locus_tag	PY17X_1148000
+1915710	1915580	CDS
+1915447	1915204
+1915108	1915039
+1914868	1914765
+1914671	1914411
+			product	fam-a protein
+			protein_id	emb|VTZ79747.1|
+1919631	1920771	gene
+			locus_tag	PY17X_1148100
+1919631	1919645	CDS
+1919782	1920597
+1920685	1920771
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79748.1|
+1923151	1924317	gene
+			locus_tag	PY17X_1148200
+1923151	1923168	CDS
+1923291	1924163
+1924252	1924317
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79749.1|
+1926723	1927910	gene
+			locus_tag	PY17X_1148300
+1926723	1926737	CDS
+1926875	1927756
+1927845	1927910
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79750.1|
+1930752	1932803	gene
+			locus_tag	PY17X_1148400
+1930752	1930769	CDS
+1930910	1932601
+1932696	1932803
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79751.1|
+1934370	1933948	gene
+			locus_tag	PY17X_1148500
+1934370	1933948	CDS
+			product	early transcribed membrane protein
+			protein_id	emb|VTZ79752.1|
+1937857	1938961	gene
+			locus_tag	PY17X_1148600
+1937857	1937874	CDS
+1938007	1938783
+1938875	1938961
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79753.1|
+1941416	1942571	gene
+			locus_tag	PY17X_1148700
+1941416	1941430	CDS
+1941550	1942416
+1942506	1942571
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79754.1|
+1944907	1946073	gene
+			locus_tag	PY17X_1148800
+1944907	1944921	CDS
+1945058	1945918
+1946008	1946073
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79755.1|
+1948100	1949044	gene
+			locus_tag	PY17X_1148900
+1948100	1948168	CDS
+1948346	1949044
+			product	fam-b protein
+			protein_id	emb|VTZ79756.1|
+1952100	1953246	gene
+			locus_tag	PY17X_1149000
+1952100	1952114	CDS
+1952245	1953072
+1953160	1953246
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79757.1|
+1955592	1956746	gene
+			locus_tag	PY17X_1149100
+1955592	1955606	CDS
+1955734	1956591
+1956681	1956746
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79758.1|
+1959095	1960290	gene
+			locus_tag	PY17X_1149200
+1959095	1959109	CDS
+1959248	1960120
+1960225	1960290
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79759.1|
+1963166	1964310	gene
+			locus_tag	PY17X_1149300
+1963166	1963180	CDS
+1963301	1964140
+1964230	1964310
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79760.1|
+1967079	1968162	gene
+			locus_tag	PY17X_1149400
+1967079	1967093	CDS
+1967201	1967986
+1968076	1968162
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79761.1|
+1970643	1971751	gene
+			locus_tag	PY17X_1149500
+1970643	1970657	CDS
+1970784	1971575
+1971665	1971751
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79762.1|
+1973979	1975115	gene
+			locus_tag	PY17X_1149600
+1973979	1973993	CDS
+1974130	1974969
+1975059	1975115
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79763.1|
+1977619	1978864	gene
+			locus_tag	PY17X_1149700
+1977619	1977672	CDS
+1977812	1978708
+1978799	1978864
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79764.1|
+1980965	1979458	gene
+			locus_tag	PY17X_1149800
+1980965	1980811	CDS
+1980670	1980433
+1980302	1980233
+1980111	1980002
+1979921	1979688
+1979532	1979458
+			product	fam-a protein
+			protein_id	emb|VTZ79765.1|
+1984873	1986031	gene
+			locus_tag	PY17X_1149900
+1984873	1984887	CDS
+1985024	1985860
+1985945	1986031
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79766.1|
+1988359	1989375	gene
+			locus_tag	PY17X_1150000
+1988359	1988373	CDS
+1988492	1989226
+1989310	1989375
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79767.1|
+1991699	1992859	gene
+			locus_tag	PY17X_1150100
+1991699	1991716	CDS
+1991840	1992709
+1992797	1992859
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79768.1|
+1995238	1996368	gene
+			locus_tag	PY17X_1150200
+1995238	1995252	CDS
+1995389	1996192
+1996282	1996368
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79769.1|
+1998414	1998754	gene
+			locus_tag	PY17X_1150300
+1998414	1998494	CDS
+1998623	1998754
+			product	fam-c protein
+			protein_id	emb|VTZ79770.1|
+2002363	2003511	gene
+			locus_tag	PY17X_1150400
+2002363	2002377	CDS
+2002511	2003320
+2003425	2003511
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79771.1|
+2005795	2006843	gene
+			locus_tag	PY17X_1150501
+2005795	2005809	CDS
+2005929	2006696
+2006778	2006843
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79772.1|
+2009218	2010338	gene
+			locus_tag	PY17X_1150601
+2009218	2009232	CDS
+2009344	2010114
+2010273	2010338
+			product	PIR protein
+			product	YIR protein
+			protein_id	emb|VTZ79773.1|
+
