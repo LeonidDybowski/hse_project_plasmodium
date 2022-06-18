@@ -1,6 +1,13 @@
 ## Поиск участков Z-ДНК в промоторах генов представителей рода *Plasmodium* (тип *Apicomplexans*)
 
-Данные по видам *P. falciparum*, *P. vivax*, *P. knowlesi*, *P. gaboni*, *P. yoelii* (INSDC) были скачаны с https://www.ncbi.nlm.nih.gov/genome/browse#!/eukaryotes/refseq_category:representative и https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA. Нужно отметить, что файлы .fasta и .gb были скачаны из браузера NCBI с помощью скрипта на bash, по одному файлу на хромосому (итого 70 .fasta файлов и 70 .gb файлов). Файлы же feature_table.txt и protein.faa (для составления белковых кластеров) были скачаны через ftp.
+Для анализа были взяты 5 видов, вызывающих малярию:
+*P. falciparum* - у людей
+*P. vivax* - у людей
+*P. knowlesi* - у людей и некоторых макак
+*P. gaboni* - у шимпанзе
+*P. yoelii* - у грызунов
+
+Данные по пяти этим организмам были скачаны с https://www.ncbi.nlm.nih.gov/genome/browse#!/eukaryotes/refseq_category:representative и https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA. Нужно отметить, что файлы .fasta и .gb (INSDC) были скачаны из браузера NCBI с помощью скрипта на bash, по одному файлу на хромосому (итого 70 .fasta файлов и 70 .gb файлов). Файлы же feature_table.txt и protein.faa (для составления белковых кластеров) были скачаны через ftp.
 Помимо кода на python активно использовался терминал Linux (некоторые команды в файле Обработка.docx)
 
 |Вид|Число хромосом|Длина генома|GC состав|Количество анн. генов|Доля анн. генов на геном|Число участков со значимым ZH_SCORE*|Длина участков со значимым ZH-SCORE*|
