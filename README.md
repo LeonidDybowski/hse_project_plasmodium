@@ -43,6 +43,9 @@
 
 ![cluster1](https://user-images.githubusercontent.com/60808642/174160532-0c6192f2-66b1-4b3b-a79f-9f6f77b8811c.png)
 
+![1_end](https://user-images.githubusercontent.com/60808642/174448586-8e185af3-75cb-47e7-8e72-c25a07e3f511.png)
+
+
 #### Кластер 2
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
 |-|-|-|-|-|-|
