@@ -1,0 +1,308 @@
+>Feature emb|LR605956.1|
+1	627	gene
+			locus_tag	PF3D7_API00100
+1	627	CDS
+			product	apicoplast ribosomal protein S4
+			protein_id	emb|VWP78935.1|
+643	714	gene
+			locus_tag	PF3D7_API00200
+643	714	tRNA
+			product	tRNA-His
+733	803	gene
+			locus_tag	PF3D7_API00300
+733	803	tRNA
+			product	tRNA-Cys
+809	844	gene
+			locus_tag	PF3D7_API00400
+809	844	tRNA
+979	1027	gene
+			locus_tag	PF3D7_API00500
+979	1027	tRNA
+1034	1120	gene
+			locus_tag	PF3D7_API00600
+1034	1120	tRNA
+			product	tRNA-Met
+1126	1209	gene
+			locus_tag	PF3D7_API00700
+1126	1209	tRNA
+			product	tRNA-Tyr
+1223	1314	gene
+			locus_tag	PF3D7_API00800
+1223	1314	tRNA
+			product	tRNA-Ser
+1321	1396	gene
+			locus_tag	PF3D7_API00900
+1321	1396	tRNA
+			product	tRNA-Asp
+			note	tRNA Aspartic acid
+1407	1479	gene
+			locus_tag	PF3D7_API01000
+1407	1479	tRNA
+			product	tRNA-Lys
+1487	1556	gene
+			locus_tag	PF3D7_API01100
+1487	1556	tRNA
+			product	tRNA-Glu
+			note	tRNA Glutamic acid
+1569	1640	gene
+			locus_tag	PF3D7_API01200
+1569	1640	tRNA
+			product	tRNA-Pro
+1667	2239	gene
+			locus_tag	PF3D7_API01300
+1667	2239	CDS
+			product	50S ribosomal protein L4, putative
+			protein_id	emb|VWP78936.1|
+2243	2470	gene
+			locus_tag	PF3D7_API01400
+2243	2470	CDS
+			product	ribosomal protein L23, putative
+			protein_id	emb|VWP78937.1|
+2467	3204	gene
+			locus_tag	PF3D7_API01500
+2467	3204	CDS
+			product	apicoplast ribosomal protein L2
+			protein_id	emb|VWP78938.1|
+3226	3498	gene
+			locus_tag	PF3D7_API01600
+3226	3498	CDS
+			product	apicoplast ribosomal protein S19
+			protein_id	emb|VWP78939.1|
+3507	4151	gene
+			locus_tag	PF3D7_API01700
+3507	4151	CDS
+			product	ribosomal protein S3, putative
+			protein_id	emb|VWP78940.1|
+4178	4567	gene
+			locus_tag	PF3D7_API01800
+4178	4567	CDS
+			product	apicoplast ribosomal protein L16
+			protein_id	emb|VWP78941.1|
+4581	4805	gene
+			locus_tag	PF3D7_API01900
+4581	4805	CDS
+			product	apicoplast ribosomal protein S17
+			protein_id	emb|VWP78942.1|
+4802	5158	gene
+			locus_tag	PF3D7_API02000
+4802	5158	CDS
+			product	apicoplast ribosomal protein L14
+			protein_id	emb|VWP78943.1|
+5162	5548	gene
+			locus_tag	PF3D7_API02100
+5162	5548	CDS
+			product	apicoplast ribosomal protein S8
+			protein_id	emb|VWP78944.1|
+5569	6075	gene
+			locus_tag	PF3D7_API02200
+5569	6075	CDS
+			product	apicoplast ribosomal protein L6
+			protein_id	emb|VWP78945.1|
+6072	6791	gene
+			locus_tag	PF3D7_API02300
+6072	6791	CDS
+			product	apicoplast ribosomal protein S5
+			protein_id	emb|VWP78946.1|
+6799	7074	gene
+			locus_tag	PF3D7_API02400
+6799	7074	CDS
+			product	probable protein, unknown function
+			protein_id	emb|VWP78947.1|
+7040	7150	gene
+			locus_tag	PF3D7_API02500
+7040	7150	CDS
+			product	apicoplast ribosomal protein L36
+			protein_id	emb|VWP78948.1|
+7147	7545	gene
+			locus_tag	PF3D7_API02600
+7147	7545	CDS
+			product	apicoplast ribosomal protein S11
+			protein_id	emb|VWP78949.1|
+7559	7927	gene
+			locus_tag	PF3D7_API02700
+7559	7927	CDS
+			product	apicoplast ribosomal protein S12
+			protein_id	emb|VWP78950.1|
+7943	8371	gene
+			locus_tag	PF3D7_API02800
+7943	8371	CDS
+			product	apicoplast ribosomal protein S7
+			protein_id	emb|VWP78951.1|
+8417	9649	gene
+			locus_tag	PF3D7_API02900
+8417	9649	CDS
+			product	elongation factor Tu
+			protein_id	emb|VWP78952.1|
+9660	9896	gene
+			locus_tag	PF3D7_API03000
+9660	9896	CDS
+			product	probable protein, unknown function
+			protein_id	emb|VWP78953.1|
+9944	9873	gene
+			locus_tag	PF3D7_API03100
+9944	9873	tRNA
+			product	tRNA-Phe
+9967	10038	gene
+			locus_tag	PF3D7_API03200
+9967	10038	tRNA
+			product	tRNA-Gln
+10044	10113	gene
+			locus_tag	PF3D7_API03300
+10044	10113	tRNA
+			product	tRNA-Gly
+10127	10197	gene
+			locus_tag	PF3D7_API03400
+10127	10197	tRNA
+			product	tRNA-Trp
+10223	10612	gene
+			locus_tag	PF3D7_API03500
+10223	10612	CDS
+			product	apicoplast ribosomal protein L11, putative
+			protein_id	emb|VWP78954.1|
+10596	12899	gene
+			locus_tag	PF3D7_API03600
+10596	12899	CDS
+			product	chaperone protein ClpM
+			protein_id	emb|VWP78955.1|
+12906	12977	gene
+			locus_tag	PF3D7_API03700
+12906	12977	tRNA
+			product	tRNA-Gly
+13005	13244	gene
+			locus_tag	PF3D7_API03800
+13005	13244	CDS
+			product	probable protein, unknown function
+			protein_id	emb|VWP78956.1|
+13246	13332	gene
+			locus_tag	PF3D7_API03900
+13246	13332	tRNA
+			product	tRNA-Ser
+13309	13674	gene
+			locus_tag	PF3D7_API04000
+13309	13674	CDS
+			product	hypothetical chloroplast reading frame 93
+			protein_id	emb|VWP78957.1|
+14344	13661	gene
+			locus_tag	PF3D7_API04100
+14344	13661	CDS
+			product	30S ribosomal protein S2, putative
+			protein_id	emb|VWP78958.1|
+17238	14357	gene
+			locus_tag	PF3D7_API04200
+17238	15679	CDS
+15664	14357
+			product	DNA-directed RNA polymerase subunit beta'', putative
+			EC_number	2.7.7.6
+			protein_id	emb|VWP78959.1|
+18974	17247	gene
+			locus_tag	PF3D7_API04300
+18974	17247	CDS
+			product	DNA-directed RNA polymerase subunit beta', putative
+			EC_number	2.7.7.6
+			protein_id	emb|VWP78960.1|
+22051	18977	gene
+			locus_tag	PF3D7_API04400
+22051	18977	CDS
+			product	DNA-directed RNA polymerase subunit beta, putative
+			EC_number	2.7.7.6
+			protein_id	emb|VWP78961.1|
+22357	22052	gene
+			locus_tag	PF3D7_API04500
+22357	22052	CDS
+			product	hypothetical protein
+			protein_id	emb|VWP78962.1|
+22521	22366	gene
+			locus_tag	PF3D7_API04600
+22521	22366	CDS
+			product	hypothetical protein
+			protein_id	emb|VWP78963.1|
+23940	22528	gene
+			locus_tag	PF3D7_API04700
+23940	22528	CDS
+			product	FeS cluster assembly protein SufB
+			protein_id	emb|VWP78964.1|
+24038	23966	gene
+			locus_tag	PF3D7_API04800
+24038	23966	tRNA
+			product	tRNA-Thr
+26748	24053	gene
+			locus_tag	PF3D7_API04900
+26748	24053	rRNA
+			product	large subunit ribosomal RNA
+26864	26791	gene
+			locus_tag	PF3D7_API05000
+26864	26791	tRNA
+			product	tRNA-Met
+26941	26870	gene
+			locus_tag	PF3D7_API05100
+26941	26870	tRNA
+			product	tRNA-Arg
+26962	27033	gene
+			locus_tag	PF3D7_API05200
+26962	27033	tRNA
+			product	tRNA-Val
+27035	27106	gene
+			locus_tag	PF3D7_API05300
+27035	27106	tRNA
+			product	tRNA-Arg
+27114	27192	gene
+			locus_tag	PF3D7_API05400
+27114	27192	tRNA
+			product	tRNA-Leu
+27274	27203	gene
+			locus_tag	PF3D7_API05500
+27274	27203	tRNA
+			product	tRNA-Asn
+27304	27374	gene
+			locus_tag	PF3D7_API05600
+27304	27374	tRNA
+			product	tRNA-Ala
+27421	28846	gene
+			locus_tag	PF3D7_API05700
+27421	28846	rRNA
+			product	small subunit ribosomal RNA
+28994	29065	gene
+			locus_tag	PF3D7_API05800
+28994	29065	tRNA
+			product	tRNA-Ile
+30769	29347	gene
+			locus_tag	PF3D7_API05900
+30769	29347	rRNA
+			product	small subunit ribosomal RNA
+30886	30816	gene
+			locus_tag	PF3D7_API06000
+30886	30816	tRNA
+			product	tRNA-Ala
+30917	30988	gene
+			locus_tag	PF3D7_API06100
+30917	30988	tRNA
+			product	tRNA-Asn
+31077	30999	gene
+			locus_tag	PF3D7_API06200
+31077	30999	tRNA
+			product	tRNA-Leu
+31156	31085	gene
+			locus_tag	PF3D7_API06300
+31156	31085	tRNA
+			product	tRNA-Arg
+31229	31162	gene
+			locus_tag	PF3D7_API06400
+31229	31162	tRNA
+			product	tRNA-Val
+31251	31321	gene
+			locus_tag	PF3D7_API06500
+31251	31321	tRNA
+			product	tRNA-Arg
+31327	31401	gene
+			locus_tag	PF3D7_API06600
+31327	31401	tRNA
+			product	tRNA-Met
+31447	34138	gene
+			locus_tag	PF3D7_API06700
+31447	34138	rRNA
+			product	large subunit ribosomal RNA
+34153	34225	gene
+			locus_tag	PF3D7_API06800
+34153	34225	tRNA
+			product	tRNA-Thr
+

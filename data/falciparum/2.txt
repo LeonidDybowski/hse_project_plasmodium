@@ -1,0 +1,2729 @@
+>Feature emb|LN999943.1|
+25232	31168	gene
+			locus_tag	PF3D7_0200100
+25232	29035	CDS
+29837	31168
+			product	erythrocyte membrane protein 1, PfEMP1
+			protein_id	emb|CZT98013.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0200100
+			db_xref	GOA:O96108
+			db_xref	InterPro:IPR004258
+			db_xref	InterPro:IPR008602
+			db_xref	InterPro:IPR029210
+			db_xref	InterPro:IPR029211
+			db_xref	InterPro:IPR042202
+			db_xref	UniProtKB/TrEMBL:O96108
+34259	33030	gene
+			locus_tag	PF3D7_0200200
+34259	34191	CDS
+33965	33030
+			product	rifin
+			protein_id	emb|CZT98014.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0200200
+			db_xref	GOA:O96109
+			db_xref	InterPro:IPR006373
+			db_xref	UniProtKB/TrEMBL:O96109
+37249	35927	gene
+			locus_tag	PF3D7_0200300
+37249	35927	CDS
+			product	erythrocyte membrane protein 1 (PfEMP1), exon 2
+			protein_id	emb|CZT98015.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0200300
+			db_xref	InterPro:IPR029211
+			db_xref	UniProtKB/TrEMBL:O96110
+39303	38287	gene
+			locus_tag	PF3D7_0200400
+39303	39235	CDS
+39132	38287
+			product	stevor
+			protein_id	emb|CZT98016.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0200400
+			db_xref	GOA:O96111
+			db_xref	InterPro:IPR006374
+			db_xref	UniProtKB/TrEMBL:O96111
+42858	41515	gene
+			locus_tag	PF3D7_0200500
+42858	42805	CDS
+42573	41515
+			product	rifin
+			protein_id	emb|CZT98017.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0200500
+			db_xref	GOA:O96112
+			db_xref	InterPro:IPR006373
+			db_xref	InterPro:IPR011992
+			db_xref	UniProtKB/TrEMBL:O96112
+46558	45286	gene
+			locus_tag	PF3D7_0200600
+46558	46490	CDS
+46344	45286
+			product	rifin
+			protein_id	emb|CZT98018.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0200600
+			db_xref	GOA:O96113
+			db_xref	InterPro:IPR006373
+			db_xref	UniProtKB/TrEMBL:O96113
+50147	48923	gene
+			locus_tag	PF3D7_0200700
+50147	50094	CDS
+49861	48923
+			product	rifin
+			protein_id	emb|CZT98019.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0200700
+			db_xref	GOA:O96114
+			db_xref	InterPro:IPR006373
+			db_xref	InterPro:IPR011992
+			db_xref	UniProtKB/TrEMBL:O96114
+53055	51842	gene
+			locus_tag	PF3D7_0200800
+			pseudo
+			pseudogene	unknown
+53055	52490	CDS
+52487	51842
+			pseudo
+			note	erythrocyte membrane protein 1 (PfEMP1), exon 2, pseudogene
+			pseudogene	unknown
+55255	54254	gene
+			locus_tag	PF3D7_0200900
+			pseudo
+			pseudogene	unknown
+55255	55187	CDS
+55082	54936
+54933	54430
+54427	54254
+			pseudo
+			note	stevor, pseudogene
+			pseudogene	unknown
+58421	57344	gene
+			locus_tag	PF3D7_0201000
+58421	58368	CDS
+58228	57344
+			product	rifin
+			protein_id	emb|CZT98022.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0201000
+			db_xref	GOA:O96116
+			db_xref	InterPro:IPR006373
+			db_xref	UniProtKB/TrEMBL:O96116
+60319	60107	gene
+			locus_tag	PF3D7_0201100
+60319	60107	CDS
+			product	Plasmodium exported protein, unknown function, fragment
+			protein_id	emb|CZT98023.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0201100
+			db_xref	InterPro:IPR019111
+			db_xref	UniProtKB/TrEMBL:Q8I670
+63157	64376	gene
+			locus_tag	PF3D7_0201200
+63157	63210	CDS
+63360	64376
+			product	rifin
+			protein_id	emb|CZT98024.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0201200
+			db_xref	GOA:O96117
+			db_xref	InterPro:IPR006373
+			db_xref	UniProtKB/TrEMBL:O96117
+66529	67545	gene
+			locus_tag	PF3D7_0201300
+66529	66597	CDS
+66697	67545
+			product	stevor
+			protein_id	emb|CZT98025.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0201300
+			db_xref	GOA:O96118
+			db_xref	InterPro:IPR006374
+			db_xref	UniProtKB/TrEMBL:O96118
+69088	69771	gene
+			locus_tag	PF3D7_0201400
+69088	69156	CDS
+69370	69771
+			product	Plasmodium exported protein (hyp10), unknown function
+			protein_id	emb|CZT98026.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0201400
+			db_xref	UniProtKB/TrEMBL:O96119
+74396	73441	gene
+			locus_tag	PF3D7_0201500
+74396	74286	CDS
+74094	73441
+			product	Plasmodium exported protein (hyp9), unknown function
+			protein_id	emb|CZT98027.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0201500
+			db_xref	GOA:O96120
+			db_xref	UniProtKB/TrEMBL:O96120
+78808	77251	gene
+			locus_tag	PF3D7_0201600
+78808	78605	CDS
+78504	77251
+			product	PHISTb domain-containing RESA-like protein 1
+			protein_id	emb|CZT98028.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0201600
+			db_xref	GOA:O96121
+			db_xref	InterPro:IPR019111
+			db_xref	UniProtKB/TrEMBL:O96121
+84165	81291	gene
+			locus_tag	PF3D7_0201700
+84165	84073	CDS
+83900	81291
+			product	DnaJ protein, putative
+			protein_id	emb|CZT98029.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0201700
+			db_xref	GOA:O96122
+			db_xref	InterPro:IPR001623
+			db_xref	InterPro:IPR019111
+			db_xref	InterPro:IPR026894
+			db_xref	InterPro:IPR036869
+			db_xref	UniProtKB/TrEMBL:O96122
+88791	86832	gene
+			locus_tag	PF3D7_0201800
+88791	88681	CDS
+88534	88385
+88110	87675
+87400	86832
+			product	knob associated heat shock protein 40
+			protein_id	emb|CZT98030.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0201800
+			db_xref	GOA:O96123
+			db_xref	InterPro:IPR001623
+			db_xref	InterPro:IPR002939
+			db_xref	InterPro:IPR008971
+			db_xref	InterPro:IPR018253
+			db_xref	InterPro:IPR036869
+			db_xref	UniProtKB/TrEMBL:O96123
+98838	91318	gene
+			locus_tag	PF3D7_0201900
+98838	98728	CDS
+98532	91318
+			product	erythrocyte membrane protein 3
+			protein_id	emb|CZT98031.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0201900
+			db_xref	GOA:O96124
+			db_xref	InterPro:IPR040805
+			db_xref	UniProtKB/TrEMBL:O96124
+105796	103385	gene
+			locus_tag	PF3D7_0202000
+105796	105686	CDS
+105238	103385
+			product	knob-associated histidine-rich protein
+			protein_id	emb|CZT98032.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0202000
+			db_xref	GOA:Q9TY99
+			db_xref	InterPro:IPR040805
+			db_xref	UniProtKB/TrEMBL:Q9TY99
+110580	109564	gene
+			locus_tag	PF3D7_0202100
+110580	110392	CDS
+110283	109564
+			product	liver stage associated protein 2
+			protein_id	emb|CZT98033.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0202100
+			db_xref	InterPro:IPR006526
+			db_xref	InterPro:IPR019111
+			db_xref	UniProtKB/TrEMBL:O96125
+113682	112547	gene
+			locus_tag	PF3D7_0202200
+113682	113452	CDS
+113188	112547
+			product	EMP1-trafficking protein
+			protein_id	emb|CZT98034.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0202200
+			db_xref	GOA:Q8I669
+			db_xref	UniProtKB/TrEMBL:Q8I669
+117225	118235	gene
+			locus_tag	PF3D7_0202300
+117225	117445	CDS
+117653	118235
+			product	Plasmodium exported protein (hyp11), unknown function
+			protein_id	emb|CZT98035.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0202300
+			db_xref	GOA:O96126
+			db_xref	InterPro:IPR006496
+			db_xref	UniProtKB/TrEMBL:O96126
+120524	124102	gene
+			locus_tag	PF3D7_0202400
+120524	124102	CDS
+			product	translation-enhancing factor
+			protein_id	emb|CZT98036.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0202400
+			db_xref	InterPro:IPR015299
+			db_xref	InterPro:IPR036469
+			db_xref	UniProtKB/TrEMBL:O96127
+127994	128314	gene
+			locus_tag	PF3D7_0202500
+127994	128314	CDS
+			product	early transcribed membrane protein 2
+			protein_id	emb|CZT98037.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0202500
+			db_xref	GOA:O96128
+			db_xref	InterPro:IPR006389
+			db_xref	UniProtKB/TrEMBL:O96128
+133563	129804	gene
+129687	129605
+129521	129342
+			locus_tag	PF3D7_0202600.2
+133563	129804	gene
+129690	129605
+129521	129342
+			locus_tag	PF3D7_0202600.1
+133563	129804	CDS
+129687	129605
+129521	129342
+			product	nucleic acid binding protein, putative
+			protein_id	emb|CZT98038.1|
+			gene	PF3D7_0202600.2
+			db_xref	EnsemblGenomes-Gn:PF3D7_0202600.2
+			db_xref	InterPro:IPR012340
+			db_xref	UniProtKB/TrEMBL:A0A143ZY32
+133563	129804	CDS
+129690	129605
+129521	129342
+			product	nucleic acid binding protein, putative
+			protein_id	emb|CZT98039.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0202600.1
+			db_xref	InterPro:IPR012340
+			db_xref	UniProtKB/TrEMBL:O96129
+135523	137139	gene
+			locus_tag	PF3D7_0202700
+135523	137139	CDS
+			product	octaprenyl pyrophosphate synthase
+			EC_number	2.5.1.90
+			EC_number	2.5.1.32
+			protein_id	emb|CZT98040.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0202700
+			db_xref	GOA:O96130
+			db_xref	InterPro:IPR000092
+			db_xref	InterPro:IPR008949
+			db_xref	InterPro:IPR033749
+			db_xref	UniProtKB/TrEMBL:O96130
+138389	137557	gene
+			locus_tag	PF3D7_0202800
+138389	138353	CDS
+138130	138050
+137909	137684
+137575	137557
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98041.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0202800
+			db_xref	UniProtKB/TrEMBL:C6S3A7
+138927	141192	gene
+			locus_tag	PF3D7_0202900
+138927	138986	CDS
+139121	139172
+139373	139415
+139515	139582
+139674	139776
+139993	140153
+140297	140344
+140534	140595
+140719	140911
+141119	141192
+			product	palmitoyltransferase DHHC12, putative
+			EC_number	2.3.1.-
+			protein_id	emb|CZT98042.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0202900
+			db_xref	GOA:A0A146M427
+			db_xref	InterPro:IPR001594
+			db_xref	UniProtKB/TrEMBL:A0A146M427
+147564	141625	gene
+			locus_tag	PF3D7_0203000
+147564	141625	CDS
+			product	repetitive organellar protein, putative
+			protein_id	emb|CZT98043.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0203000
+			db_xref	UniProtKB/TrEMBL:A0A144A0C5
+156981	149524	gene
+			locus_tag	PF3D7_0203100
+156981	149524	CDS
+			product	protein kinase, putative
+			EC_number	2.7.11.1
+			protein_id	emb|CZT98044.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0203100
+			db_xref	GOA:O96134
+			db_xref	InterPro:IPR000719
+			db_xref	InterPro:IPR008271
+			db_xref	InterPro:IPR011009
+			db_xref	UniProtKB/TrEMBL:O96134
+159660	158137	gene
+			locus_tag	PF3D7_0203200
+159660	158137	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98045.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0203200
+			db_xref	UniProtKB/TrEMBL:C6S3A8
+160514	161242	gene
+			locus_tag	PF3D7_0203300
+160514	161242	CDS
+			product	ERCC1 nucleotide excision repair protein, putative
+			EC_number	3.1.21.1
+			protein_id	emb|CZT98046.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0203300
+			db_xref	GOA:O96136
+			db_xref	InterPro:IPR004579
+			db_xref	InterPro:IPR010994
+			db_xref	InterPro:IPR011335
+			db_xref	UniProtKB/TrEMBL:O96136
+162900	162065	gene
+			locus_tag	PF3D7_0203400
+162900	162897	CDS
+162786	162697
+162374	162207
+162078	162065
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98047.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0203400
+			db_xref	UniProtKB/TrEMBL:Q8I668
+164269	164340	gene
+			locus_tag	PF3D7_0203500
+164269	164340	tRNA
+			product	tRNA-Gln
+166144	168051	gene
+			locus_tag	PF3D7_0203600
+166144	168051	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98048.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0203600
+			db_xref	UniProtKB/TrEMBL:O96137
+170136	168682	gene
+			locus_tag	PF3D7_0203700
+170136	168855	CDS
+168719	168682
+			product	protein MAK16, putative
+			protein_id	emb|CZT98049.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0203700
+			db_xref	GOA:A0A143ZWE8
+			db_xref	InterPro:IPR029004
+			db_xref	UniProtKB/TrEMBL:A0A143ZWE8
+174912	171563	gene
+			locus_tag	PF3D7_0203800
+174912	174514	CDS
+174280	174232
+174108	174067
+173959	173848
+173670	173580
+173430	173359
+173196	173089
+172910	172872
+172761	172665
+172532	172168
+171977	171882
+171721	171563
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98050.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0203800
+			db_xref	InterPro:IPR036322
+			db_xref	UniProtKB/TrEMBL:Q8I666
+176567	178300	gene
+			locus_tag	PF3D7_0203900
+176567	178300	CDS
+			product	5'-3' exonuclease, N-terminal resolvase-like domain, putative
+			EC_number	3.1.16.1
+			protein_id	emb|CZT98051.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0203900
+			db_xref	GOA:O96139
+			db_xref	InterPro:IPR002298
+			db_xref	InterPro:IPR002421
+			db_xref	InterPro:IPR008918
+			db_xref	InterPro:IPR020045
+			db_xref	InterPro:IPR020046
+			db_xref	InterPro:IPR029060
+			db_xref	InterPro:IPR036279
+			db_xref	UniProtKB/TrEMBL:O96139
+178955	181526	gene
+			locus_tag	PF3D7_0204000
+178955	180924	CDS
+181103	181526
+			product	condensin-2 complex subunit H2, putative
+			protein_id	emb|CZT98052.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0204000
+			db_xref	GOA:O96140
+			db_xref	InterPro:IPR009378
+			db_xref	InterPro:IPR031737
+			db_xref	InterPro:IPR031739
+			db_xref	UniProtKB/TrEMBL:O96140
+189115	182228	gene
+			locus_tag	PF3D7_0204100
+189115	182228	CDS
+			product	Sel1 repeat-containing protein, putative
+			protein_id	emb|CZT98053.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0204100
+			db_xref	InterPro:IPR006597
+			db_xref	InterPro:IPR011004
+			db_xref	InterPro:IPR011990
+			db_xref	UniProtKB/TrEMBL:Q9TY98
+192818	194199	gene
+			locus_tag	PF3D7_0204200
+192818	193200	CDS
+193328	193490
+193649	193718
+193864	194039
+194161	194199
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98054.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0204200
+			db_xref	GOA:Q8I665
+			db_xref	InterPro:IPR018624
+			db_xref	UniProtKB/TrEMBL:Q8I665
+196916	194826	gene
+			locus_tag	PF3D7_0204300
+196916	194826	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98055.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0204300
+			db_xref	UniProtKB/TrEMBL:O96141
+198043	197219	gene
+			locus_tag	PF3D7_0204400
+198043	197984	CDS
+197841	197740
+197465	197367
+197281	197219
+			product	dynein light chain, putative
+			protein_id	emb|CZT98056.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0204400
+			db_xref	GOA:C6S3A9
+			db_xref	InterPro:IPR001372
+			db_xref	InterPro:IPR037177
+			db_xref	UniProtKB/TrEMBL:C6S3A9
+199570	198353	gene
+			locus_tag	PF3D7_0204500
+199570	198353	CDS
+			product	aspartate transaminase
+			EC_number	2.6.1.1
+			protein_id	emb|CZT98057.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0204500
+			db_xref	GOA:O96142
+			db_xref	InterPro:IPR000796
+			db_xref	InterPro:IPR004838
+			db_xref	InterPro:IPR004839
+			db_xref	InterPro:IPR015421
+			db_xref	InterPro:IPR015422
+			db_xref	InterPro:IPR015424
+			db_xref	PDB:3K7Y
+			db_xref	UniProtKB/TrEMBL:O96142
+204048	200482	gene
+			locus_tag	PF3D7_0204600
+204048	200482	CDS
+			product	5'-3' exonuclease, putative
+			EC_number	3.1.11.-
+			protein_id	emb|CZT98058.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0204600
+			db_xref	GOA:O96143
+			db_xref	InterPro:IPR004859
+			db_xref	InterPro:IPR016494
+			db_xref	InterPro:IPR027073
+			db_xref	UniProtKB/TrEMBL:O96143
+207403	205889	gene
+			locus_tag	PF3D7_0204700
+207403	205889	CDS
+			product	hexose transporter
+			protein_id	emb|CZT98059.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0204700
+			db_xref	GOA:Q7KWJ5
+			db_xref	InterPro:IPR003663
+			db_xref	InterPro:IPR005828
+			db_xref	InterPro:IPR005829
+			db_xref	InterPro:IPR020846
+			db_xref	InterPro:IPR036259
+			db_xref	UniProtKB/TrEMBL:Q7KWJ5
+210833	209583	gene
+			locus_tag	PF3D7_0204800
+210833	209583	CDS
+			product	3'-5' exonuclease, putative
+			EC_number	3.1.11.1
+			EC_number	3.1.11.2
+			protein_id	emb|CZT98060.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0204800
+			db_xref	GOA:O96144
+			db_xref	InterPro:IPR002562
+			db_xref	InterPro:IPR012337
+			db_xref	InterPro:IPR012340
+			db_xref	InterPro:IPR022967
+			db_xref	InterPro:IPR036397
+			db_xref	UniProtKB/TrEMBL:O96144
+211348	212627	gene
+			locus_tag	PF3D7_0204900
+211348	211465	CDS
+211681	212627
+			product	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial, putative
+			EC_number	2.1.1.201
+			protein_id	emb|CZT98061.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0204900
+			db_xref	GOA:O96145
+			db_xref	InterPro:IPR004033
+			db_xref	InterPro:IPR023576
+			db_xref	InterPro:IPR029063
+			db_xref	UniProtKB/TrEMBL:O96145
+214508	212982	gene
+			locus_tag	PF3D7_0205000
+214508	212982	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98062.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0205000
+			db_xref	UniProtKB/TrEMBL:O96146
+217348	214838	gene
+			locus_tag	PF3D7_0205100
+217348	217132	CDS
+217008	216937
+216786	216175
+216054	214838
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98063.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0205100
+			db_xref	UniProtKB/TrEMBL:C6S3B0
+218907	217882	gene
+			locus_tag	PF3D7_0205200
+218907	218850	CDS
+218715	218533
+218423	218290
+218097	217882
+			product	MORN repeat protein, putative
+			protein_id	emb|CZT98064.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0205200
+			db_xref	InterPro:IPR003409
+			db_xref	UniProtKB/TrEMBL:O96147
+219690	222256	gene
+			locus_tag	PF3D7_0205300
+219690	220936	CDS
+221054	221147
+221260	221355
+221450	221618
+221760	221920
+222173	222256
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98065.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0205300
+			db_xref	UniProtKB/TrEMBL:O96148
+223478	224851	gene
+			locus_tag	PF3D7_0205400
+223478	224851	CDS
+			product	PCI domain-containing protein, putative
+			protein_id	emb|CZT98066.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0205400
+			db_xref	GOA:O96149
+			db_xref	InterPro:IPR036388
+			db_xref	UniProtKB/TrEMBL:O96149
+226245	225562	gene
+			locus_tag	PF3D7_0205500
+226245	226197	CDS
+226080	225984
+225814	225562
+			product	DNA-directed RNA polymerase II 16 kDa subunit, putative
+			EC_number	2.7.7.6
+			protein_id	emb|CZT98067.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0205500
+			db_xref	GOA:O96150
+			db_xref	InterPro:IPR005574
+			db_xref	InterPro:IPR006590
+			db_xref	InterPro:IPR010997
+			db_xref	InterPro:IPR038324
+			db_xref	UniProtKB/TrEMBL:O96150
+228025	229932	gene
+			locus_tag	PF3D7_0205600
+228025	229932	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98068.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0205600
+			db_xref	UniProtKB/TrEMBL:O96151
+231141	231234	gene
+231384	231484
+231618	231702
+231859	231909
+232099	232327
+232421	232529
+			locus_tag	PF3D7_0205700.2
+231141	231234	gene
+231384	231484
+231618	231702
+232099	232327
+232421	232529
+			locus_tag	PF3D7_0205700.1
+231141	231234	CDS
+231384	231484
+231618	231702
+231859	231909
+232099	232327
+232421	232529
+			product	RNA-binding protein, putative
+			protein_id	emb|CZT98069.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0205700.2
+			db_xref	GOA:A0A143ZWH6
+			db_xref	InterPro:IPR000504
+			db_xref	InterPro:IPR012677
+			db_xref	InterPro:IPR035979
+			db_xref	UniProtKB/TrEMBL:A0A143ZWH6
+231141	231234	CDS
+231384	231484
+231618	231702
+232099	232327
+232421	232529
+			product	RNA-binding protein, putative
+			protein_id	emb|CZT98070.1|
+			gene	PF3D7_0205700.1
+			db_xref	EnsemblGenomes-Gn:PF3D7_0205700.1
+			db_xref	GOA:O96152
+			db_xref	InterPro:IPR000504
+			db_xref	InterPro:IPR012677
+			db_xref	InterPro:IPR035979
+			db_xref	UniProtKB/TrEMBL:O96152
+233476	232729	gene
+			locus_tag	PF3D7_0205800
+233476	233339	CDS
+233182	233011
+232781	232729
+			product	PH domain-containing protein, putative
+			protein_id	emb|CZT98071.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0205800
+			db_xref	InterPro:IPR001849
+			db_xref	InterPro:IPR011993
+			db_xref	UniProtKB/TrEMBL:C6S3B1
+235237	238816	gene
+			locus_tag	PF3D7_0205900
+235237	235257	CDS
+235535	238219
+238482	238596
+238737	238816
+			product	26S proteasome regulatory subunit RPN1, putative
+			protein_id	emb|CZT98072.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0205900
+			db_xref	GOA:O96153
+			db_xref	InterPro:IPR002015
+			db_xref	InterPro:IPR011989
+			db_xref	InterPro:IPR016024
+			db_xref	InterPro:IPR016643
+			db_xref	InterPro:IPR040892
+			db_xref	InterPro:IPR041433
+			db_xref	UniProtKB/TrEMBL:O96153
+243796	239246	gene
+			locus_tag	PF3D7_0206000
+243796	239246	CDS
+			product	DNA repair protein RAD2, putative
+			EC_number	4.2.99.18
+			protein_id	emb|CZT98073.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0206000
+			db_xref	GOA:O96154
+			db_xref	InterPro:IPR006084
+			db_xref	InterPro:IPR006085
+			db_xref	InterPro:IPR006086
+			db_xref	InterPro:IPR008918
+			db_xref	InterPro:IPR019974
+			db_xref	InterPro:IPR029060
+			db_xref	InterPro:IPR036279
+			db_xref	UniProtKB/TrEMBL:O96154
+245358	246699	gene
+			locus_tag	PF3D7_0206100
+245358	245734	CDS
+246057	246135
+246251	246335
+246491	246699
+			product	cysteine desulfuration protein SufE
+			protein_id	emb|CZT98074.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0206100
+			db_xref	GOA:O96155
+			db_xref	InterPro:IPR003808
+			db_xref	UniProtKB/TrEMBL:O96155
+249030	250727	gene
+			locus_tag	PF3D7_0206200
+249030	250727	CDS
+			product	pantothenate transporter
+			protein_id	emb|CZT98075.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0206200
+			db_xref	GOA:O96156
+			db_xref	InterPro:IPR011701
+			db_xref	InterPro:IPR020846
+			db_xref	InterPro:IPR036259
+			db_xref	UniProtKB/TrEMBL:O96156
+252394	262443	gene
+			locus_tag	PF3D7_0206300
+			pseudo
+			pseudogene	unknown
+252394	252507	CDS
+252757	253306
+253401	253484
+253989	254815
+254818	262443
+			pseudo
+			note	pentafunctional AROM polypeptide, putative, pseudogene
+			pseudogene	unknown
+267347	263037	gene
+			locus_tag	PF3D7_0206500
+267347	263037	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98077.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0206500
+			db_xref	UniProtKB/TrEMBL:O96158
+270619	270078	gene
+			locus_tag	PF3D7_0206600
+270619	270421	CDS
+270199	270078
+			product	DNA-directed RNA polymerase III subunit RPC10, putative
+			protein_id	emb|CZT98078.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0206600
+			db_xref	GOA:O96159
+			db_xref	InterPro:IPR001222
+			db_xref	InterPro:IPR012164
+			db_xref	InterPro:IPR034014
+			db_xref	UniProtKB/TrEMBL:O96159
+271594	273009	gene
+			locus_tag	PF3D7_0206700
+271594	273009	CDS
+			product	adenylosuccinate lyase
+			EC_number	4.3.2.2
+			protein_id	emb|CZT98079.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0206700
+			db_xref	GOA:Q7KWJ4
+			db_xref	InterPro:IPR000362
+			db_xref	InterPro:IPR004769
+			db_xref	InterPro:IPR008948
+			db_xref	InterPro:IPR013539
+			db_xref	InterPro:IPR020557
+			db_xref	InterPro:IPR022761
+			db_xref	InterPro:IPR024083
+			db_xref	UniProtKB/TrEMBL:Q7KWJ4
+274507	273689	gene
+			locus_tag	PF3D7_0206800
+274507	273689	CDS
+			product	merozoite surface protein 2
+			protein_id	emb|CZT98080.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0206800
+			db_xref	GOA:A0A143ZX41
+			db_xref	InterPro:IPR001136
+			db_xref	UniProtKB/TrEMBL:A0A143ZX41
+276577	276558	gene
+276441	275981
+275844	275540
+			locus_tag	PF3D7_0206900.2
+276577	276558	CDS
+276441	275981
+275844	275540
+			product	merozoite surface protein 5
+			protein_id	emb|CZT98082.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0206900.2
+			db_xref	InterPro:IPR000742
+			db_xref	InterPro:IPR013032
+			db_xref	UniProtKB/TrEMBL:C6S3B2
+276494	275981	gene
+275844	275540
+			locus_tag	PF3D7_0206900.1
+276494	275981	CDS
+275844	275540
+			product	merozoite surface protein 5
+			protein_id	emb|CZT98081.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0206900.1
+			db_xref	InterPro:IPR000742
+			db_xref	InterPro:IPR013032
+			db_xref	UniProtKB/TrEMBL:Q7KWJ3
+278456	277494	gene
+			locus_tag	PF3D7_0207000
+278456	277973	CDS
+277828	277494
+			product	merozoite surface protein 4
+			protein_id	emb|CZT98083.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0207000
+			db_xref	GOA:Q7KWJ2
+			db_xref	InterPro:IPR013032
+			db_xref	InterPro:IPR024731
+			db_xref	UniProtKB/TrEMBL:Q7KWJ2
+281907	287345	gene
+			locus_tag	PF3D7_0207100
+281907	287016	CDS
+287127	287189
+287281	287345
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98084.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0207100
+			db_xref	UniProtKB/TrEMBL:A0A143ZXZ0
+288665	288183	gene
+			locus_tag	PF3D7_0207200
+288665	288183	CDS
+			product	iron-sulfur assembly protein, putative
+			protein_id	emb|CZT98085.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0207200
+			db_xref	GOA:O96161
+			db_xref	InterPro:IPR000361
+			db_xref	InterPro:IPR016092
+			db_xref	InterPro:IPR035903
+			db_xref	UniProtKB/TrEMBL:O96161
+292703	290168	gene
+			locus_tag	PF3D7_0207300
+292703	292526	CDS
+292403	292345
+292208	291685
+291541	290445
+290349	290168
+			product	serine repeat antigen 8
+			EC_number	3.4.22.-
+			protein_id	emb|CZT98086.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0207300
+			db_xref	GOA:A0A143ZWJ1
+			db_xref	InterPro:IPR000169
+			db_xref	InterPro:IPR000668
+			db_xref	InterPro:IPR038765
+			db_xref	UniProtKB/TrEMBL:A0A143ZWJ1
+297616	294273	gene
+			locus_tag	PF3D7_0207400
+297616	297583	CDS
+297351	296725
+296586	296452
+296317	294273
+			product	serine repeat antigen 7
+			EC_number	3.4.22.-
+			protein_id	emb|CZT98087.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0207400
+			db_xref	GOA:O96163
+			db_xref	InterPro:IPR000169
+			db_xref	InterPro:IPR000668
+			db_xref	InterPro:IPR038765
+			db_xref	UniProtKB/TrEMBL:O96163
+302564	298897	gene
+			locus_tag	PF3D7_0207500
+302564	302531	CDS
+302173	301403
+301300	301166
+301052	298897
+			product	serine repeat antigen 6
+			EC_number	3.4.22.-
+			protein_id	emb|CZT98088.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0207500
+			db_xref	GOA:Q9TY96
+			db_xref	InterPro:IPR000169
+			db_xref	InterPro:IPR000668
+			db_xref	InterPro:IPR038765
+			db_xref	UniProtKB/TrEMBL:Q9TY96
+307027	303593	gene
+			locus_tag	PF3D7_0207600
+307027	306994	CDS
+306846	306016
+305840	305700
+305580	303593
+			product	serine repeat antigen 5
+			EC_number	3.4.22.-
+			protein_id	emb|CZT98089.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0207600
+			db_xref	GOA:A0A143ZWK2
+			db_xref	InterPro:IPR000668
+			db_xref	InterPro:IPR025660
+			db_xref	InterPro:IPR025661
+			db_xref	InterPro:IPR038765
+			db_xref	UniProtKB/TrEMBL:A0A143ZWK2
+312155	308847	gene
+			locus_tag	PF3D7_0207700
+312155	312122	CDS
+311956	311366
+311254	311120
+310975	308847
+			product	serine repeat antigen 4
+			EC_number	3.4.22.-
+			protein_id	emb|CZT98090.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0207700
+			db_xref	GOA:O96164
+			db_xref	InterPro:IPR000668
+			db_xref	InterPro:IPR025661
+			db_xref	InterPro:IPR038765
+			db_xref	UniProtKB/TrEMBL:O96164
+316741	313449	gene
+			locus_tag	PF3D7_0207800
+316741	316708	CDS
+316505	315900
+315775	315623
+315448	313449
+			product	serine repeat antigen 3
+			EC_number	3.4.22.-
+			protein_id	emb|CZT98091.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0207800
+			db_xref	GOA:O96165
+			db_xref	InterPro:IPR000668
+			db_xref	InterPro:IPR038765
+			db_xref	UniProtKB/TrEMBL:O96165
+321310	317596	gene
+			locus_tag	PF3D7_0207900
+321310	321277	CDS
+321083	320241
+320171	320016
+319880	317596
+			product	serine repeat antigen 2
+			EC_number	3.4.22.-
+			protein_id	emb|CZT98092.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0207900
+			db_xref	GOA:O96166
+			db_xref	InterPro:IPR000668
+			db_xref	InterPro:IPR025661
+			db_xref	InterPro:IPR038765
+			db_xref	UniProtKB/TrEMBL:O96166
+325723	322338	gene
+			locus_tag	PF3D7_0208000
+325723	325690	CDS
+325560	324892
+324722	324582
+324478	322338
+			product	serine repeat antigen 1
+			EC_number	3.4.22.-
+			protein_id	emb|CZT98093.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0208000
+			db_xref	GOA:O96167
+			db_xref	InterPro:IPR000668
+			db_xref	InterPro:IPR025661
+			db_xref	InterPro:IPR038765
+			db_xref	UniProtKB/TrEMBL:O96167
+327932	335203	gene
+			locus_tag	PF3D7_0208100.1
+327932	328021	CDS
+328121	328157
+328323	328414
+328549	328672
+328775	328843
+328965	329038
+329168	329229
+329331	329403
+329520	329593
+329748	330010
+330127	330218
+330413	330455
+330562	330796
+330935	331012
+331108	331177
+331310	335203
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98094.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0208100.1
+			db_xref	GOA:O96168
+			db_xref	InterPro:IPR038983
+			db_xref	UniProtKB/TrEMBL:O96168
+336581	335679	gene
+			locus_tag	PF3D7_0208200
+336581	335679	CDS
+			product	KRR1 small subunit processome component, putative
+			protein_id	emb|CZT98095.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0208200
+			db_xref	GOA:O96169
+			db_xref	InterPro:IPR024166
+			db_xref	InterPro:IPR036612
+			db_xref	InterPro:IPR041174
+			db_xref	UniProtKB/TrEMBL:O96169
+337558	342966	gene
+			locus_tag	PF3D7_0208300
+337558	342966	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98096.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0208300
+			db_xref	UniProtKB/TrEMBL:O96170
+349340	343308	gene
+			locus_tag	PF3D7_0208400
+349340	343308	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98097.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0208400
+			db_xref	GOA:O96171
+			db_xref	InterPro:IPR029033
+			db_xref	UniProtKB/TrEMBL:O96171
+352836	353628	gene
+			locus_tag	PF3D7_0208500
+352836	352881	CDS
+353086	353306
+353482	353628
+			product	acyl carrier protein
+			protein_id	emb|CZT98098.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0208500
+			db_xref	GOA:Q7KWJ1
+			db_xref	InterPro:IPR003231
+			db_xref	InterPro:IPR006162
+			db_xref	InterPro:IPR009081
+			db_xref	InterPro:IPR036736
+			db_xref	UniProtKB/TrEMBL:Q7KWJ1
+354621	356117	gene
+			locus_tag	PF3D7_0208600
+354621	356117	CDS
+			product	ribosome-recycling factor
+			protein_id	emb|CZT98099.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0208600
+			db_xref	GOA:O96173
+			db_xref	InterPro:IPR002661
+			db_xref	InterPro:IPR023584
+			db_xref	InterPro:IPR036191
+			db_xref	UniProtKB/TrEMBL:O96173
+358014	356501	gene
+			locus_tag	PF3D7_0208700.1
+358014	357930	CDS
+357738	357621
+357437	357357
+357280	357126
+357000	356888
+356713	356649
+356552	356501
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98100.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0208700.2
+			db_xref	GOA:Q8I662
+			db_xref	InterPro:IPR005576
+			db_xref	InterPro:IPR041901
+			db_xref	UniProtKB/TrEMBL:Q8I662
+359142	359849	gene
+			locus_tag	PF3D7_0208800
+359142	359849	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98102.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0208800
+			db_xref	GOA:O96174
+			db_xref	UniProtKB/TrEMBL:O96174
+360828	368354	gene
+			locus_tag	PF3D7_0208900
+360828	368354	CDS
+			product	6-cysteine protein P230p
+			protein_id	emb|CZT98103.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0208900
+			db_xref	GOA:A0A144A0J8
+			db_xref	InterPro:IPR010884
+			db_xref	InterPro:IPR038160
+			db_xref	UniProtKB/TrEMBL:A0A144A0J8
+370438	379845	gene
+			locus_tag	PF3D7_0209000
+370438	379845	CDS
+			product	6-cysteine protein P230
+			protein_id	emb|CZT98104.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0209000
+			db_xref	GOA:A0A143ZY09
+			db_xref	InterPro:IPR010884
+			db_xref	InterPro:IPR038160
+			db_xref	UniProtKB/TrEMBL:A0A143ZY09
+383445	381130	gene
+			locus_tag	PF3D7_0209100
+383445	383071	CDS
+382877	382252
+382168	381130
+			product	patatin-like phospholipase, putative
+			EC_number	3.1.1.4
+			protein_id	emb|CZT98105.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0209100
+			db_xref	GOA:O96176
+			db_xref	InterPro:IPR002641
+			db_xref	InterPro:IPR016035
+			db_xref	UniProtKB/TrEMBL:O96176
+386580	384865	gene
+			locus_tag	PF3D7_0209200
+386580	386448	CDS
+386302	386224
+386133	386031
+385869	385752
+385644	385556
+385427	385368
+385204	385079
+384984	384865
+			product	exosome complex component MTR3, putative
+			EC_number	3.1.16.1
+			protein_id	emb|CZT98106.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0209200
+			db_xref	GOA:O96177
+			db_xref	InterPro:IPR001247
+			db_xref	InterPro:IPR020568
+			db_xref	InterPro:IPR027408
+			db_xref	UniProtKB/TrEMBL:O96177
+387273	388151	gene
+			locus_tag	PF3D7_0209300
+387273	387906	CDS
+388063	388151
+			product	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+			EC_number	4.6.1.12
+			protein_id	emb|CZT98107.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0209300
+			db_xref	GOA:A0A143ZWM3
+			db_xref	InterPro:IPR003526
+			db_xref	InterPro:IPR020555
+			db_xref	InterPro:IPR036571
+			db_xref	UniProtKB/TrEMBL:A0A143ZWM3
+390611	388424	gene
+			locus_tag	PF3D7_0209400
+390611	390504	CDS
+390404	389742
+389618	389427
+389336	389268
+389162	388945
+388784	388716
+388457	388424
+			product	conserved protein, unknown function
+			protein_id	emb|CZT98108.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0209400
+			db_xref	GOA:C6S3B4
+			db_xref	InterPro:IPR002791
+			db_xref	InterPro:IPR036075
+			db_xref	InterPro:IPR039763
+			db_xref	UniProtKB/TrEMBL:C6S3B4
+392789	391275	gene
+			locus_tag	PF3D7_0209500
+392789	391275	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98109.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0209500
+			db_xref	UniProtKB/TrEMBL:O96179
+398745	394237	gene
+			locus_tag	PF3D7_0209600
+398745	396669	CDS
+396532	396412
+396284	396202
+396093	395969
+395771	395450
+395204	394996
+394853	394560
+394404	394237
+			product	transporter, putative
+			protein_id	emb|CZT98110.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0209600
+			db_xref	GOA:O96181
+			db_xref	InterPro:IPR000175
+			db_xref	InterPro:IPR037272
+			db_xref	UniProtKB/TrEMBL:O96181
+401859	400153	gene
+			locus_tag	PF3D7_0209700
+401859	400153	CDS
+			product	RING zinc finger protein, putative
+			protein_id	emb|CZT98111.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0209700
+			db_xref	GOA:O96182
+			db_xref	InterPro:IPR001841
+			db_xref	InterPro:IPR004331
+			db_xref	InterPro:IPR013083
+			db_xref	InterPro:IPR017907
+			db_xref	UniProtKB/TrEMBL:O96182
+406355	404281	gene
+			locus_tag	PF3D7_0209800
+406355	406082	CDS
+405380	404281
+			product	ATP-dependent RNA helicase UAP56
+			EC_number	3.6.4.13
+			protein_id	emb|CZT98112.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0209800
+			db_xref	GOA:Q9TY94
+			db_xref	InterPro:IPR001650
+			db_xref	InterPro:IPR011545
+			db_xref	InterPro:IPR014001
+			db_xref	InterPro:IPR014014
+			db_xref	InterPro:IPR027417
+			db_xref	UniProtKB/TrEMBL:Q9TY94
+407900	408438	gene
+			locus_tag	PF3D7_0209900
+407900	408438	ncRNA
+			ncRNA_class	other
+409983	410228	gene
+			locus_tag	PF3D7_0210000
+409983	410228	CDS
+			product	secretory complex protein 61 gamma subunit
+			protein_id	emb|CZT98113.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0210000
+			db_xref	GOA:O96183
+			db_xref	InterPro:IPR001901
+			db_xref	InterPro:IPR008158
+			db_xref	InterPro:IPR023391
+			db_xref	UniProtKB/TrEMBL:O96183
+412275	412295	gene
+412492	412602
+412701	412859
+			locus_tag	PF3D7_0210100.1
+412275	412295	CDS
+412492	412602
+412701	412859
+			product	60S ribosomal protein L37ae, putative
+			protein_id	emb|CZT98115.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0210100.1
+			db_xref	GOA:A0A143ZYX3
+			db_xref	InterPro:IPR002674
+			db_xref	InterPro:IPR011331
+			db_xref	InterPro:IPR011332
+			db_xref	UniProtKB/TrEMBL:A0A143ZYX3
+412275	412295	gene
+412492	412537
+412701	412741
+			locus_tag	PF3D7_0210100.2
+412275	412295	CDS
+412492	412537
+412701	412741
+			product	60S ribosomal protein L37ae, putative
+			protein_id	emb|CZT98114.1|
+			gene	PF3D7_0210100.2
+			db_xref	EnsemblGenomes-Gn:PF3D7_0210100.2
+			db_xref	GOA:A0A143ZY21
+			db_xref	InterPro:IPR002674
+			db_xref	InterPro:IPR011331
+			db_xref	UniProtKB/TrEMBL:A0A143ZY21
+421137	413278	gene
+			locus_tag	PF3D7_0210200
+421137	413428	CDS
+413334	413278
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98116.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0210200
+			db_xref	UniProtKB/TrEMBL:A0A143ZWL6
+424654	423063	gene
+			locus_tag	PF3D7_0210300
+424654	424223	CDS
+424004	423063
+			product	monocarboxylate transporter, putative
+			protein_id	emb|CZT98117.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0210300
+			db_xref	GOA:O96186
+			db_xref	InterPro:IPR011701
+			db_xref	InterPro:IPR036259
+			db_xref	UniProtKB/TrEMBL:O96186
+425689	426497	gene
+			locus_tag	PF3D7_0210400
+425689	425855	CDS
+425995	426074
+426209	426299
+426476	426497
+			product	50S ribosomal protein L33, putative
+			protein_id	emb|CZT98118.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0210400
+			db_xref	GOA:C6S3B5
+			db_xref	InterPro:IPR001705
+			db_xref	InterPro:IPR011332
+			db_xref	InterPro:IPR038584
+			db_xref	UniProtKB/TrEMBL:C6S3B5
+427490	431530	gene
+			locus_tag	PF3D7_0210500
+427490	431530	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98119.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0210500
+			db_xref	UniProtKB/TrEMBL:O96187
+434086	432041	gene
+			locus_tag	PF3D7_0210600
+434086	433963	CDS
+433610	433426
+433304	432929
+432823	432636
+432508	432041
+			product	conserved protein, unknown function
+			protein_id	emb|CZT98120.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0210600
+			db_xref	UniProtKB/TrEMBL:O96188
+436050	436994	gene
+			locus_tag	PF3D7_0210700
+436050	436994	CDS
+			product	syntaxin, Qa-SNARE family
+			protein_id	emb|CZT98121.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0210700
+			db_xref	GOA:O96189
+			db_xref	InterPro:IPR000727
+			db_xref	InterPro:IPR006011
+			db_xref	InterPro:IPR010989
+			db_xref	UniProtKB/TrEMBL:O96189
+439002	437755	gene
+			locus_tag	PF3D7_0210800
+439002	437755	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98122.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0210800
+			db_xref	GOA:O96190
+			db_xref	UniProtKB/TrEMBL:O96190
+442934	442080	gene
+			locus_tag	PF3D7_0210900
+442934	442080	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98123.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0210900
+			db_xref	UniProtKB/TrEMBL:O96191
+443824	444608	gene
+			locus_tag	PF3D7_0211000
+443824	444608	ncRNA
+			ncRNA_class	other
+451751	455116	gene
+			locus_tag	PF3D7_0211100
+451751	455116	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98124.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0211100
+			db_xref	UniProtKB/TrEMBL:O96192
+456286	455579	gene
+			locus_tag	PF3D7_0211200
+456286	455579	CDS
+			product	ras-related protein Rab-5A
+			EC_number	3.6.5.2
+			protein_id	emb|CZT98125.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0211200
+			db_xref	GOA:O96193
+			db_xref	InterPro:IPR001806
+			db_xref	InterPro:IPR005225
+			db_xref	InterPro:IPR027417
+			db_xref	PDB:3CLV
+			db_xref	UniProtKB/TrEMBL:O96193
+458585	457130	gene
+			locus_tag	PF3D7_0211300
+458585	458362	CDS
+458219	457913
+457760	457687
+457589	457461
+457379	457309
+457203	457130
+			product	ubiquinol-cytochrome-c reductase complex assembly factor 1, putative
+			protein_id	emb|CZT98126.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0211300
+			db_xref	GOA:Q8I661
+			db_xref	InterPro:IPR007129
+			db_xref	InterPro:IPR021150
+			db_xref	UniProtKB/TrEMBL:Q8I661
+461518	459072	gene
+			locus_tag	PF3D7_0211400
+461518	461374	CDS
+461140	461049
+460916	460785
+460530	460395
+460275	460162
+459927	459593
+459397	459329
+459164	459072
+			product	beta-ketoacyl-ACP synthase III
+			EC_number	2.3.1.180
+			protein_id	emb|CZT98127.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0211400
+			db_xref	GOA:Q7KWI9
+			db_xref	InterPro:IPR004655
+			db_xref	InterPro:IPR013747
+			db_xref	InterPro:IPR013751
+			db_xref	InterPro:IPR016039
+			db_xref	UniProtKB/TrEMBL:Q7KWI9
+463163	466900	gene
+			locus_tag	PF3D7_0211500
+463163	466900	CDS
+			product	GAF domain-related protein, putative
+			protein_id	emb|CZT98128.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0211500
+			db_xref	GOA:O96195
+			db_xref	InterPro:IPR003018
+			db_xref	InterPro:IPR019537
+			db_xref	InterPro:IPR029016
+			db_xref	UniProtKB/TrEMBL:O96195
+467847	468476	gene
+			locus_tag	PF3D7_0211600
+467847	468476	CDS
+			product	UDP-N-acetylglucosamine transferase subunit ALG14, putative
+			EC_number	2.4.1.141
+			protein_id	emb|CZT98129.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0211600
+			db_xref	GOA:O96196
+			db_xref	InterPro:IPR013969
+			db_xref	UniProtKB/TrEMBL:O96196
+469790	473491	gene
+			locus_tag	PF3D7_0211700
+469790	473491	CDS
+			product	tyrosine kinase-like protein, putative
+			EC_number	2.7.11.1
+			protein_id	emb|CZT98130.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0211700
+			db_xref	GOA:O96197
+			db_xref	InterPro:IPR000719
+			db_xref	InterPro:IPR001245
+			db_xref	InterPro:IPR003409
+			db_xref	InterPro:IPR008271
+			db_xref	InterPro:IPR011009
+			db_xref	InterPro:IPR013761
+			db_xref	UniProtKB/TrEMBL:O96197
+475242	477074	gene
+			locus_tag	PF3D7_0211800
+475242	477074	CDS
+			product	asparagine--tRNA ligase
+			EC_number	6.1.1.22
+			protein_id	emb|CZT98131.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0211800
+			db_xref	GOA:O96198
+			db_xref	InterPro:IPR002312
+			db_xref	InterPro:IPR004364
+			db_xref	InterPro:IPR004365
+			db_xref	InterPro:IPR004522
+			db_xref	InterPro:IPR006195
+			db_xref	InterPro:IPR012340
+			db_xref	UniProtKB/TrEMBL:O96198
+479091	477432	gene
+			locus_tag	PF3D7_0211900
+479091	479089	CDS
+479003	478927
+478704	477432
+			product	pseudouridine synthase, putative
+			protein_id	emb|CZT98132.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0211900
+			db_xref	GOA:O96199
+			db_xref	InterPro:IPR020103
+			db_xref	UniProtKB/TrEMBL:O96199
+480100	481432	gene
+			locus_tag	PF3D7_0212000
+480100	480595	CDS
+480783	480983
+481194	481432
+			product	GDP-fructose:GMP antiporter, putative
+			protein_id	emb|CZT98133.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0212000
+			db_xref	GOA:O96200
+			db_xref	UniProtKB/TrEMBL:O96200
+483436	488970	gene
+			locus_tag	PF3D7_0212100
+483436	488970	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98134.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0212100
+			db_xref	GOA:O96201
+			db_xref	UniProtKB/TrEMBL:O96201
+490818	489904	gene
+			locus_tag	PF3D7_0212200
+490818	490125	CDS
+489977	489904
+			product	ribosomal protein L12, mitochondrial, putative
+			protein_id	emb|CZT98135.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0212200
+			db_xref	GOA:O96202
+			db_xref	InterPro:IPR000206
+			db_xref	InterPro:IPR013823
+			db_xref	InterPro:IPR014719
+			db_xref	UniProtKB/TrEMBL:O96202
+492616	494306	gene
+			locus_tag	PF3D7_0212300
+492616	492689	CDS
+492831	492985
+493252	494306
+			product	peptide chain release factor subunit 1, putative
+			protein_id	emb|CZT98136.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0212300
+			db_xref	GOA:O96203
+			db_xref	InterPro:IPR004403
+			db_xref	InterPro:IPR005140
+			db_xref	InterPro:IPR005141
+			db_xref	InterPro:IPR005142
+			db_xref	InterPro:IPR024049
+			db_xref	InterPro:IPR029064
+			db_xref	InterPro:IPR042226
+			db_xref	UniProtKB/TrEMBL:O96203
+507854	495166	gene
+			locus_tag	PF3D7_0212400
+507854	501855	CDS
+501641	495882
+495681	495166
+			product	conserved Plasmodium membrane protein, unknown function
+			protein_id	emb|CZT98137.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0212400
+			db_xref	GOA:O96204
+			db_xref	UniProtKB/TrEMBL:O96204
+509525	521746	gene
+			locus_tag	PF3D7_0212500
+509525	516077	CDS
+516327	521746
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98138.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0212500
+			db_xref	GOA:O96205
+			db_xref	UniProtKB/TrEMBL:O96205
+522931	523999	gene
+			locus_tag	PF3D7_0212600
+522931	523154	CDS
+523471	523999
+			product	secreted protein with altered thrombospondin repeat domain
+			protein_id	emb|CZT98139.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0212600
+			db_xref	GOA:O96207
+			db_xref	InterPro:IPR036383
+			db_xref	UniProtKB/TrEMBL:O96207
+526043	524700	gene
+			locus_tag	PF3D7_0212700
+526043	524700	CDS
+			product	SRR1-like protein
+			protein_id	emb|CZT98140.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0212700
+			db_xref	GOA:O96208
+			db_xref	InterPro:IPR012942
+			db_xref	InterPro:IPR040044
+			db_xref	UniProtKB/TrEMBL:O96208
+528249	531923	gene
+			locus_tag	PF3D7_0212800
+528249	531923	CDS
+			product	multidrug efflux pump, putative
+			protein_id	emb|CZT98141.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0212800
+			db_xref	GOA:O96209
+			db_xref	InterPro:IPR002528
+			db_xref	UniProtKB/TrEMBL:O96209
+533253	534350	gene
+			locus_tag	PF3D7_0212900
+533253	534350	CDS
+			product	arginyl-tRNA--protein transferase
+			EC_number	2.3.2.8
+			protein_id	emb|CZT98142.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0212900
+			db_xref	GOA:O96210
+			db_xref	InterPro:IPR004616
+			db_xref	InterPro:IPR016181
+			db_xref	InterPro:IPR042203
+			db_xref	UniProtKB/TrEMBL:O96210
+535646	536146	gene
+			locus_tag	PF3D7_0213000
+535646	536146	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|CZT98143.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0213000
+			db_xref	UniProtKB/TrEMBL:O96211
+537789	539420	gene
+			locus_tag	PF3D7_0213100
+537789	537797	CDS
+538286	538691
+538849	539420
+			product	protein SIS1
+			protein_id	emb|CZT98144.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0213100
+			db_xref	GOA:O96212
+			db_xref	InterPro:IPR001623
+			db_xref	InterPro:IPR002939
+			db_xref	InterPro:IPR008971
+			db_xref	InterPro:IPR018253
+			db_xref	InterPro:IPR036869
+			db_xref	UniProtKB/TrEMBL:O96212
+540969	540409	gene
+			locus_tag	PF3D7_0213200
+540969	540877	CDS
+540696	540409
+			product	conserved protein, unknown function
+			protein_id	emb|CZT98145.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0213200
+			db_xref	GOA:O96213
+			db_xref	UniProtKB/TrEMBL:O96213
+541548	541086	gene
+			locus_tag	PF3D7_0213300
+541548	541445	CDS
+541310	541224
+541131	541086
+			product	conserved protein, unknown function
+			protein_id	emb|CZT98146.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0213300
+			db_xref	UniProtKB/TrEMBL:C6S3B6
+541811	543807	gene
+			locus_tag	PF3D7_0213400
+541811	541919	CDS
+542425	542933
+543101	543430
+543724	543807
+			product	protein kinase 7
+			EC_number	2.7.11.1
+			protein_id	emb|CZT98147.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0213400
+			db_xref	GOA:Q7YTF7
+			db_xref	InterPro:IPR000719
+			db_xref	InterPro:IPR008271
+			db_xref	InterPro:IPR011009
+			db_xref	PDB:2PMN
+			db_xref	PDB:2PMO
+			db_xref	UniProtKB/TrEMBL:Q7YTF7
+545895	543802	gene
+			locus_tag	PF3D7_0213500
+545895	545812	CDS
+545648	545563
+545409	544624
+544386	544050
+543891	543802
+			product	tetratricopeptide repeat protein, putative
+			protein_id	emb|CZT98148.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0213500
+			db_xref	InterPro:IPR011990
+			db_xref	InterPro:IPR013026
+			db_xref	InterPro:IPR019734
+			db_xref	UniProtKB/TrEMBL:O96215
+555294	546482	gene
+			locus_tag	PF3D7_0213600
+555294	553897	CDS
+553685	549432
+549258	548861
+548708	548583
+548431	548369
+548216	548039
+547890	547846
+547757	547638
+547548	547426
+547307	547175
+547043	546928
+546784	546482
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98149.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0213600
+			db_xref	UniProtKB/TrEMBL:A0A143ZWS3
+557048	557696	gene
+			locus_tag	PF3D7_0213700
+557048	557338	CDS
+557523	557696
+			product	conserved protein, unknown function
+			protein_id	emb|CZT98150.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0213700
+			db_xref	InterPro:IPR008560
+			db_xref	UniProtKB/TrEMBL:O96217
+558585	560594	gene
+			locus_tag	PF3D7_0213800
+558585	560594	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|CZT98151.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0213800
+			db_xref	UniProtKB/TrEMBL:O96218
+564622	561122	gene
+			locus_tag	PF3D7_0213900
+564622	561122	CDS
+			product	RTR1 domain-containing protein, putative
+			protein_id	emb|CZT98152.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0213900
+			db_xref	InterPro:IPR007308
+			db_xref	UniProtKB/TrEMBL:O96219
+566121	567894	gene
+			locus_tag	PF3D7_0214000
+566121	566123	CDS
+566269	567894
+			product	T-complex protein 1 subunit theta
+			protein_id	emb|CZT98153.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0214000
+			db_xref	GOA:O96220
+			db_xref	InterPro:IPR002423
+			db_xref	InterPro:IPR012721
+			db_xref	InterPro:IPR017998
+			db_xref	InterPro:IPR027409
+			db_xref	InterPro:IPR027410
+			db_xref	InterPro:IPR027413
+			db_xref	UniProtKB/TrEMBL:O96220
+573315	568529	gene
+			locus_tag	PF3D7_0214100
+573315	569376	CDS
+569259	569171
+569048	568699
+568565	568529
+			product	protein transport protein SEC31
+			protein_id	emb|CZT98154.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0214100
+			db_xref	GOA:O96221
+			db_xref	InterPro:IPR001680
+			db_xref	InterPro:IPR015943
+			db_xref	InterPro:IPR017986
+			db_xref	InterPro:IPR019775
+			db_xref	InterPro:IPR024298
+			db_xref	InterPro:IPR036322
+			db_xref	InterPro:IPR040251
+			db_xref	UniProtKB/TrEMBL:O96221
+576054	575155	gene
+			locus_tag	PF3D7_0214200
+576054	575966	CDS
+575704	575155
+			product	ribosomal protein L13, mitochondrial
+			protein_id	emb|CZT98155.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0214200
+			db_xref	GOA:O96222
+			db_xref	InterPro:IPR005822
+			db_xref	InterPro:IPR005823
+			db_xref	InterPro:IPR023563
+			db_xref	InterPro:IPR036899
+			db_xref	UniProtKB/TrEMBL:O96222
+578662	586164	gene
+			locus_tag	PF3D7_0214300
+578662	586164	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98156.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0214300
+			db_xref	UniProtKB/TrEMBL:O96223
+589051	586765	gene
+			locus_tag	PF3D7_0214400
+589051	587387	CDS
+587238	587119
+586839	586765
+			product	conserved protein, unknown function
+			protein_id	emb|CZT98157.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0214400
+			db_xref	GOA:O96224
+			db_xref	InterPro:IPR007307
+			db_xref	UniProtKB/TrEMBL:O96224
+590501	591421	gene
+			locus_tag	PF3D7_0214500
+590501	591421	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98158.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0214500
+			db_xref	UniProtKB/TrEMBL:O96225
+594196	599340	gene
+			locus_tag	PF3D7_0214600
+594196	599340	CDS
+			product	serine/threonine protein kinase, putative
+			EC_number	2.7.11.1
+			protein_id	emb|CZT98159.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0214600
+			db_xref	GOA:O96226
+			db_xref	InterPro:IPR000719
+			db_xref	InterPro:IPR008271
+			db_xref	InterPro:IPR011009
+			db_xref	UniProtKB/TrEMBL:O96226
+601712	599829	gene
+			locus_tag	PF3D7_0214700
+601712	601487	CDS
+601279	601134
+601046	600961
+600867	600804
+600675	600562
+600452	600357
+600253	600187
+600049	599997
+599882	599829
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98160.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0214700
+			db_xref	UniProtKB/TrEMBL:O96227
+605045	609325	gene
+			locus_tag	PF3D7_0214800
+605045	605237	CDS
+605403	609325
+			product	conserved Plasmodium membrane protein, unknown function
+			protein_id	emb|CZT98161.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0214800
+			db_xref	GOA:O96228
+			db_xref	InterPro:IPR011049
+			db_xref	UniProtKB/TrEMBL:O96228
+610625	615372	gene
+			locus_tag	PF3D7_0214900
+610625	610685	CDS
+610872	612646
+612764	612889
+613019	613126
+613250	613319
+613453	613493
+613649	613688
+613831	613872
+613980	614032
+614114	614191
+614326	614388
+614534	614575
+614697	614755
+614868	614970
+615181	615372
+			product	rhoptry neck protein 6
+			protein_id	emb|CZT98162.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0214900
+			db_xref	GOA:O96229
+			db_xref	UniProtKB/TrEMBL:O96229
+619429	616772	gene
+			locus_tag	PF3D7_0215000
+619429	616772	CDS
+			product	acyl-CoA synthetase
+			EC_number	6.2.1.3
+			protein_id	emb|CZT98163.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0215000
+			db_xref	GOA:O96230
+			db_xref	InterPro:IPR000873
+			db_xref	InterPro:IPR020845
+			db_xref	InterPro:IPR042099
+			db_xref	UniProtKB/TrEMBL:O96230
+624306	622524	gene
+			locus_tag	PF3D7_0215100
+624306	624250	CDS
+624108	624073
+623944	623715
+623529	623143
+623014	622939
+622840	622789
+622582	622524
+			product	RING zinc finger protein, putative
+			protein_id	emb|CZT98164.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0215100
+			db_xref	GOA:Q8I660
+			db_xref	InterPro:IPR001841
+			db_xref	InterPro:IPR013083
+			db_xref	UniProtKB/TrEMBL:Q8I660
+626976	627710	gene
+			locus_tag	PF3D7_0215200
+626976	627710	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98165.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0215200
+			db_xref	UniProtKB/TrEMBL:O96231
+631308	628642	gene
+			locus_tag	PF3D7_0215300
+631308	628642	CDS
+			product	acyl-CoA synthetase
+			EC_number	6.2.1.3
+			protein_id	emb|CZT98166.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0215300
+			db_xref	GOA:O96232
+			db_xref	InterPro:IPR000873
+			db_xref	InterPro:IPR020845
+			db_xref	InterPro:IPR042099
+			db_xref	UniProtKB/TrEMBL:O96232
+637507	634589	gene
+			locus_tag	PF3D7_0215400
+637507	634589	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98167.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0215400
+			db_xref	InterPro:IPR036322
+			db_xref	UniProtKB/TrEMBL:O96233
+640400	642694	gene
+			locus_tag	PF3D7_0215500
+640400	642694	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98168.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0215500
+			db_xref	UniProtKB/TrEMBL:O96234
+644317	643106	gene
+			locus_tag	PF3D7_0215600
+644317	643106	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98169.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0215600
+			db_xref	GOA:O96235
+			db_xref	UniProtKB/TrEMBL:O96235
+645929	650085	gene
+			locus_tag	PF3D7_0215700
+645929	645980	CDS
+646115	650085
+			product	DNA-directed RNA polymerase II subunit RPB2, putative
+			EC_number	2.7.7.6
+			protein_id	emb|CZT98170.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0215700
+			db_xref	GOA:O96236
+			db_xref	InterPro:IPR007120
+			db_xref	InterPro:IPR007121
+			db_xref	InterPro:IPR007641
+			db_xref	InterPro:IPR007642
+			db_xref	InterPro:IPR007644
+			db_xref	InterPro:IPR007645
+			db_xref	InterPro:IPR007646
+			db_xref	InterPro:IPR007647
+			db_xref	InterPro:IPR015712
+			db_xref	InterPro:IPR037033
+			db_xref	InterPro:IPR037034
+			db_xref	UniProtKB/TrEMBL:O96236
+653362	650663	gene
+			locus_tag	PF3D7_0215800
+653362	650663	CDS
+			product	origin recognition complex subunit 5
+			protein_id	emb|CZT98171.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0215800
+			db_xref	GOA:O96237
+			db_xref	InterPro:IPR020796
+			db_xref	InterPro:IPR027417
+			db_xref	UniProtKB/TrEMBL:O96237
+656840	654918	gene
+			locus_tag	PF3D7_0215900
+656840	656781	CDS
+656692	656634
+656486	656377
+656190	656056
+655921	655860
+655750	655658
+655583	655548
+655369	655282
+655172	655082
+654966	654918
+			product	palmitoyltransferase DHHC11, putative
+			EC_number	2.3.1.-
+			protein_id	emb|CZT98172.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0215900
+			db_xref	GOA:O96238
+			db_xref	InterPro:IPR001594
+			db_xref	UniProtKB/TrEMBL:O96238
+658636	664629	gene
+			locus_tag	PF3D7_0216000
+658636	664629	CDS
+			product	DEAD/DEAH box helicase, putative
+			EC_number	3.6.4.13
+			protein_id	emb|CZT98173.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0216000
+			db_xref	GOA:O96239
+			db_xref	InterPro:IPR000330
+			db_xref	InterPro:IPR001650
+			db_xref	InterPro:IPR014001
+			db_xref	InterPro:IPR027417
+			db_xref	InterPro:IPR038718
+			db_xref	UniProtKB/TrEMBL:O96239
+668532	664984	gene
+			locus_tag	PF3D7_0216100
+668532	664984	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98174.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0216100
+			db_xref	UniProtKB/TrEMBL:C6S3B7
+669841	668985	gene
+			locus_tag	PF3D7_0216200
+669841	669221	CDS
+669047	668985
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98175.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0216200
+			db_xref	GOA:O96240
+			db_xref	InterPro:IPR002775
+			db_xref	UniProtKB/TrEMBL:O96240
+670413	674558	gene
+			locus_tag	PF3D7_0216300
+670413	674558	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98176.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0216300
+			db_xref	GOA:A0A143ZWT2
+			db_xref	UniProtKB/TrEMBL:A0A143ZWT2
+675431	677599	gene
+			locus_tag	PF3D7_0216400
+675431	677599	CDS
+			product	vacuolar protein sorting-associated protein 45
+			protein_id	emb|CZT98177.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0216400
+			db_xref	GOA:O96243
+			db_xref	InterPro:IPR001619
+			db_xref	InterPro:IPR036045
+			db_xref	UniProtKB/TrEMBL:O96243
+678487	683703	gene
+			locus_tag	PF3D7_0216500
+678487	678756	CDS
+679042	683703
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98178.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0216500
+			db_xref	InterPro:IPR015943
+			db_xref	InterPro:IPR036322
+			db_xref	UniProtKB/TrEMBL:O96244
+686485	688545	gene
+			locus_tag	PF3D7_0216600
+686485	688545	CDS
+			product	MtN3-like protein
+			protein_id	emb|CZT98179.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0216600
+			db_xref	GOA:O96245
+			db_xref	InterPro:IPR004316
+			db_xref	UniProtKB/TrEMBL:O96245
+690311	690346	gene
+690474	690513
+690716	690837
+690961	691020
+691295	691489
+691682	692401
+692805	695783
+			locus_tag	PF3D7_0216700.1
+690311	690346	gene
+690474	690513
+690716	690837
+690961	691020
+691295	691471
+691682	692401
+692805	695783
+			locus_tag	PF3D7_0216700.2
+690311	690346	CDS
+690474	690513
+690716	690837
+690961	691020
+691295	691489
+691682	692401
+692805	695783
+			product	autophagy-related protein 11, putative
+			protein_id	emb|CZT98180.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0216700.1
+			db_xref	UniProtKB/TrEMBL:A0A143ZXF2
+690311	690346	CDS
+690474	690513
+690716	690837
+690961	691020
+691295	691471
+691682	692401
+692805	695783
+			product	autophagy-related protein 11, putative
+			protein_id	emb|CZT98181.1|
+			gene	PF3D7_0216700.2
+			db_xref	EnsemblGenomes-Gn:PF3D7_0216700.2
+			db_xref	UniProtKB/TrEMBL:A0A143ZXS2
+699561	696193	gene
+			locus_tag	PF3D7_0216800
+699561	696193	CDS
+			product	TMEM121 domain-containing protein, putative
+			protein_id	emb|CZT98182.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0216800
+			db_xref	GOA:O96246
+			db_xref	InterPro:IPR032776
+			db_xref	UniProtKB/TrEMBL:O96246
+701245	702894	gene
+			locus_tag	PF3D7_0216900
+701245	702894	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98183.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0216900
+			db_xref	UniProtKB/TrEMBL:O96248
+706587	703090	gene
+			locus_tag	PF3D7_0217000
+706587	705195	CDS
+704964	704045
+703795	703291
+703202	703090
+			product	conserved Plasmodium membrane protein, unknown function
+			protein_id	emb|CZT98184.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0217000
+			db_xref	UniProtKB/TrEMBL:O96251
+707738	709393	gene
+			locus_tag	PF3D7_0217100
+707738	709393	CDS
+			product	ATP synthase subunit alpha, mitochondrial
+			EC_number	7.1.2.2
+			protein_id	emb|CZT98185.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0217100
+			db_xref	GOA:O96252
+			db_xref	InterPro:IPR000194
+			db_xref	InterPro:IPR000793
+			db_xref	InterPro:IPR004100
+			db_xref	InterPro:IPR005294
+			db_xref	InterPro:IPR020003
+			db_xref	InterPro:IPR023366
+			db_xref	InterPro:IPR027417
+			db_xref	InterPro:IPR033732
+			db_xref	InterPro:IPR036121
+			db_xref	InterPro:IPR038376
+			db_xref	UniProtKB/TrEMBL:O96252
+715252	709799	gene
+			locus_tag	PF3D7_0217200
+715252	709799	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98186.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0217200
+			db_xref	UniProtKB/TrEMBL:O96253
+716549	715798	gene
+			locus_tag	PF3D7_0217300
+716549	716494	CDS
+716293	716160
+716033	715798
+			product	AP-2 complex subunit sigma, putative
+			protein_id	emb|CZT98187.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0217300
+			db_xref	GOA:O96254
+			db_xref	InterPro:IPR000804
+			db_xref	InterPro:IPR011012
+			db_xref	InterPro:IPR016635
+			db_xref	InterPro:IPR022775
+			db_xref	InterPro:IPR027156
+			db_xref	UniProtKB/TrEMBL:O96254
+717692	718281	gene
+			locus_tag	PF3D7_0217400
+717692	717784	CDS
+717928	718281
+			product	conserved protein, unknown function
+			protein_id	emb|CZT98188.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0217400
+			db_xref	GOA:A0A143ZYK0
+			db_xref	UniProtKB/TrEMBL:A0A143ZYK0
+720437	722661	gene
+			locus_tag	PF3D7_0217500
+720437	721654	CDS
+721895	721994
+722144	722262
+722395	722472
+722602	722661
+			product	calcium-dependent protein kinase 1
+			EC_number	2.7.11.1
+			protein_id	emb|CZT98189.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0217500
+			db_xref	GOA:A0A143ZWW4
+			db_xref	InterPro:IPR000719
+			db_xref	InterPro:IPR002048
+			db_xref	InterPro:IPR008271
+			db_xref	InterPro:IPR011009
+			db_xref	InterPro:IPR011992
+			db_xref	InterPro:IPR017441
+			db_xref	InterPro:IPR018247
+			db_xref	UniProtKB/TrEMBL:A0A143ZWW4
+729932	723747	gene
+			locus_tag	PF3D7_0217600
+729932	729744	CDS
+729562	729359
+729259	729149
+728995	728930
+728721	728594
+728449	724873
+724604	723747
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98190.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0217600
+			db_xref	InterPro:IPR011004
+			db_xref	UniProtKB/TrEMBL:O96256
+732312	731120	gene
+			locus_tag	PF3D7_0217700
+732312	732171	CDS
+731972	731754
+731623	731548
+731387	731120
+			product	E2F-associated phosphoprotein, putative
+			protein_id	emb|CZT98191.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0217700
+			db_xref	GOA:Q8I657
+			db_xref	InterPro:IPR019370
+			db_xref	UniProtKB/TrEMBL:Q8I657
+734272	734595	gene
+			locus_tag	PF3D7_0217800
+734272	734595	CDS
+			product	40S ribosomal protein S26
+			protein_id	emb|CZT98192.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0217800
+			db_xref	GOA:O96258
+			db_xref	InterPro:IPR000892
+			db_xref	InterPro:IPR038551
+			db_xref	PDB:3J7A
+			db_xref	PDB:3JBN
+			db_xref	PDB:3JBO
+			db_xref	PDB:3JBP
+			db_xref	PDB:6OKK
+			db_xref	UniProtKB/TrEMBL:O96258
+736997	735438	gene
+			locus_tag	PF3D7_0217900
+736997	735438	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98193.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0217900
+			db_xref	GOA:O96259
+			db_xref	InterPro:IPR029069
+			db_xref	UniProtKB/TrEMBL:O96259
+738860	739852	gene
+			locus_tag	PF3D7_0218000
+738860	739852	CDS
+			product	replication factor C subunit 2, putative
+			protein_id	emb|CZT98194.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0218000
+			db_xref	GOA:O96260
+			db_xref	InterPro:IPR003593
+			db_xref	InterPro:IPR003959
+			db_xref	InterPro:IPR008921
+			db_xref	InterPro:IPR013748
+			db_xref	InterPro:IPR027417
+			db_xref	UniProtKB/TrEMBL:O96260
+741014	742459	gene
+			locus_tag	PF3D7_0218100
+741014	741831	CDS
+741954	742018
+742153	742218
+742341	742459
+			product	conserved protein, unknown function
+			protein_id	emb|CZT98195.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0218100
+			db_xref	UniProtKB/TrEMBL:O96261
+745712	743289	gene
+			locus_tag	PF3D7_0218200
+745712	743289	CDS
+			product	SUZ domain-containing protein, putative
+			protein_id	emb|CZT98196.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0218200
+			db_xref	GOA:C6S3B8
+			db_xref	InterPro:IPR024771
+			db_xref	UniProtKB/TrEMBL:C6S3B8
+749365	747566	gene
+			locus_tag	PF3D7_0218300
+749365	749042	CDS
+748743	748306
+748031	747980
+747816	747566
+			product	rRNA methyltransferase, putative
+			EC_number	2.1.1.-
+			protein_id	emb|CZT98197.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0218300
+			db_xref	GOA:O96263
+			db_xref	InterPro:IPR001537
+			db_xref	InterPro:IPR013123
+			db_xref	InterPro:IPR029026
+			db_xref	InterPro:IPR029028
+			db_xref	InterPro:IPR029064
+			db_xref	UniProtKB/TrEMBL:O96263
+751737	750049	gene
+			locus_tag	PF3D7_0218400
+751737	750049	CDS
+			product	ATP-dependent RNA helicase DDX47, putative
+			EC_number	3.6.4.13
+			protein_id	emb|CZT98198.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0218400
+			db_xref	GOA:O96264
+			db_xref	InterPro:IPR000629
+			db_xref	InterPro:IPR001650
+			db_xref	InterPro:IPR011545
+			db_xref	InterPro:IPR014001
+			db_xref	InterPro:IPR014014
+			db_xref	InterPro:IPR027417
+			db_xref	UniProtKB/TrEMBL:O96264
+752966	753439	gene
+			locus_tag	PF3D7_0218500
+752966	753100	CDS
+753269	753439
+			product	small nuclear ribonucleoprotein Sm D2, putative
+			protein_id	emb|CZT98199.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0218500
+			db_xref	GOA:O96265
+			db_xref	InterPro:IPR001163
+			db_xref	InterPro:IPR010920
+			db_xref	InterPro:IPR027248
+			db_xref	UniProtKB/TrEMBL:O96265
+755418	762560	gene
+			locus_tag	PF3D7_0218600
+755418	762560	CDS
+			product	patatin-like phospholipase, putative
+			protein_id	emb|CZT98200.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0218600
+			db_xref	GOA:O96266
+			db_xref	InterPro:IPR016035
+			db_xref	InterPro:IPR033562
+			db_xref	UniProtKB/TrEMBL:O96266
+765191	763491	gene
+			locus_tag	PF3D7_0218700
+765191	765175	CDS
+764922	763491
+			product	pre-mRNA-processing protein 45, putative
+			protein_id	emb|CZT98201.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0218700
+			db_xref	GOA:O96267
+			db_xref	InterPro:IPR004015
+			db_xref	InterPro:IPR017862
+			db_xref	UniProtKB/TrEMBL:O96267
+767015	766390	gene
+			locus_tag	PF3D7_0218800
+767015	766390	ncRNA
+			ncRNA_class	other
+			product	ribonuclease P
+767743	767584	gene
+			locus_tag	PF3D7_0218900
+767743	767584	ncRNA
+			ncRNA_class	other
+			product	Plasmodium RNA of unknown function RUF2
+768058	767977	gene
+			locus_tag	PF3D7_0219000
+768058	767977	ncRNA
+			ncRNA_class	snoRNA
+			product	small nucleolar RNA snoR01
+769761	771041	gene
+			locus_tag	PF3D7_0219100
+769761	771041	CDS
+			product	saccharopine dehydrogenase, putative
+			EC_number	1.5.1.9
+			protein_id	emb|CZT98202.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0219100
+			db_xref	GOA:O96268
+			db_xref	InterPro:IPR005097
+			db_xref	InterPro:IPR036291
+			db_xref	UniProtKB/TrEMBL:O96268
+772316	772690	gene
+			locus_tag	PF3D7_0219200
+772316	772319	CDS
+772518	772690
+			product	40S ribosomal protein S30
+			protein_id	emb|CZT98203.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0219200
+			db_xref	GOA:A0A144A0U2
+			db_xref	InterPro:IPR006846
+			db_xref	UniProtKB/TrEMBL:A0A144A0U2
+773754	773335	gene
+			locus_tag	PF3D7_0219300
+773754	773335	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CZT98204.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0219300
+			db_xref	UniProtKB/TrEMBL:Q8I656
+774815	776036	gene
+			locus_tag	PF3D7_0219400.1
+774815	774916	CDS
+775639	775795
+775990	776036
+			product	ribosome associated membrane protein RAMP4, putative
+			protein_id	emb|CZT98205.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0219400.1
+			db_xref	GOA:Q8I655
+			db_xref	InterPro:IPR010580
+			db_xref	UniProtKB/TrEMBL:Q8I655
+778065	776828	gene
+			locus_tag	PF3D7_0219500
+778065	777591	CDS
+777369	776828
+			product	pseudouridine synthase, putative
+			EC_number	4.2.1.70
+			protein_id	emb|CZT98207.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0219500
+			db_xref	GOA:O96270
+			db_xref	InterPro:IPR000748
+			db_xref	InterPro:IPR002942
+			db_xref	InterPro:IPR006145
+			db_xref	InterPro:IPR018496
+			db_xref	InterPro:IPR020103
+			db_xref	InterPro:IPR036986
+			db_xref	UniProtKB/TrEMBL:O96270
+782132	779418	gene
+			locus_tag	PF3D7_0219600
+782132	779418	CDS
+			product	replication factor C subunit 1, putative
+			protein_id	emb|CZT98208.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0219600
+			db_xref	GOA:O96271
+			db_xref	InterPro:IPR001357
+			db_xref	InterPro:IPR003593
+			db_xref	InterPro:IPR003959
+			db_xref	InterPro:IPR008921
+			db_xref	InterPro:IPR012178
+			db_xref	InterPro:IPR013725
+			db_xref	InterPro:IPR027417
+			db_xref	InterPro:IPR036420
+			db_xref	UniProtKB/TrEMBL:O96271
+784828	783723	gene
+			locus_tag	PF3D7_0219700
+784828	784688	CDS
+784469	783723
+			product	Plasmodium exported protein (PHISTc), unknown function
+			protein_id	emb|CZT98209.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0219700
+			db_xref	InterPro:IPR006526
+			db_xref	InterPro:IPR019111
+			db_xref	UniProtKB/TrEMBL:O96272
+787940	786870	gene
+			locus_tag	PF3D7_0219800
+787940	787848	CDS
+787736	786870
+			product	Plasmodium exported protein (PHISTc), unknown function
+			protein_id	emb|CZT98210.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0219800
+			db_xref	InterPro:IPR006526
+			db_xref	InterPro:IPR019111
+			db_xref	UniProtKB/TrEMBL:O96273
+791464	792381	gene
+			locus_tag	PF3D7_0219900
+791464	791673	CDS
+791899	792381
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|CZT98211.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0219900
+			db_xref	UniProtKB/TrEMBL:O96274
+796752	801586	gene
+			locus_tag	PF3D7_0220000
+796752	796949	CDS
+797108	801586
+			product	liver stage antigen 3
+			protein_id	emb|CZT98212.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0220000
+			db_xref	UniProtKB/TrEMBL:O96275
+804520	807741	gene
+			locus_tag	PF3D7_0220100
+804520	804714	CDS
+804943	807741
+			product	DnaJ protein, putative
+			protein_id	emb|CZT98213.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0220100
+			db_xref	InterPro:IPR001623
+			db_xref	InterPro:IPR018253
+			db_xref	InterPro:IPR019111
+			db_xref	InterPro:IPR026894
+			db_xref	InterPro:IPR036869
+			db_xref	UniProtKB/TrEMBL:O96276
+810298	809511	gene
+			locus_tag	PF3D7_0220200
+810298	810230	CDS
+809984	809511
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|CZT98214.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0220200
+			db_xref	GOA:Q7KWI7
+			db_xref	UniProtKB/TrEMBL:Q7KWI7
+814654	813827	gene
+			locus_tag	PF3D7_0220300
+814654	814580	CDS
+814390	813827
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|CZT98215.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0220300
+			db_xref	GOA:Q8I654
+			db_xref	UniProtKB/TrEMBL:Q8I654
+820429	822541	gene
+			locus_tag	PF3D7_0220400
+			pseudo
+			pseudogene	unknown
+820429	820467	CDS
+820569	821126
+821129	822541
+			pseudo
+			note	DnaJ protein, putative, pseudogene
+			pseudogene	unknown
+824864	823825	gene
+			locus_tag	PF3D7_0220500
+824864	824796	CDS
+824571	823825
+			product	Plasmodium exported protein (hyp2), unknown function
+			protein_id	emb|CZT98217.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0220500
+			db_xref	UniProtKB/TrEMBL:Q7KWI6
+831189	832005	gene
+			locus_tag	PF3D7_0220600
+831189	831284	CDS
+831424	832005
+			product	Plasmodium exported protein (hyp9), unknown function
+			protein_id	emb|CZT98218.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0220600
+			db_xref	GOA:O96278
+			db_xref	UniProtKB/TrEMBL:O96278
+833805	834688	gene
+			locus_tag	PF3D7_0220700
+833805	833996	CDS
+834122	834688
+			product	Plasmodium exported protein (hyp9), unknown function
+			protein_id	emb|CZT98219.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0220700
+			db_xref	UniProtKB/TrEMBL:Q8I653
+838843	844116	gene
+			locus_tag	PF3D7_0220800
+838843	839764	CDS
+839924	840493
+840606	840659
+840757	840819
+840965	841096
+841202	841387
+841500	841658
+841746	842512
+842647	844116
+			product	cytoadherence linked asexual protein 2
+			protein_id	emb|CZT98220.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0220800
+			db_xref	GOA:O96279
+			db_xref	InterPro:IPR005553
+			db_xref	UniProtKB/TrEMBL:O96279
+846375	845600	gene
+			locus_tag	PF3D7_0220900
+			pseudo
+			pseudogene	unknown
+846375	846298	CDS
+846131	846020
+846018	845600
+			pseudo
+			note	Plasmodium exported protein, unknown function, pseudogene
+			pseudogene	unknown
+848092	849119	gene
+			locus_tag	PF3D7_0221000
+848092	848157	CDS
+848277	849119
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|CZT98222.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0221000
+			db_xref	GOA:A0A143ZXW4
+			db_xref	UniProtKB/TrEMBL:A0A143ZXW4
+851052	851962	gene
+			locus_tag	PF3D7_0221100
+			pseudo
+			pseudogene	unknown
+851052	851164	CDS
+851291	851644
+851647	851962
+			pseudo
+			note	Plasmodium exported protein, unknown function, pseudogene
+			pseudogene	unknown
+854966	855738	gene
+			locus_tag	PF3D7_0221200
+854966	855034	CDS
+855187	855738
+			product	Plasmodium exported protein (hyp15), unknown function
+			protein_id	emb|CZT98224.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0221200
+			db_xref	UniProtKB/TrEMBL:Q8I652
+858675	857567	gene
+			locus_tag	PF3D7_0221300
+			pseudo
+			pseudogene	unknown
+858675	858430	CDS
+858427	858090
+858088	857785
+857782	857567
+			pseudo
+			note	Plasmodium exported protein, unknown function, pseudogene
+			pseudogene	unknown
+860466	861504	gene
+			locus_tag	PF3D7_0221400
+860466	860534	CDS
+860650	861504
+			product	stevor
+			protein_id	emb|CZT98226.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0221400
+			db_xref	GOA:O96283
+			db_xref	InterPro:IPR006374
+			db_xref	UniProtKB/TrEMBL:O96283
+863842	863079	gene
+			locus_tag	PF3D7_0221500
+			pseudo
+			pseudogene	unknown
+863842	863774	CDS
+863688	863389
+863387	863079
+			pseudo
+			note	Pfmc-2TM Maurer's cleft two transmembrane protein, pseudogene
+			pseudogene	unknown
+866538	865916	gene
+			locus_tag	PF3D7_0221600
+			pseudo
+			pseudogene	unknown
+866538	866405	CDS
+866402	865916
+			pseudo
+			note	Plasmodium exported protein, unknown function, pseudogene
+			pseudogene	unknown
+866843	867511	gene
+			locus_tag	PF3D7_0221650
+			pseudo
+			pseudogene	unknown
+866843	866867	CDS
+866870	867056
+867059	867251
+867254	867511
+			pseudo
+			note	Plasmodium exported protein, unknown function, pseudogene
+			pseudogene	unknown
+871124	869508	gene
+			locus_tag	PF3D7_0221700
+871124	871086	CDS
+870950	869508
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|CZT98230.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0221700
+			db_xref	UniProtKB/TrEMBL:A0A143ZYC7
+873131	873319	gene
+			locus_tag	PF3D7_0221800
+873131	873319	CDS
+			product	hypothetical protein
+			protein_id	emb|CZT98231.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0221800
+			db_xref	UniProtKB/TrEMBL:Q8I651
+875178	873917	gene
+			locus_tag	PF3D7_0221900
+			pseudo
+			pseudogene	unknown
+875178	874849	CDS
+874847	874545
+874543	874328
+874325	874119
+874117	873917
+			pseudo
+			note	erythrocyte membrane protein 1 (PfEMP1), pseudogene
+			pseudogene	unknown
+876984	877832	gene
+			locus_tag	PF3D7_0222000
+876984	877832	CDS
+			product	exported protein family 1
+			protein_id	emb|CZT98233.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0222000
+			db_xref	GOA:O97462
+			db_xref	InterPro:IPR026894
+			db_xref	UniProtKB/TrEMBL:O97462
+879251	878468	gene
+			locus_tag	PF3D7_0222100
+879251	879183	CDS
+879088	878468
+			product	Pfmc-2TM Maurer's cleft two transmembrane protein
+			protein_id	emb|CZT98234.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0222100
+			db_xref	GOA:O96287
+			db_xref	UniProtKB/TrEMBL:O96287
+882267	881469	gene
+			locus_tag	PF3D7_0222200
+882267	882199	CDS
+882092	881469
+			product	exported protein family 3
+			protein_id	emb|CZT98235.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0222200
+			db_xref	GOA:O97474
+			db_xref	InterPro:IPR006410
+			db_xref	UniProtKB/TrEMBL:O97474
+883452	884312	gene
+			locus_tag	PF3D7_0222300
+			pseudo
+			pseudogene	unknown
+883452	884312	CDS
+			pseudo
+			note	exported protein family 4, pseudogene
+			pseudogene	unknown
+886625	887802	gene
+			locus_tag	PF3D7_0222400
+			pseudo
+			pseudogene	unknown
+886625	886696	CDS
+886795	887802
+			pseudo
+			note	rifin, pseudogene
+			pseudogene	unknown
+889660	890745	gene
+			locus_tag	PF3D7_0222500
+889660	889728	CDS
+889864	890745
+			product	rifin
+			protein_id	emb|CZT98238.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0222500
+			db_xref	GOA:O96288
+			db_xref	InterPro:IPR006373
+			db_xref	UniProtKB/TrEMBL:O96288
+892856	894206	gene
+			locus_tag	PF3D7_0222600
+892856	892909	CDS
+893154	894206
+			product	rifin
+			protein_id	emb|CZT98239.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0222600
+			db_xref	GOA:O96289
+			db_xref	InterPro:IPR006373
+			db_xref	InterPro:IPR011992
+			db_xref	UniProtKB/TrEMBL:O96289
+896226	897420	gene
+			locus_tag	PF3D7_0222700
+896226	896294	CDS
+896443	897420
+			product	rifin
+			protein_id	emb|CZT98240.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0222700
+			db_xref	GOA:O96290
+			db_xref	InterPro:IPR006373
+			db_xref	UniProtKB/TrEMBL:O96290
+899430	900445	gene
+			locus_tag	PF3D7_0222800
+899430	899498	CDS
+899600	900445
+			product	stevor
+			protein_id	emb|CZT98241.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0222800
+			db_xref	GOA:O96291
+			db_xref	InterPro:IPR006374
+			db_xref	UniProtKB/TrEMBL:O96291
+901494	902853	gene
+			locus_tag	PF3D7_0222900
+			pseudo
+			pseudogene	unknown
+901494	901874	CDS
+901877	902203
+902206	902853
+			pseudo
+			note	erythrocyte membrane protein 1 (PfEMP1), exon 2, pseudogene
+			pseudogene	unknown
+904551	905775	gene
+			locus_tag	PF3D7_0223100
+904551	904604	CDS
+904837	905775
+			product	rifin
+			protein_id	emb|CZT98243.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0223100
+			db_xref	GOA:O96292
+			db_xref	InterPro:IPR006373
+			db_xref	UniProtKB/TrEMBL:O96292
+907678	908861	gene
+			locus_tag	PF3D7_0223200
+907678	907746	CDS
+907893	908861
+			product	rifin
+			protein_id	emb|CZT98244.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0223200
+			db_xref	GOA:O96293
+			db_xref	InterPro:IPR006373
+			db_xref	UniProtKB/TrEMBL:O96293
+909350	911054	gene
+			locus_tag	PF3D7_0223300
+909350	909421	CDS
+909831	911054
+			product	erythrocyte membrane protein 1 (PfEMP1), exon 2
+			protein_id	emb|CZT98245.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0223300
+			db_xref	InterPro:IPR029211
+			db_xref	UniProtKB/TrEMBL:O96294
+913244	914457	gene
+			locus_tag	PF3D7_0223400
+913244	913297	CDS
+913528	914457
+			product	rifin
+			protein_id	emb|CZT98246.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0223400
+			db_xref	GOA:O96295
+			db_xref	InterPro:IPR006373
+			db_xref	UniProtKB/TrEMBL:O96295
+923648	916352	gene
+			locus_tag	PF3D7_0223500
+923648	918345	CDS
+917581	916352
+			product	erythrocyte membrane protein 1, PfEMP1
+			protein_id	emb|CZT98247.1|
+			db_xref	EnsemblGenomes-Gn:PF3D7_0223500
+			db_xref	GOA:O96296
+			db_xref	InterPro:IPR004258
+			db_xref	InterPro:IPR008602
+			db_xref	InterPro:IPR029210
+			db_xref	InterPro:IPR029211
+			db_xref	InterPro:IPR041480
+			db_xref	InterPro:IPR042202
+			db_xref	UniProtKB/TrEMBL:O96296
+
