@@ -1,0 +1,6638 @@
+>Feature gb|CM000446.1|
+119	139	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+140	329	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttta
+			satellite	microsatellite
+343	511	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttta
+			satellite	microsatellite
+514	660	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tttaa
+			satellite	microsatellite
+552	692	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttaa
+			satellite	microsatellite
+1368	1413	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+3022	3059	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	taaa
+			satellite	microsatellite
+4509	4534	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<8365	>6478	gene
+			locus_tag	PVX_088780
+<8365	8327	mRNA
+8222	6951
+6507	>6478
+			product	variable surface protein Vir24-related
+			note	transcript PVX_088780A
+8365	8327	CDS
+8222	6951
+6507	6478
+			product	variable surface protein Vir24-related
+			protein_id	gb|EDL45122.1||gnl|WGS:AAKM|cds.PVX_088780A
+			note	encoded by transcript PVX_088780A
+6821	6845	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+7649	7687	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+7653	7675	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+8497	8516	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+8670	8692	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+9095	9118	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+9712	9732	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+10525	10552	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+10770	10796	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+11029	11080	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	gaaaa
+			satellite	microsatellite
+<12559	>11514	gene
+			locus_tag	PVX_088785
+<12559	11780	mRNA
+11678	>11514
+			product	variable surface protein Vir12, putative
+			note	transcript PVX_088785A
+12559	11780	CDS
+11678	11514
+			product	variable surface protein Vir12, putative
+			protein_id	gb|EDL45123.1||gnl|WGS:AAKM|cds.PVX_088785A
+			note	encoded by transcript PVX_088785A
+11814	11853	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+12006	12033	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<14435	>12807	gene
+			locus_tag	PVX_088790
+<14435	14378	mRNA
+14286	13664
+13529	>12807
+			product	variable surface protein Vir21-like
+			note	transcript PVX_088790A
+14435	14378	CDS
+14286	13664
+13529	12807
+			product	variable surface protein Vir21-like
+			protein_id	gb|EDL45124.1||gnl|WGS:AAKM|cds.PVX_088790A
+			note	encoded by transcript PVX_088790A
+13173	13195	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+14085	14109	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+14512	14548	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+15127	15152	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+15134	15254	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	actcg
+			satellite	microsatellite
+15341	15380	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+15884	15931	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttc
+			satellite	microsatellite
+15906	15959	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgaa
+			satellite	microsatellite
+17093	17144	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<18537	>17187	gene
+			locus_tag	PVX_088795
+<18537	18444	mRNA
+18395	17680
+17456	>17187
+			product	hypothetical protein
+			note	transcript PVX_088795A
+18537	18444	CDS
+18395	17680
+17456	17187
+			product	hypothetical protein
+			protein_id	gb|EDL45125.1||gnl|WGS:AAKM|cds.PVX_088795A
+			note	encoded by transcript PVX_088795A
+17811	17875	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cagg
+			satellite	microsatellite
+18031	18059	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+18577	18623	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+18705	18748	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tagtg
+			satellite	microsatellite
+19253	19328	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cttcg
+			satellite	microsatellite
+20385	20404	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+20419	20457	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+20457	20490	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+20483	20589	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttta
+			satellite	microsatellite
+21160	21205	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catata
+			satellite	microsatellite
+21736	21764	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+21969	22002	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+22069	22120	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+22188	22213	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+22648	22670	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+22695	22759	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	atg
+			satellite	microsatellite
+23581	23607	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+24504	24542	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+25165	25199	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+26555	26602	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+27396	27430	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	taaaa
+			satellite	microsatellite
+27876	27901	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+29467	29495	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+30023	30098	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttcg
+			satellite	microsatellite
+30109	30204	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catata
+			satellite	microsatellite
+30481	30512	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+31070	31115	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgctg
+			satellite	microsatellite
+31586	31655	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+31652	31692	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+32283	32307	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+32704	32794	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cata
+			satellite	microsatellite
+32713	32781	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cagc
+			satellite	microsatellite
+33133	33218	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	caccat
+			satellite	microsatellite
+<34492	>35855	gene
+			locus_tag	PVX_088800
+<34492	34503	mRNA
+34658	35545
+35679	>35855
+			product	variable surface protein Vir4-related
+			note	transcript PVX_088800A
+34492	34503	CDS
+34658	35545
+35679	35855
+			product	variable surface protein Vir4-related
+			protein_id	gb|EDL45126.1||gnl|WGS:AAKM|cds.PVX_088800A
+			note	encoded by transcript PVX_088800A
+35265	35339	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tg
+			satellite	microsatellite
+35542	35588	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tacg
+			satellite	microsatellite
+35963	35986	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+36151	36253	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ctccg
+			satellite	microsatellite
+<37759	>36548	gene
+			locus_tag	PVX_088805
+<37759	36845	mRNA
+36709	>36548
+			product	variable surface protein Vir22/24-like
+			note	transcript PVX_088805A
+37759	36845	CDS
+36709	36548
+			product	variable surface protein Vir22/24-like
+			protein_id	gb|EDL45127.1||gnl|WGS:AAKM|cds.PVX_088805A
+			note	encoded by transcript PVX_088805A
+36734	36766	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+37096	37119	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+37252	37282	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+37593	37612	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+37928	37955	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+37989	38015	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+40062	40098	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+40149	40246	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cag
+			satellite	microsatellite
+40190	40225	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+40346	40442	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cat
+			satellite	microsatellite
+<42749	>43537	gene
+			locus_tag	PVX_088810
+<42749	>43537	mRNA
+			product	tryptophan-rich antigen (Pv-fam-a)
+			note	transcript PVX_088810A
+42749	43537	CDS
+			product	tryptophan-rich antigen (Pv-fam-a)
+			protein_id	gb|EDL45128.1||gnl|WGS:AAKM|cds.PVX_088810A
+			note	encoded by transcript PVX_088810A
+43339	43365	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+44607	44637	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+44618	44648	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+44691	44727	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tcc
+			satellite	microsatellite
+<45860	>44733	gene
+			locus_tag	PVX_088815
+<45860	>44733	mRNA
+			product	PST-A protein
+			note	transcript PVX_088815A
+45860	44733	CDS
+			product	PST-A protein
+			protein_id	gb|EDL45129.1||gnl|WGS:AAKM|cds.PVX_088815A
+			note	encoded by transcript PVX_088815A
+45120	45140	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+45975	46005	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+46098	46133	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+46411	46434	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+46413	46432	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+47147	47166	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+49391	49424	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tttta
+			satellite	microsatellite
+49686	49752	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttaggg
+			satellite	microsatellite
+49904	>51215	gene
+			locus_tag	PVX_088820
+49904	50294	mRNA
+50436	>51215
+			product	tryptophan-rich antigen (Pv-fam-a)
+			note	transcript PVX_088820A
+50124	50294	CDS
+50436	51215
+			product	tryptophan-rich antigen (Pv-fam-a)
+			protein_id	gb|EDL45130.1||gnl|WGS:AAKM|cds.PVX_088820A
+			note	encoded by transcript PVX_088820A
+50264	50302	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+50349	50387	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+51209	51357	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttaaa
+			satellite	microsatellite
+52017	52049	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	taaaa
+			satellite	microsatellite
+52195	52230	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+52261	52307	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+53924	>55652	gene
+			locus_tag	PVX_088825
+53924	54308	mRNA
+54492	>55652
+			product	tryptophan-rich antigen (Pv-fam-a)
+			note	transcript PVX_088825A
+54135	54308	CDS
+54492	55652
+			product	tryptophan-rich antigen (Pv-fam-a)
+			protein_id	gb|EDL45131.1||gnl|WGS:AAKM|cds.PVX_088825A
+			note	encoded by transcript PVX_088825A
+54752	54826	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catata
+			satellite	microsatellite
+54903	54931	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+54936	54983	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+55289	55358	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	taaa
+			satellite	microsatellite
+55454	55507	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+56327	56352	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+57430	57455	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+57973	58038	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cata
+			satellite	microsatellite
+58190	60998	gene
+			locus_tag	PVX_088830
+58190	58792	mRNA
+59013	60998
+			product	Phist protein (Pf-fam-b)
+			note	transcript PVX_088830A
+58598	58792	CDS
+59013	60488
+			product	Phist protein (Pf-fam-b)
+			protein_id	gb|EDL45132.1||gnl|WGS:AAKM|cds.PVX_088830A
+			note	encoded by transcript PVX_088830A
+58923	58980	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+59227	59282	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ca
+			satellite	microsatellite
+59243	59271	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+59625	59647	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+59661	59681	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+59856	59911	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgtg
+			satellite	microsatellite
+60349	60371	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+60706	60732	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+60967	60991	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+61366	61405	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	gga
+			satellite	microsatellite
+62235	62284	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	gaaaa
+			satellite	microsatellite
+62302	62321	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<63520	>62595	gene
+			locus_tag	PVX_088835
+<63520	63320	mRNA
+62987	>62595
+			product	hypothetical protein, conserved
+			note	transcript PVX_088835A
+63520	63320	CDS
+62987	62595
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45133.1||gnl|WGS:AAKM|cds.PVX_088835A
+			note	encoded by transcript PVX_088835A
+62861	62882	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+63993	64018	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+65150	65400	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ccctaa
+			satellite	microsatellite
+65538	65587	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	gaaaa
+			satellite	microsatellite
+65726	65752	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+67940	67977	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttttta
+			satellite	microsatellite
+71291	>69351	gene
+			locus_tag	PVX_088840
+71291	70594	mRNA
+70337	>69351
+			product	Phist protein (Pf-fam-b)
+			note	transcript PVX_088840A
+70791	70594	CDS
+70337	69351
+			product	Phist protein (Pf-fam-b)
+			protein_id	gb|EDL45134.1||gnl|WGS:AAKM|cds.PVX_088840A
+			note	encoded by transcript PVX_088840A
+70072	70120	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+71318	71357	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+71422	71475	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+72567	72595	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cataa
+			satellite	microsatellite
+73724	73747	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+73941	73998	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tacg
+			satellite	microsatellite
+74415	74499	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+<74702	>75445	gene
+			locus_tag	PVX_088845
+<74702	>75445	mRNA
+			product	hypothetical protein
+			note	transcript PVX_088845A
+74702	75445	CDS
+			product	hypothetical protein
+			protein_id	gb|EDL45135.1||gnl|WGS:AAKM|cds.PVX_088845A
+			note	encoded by transcript PVX_088845A
+75616	75691	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ca
+			satellite	microsatellite
+76996	77061	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catata
+			satellite	microsatellite
+77295	77369	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cggtg
+			satellite	microsatellite
+78827	78849	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+78887	78911	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+78993	>80676	gene
+			locus_tag	PVX_088850
+78993	79260	mRNA
+79486	>80676
+			product	tryptophan-rich antigen (Pv-fam-a)
+			note	transcript PVX_088850A
+79078	79260	CDS
+79486	80676
+			product	tryptophan-rich antigen (Pv-fam-a)
+			protein_id	gb|EDL45136.1||gnl|WGS:AAKM|cds.PVX_088850A
+			note	encoded by transcript PVX_088850A
+83881	82329	gene
+			locus_tag	PVX_088855
+83881	83516	mRNA
+83159	82329
+			product	hypothetical protein, conserved
+			note	transcript PVX_088855A
+83720	83516	CDS
+83159	82846
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45137.1||gnl|WGS:AAKM|cds.PVX_088855A
+			note	encoded by transcript PVX_088855A
+83359	83402	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tgaa
+			satellite	microsatellite
+83926	84008	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ctccg
+			satellite	microsatellite
+84256	84283	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+84750	84783	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+85558	85594	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+85996	86026	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+86464	86484	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+90348	90367	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<91071	>92309	gene
+			locus_tag	PVX_088860
+<91071	>92309	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_088860A
+91071	92309	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45138.1||gnl|WGS:AAKM|cds.PVX_088860A
+			note	encoded by transcript PVX_088860A
+91319	91367	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttg
+			satellite	microsatellite
+92029	92050	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+92109	92136	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+92335	92357	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+92774	92832	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cttcg
+			satellite	microsatellite
+93196	93226	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+98186	94103	gene
+			locus_tag	PVX_088865
+98186	94103	rRNA
+			product	large subunit 28S ribosomal RNA
+			note	LSU 28S rRNA; S-type
+94134	94154	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+95483	95532	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+95534	95618	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	gga
+			satellite	microsatellite
+97225	97258	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+97601	97643	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ccg
+			satellite	microsatellite
+105897	98187	gene
+			locus_tag	PVX_088866
+105897	98187	misc_RNA
+			product	internal transcribed spacer 2
+100820	100868	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+100918	100978	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+101129	101172	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+101249	101271	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+101500	101526	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+101645	101692	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+102025	102071	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cggt
+			satellite	microsatellite
+102624	102654	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+102732	102751	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+102757	102784	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tttta
+			satellite	microsatellite
+103334	103361	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	caga
+			satellite	microsatellite
+103858	103885	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	gaaaa
+			satellite	microsatellite
+104261	104285	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+106061	105898	gene
+			locus_tag	PVX_088867
+106061	105898	rRNA
+			product	5.8S ribosomal RNA
+			note	LSU 5.8S rRNA; S-type
+106548	106062	gene
+			locus_tag	PVX_088868
+106548	106062	misc_RNA
+			product	internal transcribed spacer 1
+106106	106129	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+108696	106549	gene
+			locus_tag	PVX_088869
+108696	106549	rRNA
+			product	small subunit 18S ribosomal RNA
+			note	SSU 18S rRNA; S-type
+107151	107174	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+108562	108606	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttaggg
+			satellite	microsatellite
+108613	108643	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+109855	109971	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttaggg
+			satellite	microsatellite
+110539	110571	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+110549	110575	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+110800	110822	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+111765	111811	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttaaa
+			satellite	microsatellite
+112875	112895	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+116490	116514	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+116607	116632	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+117544	117585	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tttta
+			satellite	microsatellite
+117647	117671	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+118074	118095	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<118615	>118097	gene
+			locus_tag	PVX_088870
+<118615	>118097	mRNA
+			product	early transcribed membrane protein (ETRAMP)
+			note	transcript PVX_088870A
+118615	118097	CDS
+			product	early transcribed membrane protein (ETRAMP)
+			protein_id	gb|EDL45140.1||gnl|WGS:AAKM|cds.PVX_088870A
+			note	encoded by transcript PVX_088870A
+118272	118303	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+118420	118440	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+119048	119213	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cagaga
+			satellite	microsatellite
+119672	119700	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+120230	120253	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	gaaaa
+			satellite	microsatellite
+120379	120404	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+120912	120932	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+121020	121048	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+121031	121072	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+121107	121127	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+121234	121254	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<122179	>130125	gene
+			locus_tag	PVX_088875
+<122179	129718	mRNA
+129809	>130125
+			product	hypothetical protein
+			note	transcript PVX_088875A
+122179	129718	CDS
+129809	130125
+			product	hypothetical protein
+			protein_id	gb|EDL45141.1||gnl|WGS:AAKM|cds.PVX_088875A
+			note	encoded by transcript PVX_088875A
+122890	122911	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+122912	123014	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttaaa
+			satellite	microsatellite
+123776	123801	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+124257	124282	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+125278	125306	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+125370	125389	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+126754	126827	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+126904	127015	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tcca
+			satellite	microsatellite
+127375	127405	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+127474	127514	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+128066	128126	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tcca
+			satellite	microsatellite
+129311	129351	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tg
+			satellite	microsatellite
+130323	130342	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<131369	>132793	gene
+			locus_tag	PVX_088880
+<131369	>132793	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_088880A
+131369	132793	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45142.1||gnl|WGS:AAKM|cds.PVX_088880A
+			note	encoded by transcript PVX_088880A
+132265	132288	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+132437	132483	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+132813	132839	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+135198	133785	gene
+			locus_tag	PVX_088885
+135198	134757	mRNA
+134642	134480
+134321	134243
+133985	133785
+			product	U6 snRNA-associated Sm-like protein LSm8, putative
+			note	transcript PVX_088885A
+134790	134757	CDS
+134642	134480
+134321	134243
+133985	133974
+			product	U6 snRNA-associated Sm-like protein LSm8, putative
+			protein_id	gb|EDL45143.1||gnl|WGS:AAKM|cds.PVX_088885A
+			note	encoded by transcript PVX_088885A
+134308	134334	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+135992	136012	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+136056	136075	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+137572	>136376	gene
+			locus_tag	PVX_088890
+137572	>136376	mRNA
+			product	prohibitin, putative
+			note	transcript PVX_088890A
+137194	136376	CDS
+			product	prohibitin, putative
+			protein_id	gb|EDL45144.1||gnl|WGS:AAKM|cds.PVX_088890A
+			note	encoded by transcript PVX_088890A
+137116	137152	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+137167	137199	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	gaa
+			satellite	microsatellite
+<140110	>138407	gene
+			locus_tag	PVX_088895
+<140110	139955	mRNA
+139813	139712
+139478	139386
+139230	139140
+138989	138919
+138747	138652
+138448	>138407
+			product	hypothetical protein, conserved
+			note	transcript PVX_088895A
+140110	139955	CDS
+139813	139712
+139478	139386
+139230	139140
+138989	138919
+138747	138652
+138448	138407
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45145.1||gnl|WGS:AAKM|cds.PVX_088895A
+			note	encoded by transcript PVX_088895A
+139246	139331	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+140507	140540	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<146405	141106	gene
+			locus_tag	PVX_088905
+<146405	144619	mRNA
+144459	141106
+			product	hypothetical protein, conserved
+			note	transcript PVX_088905A
+141178	141202	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+146405	144619	CDS
+144459	141333
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45146.1||gnl|WGS:AAKM|cds.PVX_088905A
+			note	encoded by transcript PVX_088905A
+142883	142924	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+143444	143492	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+144041	144065	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+144696	144717	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+145142	145250	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ccaa
+			satellite	microsatellite
+145481	145532	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+145908	145928	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+148394	148413	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+148575	148598	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<149102	>150060	gene
+			locus_tag	PVX_088907
+<149102	149171	mRNA
+149271	149291
+149431	149580
+149726	>150060
+			product	hypothetical protein
+			note	transcript PVX_088907A
+149102	149171	CDS
+149271	149291
+149431	149580
+149726	150060
+			product	hypothetical protein
+			protein_id	gb|EDL45147.1||gnl|WGS:AAKM|cds.PVX_088907A
+			note	encoded by transcript PVX_088907A
+149731	149757	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+149833	149854	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+149994	150020	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+152005	152046	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+152618	152651	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<153212	>155527	gene
+			locus_tag	PVX_088910
+<153212	>155527	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_088910A
+153212	155527	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45148.1||gnl|WGS:AAKM|cds.PVX_088910A
+			note	encoded by transcript PVX_088910A
+153492	153515	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+154028	154056	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	atgtg
+			satellite	microsatellite
+154392	154412	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+155802	155824	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<159370	>156236	gene
+			locus_tag	PVX_088915
+<159370	>156236	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_088915A
+159370	156236	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45149.1||gnl|WGS:AAKM|cds.PVX_088915A
+			note	encoded by transcript PVX_088915A
+156365	156405	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+157110	157252	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cacac
+			satellite	microsatellite
+157327	157374	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catata
+			satellite	microsatellite
+157475	157521	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttttc
+			satellite	microsatellite
+157480	157503	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+158483	158520	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cta
+			satellite	microsatellite
+159274	159324	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	atg
+			satellite	microsatellite
+159324	159351	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+159749	159795	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cactt
+			satellite	microsatellite
+<161316	>163270	gene
+			locus_tag	PVX_088920
+<161316	161358	mRNA
+161490	161603
+161737	161814
+162012	>163270
+			product	hypothetical protein, conserved
+			note	transcript PVX_088920A
+161316	161358	CDS
+161490	161603
+161737	161814
+162012	163270
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45150.1||gnl|WGS:AAKM|cds.PVX_088920A
+			note	encoded by transcript PVX_088920A
+161803	161822	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+162391	162448	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+162759	162781	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttttta
+			satellite	microsatellite
+163520	163544	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+163619	163638	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+164835	164873	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+164874	164895	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<165196	>167136	gene
+			locus_tag	PVX_088930
+<165196	165250	mRNA
+165440	165515
+166014	166227
+166453	>167136
+			product	translation initiation factor eIF-2B alpha subunit, putative
+			note	transcript PVX_088930A
+165196	165250	CDS
+165440	165515
+166014	166227
+166453	167136
+			product	translation initiation factor eIF-2B alpha subunit, putative
+			protein_id	gb|EDL45151.1||gnl|WGS:AAKM|cds.PVX_088930A
+			note	encoded by transcript PVX_088930A
+165429	165480	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tttg
+			satellite	microsatellite
+167515	167537	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<168477	>169838	gene
+			locus_tag	PVX_088935
+<168477	>169838	mRNA
+			product	inner membrane protein oxa1-2, putative
+			note	transcript PVX_088935A
+168477	169838	CDS
+			product	inner membrane protein oxa1-2, putative
+			protein_id	gb|EDL45152.1||gnl|WGS:AAKM|cds.PVX_088935A
+			note	encoded by transcript PVX_088935A
+168903	168930	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+169132	169164	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+169274	169294	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+171159	171183	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<171722	>174037	gene
+			locus_tag	PVX_088940
+<171722	>174037	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_088940A
+171722	174037	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45153.1||gnl|WGS:AAKM|cds.PVX_088940A
+			note	encoded by transcript PVX_088940A
+173762	173790	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<178114	>174168	gene
+			locus_tag	PVX_088945
+<178114	178106	mRNA
+177944	>174168
+			product	leucyl-tRNA synthetase, putative
+			note	transcript PVX_088945A
+178114	178106	CDS
+177944	174168
+			product	leucyl-tRNA synthetase, putative
+			protein_id	gb|EDL45154.1||gnl|WGS:AAKM|cds.PVX_088945A
+			note	encoded by transcript PVX_088945A; Possible apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+174880	174909	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+175170	175192	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+176661	176837	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tgg
+			satellite	microsatellite
+178112	178132	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+178672	178694	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<178899	>181571	gene
+			locus_tag	PVX_088950
+<178899	>181571	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_088950A
+178899	181571	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45155.1||gnl|WGS:AAKM|cds.PVX_088950A
+			note	encoded by transcript PVX_088950A
+181004	181027	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<183064	>182098	gene
+			locus_tag	PVX_088955
+<183064	182937	mRNA
+182801	182673
+182542	>182098
+			product	rhomboid protease, putative
+			note	transcript PVX_088955A
+183064	182937	CDS
+182801	182673
+182542	182098
+			product	rhomboid protease, putative
+			protein_id	gb|EDL45156.1||gnl|WGS:AAKM|cds.PVX_088955A
+			note	encoded by transcript PVX_088955A
+182898	182917	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+183049	183073	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+183092	183116	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+183564	183619	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tacg
+			satellite	microsatellite
+184133	184164	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tcc
+			satellite	microsatellite
+184860	184890	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tttttg
+			satellite	microsatellite
+<185628	187829	gene
+			locus_tag	PVX_088960
+<185628	185800	mRNA
+185919	187829
+			product	protein disulfide isomerase, putative
+			note	transcript PVX_088960A
+185628	185800	CDS
+185919	187194
+			product	protein disulfide isomerase, putative
+			protein_id	gb|EDL45157.1||gnl|WGS:AAKM|cds.PVX_088960A
+			note	encoded by transcript PVX_088960A
+186412	186439	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttc
+			satellite	microsatellite
+187667	187692	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+188056	188135	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	caaag
+			satellite	microsatellite
+<194365	>188264	gene
+			locus_tag	PVX_088965
+<194365	>188264	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_088965A
+194365	188264	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45158.1||gnl|WGS:AAKM|cds.PVX_088965A
+			note	encoded by transcript PVX_088965A
+190938	190958	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+191335	191356	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+191620	191645	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+191755	191778	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+192308	192330	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+193377	193418	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tcc
+			satellite	microsatellite
+194422	194442	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+194679	194704	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+195174	195202	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+195214	195244	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+195407	195434	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+195520	195594	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+195997	196023	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+196255	196363	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tacg
+			satellite	microsatellite
+196480	196551	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tttg
+			satellite	microsatellite
+196786	196836	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgta
+			satellite	microsatellite
+197330	197350	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+197721	197771	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tagg
+			satellite	microsatellite
+198106	198201	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	taa
+			satellite	microsatellite
+198131	>200640	gene
+			locus_tag	PVX_088970
+198131	>200640	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_088970A
+198298	200640	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45159.1||gnl|WGS:AAKM|cds.PVX_088970A
+			note	encoded by transcript PVX_088970A
+198320	198339	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+198597	198698	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catata
+			satellite	microsatellite
+198735	198782	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+199116	199191	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+199560	199585	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+200507	200556	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+200650	200714	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catata
+			satellite	microsatellite
+201068	201121	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tataa
+			satellite	microsatellite
+201314	>206734	gene
+			locus_tag	PVX_088975
+201314	205699	mRNA
+205934	>206734
+			product	hypothetical protein, conserved
+			note	transcript PVX_088975A
+201521	205699	CDS
+205934	206734
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45160.1||gnl|WGS:AAKM|cds.PVX_088975A
+			note	encoded by transcript PVX_088975A
+201534	201555	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+201753	201804	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgaa
+			satellite	microsatellite
+203245	203272	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+204052	204083	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catata
+			satellite	microsatellite
+204221	204248	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+205787	205807	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+206639	206668	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+206791	206928	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cat
+			satellite	microsatellite
+208442	206874	gene
+			locus_tag	PVX_088985
+208442	206874	mRNA
+			product	plastid 50S ribosomal protein L21, putative
+			note	transcript PVX_088985A
+206889	206917	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+207903	206932	CDS
+			product	plastid 50S ribosomal protein L21, putative
+			protein_id	gb|EDL45161.1||gnl|WGS:AAKM|cds.PVX_088985A
+			note	encoded by transcript PVX_088985A; Possible apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+207108	207151	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+210206	208750	gene
+			locus_tag	PVX_088990
+210206	208750	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_088990A
+209762	209127	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45162.1||gnl|WGS:AAKM|cds.PVX_088990A
+			note	encoded by transcript PVX_088990A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+<213824	>211026	gene
+			locus_tag	PVX_088995
+<213824	>211026	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_088995A
+213824	211026	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45163.1||gnl|WGS:AAKM|cds.PVX_088995A
+			note	encoded by transcript PVX_088995A
+211185	211258	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cag
+			satellite	microsatellite
+214954	214984	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<217424	>215292	gene
+			locus_tag	PVX_089000
+<217424	217118	mRNA
+216325	>215292
+			product	hypothetical protein
+			note	transcript PVX_089000A
+217424	217118	CDS
+216325	215292
+			product	hypothetical protein
+			protein_id	gb|EDL45164.1||gnl|WGS:AAKM|cds.PVX_089000A
+			note	encoded by transcript PVX_089000A
+216073	216097	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+217341	217365	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<218894	>217667	gene
+			locus_tag	PVX_089005
+<218894	217964	mRNA
+217833	>217667
+			product	hypothetical protein
+			note	transcript PVX_089005A
+218894	217964	CDS
+217833	217667
+			product	hypothetical protein
+			protein_id	gb|EDL45165.1||gnl|WGS:AAKM|cds.PVX_089005A
+			note	encoded by transcript PVX_089005A
+218382	218404	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+218811	218845	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tttcg
+			satellite	microsatellite
+219761	219829	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgtag
+			satellite	microsatellite
+223505	>219826	gene
+			locus_tag	PVX_089010
+223505	>219826	mRNA
+			product	translation initiation factor IF-2, putative
+			note	transcript PVX_089010A
+223320	219826	CDS
+			product	translation initiation factor IF-2, putative
+			protein_id	gb|EDL45166.1||gnl|WGS:AAKM|cds.PVX_089010A
+			note	encoded by transcript PVX_089010A
+221655	221694	repeat_region
+			rpt_family	polypyrimidine
+221861	221882	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+221935	221955	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+222377	222396	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+222639	222667	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+223120	223225	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttctg
+			satellite	microsatellite
+<224462	>228007	gene
+			locus_tag	PVX_089015
+<224462	>228007	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089015A
+224462	228007	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45167.1||gnl|WGS:AAKM|cds.PVX_089015A
+			note	encoded by transcript PVX_089015A
+224641	224667	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+225544	225567	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+225687	225706	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+227143	227166	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+227865	228018	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	caaa
+			satellite	microsatellite
+228290	228317	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+228430	228475	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+228597	228618	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<230607	>228670	gene
+			locus_tag	PVX_089020
+<230607	>228670	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089020A
+230607	228670	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45168.1||gnl|WGS:AAKM|cds.PVX_089020A
+			note	encoded by transcript PVX_089020A
+228717	228744	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+229820	229902	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catg
+			satellite	microsatellite
+232296	232318	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+233784	233805	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+233936	>236165	gene
+			locus_tag	PVX_089025
+233936	233964	mRNA
+233999	234168
+234718	234881
+235324	>236165
+			product	activated protein kinase C receptor, putative
+			note	transcript PVX_089025A
+234755	234881	CDS
+235324	236165
+			product	activated protein kinase C receptor, putative
+			protein_id	gb|EDL45169.1||gnl|WGS:AAKM|cds.PVX_089025A
+			note	encoded by transcript PVX_089025A
+235069	235109	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<237759	239145	gene
+			locus_tag	PVX_089030
+<237759	239145	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089030A
+237759	238793	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45170.1||gnl|WGS:AAKM|cds.PVX_089030A
+			note	encoded by transcript PVX_089030A
+237786	237838	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cata
+			satellite	microsatellite
+238034	238062	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+239113	239133	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<243449	>239622	gene
+			locus_tag	PVX_089035
+<243449	>239622	mRNA
+			product	ubiquitin conjugation factor E4, putative
+			note	transcript PVX_089035A
+243449	239622	CDS
+			product	ubiquitin conjugation factor E4, putative
+			protein_id	gb|EDL45171.1||gnl|WGS:AAKM|cds.PVX_089035A
+			note	encoded by transcript PVX_089035A
+240329	240359	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+242344	242478	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cat
+			satellite	microsatellite
+242638	242660	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+244571	244631	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catata
+			satellite	microsatellite
+245161	245192	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+245279	245450	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tttcg
+			satellite	microsatellite
+245725	245759	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<246061	>247736	gene
+			locus_tag	PVX_089040
+<246061	246144	mRNA
+246330	246472
+246575	246691
+246889	247164
+247344	247446
+247590	>247736
+			product	dehydrodolichyl diphosphate synthetase, putative
+			note	transcript PVX_089040A
+246061	246144	CDS
+246330	246472
+246575	246691
+246889	247164
+247344	247446
+247590	247736
+			product	dehydrodolichyl diphosphate synthetase, putative
+			protein_id	gb|EDL45172.1||gnl|WGS:AAKM|cds.PVX_089040A
+			note	encoded by transcript PVX_089040A
+247156	247195	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatg
+			satellite	microsatellite
+250753	248726	gene
+			locus_tag	PVX_089045
+250753	248726	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089045A
+250241	248745	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45173.1||gnl|WGS:AAKM|cds.PVX_089045A
+			note	encoded by transcript PVX_089045A
+248781	248805	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+249169	249189	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+249570	249592	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+249739	249768	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+252521	252696	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	caaa
+			satellite	microsatellite
+<252877	>255006	gene
+			locus_tag	PVX_089050
+<252877	>255006	mRNA
+			product	aminopeptidase, putative
+			note	transcript PVX_089050A
+252877	255006	CDS
+			product	aminopeptidase, putative
+			protein_id	gb|EDL45174.1||gnl|WGS:AAKM|cds.PVX_089050A
+			note	encoded by transcript PVX_089050A
+254558	254583	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+256013	256033	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+256556	256577	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+257296	257320	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+257355	257376	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+258034	258057	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+258182	258202	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+259433	259468	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+259893	286025	gene
+			locus_tag	PVX_089055
+259893	286025	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089055A
+260009	285703	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45175.1||gnl|WGS:AAKM|cds.PVX_089055A
+			note	encoded by transcript PVX_089055A
+261505	261632	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttaggg
+			satellite	microsatellite
+262693	262735	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catata
+			satellite	microsatellite
+263733	263823	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cag
+			satellite	microsatellite
+265781	265808	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+266007	266039	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+267173	267202	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+267775	267803	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttta
+			satellite	microsatellite
+268665	268695	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+268833	268855	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+269068	269089	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+269891	270000	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tgg
+			satellite	microsatellite
+271791	271825	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttc
+			satellite	microsatellite
+273421	273464	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttc
+			satellite	microsatellite
+274908	274932	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tcc
+			satellite	microsatellite
+276958	276977	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tta
+			satellite	microsatellite
+280104	280131	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+281331	281362	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+281604	281643	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+282119	282141	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+286017	286049	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<289938	>287110	gene
+			locus_tag	PVX_089060
+<289938	>287110	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089060A
+289938	287110	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45176.1||gnl|WGS:AAKM|cds.PVX_089060A
+			note	encoded by transcript PVX_089060A
+287368	287428	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttta
+			satellite	microsatellite
+287509	287537	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+287887	287910	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+288167	288202	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+288377	288409	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttta
+			satellite	microsatellite
+293723	>291296	gene
+			locus_tag	PVX_089065
+293723	>291296	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089065A
+293236	291296	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45177.1||gnl|WGS:AAKM|cds.PVX_089065A
+			note	encoded by transcript PVX_089065A
+291309	291330	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+291550	291576	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+292725	292746	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+292918	292938	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+293846	293867	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+294321	294345	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+295877	295951	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+296395	296515	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	attg
+			satellite	microsatellite
+298692	>296917	gene
+			locus_tag	PVX_089070
+298692	>296917	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089070A
+298212	296917	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45178.1||gnl|WGS:AAKM|cds.PVX_089070A
+			note	encoded by transcript PVX_089070A
+298295	298443	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ctttg
+			satellite	microsatellite
+<299336	300485	gene
+			locus_tag	PVX_089075
+<299336	300485	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089075A
+299336	300232	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45179.1||gnl|WGS:AAKM|cds.PVX_089075A
+			note	encoded by transcript PVX_089075A
+299683	299725	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cag
+			satellite	microsatellite
+300525	300595	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+300691	301487	gene
+			locus_tag	PVX_089080
+300691	301487	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089080A
+300943	301260	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45180.1||gnl|WGS:AAKM|cds.PVX_089080A
+			note	encoded by transcript PVX_089080A
+301542	301586	repeat_region
+			rpt_family	polypyrimidine
+304231	301783	gene
+			locus_tag	PVX_089085
+304231	301783	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089085A
+303937	301889	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45181.1||gnl|WGS:AAKM|cds.PVX_089085A
+			note	encoded by transcript PVX_089085A
+302067	302145	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tg
+			satellite	microsatellite
+302541	302609	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+303072	303126	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgta
+			satellite	microsatellite
+303430	303602	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cag
+			satellite	microsatellite
+303486	303515	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	gaaaa
+			satellite	microsatellite
+305762	305801	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgg
+			satellite	microsatellite
+305845	305869	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+306132	306270	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatag
+			satellite	microsatellite
+306790	307505	gene
+			locus_tag	PVX_089090
+306790	307505	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089090A
+307011	307490	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45182.1||gnl|WGS:AAKM|cds.PVX_089090A
+			note	encoded by transcript PVX_089090A
+307158	307307	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catag
+			satellite	microsatellite
+307689	307785	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatg
+			satellite	microsatellite
+<308835	>308229	gene
+			locus_tag	PVX_089095
+<308835	308774	mRNA
+308634	308568
+308453	>308229
+			product	translation initiation factor IF-3, putative
+			note	transcript PVX_089095A
+308835	308774	CDS
+308634	308568
+308453	308229
+			product	translation initiation factor IF-3, putative
+			protein_id	gb|EDL45183.1||gnl|WGS:AAKM|cds.PVX_089095A
+			note	encoded by transcript PVX_089095A
+308492	308530	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+308761	308783	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+309419	309533	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catg
+			satellite	microsatellite
+<311318	>309875	gene
+			locus_tag	PVX_089105
+<311318	311246	mRNA
+311171	311113
+310900	310805
+310592	310485
+310357	310259
+309997	>309875
+			product	hypothetical protein, conserved
+			note	transcript PVX_089105A
+311318	311246	CDS
+311171	311113
+310900	310805
+310592	310485
+310357	310259
+309997	309875
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45184.1||gnl|WGS:AAKM|cds.PVX_089105A
+			note	encoded by transcript PVX_089105A
+309906	309925	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+311267	311406	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cag
+			satellite	microsatellite
+311875	311901	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+320136	311929	gene
+			locus_tag	PVX_089110
+320136	312521	mRNA
+312323	311929
+			product	hypothetical protein, conserved
+			note	transcript PVX_089110A
+318183	312521	CDS
+312323	312254
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45185.1||gnl|WGS:AAKM|cds.PVX_089110A
+			note	encoded by transcript PVX_089110A
+314270	314299	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+314394	314420	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+315076	315109	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+315280	315348	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tgg
+			satellite	microsatellite
+315768	315787	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+316387	316412	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+317346	317372	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+318598	318619	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+318620	318684	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatg
+			satellite	microsatellite
+319111	319139	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+319685	319709	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+320872	320892	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<321309	>324422	gene
+			locus_tag	PVX_089115
+<321309	>324422	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089115A
+321309	324422	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45186.1||gnl|WGS:AAKM|cds.PVX_089115A
+			note	encoded by transcript PVX_089115A
+322615	322682	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	atggtg
+			satellite	microsatellite
+322830	322876	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ccg
+			satellite	microsatellite
+322912	322940	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+323756	323779	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+324587	324614	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ccg
+			satellite	microsatellite
+329231	>324607	gene
+			locus_tag	PVX_089120
+329231	>324607	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089120A
+328623	324607	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45187.1||gnl|WGS:AAKM|cds.PVX_089120A
+			note	encoded by transcript PVX_089120A
+326852	326872	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+327618	327641	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+327710	327805	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cggaa
+			satellite	microsatellite
+328210	328233	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+328550	328590	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catata
+			satellite	microsatellite
+329126	329155	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	gaaaa
+			satellite	microsatellite
+329190	329216	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+329419	329445	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<334156	329784	gene
+			locus_tag	PVX_089125
+<334156	333920	mRNA
+333707	333549
+333374	333202
+333014	332866
+332751	332671
+332526	332468
+332357	332291
+332078	331942
+331824	331750
+331623	331589
+331489	331401
+331211	331104
+330857	330673
+330494	330291
+330093	329784
+			product	hypothetical protein, conserved
+			note	transcript PVX_089125A
+334156	333920	CDS
+333707	333549
+333374	333202
+333014	332866
+332751	332671
+332526	332468
+332357	332291
+332078	331942
+331824	331750
+331623	331589
+331489	331401
+331211	331104
+330857	330673
+330494	330291
+330093	330001
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45188.1||gnl|WGS:AAKM|cds.PVX_089125A
+			note	encoded by transcript PVX_089125A
+330352	330373	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+330501	330527	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+330927	330970	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+331651	331713	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatg
+			satellite	microsatellite
+331714	331735	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+331719	331744	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+331981	332003	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+332560	332590	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+332736	332795	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+333411	333433	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+334508	334529	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+337146	335113	gene
+			locus_tag	PVX_089130
+337146	336306	mRNA
+336153	335926
+335749	335704
+335580	335534
+335372	335113
+			product	hypothetical protein, conserved
+			note	transcript PVX_089130A
+336698	336306	CDS
+336153	335926
+335749	335704
+335580	335534
+335372	335358
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45189.1||gnl|WGS:AAKM|cds.PVX_089130A
+			note	encoded by transcript PVX_089130A
+336124	336147	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+336423	336444	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+336950	336981	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+337776	337799	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+337840	337877	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<339177	>337959	gene
+			locus_tag	PVX_089135
+<339177	338830	mRNA
+338732	>337959
+			product	hypothetical protein, conserved
+			note	transcript PVX_089135A
+339177	338830	CDS
+338732	337959
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45190.1||gnl|WGS:AAKM|cds.PVX_089135A
+			note	encoded by transcript PVX_089135A
+338349	338378	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttctg
+			satellite	microsatellite
+338770	338798	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<340163	342365	gene
+			locus_tag	PVX_089140
+<340163	342365	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089140A
+340163	341776	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45191.1||gnl|WGS:AAKM|cds.PVX_089140A
+			note	encoded by transcript PVX_089140A
+341886	341920	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<343230	>344783	gene
+			locus_tag	PVX_089145
+<343230	>344783	mRNA
+			product	GTP-binding protein, putative
+			note	transcript PVX_089145A
+343230	344783	CDS
+			product	GTP-binding protein, putative
+			protein_id	gb|EDL45192.1||gnl|WGS:AAKM|cds.PVX_089145A
+			note	encoded by transcript PVX_089145A
+344191	344216	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+344390	344416	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+344507	344548	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgttg
+			satellite	microsatellite
+344549	344578	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+349137	>344921	gene
+			locus_tag	PVX_089150
+349137	348633	mRNA
+348337	345248
+345151	>344921
+			product	hypothetical protein, conserved
+			note	transcript PVX_089150A
+348659	348633	CDS
+348337	345248
+345151	344921
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45193.1||gnl|WGS:AAKM|cds.PVX_089150A
+			note	encoded by transcript PVX_089150A
+345398	345427	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+345510	345529	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+345629	345652	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+347319	347394	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+347731	347771	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+349181	349220	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttc
+			satellite	microsatellite
+349960	350049	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tcg
+			satellite	microsatellite
+351616	>350133	gene
+			locus_tag	PVX_089155
+351616	>350133	mRNA
+			product	3'-5' exonuclease domain containing protein
+			note	transcript PVX_089155A
+351377	350133	CDS
+			product	3'-5' exonuclease domain containing protein
+			protein_id	gb|EDL45194.1||gnl|WGS:AAKM|cds.PVX_089155A
+			note	encoded by transcript PVX_089155A
+350743	350767	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+350824	350846	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+351690	351713	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+351800	351829	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+351909	351934	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+351928	351947	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+352195	352216	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<352305	>354722	gene
+			locus_tag	PVX_089160
+<352305	>354722	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089160A
+352305	354722	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45195.1||gnl|WGS:AAKM|cds.PVX_089160A
+			note	encoded by transcript PVX_089160A
+352693	352741	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+353415	353441	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+353488	353507	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+356030	356053	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+357066	>356094	gene
+			locus_tag	PVX_089165
+357066	>356094	mRNA
+			product	mitochondrial 2-oxoglutarate/malate carrier protein, putative
+			note	transcript PVX_089165A
+357050	356094	CDS
+			product	mitochondrial 2-oxoglutarate/malate carrier protein, putative
+			protein_id	gb|EDL45196.1||gnl|WGS:AAKM|cds.PVX_089165A
+			note	encoded by transcript PVX_089165A
+356218	356274	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	taaa
+			satellite	microsatellite
+356648	356746	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cactt
+			satellite	microsatellite
+357392	357424	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+361476	358638	gene
+			locus_tag	PVX_089170
+361476	358638	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089170A
+358872	358894	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+361022	358947	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45197.1||gnl|WGS:AAKM|cds.PVX_089170A
+			note	encoded by transcript PVX_089170A
+359188	359326	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	taaa
+			satellite	microsatellite
+359194	359236	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+360049	360072	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+361103	361125	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+361419	361445	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+361535	361572	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ctca
+			satellite	microsatellite
+361710	362662	gene
+			locus_tag	PVX_089175
+361710	361996	mRNA
+362218	362662
+			product	hypothetical protein, conserved
+			note	transcript PVX_089175A
+361922	361996	CDS
+362218	362370
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45198.1||gnl|WGS:AAKM|cds.PVX_089175A
+			note	encoded by transcript PVX_089175A
+362902	362927	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+363182	363210	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<363231	>364559	gene
+			locus_tag	PVX_089180
+<363231	>364559	mRNA
+			product	lipoate-protein ligase, putative
+			note	transcript PVX_089180A
+363231	364559	CDS
+			product	lipoate-protein ligase, putative
+			protein_id	gb|EDL45199.1||gnl|WGS:AAKM|cds.PVX_089180A
+			note	encoded by transcript PVX_089180A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+363809	363830	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+363834	363854	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+364220	364257	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+364697	364720	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+365338	368142	gene
+			locus_tag	PVX_089185
+365338	368142	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089185A
+366028	367914	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45200.1||gnl|WGS:AAKM|cds.PVX_089185A
+			note	encoded by transcript PVX_089185A
+366406	366426	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<370813	368379	gene
+			locus_tag	PVX_089195
+<370813	370352	mRNA
+370114	369528
+369375	369338
+369228	368878
+368759	368379
+			product	hypothetical protein, conserved
+			note	transcript PVX_089195A
+370813	370352	CDS
+370114	369528
+369375	369338
+369228	368878
+368759	368659
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45201.1||gnl|WGS:AAKM|cds.PVX_089195A
+			note	encoded by transcript PVX_089195A
+371586	371699	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgcgg
+			satellite	microsatellite
+372235	372279	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catata
+			satellite	microsatellite
+378252	372309	gene
+			locus_tag	PVX_089200
+378252	374541	mRNA
+374350	373936
+373770	373256
+372954	372309
+			product	histone acetyltransferase Gcn5, putative
+			note	transcript PVX_089200A
+372775	372796	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+378014	374541	CDS
+374350	373936
+373770	373256
+372954	372793
+			product	histone acetyltransferase Gcn5, putative
+			protein_id	gb|EDL45202.1||gnl|WGS:AAKM|cds.PVX_089200A
+			note	encoded by transcript PVX_089200A
+372935	372957	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+376642	376749	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ctttg
+			satellite	microsatellite
+379392	379466	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttta
+			satellite	microsatellite
+379651	379686	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+380043	380064	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+380482	380573	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+381567	381586	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+381651	381701	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+382054	382086	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<382086	>383300	gene
+			locus_tag	PVX_089205
+<382086	382145	mRNA
+382323	382781
+382941	>383300
+			product	clustered-asparagine-rich protein, putative
+			note	transcript PVX_089205A
+382086	382145	CDS
+382323	382781
+382941	383300
+			product	clustered-asparagine-rich protein, putative
+			protein_id	gb|EDL45203.1||gnl|WGS:AAKM|cds.PVX_089205A
+			note	encoded by transcript PVX_089205A
+382155	382179	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+383007	383093	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cttcg
+			satellite	microsatellite
+383268	383290	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+383726	383751	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tataa
+			satellite	microsatellite
+384030	384052	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+384791	387117	gene
+			locus_tag	PVX_089210
+384791	385298	mRNA
+385660	385769
+385978	386139
+386306	386462
+386754	387117
+			product	hypothetical protein, conserved
+			note	transcript PVX_089210A
+385032	385054	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+385100	385298	CDS
+385660	385769
+385978	386139
+386306	386462
+386754	386809
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45204.1||gnl|WGS:AAKM|cds.PVX_089210A
+			note	encoded by transcript PVX_089210A
+385242	385262	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+386838	386870	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+387061	387087	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+387958	388005	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+388029	>392078	gene
+			locus_tag	PVX_089215
+388029	388334	mRNA
+388471	388595
+388736	389017
+389138	>392078
+			product	hypothetical protein, conserved
+			note	transcript PVX_089215A
+388167	388334	CDS
+388471	388595
+388736	389017
+389138	392078
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45205.1||gnl|WGS:AAKM|cds.PVX_089215A
+			note	encoded by transcript PVX_089215A
+388841	388869	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+389527	389555	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+392029	392077	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	caa
+			satellite	microsatellite
+392742	392779	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+393197	393217	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+394052	394093	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<394154	>397315	gene
+			locus_tag	PVX_089220
+<394154	>397315	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089220A
+394154	397315	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45206.1||gnl|WGS:AAKM|cds.PVX_089220A
+			note	encoded by transcript PVX_089220A
+395252	395392	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttta
+			satellite	microsatellite
+395665	395689	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+396592	396611	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+396905	396935	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+397281	397370	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cata
+			satellite	microsatellite
+<398954	397544	gene
+			locus_tag	PVX_089225
+<398954	397544	mRNA
+			product	U5 snRNP-specific 40 kDa protein, putative
+			note	transcript PVX_089225A
+398954	397980	CDS
+			product	U5 snRNP-specific 40 kDa protein, putative
+			protein_id	gb|EDL45207.1||gnl|WGS:AAKM|cds.PVX_089225A
+			note	encoded by transcript PVX_089225A
+<400922	>402799	gene
+			locus_tag	PVX_089230
+<400922	>402799	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089230A
+400922	402799	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45208.1||gnl|WGS:AAKM|cds.PVX_089230A
+			note	encoded by transcript PVX_089230A
+401906	401933	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+402649	402673	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<405866	>403416	gene
+			locus_tag	PVX_089235
+<405866	405567	mRNA
+405395	>403416
+			product	protein transport protein Sec23A, putative
+			note	transcript PVX_089235A
+405866	405567	CDS
+405395	403416
+			product	protein transport protein Sec23A, putative
+			protein_id	gb|EDL45209.1||gnl|WGS:AAKM|cds.PVX_089235A
+			note	encoded by transcript PVX_089235A
+405138	405158	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+405567	405653	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catata
+			satellite	microsatellite
+405716	405737	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+405989	406044	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+407009	407035	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+408355	408536	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgga
+			satellite	microsatellite
+408514	>410101	gene
+			locus_tag	PVX_089240
+408514	408811	mRNA
+409015	409167
+409284	409483
+409833	409898
+410012	>410101
+			product	hypothetical protein, conserved
+			note	transcript PVX_089240A
+408734	408795	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+408745	408811	CDS
+409015	409167
+409284	409483
+409833	409898
+410012	410101
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45210.1||gnl|WGS:AAKM|cds.PVX_089240A
+			note	encoded by transcript PVX_089240A
+408944	408984	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttc
+			satellite	microsatellite
+409183	409226	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+409572	409607	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+410181	410210	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+410688	410708	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tataa
+			satellite	microsatellite
+<412767	>410767	gene
+			locus_tag	PVX_089245
+<412767	412699	mRNA
+412432	411979
+411817	411692
+411549	411076
+410942	>410767
+			product	hypothetical protein, conserved
+			note	transcript PVX_089245A
+412767	412699	CDS
+412432	411979
+411817	411692
+411549	411076
+410942	410767
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45211.1||gnl|WGS:AAKM|cds.PVX_089245A
+			note	encoded by transcript PVX_089245A
+411609	411673	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatg
+			satellite	microsatellite
+412023	412058	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+413328	413367	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+414161	414205	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttta
+			satellite	microsatellite
+414209	414235	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+414363	415220	gene
+			locus_tag	PVX_089250
+414363	414750	mRNA
+414970	415220
+			product	small nuclear ribonucleoprotein G, putative
+			note	transcript PVX_089250A
+414681	414750	CDS
+414970	415151
+			product	small nuclear ribonucleoprotein G, putative
+			protein_id	gb|EDL45212.1||gnl|WGS:AAKM|cds.PVX_089250A
+			note	encoded by transcript PVX_089250A
+414707	414726	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+415266	415294	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<420099	415267	gene
+			locus_tag	PVX_089255
+<420099	416362	mRNA
+416201	415798
+415533	415267
+			product	hypothetical protein, conserved
+			note	transcript PVX_089255A
+420099	416362	CDS
+416201	415798
+415533	415338
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45213.1||gnl|WGS:AAKM|cds.PVX_089255A
+			note	encoded by transcript PVX_089255A
+415435	415497	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tta
+			satellite	microsatellite
+416958	416995	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+417584	417610	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	gaa
+			satellite	microsatellite
+417809	417857	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tttcg
+			satellite	microsatellite
+417999	418064	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	taaag
+			satellite	microsatellite
+418363	418382	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+419081	419103	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+419100	419134	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cagaa
+			satellite	microsatellite
+419906	419958	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+420342	420361	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+420555	420646	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cccg
+			satellite	microsatellite
+420837	420858	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+421079	>421836	gene
+			locus_tag	PVX_089260
+421079	>421836	mRNA
+			product	RNA polymerase II mediator complex protein MED7, putative
+			note	transcript PVX_089260A
+421138	421836	CDS
+			product	RNA polymerase II mediator complex protein MED7, putative
+			protein_id	gb|EDL45214.1||gnl|WGS:AAKM|cds.PVX_089260A
+			note	encoded by transcript PVX_089260A
+<423939	>422118	gene
+			locus_tag	PVX_089265
+<423939	422472	mRNA
+422257	>422118
+			product	hypothetical protein, conserved
+			note	transcript PVX_089265A
+423939	422472	CDS
+422257	422118
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45215.1||gnl|WGS:AAKM|cds.PVX_089265A
+			note	encoded by transcript PVX_089265A
+422438	422457	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+422678	422707	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	taaaa
+			satellite	microsatellite
+423298	423323	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tttta
+			satellite	microsatellite
+423876	423906	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+424035	424066	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+424194	425692	gene
+			locus_tag	PVX_089270
+424194	424730	mRNA
+424916	425001
+425171	425228
+425345	425692
+			product	hypothetical protein, conserved
+			note	transcript PVX_089270A
+424659	424730	CDS
+424916	425001
+425171	425228
+425345	425452
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45216.1||gnl|WGS:AAKM|cds.PVX_089270A
+			note	encoded by transcript PVX_089270A
+425857	426006	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tgg
+			satellite	microsatellite
+427459	426075	gene
+			locus_tag	PVX_089275
+427459	427078	mRNA
+426868	426787
+426640	426527
+426313	426075
+			product	protein transport protein sec61 beta 1 subunit, putative
+			note	transcript PVX_089275A
+426833	426787	CDS
+426640	426527
+426313	426235
+			product	protein transport protein sec61 beta 1 subunit, putative
+			protein_id	gb|EDL45217.1||gnl|WGS:AAKM|cds.PVX_089275A
+			note	encoded by transcript PVX_089275A
+428378	428397	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+429774	428595	gene
+			locus_tag	PVX_089280
+429774	429311	mRNA
+429132	429001
+428856	428595
+			product	60S ribosomal protein L22, putative
+			note	transcript PVX_089280A
+428667	428704	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttta
+			satellite	microsatellite
+429481	429311	CDS
+429132	429001
+428856	428749
+			product	60S ribosomal protein L22, putative
+			protein_id	gb|EDL45218.1||gnl|WGS:AAKM|cds.PVX_089280A
+			note	encoded by transcript PVX_089280A
+432923	>430993	gene
+			locus_tag	PVX_089285
+432923	>430993	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089285A
+432681	430993	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45219.1||gnl|WGS:AAKM|cds.PVX_089285A
+			note	encoded by transcript PVX_089285A
+431458	431480	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	taa
+			satellite	microsatellite
+432448	432527	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	taaa
+			satellite	microsatellite
+432998	433027	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+433172	>434241	gene
+			locus_tag	PVX_089290
+433172	>434241	mRNA
+			product	ribosome biogenesis protein NEP1, putative
+			note	transcript PVX_089290A
+433546	434241	CDS
+			product	ribosome biogenesis protein NEP1, putative
+			protein_id	gb|EDL45220.1||gnl|WGS:AAKM|cds.PVX_089290A
+			note	encoded by transcript PVX_089290A
+435776	435796	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+436613	436657	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tttta
+			satellite	microsatellite
+436848	436884	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+438075	438097	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+438615	438647	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttc
+			satellite	microsatellite
+439673	439692	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+439734	439770	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+439770	439795	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+440539	440573	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+441331	441377	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+442281	442314	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<442308	>445059	gene
+			locus_tag	PVX_089295
+<442308	443480	mRNA
+443607	443900
+444097	>445059
+			product	ATP-dependent RNA helicase prh1, putative
+			note	transcript PVX_089295A
+442308	443480	CDS
+443607	443900
+444097	445059
+			product	ATP-dependent RNA helicase prh1, putative
+			protein_id	gb|EDL45221.1||gnl|WGS:AAKM|cds.PVX_089295A
+			note	encoded by transcript PVX_089295A
+442332	442356	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+442848	442872	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+444414	444436	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<446025	>445369	gene
+			locus_tag	PVX_089300
+<446025	>445369	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089300A
+446025	445369	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45222.1||gnl|WGS:AAKM|cds.PVX_089300A
+			note	encoded by transcript PVX_089300A
+445626	445646	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+445967	445989	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+446210	446252	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+446300	446361	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+446581	446602	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<450264	>447665	gene
+			locus_tag	PVX_089305
+<450264	448404	mRNA
+448206	>447665
+			product	protein kinase, putative
+			note	transcript PVX_089305A
+450264	448404	CDS
+448206	447665
+			product	protein kinase, putative
+			protein_id	gb|EDL45223.1||gnl|WGS:AAKM|cds.PVX_089305A
+			note	encoded by transcript PVX_089305A
+448329	448390	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tttg
+			satellite	microsatellite
+448380	448402	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+448416	448439	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+450112	450140	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+450141	450168	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+450722	450849	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tg
+			satellite	microsatellite
+451043	451093	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+451646	451672	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<456061	>452949	gene
+			locus_tag	PVX_089310
+<456061	456022	mRNA
+455195	454005
+453806	453704
+453559	453489
+453308	453184
+453029	>452949
+			product	hypothetical protein, conserved
+			note	transcript PVX_089310A
+456061	456022	CDS
+455195	454005
+453806	453704
+453559	453489
+453308	453184
+453029	452949
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45224.1||gnl|WGS:AAKM|cds.PVX_089310A
+			note	encoded by transcript PVX_089310A
+454451	454480	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgaa
+			satellite	microsatellite
+457935	457968	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgaa
+			satellite	microsatellite
+459062	459113	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ctctg
+			satellite	microsatellite
+<459215	>463850	gene
+			locus_tag	PVX_089315
+<459215	459923	mRNA
+460060	>463850
+			product	hypothetical protein, conserved
+			note	transcript PVX_089315A
+459215	459923	CDS
+460060	463850
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45225.1||gnl|WGS:AAKM|cds.PVX_089315A
+			note	encoded by transcript PVX_089315A
+460714	460738	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttg
+			satellite	microsatellite
+460739	460764	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttg
+			satellite	microsatellite
+460831	460854	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttg
+			satellite	microsatellite
+460860	460910	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ctg
+			satellite	microsatellite
+464168	>467391	gene
+			locus_tag	PVX_089320
+464168	>467391	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089320A
+464569	464641	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ctg
+			satellite	microsatellite
+465001	467391	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45226.1||gnl|WGS:AAKM|cds.PVX_089320A
+			note	encoded by transcript PVX_089320A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+<471286	>467965	gene
+			locus_tag	PVX_089325
+<471286	471132	mRNA
+470989	>467965
+			product	2-oxoglutarate dehydrogenase E1 component, mitochondrial precursor, putative
+			note	transcript PVX_089325A
+471286	471132	CDS
+470989	467965
+			product	2-oxoglutarate dehydrogenase E1 component, mitochondrial precursor, putative
+			protein_id	gb|EDL45227.1||gnl|WGS:AAKM|cds.PVX_089325A
+			note	encoded by transcript PVX_089325A
+468970	469153	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tcg
+			satellite	microsatellite
+469458	469639	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tcg
+			satellite	microsatellite
+469644	469678	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttc
+			satellite	microsatellite
+469849	469884	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttc
+			satellite	microsatellite
+469989	470167	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tcg
+			satellite	microsatellite
+470749	470795	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ccg
+			satellite	microsatellite
+474904	>472915	gene
+			locus_tag	PVX_089330
+474904	474284	mRNA
+474063	473649
+473395	>472915
+			product	hypothetical protein, conserved
+			note	transcript PVX_089330A
+474755	474284	CDS
+474063	473649
+473395	472915
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45228.1||gnl|WGS:AAKM|cds.PVX_089330A
+			note	encoded by transcript PVX_089330A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+478749	>476151	gene
+			locus_tag	PVX_089335
+478749	>476151	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089335A
+478343	476151	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45229.1||gnl|WGS:AAKM|cds.PVX_089335A
+			note	encoded by transcript PVX_089335A
+<481439	>479804	gene
+			locus_tag	PVX_089340
+<481439	480214	mRNA
+479990	>479804
+			product	hypothetical protein, conserved
+			note	transcript PVX_089340A
+481439	480214	CDS
+479990	479804
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45230.1||gnl|WGS:AAKM|cds.PVX_089340A
+			note	encoded by transcript PVX_089340A
+482332	482398	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatg
+			satellite	microsatellite
+483200	483221	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ctg
+			satellite	microsatellite
+<484942	>483326	gene
+			locus_tag	PVX_089345
+<484942	>483326	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089345A
+484942	483326	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45231.1||gnl|WGS:AAKM|cds.PVX_089345A
+			note	encoded by transcript PVX_089345A
+484973	485002	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+485272	485305	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+485725	485746	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+487291	487319	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+488422	488451	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+488542	488570	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tataa
+			satellite	microsatellite
+<490016	>492067	gene
+			locus_tag	PVX_089355
+<490016	>492067	mRNA
+			product	phosphatidylglycerophosphate synthase, putative
+			note	transcript PVX_089355A
+490016	492067	CDS
+			product	phosphatidylglycerophosphate synthase, putative
+			protein_id	gb|EDL45232.1||gnl|WGS:AAKM|cds.PVX_089355A
+			note	encoded by transcript PVX_089355A
+491954	491985	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+492944	492973	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+493569	493589	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<493857	>495449	gene
+			locus_tag	PVX_089360
+<493857	494502	mRNA
+494619	494783
+494966	495047
+495323	>495449
+			product	hypothetical protein, conserved
+			note	transcript PVX_089360A
+493857	494502	CDS
+494619	494783
+494966	495047
+495323	495449
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45233.1||gnl|WGS:AAKM|cds.PVX_089360A
+			note	encoded by transcript PVX_089360A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+494044	494067	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+496284	>502557	gene
+			locus_tag	PVX_089365
+496284	496872	mRNA
+497047	497079
+497198	497273
+497428	>502557
+			product	helicase, putative
+			note	transcript PVX_089365A
+496724	496872	CDS
+497047	497079
+497198	497273
+497428	502557
+			product	helicase, putative
+			protein_id	gb|EDL45234.1||gnl|WGS:AAKM|cds.PVX_089365A
+			note	encoded by transcript PVX_089365A
+496942	497068	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	taaaa
+			satellite	microsatellite
+498065	498101	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+499299	499318	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+500391	500415	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+500629	500663	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgga
+			satellite	microsatellite
+503352	>504583	gene
+			locus_tag	PVX_089370
+503352	503768	mRNA
+503900	503985
+504168	504257
+504509	>504583
+			product	U6 snRNA-associated Sm-like protein LSm3, putative
+			note	transcript PVX_089370A
+503744	503768	CDS
+503900	503985
+504168	504257
+504509	504583
+			product	U6 snRNA-associated Sm-like protein LSm3, putative
+			protein_id	gb|EDL45235.1||gnl|WGS:AAKM|cds.PVX_089370A
+			note	encoded by transcript PVX_089370A
+505035	505068	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	gaa
+			satellite	microsatellite
+<505431	>512279	gene
+			locus_tag	PVX_089375
+<505431	505478	mRNA
+505610	505664
+505847	505939
+506075	506632
+506812	506891
+507073	507144
+507287	507332
+507431	507495
+507617	507707
+507863	507940
+508168	508305
+508480	508591
+508701	508866
+509076	510275
+510432	511437
+511556	511974
+512133	>512279
+			product	hypothetical protein, conserved
+			note	transcript PVX_089375A
+505431	505478	CDS
+505610	505664
+505847	505939
+506075	506632
+506812	506891
+507073	507144
+507287	507332
+507431	507495
+507617	507707
+507863	507940
+508168	508305
+508480	508591
+508701	508866
+509076	510275
+510432	511437
+511556	511974
+512133	512279
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45236.1||gnl|WGS:AAKM|cds.PVX_089375A
+			note	encoded by transcript PVX_089375A
+507416	507438	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+508598	508617	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+508633	508666	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+512650	512669	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+512913	512939	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<513246	>514910	gene
+			locus_tag	PVX_089380
+<513246	>514910	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089380A
+513246	514910	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45237.1||gnl|WGS:AAKM|cds.PVX_089380A
+			note	encoded by transcript PVX_089380A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+515729	515749	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+515808	515829	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+516473	516493	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<517222	>518454	gene
+			locus_tag	PVX_089385
+<517222	517661	mRNA
+517866	>518454
+			product	hypothetical protein, conserved
+			note	transcript PVX_089385A
+517222	517661	CDS
+517866	518454
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45238.1||gnl|WGS:AAKM|cds.PVX_089385A
+			note	encoded by transcript PVX_089385A
+517697	517731	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ctg
+			satellite	microsatellite
+<522784	>519563	gene
+			locus_tag	PVX_089390
+<522784	522659	mRNA
+522496	522437
+522267	522211
+522076	522023
+521900	521847
+521580	521522
+521345	521228
+521024	520803
+520662	520596
+520428	520309
+520086	519993
+519853	519799
+519667	>519563
+			product	hypothetical protein, conserved
+			note	transcript PVX_089390A
+522784	522659	CDS
+522496	522437
+522267	522211
+522076	522023
+521900	521847
+521580	521522
+521345	521228
+521024	520803
+520662	520596
+520428	520309
+520086	519993
+519853	519799
+519667	519563
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45239.1||gnl|WGS:AAKM|cds.PVX_089390A
+			note	encoded by transcript PVX_089390A
+<525866	>523860	gene
+			locus_tag	PVX_089395
+<525866	>523860	mRNA
+			product	MAC/Perforin domain containing protein
+			note	transcript PVX_089395A
+525866	523860	CDS
+			product	MAC/Perforin domain containing protein
+			protein_id	gb|EDL45240.1||gnl|WGS:AAKM|cds.PVX_089395A
+			note	encoded by transcript PVX_089395A
+526171	526194	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	gga
+			satellite	microsatellite
+<529331	>526587	gene
+			locus_tag	PVX_089400
+<529331	>526587	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089400A
+529331	526587	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45241.1||gnl|WGS:AAKM|cds.PVX_089400A
+			note	encoded by transcript PVX_089400A
+529141	529165	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<532166	529909	gene
+			locus_tag	PVX_089405
+<532166	529909	mRNA
+			product	MAC/Perforin domain containing protein
+			note	transcript PVX_089405A
+530033	530079	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+532166	530178	CDS
+			product	MAC/Perforin domain containing protein
+			protein_id	gb|EDL45242.1||gnl|WGS:AAKM|cds.PVX_089405A
+			note	encoded by transcript PVX_089405A
+530799	530838	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+530954	530976	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<534241	>533155	gene
+			locus_tag	PVX_089410
+<534241	533329	mRNA
+533183	>533155
+			product	hypothetical protein, conserved
+			note	transcript PVX_089410A
+534241	533329	CDS
+533183	533155
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45243.1||gnl|WGS:AAKM|cds.PVX_089410A
+			note	encoded by transcript PVX_089410A
+535019	>540178	gene
+			locus_tag	PVX_089415
+535019	535882	mRNA
+536128	536735
+537006	537093
+537222	539324
+539437	>540178
+			product	hypothetical protein, conserved
+			note	transcript PVX_089415A
+535497	535882	CDS
+536128	536735
+537006	537093
+537222	539324
+539437	540178
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45244.1||gnl|WGS:AAKM|cds.PVX_089415A
+			note	encoded by transcript PVX_089415A
+536350	536371	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+536765	536828	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cacaa
+			satellite	microsatellite
+538966	539001	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	caat
+			satellite	microsatellite
+543933	540608	gene
+			locus_tag	PVX_089425
+543933	540608	mRNA
+			product	heat shock 70 kDa protein, putative
+			note	transcript PVX_089425A
+543357	541285	CDS
+			product	heat shock 70 kDa protein, putative
+			protein_id	gb|EDL45245.1||gnl|WGS:AAKM|cds.PVX_089425A
+			note	encoded by transcript PVX_089425A
+542781	542805	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+542889	542908	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+545134	545156	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+547106	>548390	gene
+			locus_tag	PVX_089430
+547106	>548390	mRNA
+			product	U3 small nucleolar ribonucleoprotein protein, putative
+			note	transcript PVX_089430A
+547347	548390	CDS
+			product	U3 small nucleolar ribonucleoprotein protein, putative
+			protein_id	gb|EDL45246.1||gnl|WGS:AAKM|cds.PVX_089430A
+			note	encoded by transcript PVX_089430A
+548275	548299	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+549232	549265	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgaa
+			satellite	microsatellite
+549594	549694	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cattt
+			satellite	microsatellite
+549687	549723	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+550368	550394	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<558473	556398	gene
+			locus_tag	PVX_089435
+<558473	558384	mRNA
+558237	556398
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089435A
+558473	558384	CDS
+558237	556717
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45247.1||gnl|WGS:AAKM|cds.PVX_089435A
+			note	encoded by transcript PVX_089435A
+<558638	>558790	gene
+			locus_tag	PVX_089440
+<558638	>558790	mRNA
+			product	hypothetical protein
+			note	transcript PVX_089440A
+558638	558790	CDS
+			product	hypothetical protein
+			protein_id	gb|EDL45248.1||gnl|WGS:AAKM|cds.PVX_089440A
+			note	encoded by transcript PVX_089440A
+559302	559333	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+559782	559833	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	taaa
+			satellite	microsatellite
+559892	559911	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<561354	>560038	gene
+			locus_tag	PVX_089445
+<561354	561277	mRNA
+561114	>560038
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089445A
+561354	561277	CDS
+561114	560038
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45249.1||gnl|WGS:AAKM|cds.PVX_089445A
+			note	encoded by transcript PVX_089445A
+561345	561364	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<563956	>565162	gene
+			locus_tag	PVX_089450
+<563956	564015	mRNA
+564176	>565162
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089450A
+563956	564015	CDS
+564176	565162
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45250.1||gnl|WGS:AAKM|cds.PVX_089450A
+			note	encoded by transcript PVX_089450A
+<566928	>568287	gene
+			locus_tag	PVX_089455
+<566928	566978	mRNA
+567097	>568287
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089455A
+566928	566978	CDS
+567097	568287
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45251.1||gnl|WGS:AAKM|cds.PVX_089455A
+			note	encoded by transcript PVX_089455A
+<570016	>570837	gene
+			locus_tag	PVX_089460
+<570016	570069	mRNA
+570223	>570837
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089460A
+570016	570069	CDS
+570223	570837
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45252.1||gnl|WGS:AAKM|cds.PVX_089460A
+			note	encoded by transcript PVX_089460A
+<573829	>572341	gene
+			locus_tag	PVX_089465
+<573829	573761	mRNA
+573636	>572341
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089465A
+573829	573761	CDS
+573636	572341
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45253.1||gnl|WGS:AAKM|cds.PVX_089465A
+			note	encoded by transcript PVX_089465A
+573803	573827	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<575371	>574369	gene
+			locus_tag	PVX_089467
+<575371	575306	mRNA
+575169	>574369
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089467A
+575371	575306	CDS
+575169	574369
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45254.1||gnl|WGS:AAKM|cds.PVX_089467A
+			note	encoded by transcript PVX_089467A
+<578732	>577628	gene
+			locus_tag	PVX_089470
+<578732	578694	mRNA
+578524	>577628
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089470A
+578732	578694	CDS
+578524	577628
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45255.1||gnl|WGS:AAKM|cds.PVX_089470A
+			note	encoded by transcript PVX_089470A
+579753	579779	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<581860	>580805	gene
+			locus_tag	PVX_089473
+<581860	581757	mRNA
+581579	>580805
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089473A
+581860	581757	CDS
+581579	580805
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45256.1||gnl|WGS:AAKM|cds.PVX_089473A
+			note	encoded by transcript PVX_089473A
+580942	580973	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cgaa
+			satellite	microsatellite
+583870	583896	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+<586587	>584014	gene
+			locus_tag	PVX_089475
+<586587	586418	mRNA
+586288	>584014
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089475A
+586587	586418	CDS
+586288	584014
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45257.1||gnl|WGS:AAKM|cds.PVX_089475A
+			note	encoded by transcript PVX_089475A
+589044	589077	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+<591010	>595322	gene
+			locus_tag	PVX_089480
+<591010	594093	mRNA
+594283	594334
+594451	594518
+594715	594789
+595293	>595322
+			product	hypothetical protein, conserved
+			note	transcript PVX_089480A
+591010	594093	CDS
+594283	594334
+594451	594518
+594715	594789
+595293	595322
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45258.1||gnl|WGS:AAKM|cds.PVX_089480A
+			note	encoded by transcript PVX_089480A
+591898	591943	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttta
+			satellite	microsatellite
+592397	592420	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+592482	592651	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	caaa
+			satellite	microsatellite
+592745	592765	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+593543	593565	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+594720	594760	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	cactt
+			satellite	microsatellite
+596032	596107	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ctaa
+			satellite	microsatellite
+596332	600121	gene
+			locus_tag	PVX_089485
+596332	597020	mRNA
+597268	597312
+597457	597486
+597681	597735
+597855	597922
+598092	598170
+598399	598509
+598703	598754
+599023	599199
+599367	599408
+599523	600121
+			product	hypothetical protein, conserved
+			note	transcript PVX_089485A
+596954	597020	CDS
+597268	597312
+597457	597486
+597681	597735
+597855	597922
+598092	598170
+598399	598509
+598703	598754
+599023	599199
+599367	599408
+599523	599702
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45259.1||gnl|WGS:AAKM|cds.PVX_089485A
+			note	encoded by transcript PVX_089485A
+598127	598184	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tag
+			satellite	microsatellite
+600330	600361	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+603275	>602383	gene
+			locus_tag	PVX_089490
+603275	603149	mRNA
+603003	>602383
+			product	hypothetical protein, conserved
+			note	transcript PVX_089490A
+603175	603149	CDS
+603003	602383
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45260.1||gnl|WGS:AAKM|cds.PVX_089490A
+			note	encoded by transcript PVX_089490A
+603155	603191	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	taa
+			satellite	microsatellite
+604355	604386	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+604928	604948	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+605225	605244	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+608897	>609830	gene
+			locus_tag	PVX_089495
+608897	609150	mRNA
+609252	>609830
+			product	hypothetical protein, conserved
+			note	transcript PVX_089495A
+609148	609150	CDS
+609252	609830
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45261.1||gnl|WGS:AAKM|cds.PVX_089495A
+			note	encoded by transcript PVX_089495A
+609609	609632	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<613385	>611148	gene
+			locus_tag	PVX_089500
+<613385	612945	mRNA
+612848	612482
+612100	>611148
+			product	hypothetical protein, conserved
+			note	transcript PVX_089500A
+613385	612945	CDS
+612848	612482
+612100	611148
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45262.1||gnl|WGS:AAKM|cds.PVX_089500A
+			note	encoded by transcript PVX_089500A
+611181	611201	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+611985	612019	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ca
+			satellite	microsatellite
+613926	613999	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tttg
+			satellite	microsatellite
+617552	>615847	gene
+			locus_tag	PVX_089505
+617552	617057	mRNA
+616699	616614
+616458	>615847
+			product	suppressor of Ras1 3-9, putative
+			note	transcript PVX_089505A
+617141	617057	CDS
+616699	616614
+616458	615847
+			product	suppressor of Ras1 3-9, putative
+			protein_id	gb|EDL45263.1||gnl|WGS:AAKM|cds.PVX_089505A
+			note	encoded by transcript PVX_089505A
+<622932	>621424	gene
+			locus_tag	PVX_089510
+<622932	>621424	mRNA
+			product	D13 protein, putative
+			note	transcript PVX_089510A
+622932	621424	CDS
+			product	D13 protein, putative
+			protein_id	gb|EDL45264.1||gnl|WGS:AAKM|cds.PVX_089510A
+			note	encoded by transcript PVX_089510A
+<626376	>625084	gene
+			locus_tag	PVX_089515
+<626376	>625084	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089515A
+626376	625084	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45265.1||gnl|WGS:AAKM|cds.PVX_089515A
+			note	encoded by transcript PVX_089515A
+628094	628114	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+628325	630656	gene
+			locus_tag	PVX_089520
+628325	628723	mRNA
+629781	630656
+			product	high mobility group protein, putative
+			note	transcript PVX_089520A
+628517	628723	CDS
+629781	630089
+			product	high mobility group protein, putative
+			protein_id	gb|EDL45266.1||gnl|WGS:AAKM|cds.PVX_089520A
+			note	encoded by transcript PVX_089520A
+629659	629685	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+631906	631978	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttata
+			satellite	microsatellite
+<632568	>632260	gene
+			locus_tag	PVX_089525
+<632568	632425	mRNA
+632280	>632260
+			product	hypothetical protein, conserved
+			note	transcript PVX_089525A
+632568	632425	CDS
+632280	632260
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45267.1||gnl|WGS:AAKM|cds.PVX_089525A
+			note	encoded by transcript PVX_089525A
+634372	634460	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tataa
+			satellite	microsatellite
+<634671	>642746	gene
+			locus_tag	PVX_089530
+<634671	634731	mRNA
+635014	635103
+635243	635356
+635557	635589
+635789	635815
+635955	636143
+636299	636358
+636497	636571
+636671	636736
+636901	636981
+637084	637206
+637374	637454
+637628	637750
+637898	638091
+638203	638584
+638777	639151
+639364	639741
+639875	640093
+640251	640325
+640420	640458
+640582	640614
+640765	640794
+641006	641041
+641177	641233
+641369	641413
+641550	641615
+641789	641863
+641968	642039
+642224	642286
+642365	642466
+642634	>642746
+			product	hypothetical protein, conserved
+			note	transcript PVX_089530A
+634671	634731	CDS
+635014	635103
+635243	635356
+635557	635589
+635789	635815
+635955	636143
+636299	636358
+636497	636571
+636671	636736
+636901	636981
+637084	637206
+637374	637454
+637628	637750
+637898	638091
+638203	638584
+638777	639151
+639364	639741
+639875	640093
+640251	640325
+640420	640458
+640582	640614
+640765	640794
+641006	641041
+641177	641233
+641369	641413
+641550	641615
+641789	641863
+641968	642039
+642224	642286
+642365	642466
+642634	642746
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45268.1||gnl|WGS:AAKM|cds.PVX_089530A
+			note	encoded by transcript PVX_089530A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+635672	635719	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatg
+			satellite	microsatellite
+640437	640498	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+<644169	>647387	gene
+			locus_tag	PVX_089535
+<644169	644295	mRNA
+644398	>647387
+			product	hypothetical protein, conserved
+			note	transcript PVX_089535A
+644169	644295	CDS
+644398	647387
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45269.1||gnl|WGS:AAKM|cds.PVX_089535A
+			note	encoded by transcript PVX_089535A
+644307	644345	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	caaag
+			satellite	microsatellite
+649301	647841	gene
+			locus_tag	PVX_089540
+649301	649110	mRNA
+648979	648874
+648646	648552
+648418	648366
+648265	648131
+647996	647841
+			product	protein kinase C inhibitor, putative
+			note	transcript PVX_089540A
+649140	649110	CDS
+648979	648874
+648646	648552
+648418	648366
+648265	648131
+647996	647859
+			product	protein kinase C inhibitor, putative
+			protein_id	gb|EDL45270.1||gnl|WGS:AAKM|cds.PVX_089540A
+			note	encoded by transcript PVX_089540A
+655978	656008	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+<656810	>657586	gene
+			locus_tag	PVX_089545
+<656810	>657586	mRNA
+			product	hypothetical protein
+			note	transcript PVX_089545A
+656810	657586	CDS
+			product	hypothetical protein
+			protein_id	gb|EDL45271.1||gnl|WGS:AAKM|cds.PVX_089545A
+			note	encoded by transcript PVX_089545A
+657654	657821	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatatg
+			satellite	microsatellite
+660495	660542	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+660776	660796	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<661654	>663426	gene
+			locus_tag	PVX_089550
+<661654	>663426	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089550A
+661654	663426	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45272.1||gnl|WGS:AAKM|cds.PVX_089550A
+			note	encoded by transcript PVX_089550A
+662269	662290	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+662392	662495	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tatg
+			satellite	microsatellite
+<665781	>663496	gene
+			locus_tag	PVX_089555
+<665781	>663496	mRNA
+			product	tRNA modification GTPase trmE, putative
+			note	transcript PVX_089555A
+665781	663496	CDS
+			product	tRNA modification GTPase trmE, putative
+			protein_id	gb|EDL45273.1||gnl|WGS:AAKM|cds.PVX_089555A
+			note	encoded by transcript PVX_089555A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+666079	666171	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+<667341	>666121	gene
+			locus_tag	PVX_089560
+<667341	>666121	mRNA
+			product	ubiquitin-activating enzyme E1C, putative
+			note	transcript PVX_089560A
+667341	666121	CDS
+			product	ubiquitin-activating enzyme E1C, putative
+			protein_id	gb|EDL45274.1||gnl|WGS:AAKM|cds.PVX_089560A
+			note	encoded by transcript PVX_089560A
+667608	667672	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+669414	668086	gene
+			locus_tag	PVX_089565
+669414	668086	mRNA
+			product	adenylate kinase, putative
+			note	transcript PVX_089565A
+668177	668209	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catata
+			satellite	microsatellite
+669114	668335	CDS
+			product	adenylate kinase, putative
+			protein_id	gb|EDL45275.1||gnl|WGS:AAKM|cds.PVX_089565A
+			note	encoded by transcript PVX_089565A
+670643	670666	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<671128	673474	gene
+			locus_tag	PVX_089570
+<671128	671223	mRNA
+671362	671757
+671869	672030
+672318	672393
+672551	672703
+672876	673002
+673257	673474
+			product	meiotic recombination protein DMC1-like protein, putative
+			note	transcript PVX_089570A
+671128	671223	CDS
+671362	671757
+671869	672030
+672318	672393
+672551	672703
+672876	673002
+673257	673290
+			product	meiotic recombination protein DMC1-like protein, putative
+			protein_id	gb|EDL45276.1||gnl|WGS:AAKM|cds.PVX_089570A
+			note	encoded by transcript PVX_089570A
+672447	672468	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<674365	>673451	gene
+			locus_tag	PVX_089575
+<674365	674236	mRNA
+674012	673843
+673744	673651
+673473	>673451
+			product	hypothetical protein, conserved
+			note	transcript PVX_089575A
+674365	674236	CDS
+674012	673843
+673744	673651
+673473	673451
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45277.1||gnl|WGS:AAKM|cds.PVX_089575A
+			note	encoded by transcript PVX_089575A
+673518	673540	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+674320	674342	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttc
+			satellite	microsatellite
+674343	674373	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ttc
+			satellite	microsatellite
+<675838	679082	gene
+			locus_tag	PVX_089580
+<675838	679082	mRNA
+			product	chaperone clpB 1, putative
+			note	transcript PVX_089580A
+675838	678579	CDS
+			product	chaperone clpB 1, putative
+			protein_id	gb|EDL45278.1||gnl|WGS:AAKM|cds.PVX_089580A
+			note	encoded by transcript PVX_089580A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+676153	676227	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+676415	676434	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<680319	>679310	gene
+			locus_tag	PVX_089585
+<680319	680248	mRNA
+680153	679781
+679380	>679310
+			product	heat shock protein, putative
+			note	transcript PVX_089585A
+680319	680248	CDS
+680153	679781
+679380	679310
+			product	heat shock protein, putative
+			protein_id	gb|EDL45279.1||gnl|WGS:AAKM|cds.PVX_089585A
+			note	encoded by transcript PVX_089585A
+680557	680613	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+681685	681727	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+<683563	681977	gene
+			locus_tag	PVX_089590
+<683563	682918	mRNA
+682774	682611
+682422	681977
+			product	hypothetical protein, conserved
+			note	transcript PVX_089590A
+682375	682394	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+683563	682918	CDS
+682774	682611
+682422	682405
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45280.1||gnl|WGS:AAKM|cds.PVX_089590A
+			note	encoded by transcript PVX_089590A
+683617	683707	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	catata
+			satellite	microsatellite
+683797	683816	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+<684789	689335	gene
+			locus_tag	PVX_089592
+<684789	684857	mRNA
+685750	685860
+686007	686121
+686411	686539
+686639	686670
+686760	686823
+686941	686987
+687131	687187
+687324	687348
+687534	689335
+			product	hypothetical protein, conserved
+			note	transcript PVX_089592A
+684789	684857	CDS
+685750	685860
+686007	686121
+686411	686539
+686639	686670
+686760	686823
+686941	686987
+687131	687187
+687324	687348
+687534	689323
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45281.1||gnl|WGS:AAKM|cds.PVX_089592A
+			note	encoded by transcript PVX_089592A
+684921	685074	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	tctctg
+			satellite	microsatellite
+<690354	>690992	gene
+			locus_tag	PVX_089595
+<690354	>690992	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089595A
+690354	690992	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45282.1||gnl|WGS:AAKM|cds.PVX_089595A
+			note	encoded by transcript PVX_089595A
+<691995	>691195	gene
+			locus_tag	PVX_089600
+<691995	691672	mRNA
+691574	691406
+691298	>691195
+			product	hypothetical protein, conserved
+			note	transcript PVX_089600A
+691995	691672	CDS
+691574	691406
+691298	691195
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45283.1||gnl|WGS:AAKM|cds.PVX_089600A
+			note	encoded by transcript PVX_089600A
+691318	691340	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	t
+			satellite	microsatellite
+<693181	>694557	gene
+			locus_tag	PVX_089605
+<693181	>694557	mRNA
+			product	WD domain, G-beta repeat domain containing protein
+			note	transcript PVX_089605A
+693181	694557	CDS
+			product	WD domain, G-beta repeat domain containing protein
+			protein_id	gb|EDL45284.1||gnl|WGS:AAKM|cds.PVX_089605A
+			note	encoded by transcript PVX_089605A
+<697451	>695475	gene
+			locus_tag	PVX_089610
+<697451	>695475	mRNA
+			product	dihydrolipoamide dehydrogenase, putative
+			note	transcript PVX_089610A
+697451	695475	CDS
+			product	dihydrolipoamide dehydrogenase, putative
+			protein_id	gb|EDL45285.1||gnl|WGS:AAKM|cds.PVX_089610A
+			note	encoded by transcript PVX_089610A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+698816	698857	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+<699463	>703686	gene
+			locus_tag	PVX_089615
+<699463	>703686	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089615A
+699463	703686	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45286.1||gnl|WGS:AAKM|cds.PVX_089615A
+			note	encoded by transcript PVX_089615A
+<705224	706875	gene
+			locus_tag	PVX_089620
+<705224	706349	mRNA
+706535	706875
+			product	hypothetical protein, conserved
+			note	transcript PVX_089620A
+705224	706349	CDS
+706535	706587
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45287.1||gnl|WGS:AAKM|cds.PVX_089620A
+			note	encoded by transcript PVX_089620A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+707387	>709948	gene
+			locus_tag	PVX_089625
+707387	707738	mRNA
+707987	708049
+708209	708342
+708483	708575
+708763	708936
+709124	709189
+709326	709450
+709611	709722
+709919	>709948
+			product	eukaryotic translation initiation factor 3 subunit 4, putative
+			note	transcript PVX_089625A
+707726	707738	CDS
+707987	708049
+708209	708342
+708483	708575
+708763	708936
+709124	709189
+709326	709450
+709611	709722
+709919	709948
+			product	eukaryotic translation initiation factor 3 subunit 4, putative
+			protein_id	gb|EDL45288.1||gnl|WGS:AAKM|cds.PVX_089625A
+			note	encoded by transcript PVX_089625A
+<712243	>710075	gene
+			locus_tag	PVX_089630
+<712243	711685	mRNA
+711501	711179
+710935	710503
+710404	710266
+710153	>710075
+			product	hypothetical protein, conserved
+			note	transcript PVX_089630A
+712243	711685	CDS
+711501	711179
+710935	710503
+710404	710266
+710153	710075
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45289.1||gnl|WGS:AAKM|cds.PVX_089630A
+			note	encoded by transcript PVX_089630A
+714749	>715955	gene
+			locus_tag	PVX_089635
+714749	>715955	mRNA
+			product	phosphoglycerate mutase, putative
+			note	transcript PVX_089635A
+715023	715955	CDS
+			product	phosphoglycerate mutase, putative
+			protein_id	gb|EDL45290.1||gnl|WGS:AAKM|cds.PVX_089635A
+			note	encoded by transcript PVX_089635A
+718194	>716662	gene
+			locus_tag	PVX_089640
+718194	717936	mRNA
+717750	>716662
+			product	26S protease regulatory subunit 6B homolog, putative
+			note	transcript PVX_089640A
+718025	717936	CDS
+717750	716662
+			product	26S protease regulatory subunit 6B homolog, putative
+			protein_id	gb|EDL45291.1||gnl|WGS:AAKM|cds.PVX_089640A
+			note	encoded by transcript PVX_089640A
+719335	719358	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+722109	>719538	gene
+			locus_tag	PVX_089645
+722109	721745	mRNA
+721361	>719538
+			product	hypothetical protein, conserved
+			note	transcript PVX_089645A
+720644	719538	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45292.1||gnl|WGS:AAKM|cds.PVX_089645A
+			note	encoded by transcript PVX_089645A
+<723326	724014	gene
+			locus_tag	PVX_089650
+<723326	724014	mRNA
+			product	ribosomal protein l10, putative
+			note	transcript PVX_089650A
+723326	723847	CDS
+			product	ribosomal protein l10, putative
+			protein_id	gb|EDL45293.1||gnl|WGS:AAKM|cds.PVX_089650A
+			note	encoded by transcript PVX_089650A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+<727416	>724246	gene
+			locus_tag	PVX_089655
+<727416	727322	mRNA
+727141	724746
+724556	724469
+724336	>724246
+			product	ubiquitin carboxyl-terminal hydrolase a, putative
+			note	transcript PVX_089655A
+727416	727322	CDS
+727141	724746
+724556	724469
+724336	724246
+			product	ubiquitin carboxyl-terminal hydrolase a, putative
+			protein_id	gb|EDL45294.1||gnl|WGS:AAKM|cds.PVX_089655A
+			note	encoded by transcript PVX_089655A
+727409	727431	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	a
+			satellite	microsatellite
+735821	>728829	gene
+			locus_tag	PVX_089660
+735821	735334	mRNA
+735122	734125
+733971	733855
+733682	733560
+733438	733336
+733197	733076
+732933	732547
+732410	731892
+731740	731648
+731481	731434
+731294	731170
+731026	730906
+730753	730693
+730495	730422
+730274	730167
+730043	729953
+729687	729601
+729481	729352
+729195	729145
+728973	>728829
+			product	chromosome associated protein, putative
+			note	transcript PVX_089660A
+735421	735334	CDS
+735122	734125
+733971	733855
+733682	733560
+733438	733336
+733197	733076
+732933	732547
+732410	731892
+731740	731648
+731481	731434
+731294	731170
+731026	730906
+730753	730693
+730495	730422
+730274	730167
+730043	729953
+729687	729601
+729481	729352
+729195	729145
+728973	728829
+			product	chromosome associated protein, putative
+			protein_id	gb|EDL45295.1||gnl|WGS:AAKM|cds.PVX_089660A
+			note	encoded by transcript PVX_089660A
+<741356	>736468	gene
+			locus_tag	PVX_089665
+<741356	737346	mRNA
+737176	737111
+737010	736911
+736727	>736468
+			product	hypothetical protein, conserved
+			note	transcript PVX_089665A
+741356	737346	CDS
+737176	737111
+737010	736911
+736727	736468
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45296.1||gnl|WGS:AAKM|cds.PVX_089665A
+			note	encoded by transcript PVX_089665A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+739767	739827	repeat_region
+			rpt_type	tandem
+			rpt_unit_seq	ta
+			satellite	microsatellite
+753496	752270	gene
+			locus_tag	PVX_089670
+753496	753292	mRNA
+753095	753053
+752920	752736
+752511	752270
+			product	hypothetical protein, conserved
+			note	transcript PVX_089670A
+753360	753292	CDS
+753095	753053
+752920	752736
+752511	752476
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45297.1||gnl|WGS:AAKM|cds.PVX_089670A
+			note	encoded by transcript PVX_089670A
+<755029	>756851	gene
+			locus_tag	PVX_089675
+<755029	755128	mRNA
+755371	755439
+755803	>756851
+			product	hypothetical protein, conserved
+			note	transcript PVX_089675A
+755029	755128	CDS
+755371	755439
+755803	756851
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45298.1||gnl|WGS:AAKM|cds.PVX_089675A
+			note	encoded by transcript PVX_089675A
+759912	757201	gene
+			locus_tag	PVX_089680
+759912	759659	mRNA
+759357	759247
+759111	759014
+758854	758720
+758547	758420
+758167	758026
+757887	757814
+757638	757201
+			product	RNA binding protein, putative
+			note	transcript PVX_089680A
+759845	759659	CDS
+759357	759247
+759111	759014
+758854	758720
+758547	758420
+758167	758026
+757887	757814
+757638	757428
+			product	RNA binding protein, putative
+			protein_id	gb|EDL45299.1||gnl|WGS:AAKM|cds.PVX_089680A
+			note	encoded by transcript PVX_089680A
+<762107	>761131	gene
+			locus_tag	PVX_089685
+<762107	762021	mRNA
+761868	>761131
+			product	hypothetical protein, conserved
+			note	transcript PVX_089685A
+762107	762021	CDS
+761868	761131
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45300.1||gnl|WGS:AAKM|cds.PVX_089685A
+			note	encoded by transcript PVX_089685A
+<763526	>765436	gene
+			locus_tag	PVX_089690
+<763526	>765436	mRNA
+			product	GTP-binding protein, putative
+			note	transcript PVX_089690A
+763526	765436	CDS
+			product	GTP-binding protein, putative
+			protein_id	gb|EDL45301.1||gnl|WGS:AAKM|cds.PVX_089690A
+			note	encoded by transcript PVX_089690A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+<766614	765723	gene
+			locus_tag	PVX_089695
+<766614	765723	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089695A
+766614	766051	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45302.1||gnl|WGS:AAKM|cds.PVX_089695A
+			note	encoded by transcript PVX_089695A
+<769053	>771783	gene
+			locus_tag	PVX_089700
+<769053	769082	mRNA
+769298	769373
+769657	769787
+769901	770000
+770252	770325
+770454	770508
+770664	770789
+770949	771015
+771154	771229
+771486	771566
+771724	>771783
+			product	hypothetical protein, conserved
+			note	transcript PVX_089700A
+769053	769082	CDS
+769298	769373
+769657	769787
+769901	770000
+770252	770325
+770454	770508
+770664	770789
+770949	771015
+771154	771229
+771486	771566
+771724	771783
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45303.1||gnl|WGS:AAKM|cds.PVX_089700A
+			note	encoded by transcript PVX_089700A
+<773817	>772693	gene
+			locus_tag	PVX_089705
+<773817	>772693	mRNA
+			product	arsenical pump-driving ATPase, putative
+			note	transcript PVX_089705A
+773817	772693	CDS
+			product	arsenical pump-driving ATPase, putative
+			protein_id	gb|EDL45304.1||gnl|WGS:AAKM|cds.PVX_089705A
+			note	encoded by transcript PVX_089705A
+774553	776055	gene
+			locus_tag	PVX_089710
+774553	776055	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089710A
+774703	776010	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45305.1||gnl|WGS:AAKM|cds.PVX_089710A
+			note	encoded by transcript PVX_089710A
+<781795	>776240	gene
+			locus_tag	PVX_089715
+<781795	>776240	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089715A
+781795	776240	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45306.1||gnl|WGS:AAKM|cds.PVX_089715A
+			note	encoded by transcript PVX_089715A
+<784803	>789650	gene
+			locus_tag	PVX_089720
+<784803	787021	mRNA
+787235	>789650
+			product	Protein kinase domain containing protein
+			note	transcript PVX_089720A
+784803	787021	CDS
+787235	789650
+			product	Protein kinase domain containing protein
+			protein_id	gb|EDL45307.1||gnl|WGS:AAKM|cds.PVX_089720A
+			note	encoded by transcript PVX_089720A
+<790935	>790309	gene
+			locus_tag	PVX_089725
+<790935	>790309	mRNA
+			product	Coatomer zeta-1 subunit, putative
+			note	transcript PVX_089725A
+790935	790309	CDS
+			product	Coatomer zeta-1 subunit, putative
+			protein_id	gb|EDL45308.1||gnl|WGS:AAKM|cds.PVX_089725A
+			note	encoded by transcript PVX_089725A
+791921	>792955	gene
+			locus_tag	PVX_089730
+791921	792266	mRNA
+792401	>792955
+			product	nuclear cap-binding protein, putative
+			note	transcript PVX_089730A
+792111	792266	CDS
+792401	792955
+			product	nuclear cap-binding protein, putative
+			protein_id	gb|EDL45309.1||gnl|WGS:AAKM|cds.PVX_089730A
+			note	encoded by transcript PVX_089730A
+794417	>793356	gene
+			locus_tag	PVX_089735
+794417	>793356	mRNA
+			product	adenylate kinase 1, putative
+			note	transcript PVX_089735A
+794051	793356	CDS
+			product	adenylate kinase 1, putative
+			protein_id	gb|EDL45310.1||gnl|WGS:AAKM|cds.PVX_089735A
+			note	encoded by transcript PVX_089735A
+<796573	794895	gene
+			locus_tag	PVX_089740
+<796573	794895	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089740A
+796573	795155	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45311.1||gnl|WGS:AAKM|cds.PVX_089740A
+			note	encoded by transcript PVX_089740A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+<797468	>799660	gene
+			locus_tag	PVX_089745
+<797468	>799660	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089745A
+797468	799660	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45312.1||gnl|WGS:AAKM|cds.PVX_089745A
+			note	encoded by transcript PVX_089745A
+802576	800295	gene
+			locus_tag	PVX_089750
+802576	801551	mRNA
+801339	800295
+			product	60S ribosomal protein L15-1, putative
+			note	transcript PVX_089750A
+801642	801551	CDS
+801339	800814
+			product	60S ribosomal protein L15-1, putative
+			protein_id	gb|EDL45313.1||gnl|WGS:AAKM|cds.PVX_089750A
+			note	encoded by transcript PVX_089750A
+<806817	805477	gene
+			locus_tag	PVX_089755
+<806817	806731	mRNA
+806581	806492
+806360	806297
+806104	805477
+			product	RNA binding protein, putative
+			note	transcript PVX_089755A
+806817	806731	CDS
+806581	806492
+806360	806297
+806104	806049
+			product	RNA binding protein, putative
+			protein_id	gb|EDL45314.1||gnl|WGS:AAKM|cds.PVX_089755A
+			note	encoded by transcript PVX_089755A
+<810808	809815	gene
+			locus_tag	PVX_089760
+<810808	809815	mRNA
+			product	hypothetical protein
+			note	transcript PVX_089760A
+<810808	810307	CDS
+			product	hypothetical protein
+			codon_start	2
+			protein_id	gb|EDL45315.1||gnl|WGS:AAKM|cds.PVX_089760A
+			note	encoded by transcript PVX_089760A
+<816708	814433	gene
+			locus_tag	PVX_089765
+<816708	816530	mRNA
+816435	814548
+814471	814433
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089765A
+816708	816530	CDS
+816435	815232
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45316.1||gnl|WGS:AAKM|cds.PVX_089765A
+			note	encoded by transcript PVX_089765A
+816843	818214	gene
+			locus_tag	PVX_089770
+816843	816913	mRNA
+817101	818214
+			product	hypothetical protein
+			note	transcript PVX_089770A
+817499	818071	CDS
+			product	hypothetical protein
+			protein_id	gb|EDL45317.1||gnl|WGS:AAKM|cds.PVX_089770A
+			note	encoded by transcript PVX_089770A
+<819713	>818564	gene
+			locus_tag	PVX_089775
+<819713	819414	mRNA
+819217	>818564
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089775A
+819713	819414	CDS
+819217	818564
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45318.1||gnl|WGS:AAKM|cds.PVX_089775A
+			note	encoded by transcript PVX_089775A
+819242	819816	gene
+			locus_tag	PVX_089780
+819242	819816	mRNA
+			product	hypothetical protein
+			note	transcript PVX_089780A
+819330	819653	CDS
+			product	hypothetical protein
+			protein_id	gb|EDL45319.1||gnl|WGS:AAKM|cds.PVX_089780A
+			note	encoded by transcript PVX_089780A
+826412	>825107	gene
+			locus_tag	PVX_089785
+826412	825851	mRNA
+825733	>825107
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089785A
+825916	825851	CDS
+825733	825107
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45320.1||gnl|WGS:AAKM|cds.PVX_089785A
+			note	encoded by transcript PVX_089785A
+<829928	>828662	gene
+			locus_tag	PVX_089790
+<829928	829845	mRNA
+829693	>828662
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089790A
+829928	829845	CDS
+829693	828662
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45321.1||gnl|WGS:AAKM|cds.PVX_089790A
+			note	encoded by transcript PVX_089790A
+<833933	>832851	gene
+			locus_tag	PVX_089795
+<833933	833837	mRNA
+833716	>832851
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089795A
+833933	833837	CDS
+833716	832851
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45322.1||gnl|WGS:AAKM|cds.PVX_089795A
+			note	encoded by transcript PVX_089795A
+837760	>836729	gene
+			locus_tag	PVX_089800
+837760	837486	mRNA
+837355	>836729
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089800A
+837545	837486	CDS
+837355	836729
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45323.1||gnl|WGS:AAKM|cds.PVX_089800A
+			note	encoded by transcript PVX_089800A
+840711	>839202	gene
+			locus_tag	PVX_089805
+840711	839956	mRNA
+839834	>839202
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089805A
+840015	839956	CDS
+839834	839202
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45324.1||gnl|WGS:AAKM|cds.PVX_089805A
+			note	encoded by transcript PVX_089805A
+847906	846229	gene
+			locus_tag	PVX_089810
+847906	847705	mRNA
+847567	846229
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089810A
+847764	847705	CDS
+847567	846767
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45325.1||gnl|WGS:AAKM|cds.PVX_089810A
+			note	encoded by transcript PVX_089810A
+<850702	>850529	gene
+			locus_tag	PVX_089815
+<850702	>850529	mRNA
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089815A
+850702	850529	CDS
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45326.1||gnl|WGS:AAKM|cds.PVX_089815A
+			note	encoded by transcript PVX_089815A
+<851398	>850760	gene
+			locus_tag	PVX_089820
+<851398	851315	mRNA
+851170	>850760
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089820A
+851398	851315	CDS
+851170	850760
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45327.1||gnl|WGS:AAKM|cds.PVX_089820A
+			note	encoded by transcript PVX_089820A
+854638	>855770	gene
+			locus_tag	PVX_089825
+854638	854958	mRNA
+855114	>855770
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089825A
+854866	854958	CDS
+855114	855770
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45328.1||gnl|WGS:AAKM|cds.PVX_089825A
+			note	encoded by transcript PVX_089825A
+<857531	>858373	gene
+			locus_tag	PVX_089830
+<857531	857623	mRNA
+857798	>858373
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089830A
+857531	857623	CDS
+857798	858373
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45329.1||gnl|WGS:AAKM|cds.PVX_089830A
+			note	encoded by transcript PVX_089830A
+<863886	>862709	gene
+			locus_tag	PVX_089835
+<863886	863833	mRNA
+863659	>862709
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089835A
+863886	863833	CDS
+863659	862709
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45330.1||gnl|WGS:AAKM|cds.PVX_089835A
+			note	encoded by transcript PVX_089835A
+866755	868182	gene
+			locus_tag	PVX_089840
+866755	867170	mRNA
+867447	868182
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089840A
+867081	867170	CDS
+867447	868058
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45331.1||gnl|WGS:AAKM|cds.PVX_089840A
+			note	encoded by transcript PVX_089840A
+<871481	873344	gene
+			locus_tag	PVX_089845
+<871481	871567	mRNA
+871819	873344
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089845A
+871481	871567	CDS
+871819	872445
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45332.1||gnl|WGS:AAKM|cds.PVX_089845A
+			note	encoded by transcript PVX_089845A
+874384	>876119	gene
+			locus_tag	PVX_089850
+874384	875213	mRNA
+875370	>876119
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089850A
+875118	875213	CDS
+875370	876119
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45333.1||gnl|WGS:AAKM|cds.PVX_089850A
+			note	encoded by transcript PVX_089850A
+<877922	878886	gene
+			locus_tag	PVX_089852
+<877922	877974	mRNA
+878162	878886
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089852A
+877922	877974	CDS
+878162	878708
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45334.1||gnl|WGS:AAKM|cds.PVX_089852A
+			note	encoded by transcript PVX_089852A
+<880806	>881066	gene
+			locus_tag	PVX_089855
+<880806	>881066	mRNA
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089855A
+880806	881066	CDS
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45335.1||gnl|WGS:AAKM|cds.PVX_089855A
+			note	encoded by transcript PVX_089855A
+<884943	>885772	gene
+			locus_tag	PVX_089860
+<884943	885017	mRNA
+885149	>885772
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089860A
+884943	885017	CDS
+885149	885772
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45336.1||gnl|WGS:AAKM|cds.PVX_089860A
+			note	encoded by transcript PVX_089860A
+894672	>895953	gene
+			locus_tag	PVX_089865
+894672	895210	mRNA
+895324	>895953
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089865A
+895145	895210	CDS
+895324	895953
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45337.1||gnl|WGS:AAKM|cds.PVX_089865A
+			note	encoded by transcript PVX_089865A
+<898195	>899013	gene
+			locus_tag	PVX_089867
+<898195	898260	mRNA
+898381	>899013
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089867A
+898195	898260	CDS
+898381	899013
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45338.1||gnl|WGS:AAKM|cds.PVX_089867A
+			note	encoded by transcript PVX_089867A
+<901220	>902042	gene
+			locus_tag	PVX_089870
+<901220	901285	mRNA
+901410	>902042
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089870A
+901220	901285	CDS
+901410	902042
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45339.1||gnl|WGS:AAKM|cds.PVX_089870A
+			note	encoded by transcript PVX_089870A
+<904190	905001	gene
+			locus_tag	PVX_089875
+<904190	904255	mRNA
+904375	905001
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089875A
+904190	904255	CDS
+904375	904995
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45340.1||gnl|WGS:AAKM|cds.PVX_089875A
+			note	encoded by transcript PVX_089875A
+913458	>911656	gene
+			locus_tag	PVX_089880
+913458	912736	mRNA
+912495	>911656
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089880A
+912822	912736	CDS
+912495	911656
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45341.1||gnl|WGS:AAKM|cds.PVX_089880A
+			note	encoded by transcript PVX_089880A
+<916184	>915247	gene
+			locus_tag	PVX_089885
+<916184	916098	mRNA
+915855	>915247
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089885A
+916184	916098	CDS
+915855	915247
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45342.1||gnl|WGS:AAKM|cds.PVX_089885A
+			note	encoded by transcript PVX_089885A
+920033	>918832	gene
+			locus_tag	PVX_089890
+920033	919742	mRNA
+919572	>918832
+			product	RAD protein (Pv-fam-e)
+			note	transcript PVX_089890A
+919855	919742	CDS
+919572	918832
+			product	RAD protein (Pv-fam-e)
+			protein_id	gb|EDL45343.1||gnl|WGS:AAKM|cds.PVX_089890A
+			note	encoded by transcript PVX_089890A
+<922959	>924671	gene
+			locus_tag	PVX_089895
+<922959	>924671	mRNA
+			product	glutamyl-tRNA(Gln) amidotransferase subunit A, putative
+			note	transcript PVX_089895A
+922959	924671	CDS
+			product	glutamyl-tRNA(Gln) amidotransferase subunit A, putative
+			protein_id	gb|EDL45344.1||gnl|WGS:AAKM|cds.PVX_089895A
+			note	encoded by transcript PVX_089895A
+<925641	>924985	gene
+			locus_tag	PVX_089900
+<925641	>924985	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089900A
+925641	924985	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45345.1||gnl|WGS:AAKM|cds.PVX_089900A
+			note	encoded by transcript PVX_089900A
+<930278	>926346	gene
+			locus_tag	PVX_089905
+<930278	>926346	mRNA
+			product	DNA replication licensing factor, putative
+			note	transcript PVX_089905A
+930278	926346	CDS
+			product	DNA replication licensing factor, putative
+			protein_id	gb|EDL45346.1||gnl|WGS:AAKM|cds.PVX_089905A
+			note	encoded by transcript PVX_089905A
+<933693	>937745	gene
+			locus_tag	PVX_089910
+<933693	937622	mRNA
+937689	>937745
+			product	hypothetical protein, conserved
+			note	transcript PVX_089910A
+933693	937622	CDS
+937689	937745
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45347.1||gnl|WGS:AAKM|cds.PVX_089910A
+			note	encoded by transcript PVX_089910A
+<939402	>938545	gene
+			locus_tag	PVX_089915
+<939402	>938545	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089915A
+939402	938545	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45348.1||gnl|WGS:AAKM|cds.PVX_089915A
+			note	encoded by transcript PVX_089915A
+941810	>942950	gene
+			locus_tag	PVX_089920
+941810	>942950	mRNA
+			product	prohibitin-like protein, putative
+			note	transcript PVX_089920A
+942039	942950	CDS
+			product	prohibitin-like protein, putative
+			protein_id	gb|EDL45349.1||gnl|WGS:AAKM|cds.PVX_089920A
+			note	encoded by transcript PVX_089920A
+<944030	>943767	gene
+			locus_tag	PVX_089925
+<944030	>943767	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089925A
+944030	943767	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45350.1||gnl|WGS:AAKM|cds.PVX_089925A
+			note	encoded by transcript PVX_089925A
+<946227	>947218	gene
+			locus_tag	PVX_089930
+<946227	946255	mRNA
+946423	946484
+946722	>947218
+			product	small GTP-binding protein sar1, putative
+			note	transcript PVX_089930A
+946227	946255	CDS
+946423	946484
+946722	947218
+			product	small GTP-binding protein sar1, putative
+			protein_id	gb|EDL45351.1||gnl|WGS:AAKM|cds.PVX_089930A
+			note	encoded by transcript PVX_089930A
+<955070	>948274	gene
+			locus_tag	PVX_089935
+<955070	948579	mRNA
+948324	>948274
+			product	hypothetical protein, conserved
+			note	transcript PVX_089935A
+955070	948579	CDS
+948324	948274
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45352.1||gnl|WGS:AAKM|cds.PVX_089935A
+			note	encoded by transcript PVX_089935A
+957244	958669	gene
+			locus_tag	PVX_089940
+957244	958168	mRNA
+958295	958669
+			product	hypothetical protein, conserved
+			note	transcript PVX_089940A
+957535	958168	CDS
+958295	958596
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45353.1||gnl|WGS:AAKM|cds.PVX_089940A
+			note	encoded by transcript PVX_089940A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+<961284	>959408	gene
+			locus_tag	PVX_089945
+<961284	960185	mRNA
+959994	959908
+959710	959565
+959448	>959408
+			product	RNA-binding protein of pumilio/mpt5 family, putative
+			note	transcript PVX_089945A
+961284	960185	CDS
+959994	959908
+959710	959565
+959448	959408
+			product	RNA-binding protein of pumilio/mpt5 family, putative
+			protein_id	gb|EDL45354.1||gnl|WGS:AAKM|cds.PVX_089945A
+			note	encoded by transcript PVX_089945A
+<964590	966469	gene
+			locus_tag	PVX_089950
+<964590	966469	mRNA
+			product	bifunctional dihydrofolate reductase-thymidylate synthase 1, putative
+			note	transcript PVX_089950A
+964590	966464	CDS
+			product	bifunctional dihydrofolate reductase-thymidylate synthase 1, putative
+			protein_id	gb|EDL45355.1||gnl|WGS:AAKM|cds.PVX_089950A
+			note	encoded by transcript PVX_089950A
+<969966	>967344	gene
+			locus_tag	PVX_089955
+<969966	968048	mRNA
+967914	967859
+967704	967610
+967403	>967344
+			product	hypothetical protein, conserved
+			note	transcript PVX_089955A
+969966	968048	CDS
+967914	967859
+967704	967610
+967403	967344
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45356.1||gnl|WGS:AAKM|cds.PVX_089955A
+			note	encoded by transcript PVX_089955A
+<972932	>974588	gene
+			locus_tag	PVX_089960
+<972932	974304	mRNA
+974510	>974588
+			product	hypothetical protein
+			note	transcript PVX_089960A
+972932	974304	CDS
+974510	974588
+			product	hypothetical protein
+			protein_id	gb|EDL45357.1||gnl|WGS:AAKM|cds.PVX_089960A
+			note	encoded by transcript PVX_089960A
+<975518	>989248	gene
+			locus_tag	PVX_089965
+<975518	978532	mRNA
+978845	979064
+979464	>989248
+			product	hypothetical protein, conserved
+			note	transcript PVX_089965A
+975518	978532	CDS
+978845	979064
+979464	989248
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45358.1||gnl|WGS:AAKM|cds.PVX_089965A
+			note	encoded by transcript PVX_089965A
+992464	989442	gene
+			locus_tag	PVX_089970
+992464	992104	mRNA
+991852	991771
+991599	991531
+991416	991304
+991191	991071
+990916	990846
+990712	990634
+990492	990432
+990313	990265
+990182	990112
+989984	989931
+989778	989442
+			product	hypothetical protein, conserved
+			note	transcript PVX_089970A
+992155	992104	CDS
+991852	991771
+991599	991531
+991416	991304
+991191	991071
+990916	990846
+990712	990634
+990492	990432
+990313	990265
+990182	990112
+989984	989931
+989778	989710
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45359.1||gnl|WGS:AAKM|cds.PVX_089970A
+			note	encoded by transcript PVX_089970A
+997304	>999912	gene
+			locus_tag	PVX_089975
+997304	997723	mRNA
+997840	998100
+998383	998485
+998834	>999912
+			product	hypothetical protein, conserved
+			note	transcript PVX_089975A
+998461	998485	CDS
+998834	999912
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45360.1||gnl|WGS:AAKM|cds.PVX_089975A
+			note	encoded by transcript PVX_089975A
+<1002354	>1000516	gene
+			locus_tag	PVX_089980
+<1002354	>1000516	mRNA
+			product	cdc2-related protein kinase 1, putative
+			note	transcript PVX_089980A
+1002354	1000516	CDS
+			product	cdc2-related protein kinase 1, putative
+			protein_id	gb|EDL45361.1||gnl|WGS:AAKM|cds.PVX_089980A
+			note	encoded by transcript PVX_089980A
+1003942	>1006406	gene
+			locus_tag	PVX_089985
+1003942	>1006406	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089985A
+1004259	1006406	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45362.1||gnl|WGS:AAKM|cds.PVX_089985A
+			note	encoded by transcript PVX_089985A
+<1007030	>1021592	gene
+			locus_tag	PVX_089990
+<1007030	1008086	mRNA
+1008247	1010297
+1010418	1010530
+1010664	1010782
+1010986	1011182
+1011315	1013450
+1013568	1015963
+1016081	1021148
+1021297	1021374
+1021503	>1021592
+			product	hypothetical protein, conserved
+			note	transcript PVX_089990A
+1007030	1008086	CDS
+1008247	1010297
+1010418	1010530
+1010664	1010782
+1010986	1011182
+1011315	1013450
+1013568	1015963
+1016081	1021148
+1021297	1021374
+1021503	1021592
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45363.1||gnl|WGS:AAKM|cds.PVX_089990A
+			note	encoded by transcript PVX_089990A
+<1026373	>1022669	gene
+			locus_tag	PVX_089995
+<1026373	>1022669	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_089995A
+1026373	1022669	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45364.1||gnl|WGS:AAKM|cds.PVX_089995A
+			note	encoded by transcript PVX_089995A
+1028444	1030479	gene
+			locus_tag	PVX_090000
+1028444	1030479	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_090000A
+1028955	1030259	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45365.1||gnl|WGS:AAKM|cds.PVX_090000A
+			note	encoded by transcript PVX_090000A
+1034055	1030737	gene
+			locus_tag	PVX_090005
+1034055	1033376	mRNA
+1032956	1030737
+			product	hypothetical protein
+			note	transcript PVX_090005A
+1033376	1033376	CDS
+1032956	1030822
+			product	hypothetical protein
+			protein_id	gb|EDL45366.1||gnl|WGS:AAKM|cds.PVX_090005A
+			note	encoded by transcript PVX_090005A
+1042069	>1043184	gene
+			locus_tag	PVX_090010
+1042069	1042533	mRNA
+1042732	1042861
+1043057	>1043184
+			product	hypothetical protein, conserved
+			note	transcript PVX_090010A
+1042447	1042533	CDS
+1042732	1042861
+1043057	1043184
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45367.1||gnl|WGS:AAKM|cds.PVX_090010A
+			note	encoded by transcript PVX_090010A
+1044787	1043081	gene
+			locus_tag	PVX_090015
+1044787	1044589	mRNA
+1044388	1044291
+1044159	1044060
+1043932	1043750
+1043636	1043553
+1043410	1043329
+1043160	1043081
+			product	trafficking protein particle complex subunit 3, putative
+			note	transcript PVX_090015A
+1044648	1044589	CDS
+1044388	1044291
+1044159	1044060
+1043932	1043750
+1043636	1043553
+1043410	1043372
+			product	trafficking protein particle complex subunit 3, putative
+			protein_id	gb|EDL45368.1||gnl|WGS:AAKM|cds.PVX_090015A
+			note	encoded by transcript PVX_090015A
+<1046372	>1051471	gene
+			locus_tag	PVX_090020
+<1046372	>1051471	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_090020A
+1046372	1051471	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45369.1||gnl|WGS:AAKM|cds.PVX_090020A
+			note	encoded by transcript PVX_090020A
+<1052504	>1053937	gene
+			locus_tag	PVX_090025
+<1052504	>1053937	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_090025A
+1052504	1053937	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45370.1||gnl|WGS:AAKM|cds.PVX_090025A
+			note	encoded by transcript PVX_090025A
+1054617	1057293	gene
+			locus_tag	PVX_090030
+1054617	1054915	mRNA
+1055106	1055315
+1055469	1055535
+1055748	1055911
+1056066	1056164
+1056371	1056390
+1056500	1056543
+1056653	1056714
+1056873	1057293
+			product	hypothetical protein, conserved
+			note	transcript PVX_090030A
+1054798	1054915	CDS
+1055106	1055315
+1055469	1055535
+1055748	1055911
+1056066	1056164
+1056371	1056390
+1056500	1056543
+1056653	1056714
+1056873	1056904
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45371.1||gnl|WGS:AAKM|cds.PVX_090030A
+			note	encoded by transcript PVX_090030A
+1058357	>1060501	gene
+			locus_tag	PVX_090035
+1058357	1059686	mRNA
+1059808	1059924
+1060111	1060197
+1060403	>1060501
+			product	hypothetical protein, conserved
+			note	transcript PVX_090035A
+1058874	1059686	CDS
+1059808	1059924
+1060111	1060197
+1060403	1060501
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45372.1||gnl|WGS:AAKM|cds.PVX_090035A
+			note	encoded by transcript PVX_090035A
+<1062041	>1064685	gene
+			locus_tag	PVX_090040
+<1062041	1062127	mRNA
+1062232	1062309
+1062435	1062743
+1062923	1063183
+1063375	1063434
+1063541	1063632
+1063812	1063928
+1064064	1064163
+1064317	1064399
+1064541	>1064685
+			product	hypothetical protein, conserved
+			note	transcript PVX_090040A
+1062041	1062127	CDS
+1062232	1062309
+1062435	1062743
+1062923	1063183
+1063375	1063434
+1063541	1063632
+1063812	1063928
+1064064	1064163
+1064317	1064399
+1064541	1064685
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45373.1||gnl|WGS:AAKM|cds.PVX_090040A
+			note	encoded by transcript PVX_090040A
+1064772	>1066368	gene
+			locus_tag	PVX_090045
+1064772	1065444	mRNA
+1065902	>1066368
+			product	hypothetical protein, conserved
+			note	transcript PVX_090045A
+1065150	1065444	CDS
+1065902	1066368
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45374.1||gnl|WGS:AAKM|cds.PVX_090045A
+			note	encoded by transcript PVX_090045A
+<1068176	>1068586	gene
+			locus_tag	PVX_090050
+<1068176	>1068586	mRNA
+			product	Got1 domain containing protein
+			note	transcript PVX_090050A
+1068176	1068586	CDS
+			product	Got1 domain containing protein
+			protein_id	gb|EDL45375.1||gnl|WGS:AAKM|cds.PVX_090050A
+			note	encoded by transcript PVX_090050A
+<1070303	>1069025	gene
+			locus_tag	PVX_090055
+<1070303	1070224	mRNA
+1069946	>1069025
+			product	hypothetical protein, conserved
+			note	transcript PVX_090055A
+1070303	1070224	CDS
+1069946	1069025
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45376.1||gnl|WGS:AAKM|cds.PVX_090055A
+			note	encoded by transcript PVX_090055A
+<1071834	>1079200	gene
+			locus_tag	PVX_090060
+<1071834	1077539	mRNA
+1077667	1078020
+1078228	1078676
+1078879	>1079200
+			product	hypothetical protein, conserved
+			note	transcript PVX_090060A
+1071834	1077539	CDS
+1077667	1078020
+1078228	1078676
+1078879	1079200
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45377.1||gnl|WGS:AAKM|cds.PVX_090060A
+			note	encoded by transcript PVX_090060A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+<1081598	>1079880	gene
+			locus_tag	PVX_090065
+<1081598	>1079880	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_090065A
+1081598	1079880	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45378.1||gnl|WGS:AAKM|cds.PVX_090065A
+			note	encoded by transcript PVX_090065A
+1083254	1086533	gene
+			locus_tag	PVX_090070
+1083254	1084151	mRNA
+1084534	1084718
+1085091	1086533
+			product	ran binding protein 1, putative
+			note	transcript PVX_090070A
+1084650	1084718	CDS
+1085091	1085894
+			product	ran binding protein 1, putative
+			protein_id	gb|EDL45379.1||gnl|WGS:AAKM|cds.PVX_090070A
+			note	encoded by transcript PVX_090070A
+<1087969	>1088720	gene
+			locus_tag	PVX_090075
+<1087969	1088670	mRNA
+1088697	>1088720
+			product	hypothetical protein, conserved
+			note	transcript PVX_090075A
+1087969	1088670	CDS
+1088697	1088720
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45380.1||gnl|WGS:AAKM|cds.PVX_090075A
+			note	encoded by transcript PVX_090075A
+1091003	>1089759	gene
+			locus_tag	PVX_090080
+1091003	>1089759	mRNA
+			product	ribosomal protein L7Ae-related protein, putative
+			note	transcript PVX_090080A
+1090412	1089759	CDS
+			product	ribosomal protein L7Ae-related protein, putative
+			protein_id	gb|EDL45381.1||gnl|WGS:AAKM|cds.PVX_090080A
+			note	encoded by transcript PVX_090080A
+<1093365	>1107462	gene
+			locus_tag	PVX_090085
+<1093365	1093397	mRNA
+1093597	1093718
+1093895	1106481
+1106594	1106717
+1106823	1106927
+1107330	>1107462
+			product	phosphatidylinositol 3- and 4-kinase, putative
+			note	transcript PVX_090085A
+1093365	1093397	CDS
+1093597	1093718
+1093895	1106481
+1106594	1106717
+1106823	1106927
+1107330	1107462
+			product	phosphatidylinositol 3- and 4-kinase, putative
+			protein_id	gb|EDL45382.1||gnl|WGS:AAKM|cds.PVX_090085A
+			note	encoded by transcript PVX_090085A
+<1119077	>1108845	gene
+			locus_tag	PVX_090090
+<1119077	>1108845	mRNA
+			product	CW-type zinc finger domain-containing protein
+			note	transcript PVX_090090A
+1119077	1108845	CDS
+			product	CW-type zinc finger domain-containing protein
+			protein_id	gb|EDL45383.1||gnl|WGS:AAKM|cds.PVX_090090A
+			note	encoded by transcript PVX_090090A
+<1123070	>1125001	gene
+			locus_tag	PVX_090095
+<1123070	>1125001	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_090095A
+1123070	1125001	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45384.1||gnl|WGS:AAKM|cds.PVX_090095A
+			note	encoded by transcript PVX_090095A
+<1130045	>1125606	gene
+			locus_tag	PVX_090100
+<1130045	>1125606	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_090100A
+1130045	1125606	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45385.1||gnl|WGS:AAKM|cds.PVX_090100A
+			note	encoded by transcript PVX_090100A
+<1132246	>1133781	gene
+			locus_tag	PVX_090105
+<1132246	>1133781	mRNA
+			product	holo-(acyl-carrier protein) synthase, putative
+			note	transcript PVX_090105A
+1132246	1133781	CDS
+			product	holo-(acyl-carrier protein) synthase, putative
+			protein_id	gb|EDL45386.1||gnl|WGS:AAKM|cds.PVX_090105A
+			note	encoded by transcript PVX_090105A; Possible apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+<1141728	>1151795	gene
+			locus_tag	PVX_090110
+<1141728	>1151795	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_090110A
+1141728	1151795	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45387.1||gnl|WGS:AAKM|cds.PVX_090110A
+			note	encoded by transcript PVX_090110A
+<1153411	>1154235	gene
+			locus_tag	PVX_090115
+<1153411	>1154235	mRNA
+			product	ribosome recycling factor, putative
+			note	transcript PVX_090115A
+1153411	1154235	CDS
+			product	ribosome recycling factor, putative
+			protein_id	gb|EDL45388.1||gnl|WGS:AAKM|cds.PVX_090115A
+			note	encoded by transcript PVX_090115A
+<1155965	>1154524	gene
+			locus_tag	PVX_090120
+<1155965	1155764	mRNA
+1155587	1155529
+1155361	1155240
+1155082	1154958
+1154848	1154791
+1154590	>1154524
+			product	hypothetical protein, conserved
+			note	transcript PVX_090120A
+1155965	1155764	CDS
+1155587	1155529
+1155361	1155240
+1155082	1154958
+1154848	1154791
+1154590	1154524
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45389.1||gnl|WGS:AAKM|cds.PVX_090120A
+			note	encoded by transcript PVX_090120A
+<1156899	>1158338	gene
+			locus_tag	PVX_090125
+<1156899	>1158338	mRNA
+			product	hypothetical protein
+			note	transcript PVX_090125A
+1156899	1158338	CDS
+			product	hypothetical protein
+			protein_id	gb|EDL45390.1||gnl|WGS:AAKM|cds.PVX_090125A
+			note	encoded by transcript PVX_090125A
+<1165281	>1158440	gene
+			locus_tag	PVX_090130
+<1165281	1160104	mRNA
+1159957	1159851
+1159694	1159422
+1159204	1159074
+1158880	1158724
+1158563	>1158440
+			product	hypothetical protein, conserved
+			note	transcript PVX_090130A
+1165281	1160104	CDS
+1159957	1159851
+1159694	1159422
+1159204	1159074
+1158880	1158724
+1158563	1158440
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45391.1||gnl|WGS:AAKM|cds.PVX_090130A
+			note	encoded by transcript PVX_090130A
+1167281	>1168004	gene
+			locus_tag	PVX_090135
+1167281	>1168004	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_090135A
+1167585	1168004	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45392.1||gnl|WGS:AAKM|cds.PVX_090135A
+			note	encoded by transcript PVX_090135A
+<1170857	>1172388	gene
+			locus_tag	PVX_090140
+<1170857	1170961	mRNA
+1171114	1171446
+1171612	1171702
+1171813	1171943
+1172080	>1172388
+			product	steroid dehydrogenase kik-i, putative
+			note	transcript PVX_090140A
+1170857	1170961	CDS
+1171114	1171446
+1171612	1171702
+1171813	1171943
+1172080	1172388
+			product	steroid dehydrogenase kik-i, putative
+			protein_id	gb|EDL45393.1||gnl|WGS:AAKM|cds.PVX_090140A
+			note	encoded by transcript PVX_090140A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+1173196	>1175123	gene
+			locus_tag	PVX_090145
+1173196	>1175123	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_090145A
+1173978	1175123	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45394.1||gnl|WGS:AAKM|cds.PVX_090145A
+			note	encoded by transcript PVX_090145A; Apicoplast targeted protein. Curated by Stuart Ralph, Walter and Eliza Hall Institute of Medical Research, Australia.
+<1189671	1176077	gene
+			locus_tag	PVX_090150
+<1189671	1179615	mRNA
+1179038	1176077
+			product	erythrocyte membrane-associated antigen, putative
+			note	transcript PVX_090150A
+1189671	1179615	CDS
+1179038	1176451
+			product	erythrocyte membrane-associated antigen, putative
+			protein_id	gb|EDL45395.1||gnl|WGS:AAKM|cds.PVX_090150A
+			note	encoded by transcript PVX_090150A
+<1196388	>1198148	gene
+			locus_tag	PVX_090155
+<1196388	1196449	mRNA
+1196707	1196827
+1196979	>1198148
+			product	tubulin alpha chain, putative
+			note	transcript PVX_090155A
+1196388	1196449	CDS
+1196707	1196827
+1196979	1198148
+			product	tubulin alpha chain, putative
+			protein_id	gb|EDL45396.1||gnl|WGS:AAKM|cds.PVX_090155A
+			note	encoded by transcript PVX_090155A
+1200445	1202116	gene
+			locus_tag	PVX_090160
+1200445	1200838	mRNA
+1201175	1202116
+			product	40S ribosomal protein S19s, putative
+			note	transcript PVX_090160A
+1200836	1200838	CDS
+1201175	1201690
+			product	40S ribosomal protein S19s, putative
+			protein_id	gb|EDL45397.1||gnl|WGS:AAKM|cds.PVX_090160A
+			note	encoded by transcript PVX_090160A
+1203056	>1211693	gene
+			locus_tag	PVX_090165
+1203056	>1211693	mRNA
+			product	u5 small nuclear ribonucleoprotein-specific protein, putative
+			note	transcript PVX_090165A
+1203666	1211693	CDS
+			product	u5 small nuclear ribonucleoprotein-specific protein, putative
+			protein_id	gb|EDL45398.1||gnl|WGS:AAKM|cds.PVX_090165A
+			note	encoded by transcript PVX_090165A
+<1212863	>1212453	gene
+			locus_tag	PVX_090170
+<1212863	>1212453	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_090170A
+1212863	1212453	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45399.1||gnl|WGS:AAKM|cds.PVX_090170A
+			note	encoded by transcript PVX_090170A
+<1214128	>1215294	gene
+			locus_tag	PVX_090175
+<1214128	>1215294	mRNA
+			product	eukaryotic initiation factor, putative
+			note	transcript PVX_090175A
+1214128	1215294	CDS
+			product	eukaryotic initiation factor, putative
+			protein_id	gb|EDL45400.1||gnl|WGS:AAKM|cds.PVX_090175A
+			note	encoded by transcript PVX_090175A
+<1216477	>1218601	gene
+			locus_tag	PVX_090180
+<1216477	1216981	mRNA
+1217104	1217517
+1217629	1217670
+1217787	1217871
+1218029	1218088
+1218295	1218344
+1218528	>1218601
+			product	hypothetical protein, conserved
+			note	transcript PVX_090180A
+1216477	1216981	CDS
+1217104	1217517
+1217629	1217670
+1217787	1217871
+1218029	1218088
+1218295	1218344
+1218528	1218601
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45401.1||gnl|WGS:AAKM|cds.PVX_090180A
+			note	encoded by transcript PVX_090180A
+<1218979	>1220158	gene
+			locus_tag	PVX_090185
+<1218979	1219147	mRNA
+1219299	1219421
+1219585	1219790
+1219910	>1220158
+			product	hypothetical protein, conserved
+			note	transcript PVX_090185A
+1218979	1219147	CDS
+1219299	1219421
+1219585	1219790
+1219910	1220158
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45402.1||gnl|WGS:AAKM|cds.PVX_090185A
+			note	encoded by transcript PVX_090185A
+1221185	1222997	gene
+			locus_tag	PVX_090190
+1221185	1222997	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_090190A
+1221232	1222479	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45403.1||gnl|WGS:AAKM|cds.PVX_090190A
+			note	encoded by transcript PVX_090190A
+1224026	>1223186	gene
+			locus_tag	PVX_090195
+1224026	1223658	mRNA
+1223444	>1223186
+			product	adapter-related protein complex 4 sigma 1 subunit, putative
+			note	transcript PVX_090195A
+1223839	1223658	CDS
+1223444	1223186
+			product	adapter-related protein complex 4 sigma 1 subunit, putative
+			protein_id	gb|EDL45404.1||gnl|WGS:AAKM|cds.PVX_090195A
+			note	encoded by transcript PVX_090195A
+<1224514	>1225079	gene
+			locus_tag	PVX_090200
+<1224514	1224574	mRNA
+1224709	>1225079
+			product	hypothetical protein, conserved
+			note	transcript PVX_090200A
+1224514	1224574	CDS
+1224709	1225079
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45405.1||gnl|WGS:AAKM|cds.PVX_090200A
+			note	encoded by transcript PVX_090200A
+<1226789	>1225992	gene
+			locus_tag	PVX_090205
+<1226789	>1225992	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_090205A
+1226789	1225992	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45406.1||gnl|WGS:AAKM|cds.PVX_090205A
+			note	encoded by transcript PVX_090205A
+<1230371	>1231228	gene
+			locus_tag	PVX_090210
+<1230371	>1231228	mRNA
+			product	hypothetical protein
+			note	transcript PVX_090210A
+1230371	1231228	CDS
+			product	hypothetical protein
+			protein_id	gb|EDL45407.1||gnl|WGS:AAKM|cds.PVX_090210A
+			note	encoded by transcript PVX_090210A
+1233101	1235580	gene
+			locus_tag	PVX_090215
+1233101	1234938	mRNA
+1235096	1235580
+			product	hypothetical protein, conserved
+			note	transcript PVX_090215A
+1234254	1234938	CDS
+1235096	1235526
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45408.1||gnl|WGS:AAKM|cds.PVX_090215A
+			note	encoded by transcript PVX_090215A
+1241636	1236566	gene
+			locus_tag	PVX_090220
+1241636	1236566	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_090220A
+1241206	1237100	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45409.1||gnl|WGS:AAKM|cds.PVX_090220A
+			note	encoded by transcript PVX_090220A
+<1243802	>1242797	gene
+			locus_tag	PVX_090225
+<1243802	1242950	mRNA
+1242813	>1242797
+			product	hypothetical protein, conserved
+			note	transcript PVX_090225A
+1243802	1242950	CDS
+1242813	1242797
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45410.1||gnl|WGS:AAKM|cds.PVX_090225A
+			note	encoded by transcript PVX_090225A
+1250418	1247209	gene
+			locus_tag	PVX_090230
+1250418	1248821	mRNA
+1248146	1247209
+			product	early transcribed membrane protein (ETRAMP)
+			note	transcript PVX_090230A
+1249202	1248821	CDS
+1248146	1248091
+			product	early transcribed membrane protein (ETRAMP)
+			protein_id	gb|EDL45411.1||gnl|WGS:AAKM|cds.PVX_090230A
+			note	encoded by transcript PVX_090230A
+1253818	1254708	gene
+			locus_tag	PVX_090235
+1253818	1254708	mRNA
+			product	hypothetical protein
+			note	transcript PVX_090235A
+1253869	1254327	CDS
+			product	hypothetical protein
+			protein_id	gb|EDL45412.1||gnl|WGS:AAKM|cds.PVX_090235A
+			note	encoded by transcript PVX_090235A
+<1256633	>1255307	gene
+			locus_tag	PVX_090240
+<1256633	1256017	mRNA
+1255790	>1255307
+			product	hypothetical protein, conserved
+			note	transcript PVX_090240A
+1256633	1256017	CDS
+1255790	1255307
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45413.1||gnl|WGS:AAKM|cds.PVX_090240A
+			note	encoded by transcript PVX_090240A
+<1260403	>1261260	gene
+			locus_tag	PVX_090245
+<1260403	>1261260	mRNA
+			product	Phist protein (Pf-fam-b)
+			note	transcript PVX_090245A
+1260403	1261260	CDS
+			product	Phist protein (Pf-fam-b)
+			protein_id	gb|EDL45414.1||gnl|WGS:AAKM|cds.PVX_090245A
+			note	encoded by transcript PVX_090245A
+<1264574	>1263606	gene
+			locus_tag	PVX_090250
+<1264574	>1263606	mRNA
+			product	tryptophan-rich antigen (Pv-fam-a)
+			note	transcript PVX_090250A
+1264574	1263606	CDS
+			product	tryptophan-rich antigen (Pv-fam-a)
+			protein_id	gb|EDL45415.1||gnl|WGS:AAKM|cds.PVX_090250A
+			note	encoded by transcript PVX_090250A
+1270922	1269240	gene
+			locus_tag	PVX_090255
+1270922	1270542	mRNA
+1270259	1269240
+			product	tryptophan-rich antigen (Pv-fam-a)
+			note	transcript PVX_090255A
+1270718	1270542	CDS
+1270259	1269456
+			product	tryptophan-rich antigen (Pv-fam-a)
+			protein_id	gb|EDL45416.1||gnl|WGS:AAKM|cds.PVX_090255A
+			note	encoded by transcript PVX_090255A
+<1274463	>1273169	gene
+			locus_tag	PVX_090260
+<1274463	1274284	mRNA
+1274029	>1273169
+			product	tryptophan-rich antigen (Pv-fam-a)
+			note	transcript PVX_090260A
+1274463	1274284	CDS
+1274029	1273169
+			product	tryptophan-rich antigen (Pv-fam-a)
+			protein_id	gb|EDL45417.1||gnl|WGS:AAKM|cds.PVX_090260A
+			note	encoded by transcript PVX_090260A
+1279489	1277668	gene
+			locus_tag	PVX_090265
+1279489	1279173	mRNA
+1279005	1278800
+1278576	1277668
+			product	tryptophan-rich antigen (Pv-fam-a)
+			note	transcript PVX_090265A
+1278973	1278800	CDS
+1278576	1277770
+			product	tryptophan-rich antigen (Pv-fam-a)
+			protein_id	gb|EDL45418.1||gnl|WGS:AAKM|cds.PVX_090265A
+			note	encoded by transcript PVX_090265A
+<1284222	>1283152	gene
+			locus_tag	PVX_090270
+<1284222	>1283152	mRNA
+			product	tryptophan-rich antigen (Pv-fam-a)
+			note	transcript PVX_090270A
+1284222	1283152	CDS
+			product	tryptophan-rich antigen (Pv-fam-a)
+			protein_id	gb|EDL45419.1||gnl|WGS:AAKM|cds.PVX_090270A
+			note	encoded by transcript PVX_090270A
+1289739	>1288045	gene
+			locus_tag	PVX_090275
+1289739	1289442	mRNA
+1289249	1289148
+1288995	>1288045
+			product	tryptophan-rich antigen (Pv-fam-a)
+			note	transcript PVX_090275A
+1289216	1289148	CDS
+1288995	1288045
+			product	tryptophan-rich antigen (Pv-fam-a)
+			protein_id	gb|EDL45420.1||gnl|WGS:AAKM|cds.PVX_090275A
+			note	encoded by transcript PVX_090275A
+<1293725	>1294972	gene
+			locus_tag	PVX_090280
+<1293725	>1294972	mRNA
+			product	PST-A protein
+			note	transcript PVX_090280A
+1293725	1294972	CDS
+			product	PST-A protein
+			protein_id	gb|EDL45421.1||gnl|WGS:AAKM|cds.PVX_090280A
+			note	encoded by transcript PVX_090280A
+<1301010	>1297808	gene
+			locus_tag	PVX_090285
+<1301010	1299501	mRNA
+1299357	>1297808
+			product	Pvstp1, putative
+			note	transcript PVX_090285A
+1301010	1299501	CDS
+1299357	1297808
+			product	Pvstp1, putative
+			protein_id	gb|EDL45422.1||gnl|WGS:AAKM|cds.PVX_090285A
+			note	encoded by transcript PVX_090285A
+<1306736	>1305870	gene
+			locus_tag	PVX_090290
+<1306736	>1305870	mRNA
+			product	variable surface protein Vir12, putative
+			note	transcript PVX_090290A
+1306736	1305870	CDS
+			product	variable surface protein Vir12, putative
+			protein_id	gb|EDL45423.1||gnl|WGS:AAKM|cds.PVX_090290A
+			note	encoded by transcript PVX_090290A
+<1315188	>1317081	gene
+			locus_tag	PVX_090295
+<1315188	1315235	mRNA
+1315371	1316108
+1316239	>1317081
+			product	hypothetical protein
+			note	transcript PVX_090295A
+1315188	1315235	CDS
+1315371	1316108
+1316239	1317081
+			product	hypothetical protein
+			protein_id	gb|EDL45424.1||gnl|WGS:AAKM|cds.PVX_090295A
+			note	encoded by transcript PVX_090295A
+<1319756	>1320939	gene
+			locus_tag	PVX_090300
+<1319756	1319830	mRNA
+1319956	>1320939
+			product	hypothetical protein
+			note	transcript PVX_090300A
+1319756	1319830	CDS
+1319956	1320939
+			product	hypothetical protein
+			protein_id	gb|EDL45425.1||gnl|WGS:AAKM|cds.PVX_090300A
+			note	encoded by transcript PVX_090300A
+<1324557	1326692	gene
+			locus_tag	PVX_090305
+<1324557	1324583	mRNA
+1324723	1325898
+1326033	1326692
+			product	variable surface protein Vir12-related
+			note	transcript PVX_090305A
+1324557	1324583	CDS
+1324723	1325898
+1326033	1326218
+			product	variable surface protein Vir12-related
+			protein_id	gb|EDL45426.1||gnl|WGS:AAKM|cds.PVX_090305A
+			note	encoded by transcript PVX_090305A
+<1329607	>1330956	gene
+			locus_tag	PVX_090310
+<1329607	>1330956	mRNA
+			product	hypothetical protein, conserved
+			note	transcript PVX_090310A
+1329607	1330956	CDS
+			product	hypothetical protein, conserved
+			protein_id	gb|EDL45427.1||gnl|WGS:AAKM|cds.PVX_090310A
+			note	encoded by transcript PVX_090310A
+<1333095	>1334734	gene
+			locus_tag	PVX_090315
+<1333095	1333124	mRNA
+1333175	1334428
+1334555	>1334734
+			product	variable surface protein Vir12-like
+			note	transcript PVX_090315A
+1333095	1333124	CDS
+1333175	1334428
+1334555	1334734
+			product	variable surface protein Vir12-like
+			protein_id	gb|EDL45428.1||gnl|WGS:AAKM|cds.PVX_090315A
+			note	encoded by transcript PVX_090315A
+<1339065	>1339703	gene
+			locus_tag	PVX_090320
+<1339065	>1339703	mRNA
+			product	hypothetical protein
+			note	transcript PVX_090320A
+1339065	1339703	CDS
+			product	hypothetical protein
+			protein_id	gb|EDL45429.1||gnl|WGS:AAKM|cds.PVX_090320A
+			note	encoded by transcript PVX_090320A
+<1353711	>1345372	gene
+			locus_tag	PVX_090325
+<1353711	>1345372	mRNA
+			product	reticulocyte binding protein 2 precursor (PvRBP-2), putative
+			note	transcript PVX_090325A
+1353711	1345372	CDS
+			product	reticulocyte binding protein 2 precursor (PvRBP-2), putative
+			protein_id	gb|EDL45430.1||gnl|WGS:AAKM|cds.PVX_090325A
+			note	encoded by transcript PVX_090325A
+<1360484	>1358418	gene
+			locus_tag	PVX_090330
+<1360484	1358775	mRNA
+1358696	>1358418
+			product	reticulocyte binding protein 2 precursor (PvRBP-2), putative
+			note	transcript PVX_090330A
+1360484	1358775	CDS
+1358696	1358418
+			product	reticulocyte binding protein 2 precursor (PvRBP-2), putative
+			protein_id	gb|EDL45431.1||gnl|WGS:AAKM|cds.PVX_090330A
+			note	encoded by transcript PVX_090330A
+<1367155	>1368735	gene
+			locus_tag	PVX_090335
+<1367155	1367190	mRNA
+1367325	1368410
+1368550	>1368735
+			product	variable surface protein Vir12-like
+			note	transcript PVX_090335A
+1367155	1367190	CDS
+1367325	1368410
+1368550	1368735
+			product	variable surface protein Vir12-like
+			protein_id	gb|EDL45432.1||gnl|WGS:AAKM|cds.PVX_090335A
+			note	encoded by transcript PVX_090335A
+

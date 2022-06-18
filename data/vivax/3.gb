@@ -1,0 +1,49 @@
+LOCUS       CM000444             1011127 bp    DNA     linear   CON 11-MAR-2015
+DEFINITION  Plasmodium vivax chromosome 3, whole genome shotgun sequence.
+ACCESSION   CM000444 AAKM01000000
+VERSION     CM000444.2
+DBLINK      BioProject: PRJNA150
+            BioSample: SAMN02953638
+KEYWORDS    WGS.
+SOURCE      Plasmodium vivax (malaria parasite P. vivax)
+  ORGANISM  Plasmodium vivax
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Plasmodium).
+REFERENCE   1  (bases 1 to 1011127)
+  AUTHORS   Carlton,J.M., Adams,J.H., Silva,J.C., Bidwell,S.L., Lorenzi,H.,
+            Caler,E., Crabtree,J., Angiuoli,S.V., Merino,E.F., Amedeo,P.,
+            Cheng,Q., Coulson,R.M., Crabb,B.S., Del Portillo,H.A., Essien,K.,
+            Feldblyum,T.V., Fernandez-Becerra,C., Gilson,P.R., Gueye,A.H.,
+            Guo,X., Kang'a,S., Kooij,T.W., Korsinczky,M., Meyer,E.V., Nene,V.,
+            Paulsen,I., White,O., Ralph,S.A., Ren,Q., Sargeant,T.J.,
+            Salzberg,S.L., Stoeckert,C.J., Sullivan,S.A., Yamamoto,M.M.,
+            Hoffman,S.L., Wortman,J.R., Gardner,M.J., Galinski,M.R.,
+            Barnwell,J.W. and Fraser-Liggett,C.M.
+  TITLE     Comparative genomics of the neglected human malaria parasite
+            Plasmodium vivax
+  JOURNAL   Nature 455 (7214), 757-763 (2008)
+   PUBMED   18843361
+REFERENCE   2  (bases 1 to 1011127)
+  AUTHORS   Amedeo,P., Wortman,J. and Carlton,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-DEC-2006) The Institute for Genomic Research, 9712
+            Medical Center Drive, Rockville, MD 20850, USA
+REFERENCE   3  (bases 1 to 1011127)
+  AUTHORS   Amedeo,P., Wortman,J. and Carlton,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2009) The Institute for Genomic Research, 9712
+            Medical Center Drive, Rockville, MD 20850, USA
+  REMARK    Sequence update by submitter
+COMMENT     On May 6, 2009 this sequence version replaced CM000444.1.
+FEATURES             Location/Qualifiers
+     source          1..1011127
+                     /organism="Plasmodium vivax"
+                     /mol_type="genomic DNA"
+                     /strain="Salvador I"
+                     /db_xref="taxon:5855"
+                     /chromosome="3"
+CONTIG      join(complement(AAKM01000015.1:1..533272),gap(6000),
+            complement(AAKM01000020.1:1..388176),gap(1500),
+            AAKM01000045.1:1..13965,gap(7000),AAKM01000030.1:1..35881,
+            gap(4000),AAKM01000057.1:1..10181,gap(500),AAKM01000053.1:1..10652)
+//
