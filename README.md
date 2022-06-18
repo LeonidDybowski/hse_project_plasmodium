@@ -56,6 +56,8 @@
 |*P. knowlesi*|1|CAA9987523.1|protein phosphatase-beta, putative|Промотор|650.9198|
 |*P. yoelii*|1|VTZ77586.1|protein phosphatase-beta, putative|Промотор|583.4285|
 
+![2_start](https://user-images.githubusercontent.com/60808642/174449009-afaf75c1-9997-445e-b20c-3b6465ce51dc.png)
+![2_end](https://user-images.githubusercontent.com/60808642/174449010-c836b79b-61be-45d3-a472-89ab93af49b6.png)
 ![cluster2](https://user-images.githubusercontent.com/60808642/174160560-c4cf8210-00d5-47ae-ae28-40608a534ed4.png)
 
 #### Кластер 3
@@ -67,6 +69,8 @@
 |*P. knowlesi*|1|CAA9987895.1|formate-nitrite transporter, putative|Ген|28780.5|
 |*P. yoelii*|1|VTZ73436.1|formate-nitrite transporter, putative|Отсутствует|0.0|
 
+![3_start](https://user-images.githubusercontent.com/60808642/174449018-7a893939-b6d4-4e20-b9a6-2f787a5dd5bf.png)
+![3_end](https://user-images.githubusercontent.com/60808642/174449021-fe072a9e-153b-4542-82c8-41c20e011986.png)
 ![cluster3](https://user-images.githubusercontent.com/60808642/174160577-2a079fbd-54cf-4932-a4d4-49fbbf84ca5a.png)
 
 #### Кластер 4
@@ -78,6 +82,8 @@
 |*P. knowlesi*|1|CAA9986822.1|octaprenyl pyrophosphate synthase, putative|Промотор|2180.071|
 |*P. yoelii*|1|VTZ72360.1|octaprenyl pyrophosphate synthase, putative|Промотор|583.4285|
 
+![4_start](https://user-images.githubusercontent.com/60808642/174449028-b40aa99f-8bfd-464a-b99d-93556b9e6fa5.png)
+![4_end](https://user-images.githubusercontent.com/60808642/174449030-9036d647-9bed-409d-91b3-ce5604ca6be3.png)
 ![cluster4](https://user-images.githubusercontent.com/60808642/174160605-0062db79-4ad6-49ff-9265-e3f7d19497b8.png)
 
 #### Кластер 5
@@ -89,6 +95,8 @@
 |*P. knowlesi*|1|CAA9989837.1|peptidase, putative|Ген|8323.257|
 |*P. yoelii*|1|VTZ81050.1|peptidase, putative|Отсутствует|0.0|
 
+![5_start](https://user-images.githubusercontent.com/60808642/174449039-128108f5-c6a9-4130-be26-8ecd8e7cd876.png)
+![5_end](https://user-images.githubusercontent.com/60808642/174449041-fb0e31ee-2144-47bc-82a5-8a908c07a412.png)
 ![cluster5](https://user-images.githubusercontent.com/60808642/174160640-7beb2aa8-bd5f-4387-9bb1-960a76760d33.png)
 
 #### Кластер 6
@@ -100,6 +108,8 @@
 |*P. knowlesi*|1|CAA9987243.1|conserved protein, unknown function|Промотор|908.3955|
 |*P. yoelii*|1|VTZ74384.1|conserved protein, unknown function|Отсутствует|0.0|
 
+![6_start](https://user-images.githubusercontent.com/60808642/174449046-bf327b64-b73e-4d61-bd19-689173c8e725.png)
+![6_end](https://user-images.githubusercontent.com/60808642/174449047-d76e78c2-dfb1-4191-8e69-4da8a2332b68.png)
 ![cluster6](https://user-images.githubusercontent.com/60808642/174160667-bd6e244a-7c81-4557-8677-39a5a4bdf0b4.png)
 
 #### Кластер 7
@@ -111,6 +121,8 @@
 |*P. knowlesi*|1|CAA9987765.1|hypoxanthine-guanine phosphoribosyltransferase, putative|Ген|6408.923|
 |*P. yoelii*|1|VTZ79941.1|hypoxanthine-guanine phosphoribosyltransferase, putative|Ген|2091.083|
 
+![7_start](https://user-images.githubusercontent.com/60808642/174449051-114e20f3-4b1f-436c-ae4c-8d9c6404e025.png)
+![7_end](https://user-images.githubusercontent.com/60808642/174449052-ed5e628c-89ef-4a53-b453-d8f8ae18d23b.png)
 ![cluster7](https://user-images.githubusercontent.com/60808642/174160691-a5199f69-0862-40c3-9eb1-10568d1bc7f5.png)
 
 #### Кластер 8
@@ -122,6 +134,8 @@
 |*P. knowlesi*|1|CAA9986780.1|conserved Plasmodium protein, unknown function|Промотор|4831.423|
 |*P. yoelii*|1|VTZ72434.1|conserved Plasmodium protein, unknown function|Отсутствует|0.0|
 
+![8_start](https://user-images.githubusercontent.com/60808642/174449060-4b59cfbc-c4f4-4504-90ab-f20253d21ef8.png)
+![8_end](https://user-images.githubusercontent.com/60808642/174449063-2d49adc8-1eac-4985-a54f-837b118fa74a.png)
 ![cluster8](https://user-images.githubusercontent.com/60808642/174160707-d2d6a252-a5bf-48c4-9459-0d02bda79429.png)
 
 #### Кластер 9
@@ -133,6 +147,7 @@
 |*P. knowlesi*|1|CAA9988282.1|conserved protein, unknown function|Ген|3661.11|
 |*P. yoelii*|1|VTZ78436.1|conserved protein, unknown function|Ген|2173.083|
 
+![9](https://user-images.githubusercontent.com/60808642/174449073-43846759-d111-4eec-b75d-dc2c6cb64f8a.png)
 ![cluster9](https://user-images.githubusercontent.com/60808642/174160723-50ba630e-251d-42d7-b499-bf1aba398401.png)
 
 #### Кластер 10
@@ -144,6 +159,8 @@
 |*P. knowlesi*|1|CAA9986906.1|zinc finger protein, putative|Ген|826.8355|
 |*P. yoelii*|1|VTZ76436.1|zinc finger protein, putative|Ген|2183.574|
 
+![10_start](https://user-images.githubusercontent.com/60808642/174449077-a55724f4-6aba-43f6-a3fc-795a08bbac2c.png)
+![10_end](https://user-images.githubusercontent.com/60808642/174449078-f1c5a51a-a474-40ba-a689-92e7857d89be.png)
 ![cluster10](https://user-images.githubusercontent.com/60808642/174160733-f5616104-11ce-4e09-a292-f43eee7be170.png)
 
 Для нахождения квадруплексов была использована библиотека pqsfinder и код на R (в папке src). После получения квадруплексного SCORE эти участки были пересечены так же, как и Z-ДНК. К сожалению, квадруплексов оказалось ещё меньше и они были распределены неравномерно. Так у plasmodium knowlesi и plasmodium vivax их было в десятки раз больше (что коррелирует с количеством Z-ДНК у двух этих видов).
