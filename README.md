@@ -174,7 +174,7 @@
 |*P. knowlesi*|1|CAA9990390.1|ribosomal protein L21, mitochondrial, putative|Ген|60.0|
 |*P. yoelii*|1|VTZ78962.1|mitochondrial ribosomal protein L21 precursor, putative|Отсутствует|0.0|
 
-![cluster1](https://user-images.githubusercontent.com/60808642/174396814-ccc1fe4d-5f93-4484-9472-fd098d9b7fe8.png)
+![cluster1](https://user-images.githubusercontent.com/60808642/174450046-05419667-2a3d-4226-9b1b-c6990a96eb14.png)
 
 #### Кластер 2
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
@@ -185,31 +185,9 @@
 |*P. knowlesi*|1|CAA9988969.1|DNA helicase, putative|Промотор|60.0|
 |*P. yoelii*|1|VTZ79625.1|DNA helicase, putative|Отсутствует|0.0|
 
-![cluster2](https://user-images.githubusercontent.com/60808642/174396866-7c48bbc3-d128-44b0-b749-e8ab04c071cd.png)
+![cluster2](https://user-images.githubusercontent.com/60808642/174450073-dd3d67aa-76c3-479a-802b-24753a731052.png)
 
 #### Кластер 3
-|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
-|-|-|-|-|-|-|
-|*P. falciparum*|1|CZT98131.1|asparagine--tRNA ligase|Отсутствует|0.0|
-|*P. vivax*|1|EDL43200.1|asparagine - tRNA ligase, putative|Отсутствует|0.0|
-|*P. gaboni*|1|KYO03550.1|asparagine--tRNA ligase|Отсутствует|0.0|
-|*P. knowlesi*|1|CAA9986734.1|asparagine--tRNA ligase, putative|Промотор|153.0|
-|*P. yoelii*|1|VTZ72516.1|asparagine--tRNA ligase, putative|Отсутствует|0.0|
-
-![cluster3](https://user-images.githubusercontent.com/60808642/174396910-4d594baa-4c2b-43d6-bfa7-caa68c6c0a7c.png)
-
-#### Кластер 4
-|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
-|-|-|-|-|-|-|
-|*P. falciparum*|1|CAG25354.1|ATP synthase-associated protein, putative|Отсутствует|0.0|
-|*P. vivax*|1|EDL46404.1|hypothetical protein, conserved|Отсутствует|0.0|
-|*P. gaboni*|1|KYO01809.1|hypothetical protein PGSY75_0611300|Отсутствует|0.0|
-|*P. knowlesi*|1|CAA9989216.1|ATP synthase-associated protein, putative|Ген|153.0|
-|*P. yoelii*|1|VTZ71536.1|ATP synthase-associated protein, putative|Отсутствует|0.0|
-
-![cluster4](https://user-images.githubusercontent.com/60808642/174396924-d7364ff5-bc46-455c-af51-3605d1fb969e.png)
-
-#### Кластер 5
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
 |-|-|-|-|-|-|
 |*P. falciparum*|1|CZT98927.1|WD repeat-containing protein, putative|Отсутствует|0.0|
@@ -218,9 +196,9 @@
 |*P. knowlesi*|1|CAA9988291.1|WD repeat-containing protein, putative|Промотор|73.0|
 |*P. yoelii*|1|VTZ78428.1|WD repeat-containing protein, putative|Отсутствует|0.0|
 
-![cluster5](https://user-images.githubusercontent.com/60808642/174396940-5a3119c3-c1c6-413f-86c2-d048c713b0ff.png)
+![cluster3](https://user-images.githubusercontent.com/60808642/174450079-1fe90126-c799-460b-9215-269983640ab3.png)
 
-#### Кластер 6
+#### Кластер 4
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
 |-|-|-|-|-|-|
 |*P. falciparum*|1|CZT99882.1|conserved Plasmodium protein, unknown function|Отсутствует|0.0|
@@ -229,9 +207,9 @@
 |*P. knowlesi*|1|CAA9990435.1|conserved Plasmodium protein, unknown function|Промотор|73.0|
 |*P. yoelii*|1|VTZ79005.1|conserved Plasmodium protein, unknown functio|Отсутствует|0.0|
 
-![cluster6](https://user-images.githubusercontent.com/60808642/174396949-9f37f97a-3412-45fc-9263-258f273fd804.png)
+![cluster4](https://user-images.githubusercontent.com/60808642/174450084-d6b0a90e-8582-489b-b68d-42f3fea679b2.png)
 
-#### Кластер 7
+#### Кластер 5
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
 |-|-|-|-|-|-|
 |*P. falciparum*|1|CZT99834.1|conserved Plasmodium protein, unknown function|Отсутствует|0.0|
@@ -240,9 +218,9 @@
 |*P. knowlesi*|1|CAA9990484.1|conserved Plasmodium protein, unknown function|Ген|73.0|
 |*P. yoelii*|1|VTZ79051.1|conserved Plasmodium protein, unknown function|Отсутствует|0.0|
 
-![cluster7](https://user-images.githubusercontent.com/60808642/174396993-89d5df51-2a13-4453-ba41-632d3c7ad0bb.png)
+![cluster5](https://user-images.githubusercontent.com/60808642/174450086-d2a98e6c-9103-473e-9788-8231c96a48d5.png)
 
-#### Кластер 8
+#### Кластер 6
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
 |-|-|-|-|-|-|
 |*P. falciparum*|1|CAG25249.1|conserved Plasmodium protein, unknown function|Отсутствует|0.0|
@@ -251,9 +229,9 @@
 |*P. knowlesi*|1|CAA9989250.1|conserved Plasmodium protein, unknown function|Промотор|69.0|
 |*P. yoelii*|1|VTZ71504.1|conserved Plasmodium protein, unknown function|Отсутствует|0.0|
 
-![cluster8](https://user-images.githubusercontent.com/60808642/174397001-43c4538f-14d8-4b54-8949-37ed01dda795.png)
+![cluster6](https://user-images.githubusercontent.com/60808642/174450095-6640e936-2826-4b38-ac33-e199467a237b.png)
 
-#### Кластер 9
+#### Кластер 7
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
 |-|-|-|-|-|-|
 |*P. falciparum*|1|CZU00005.1|PhIL1 interacting protein PIP3|Отсутствует|0.0|
@@ -262,9 +240,9 @@
 |*P. knowlesi*|1|CAA9990315.1|PhIL1 interacting protein PIP3, putative|Промотор|73.0|
 |*P. yoelii*|1|VTZ78888.1|PhIL1 interacting protein PIP3, putative|Отсутствует|0.0|
 
-![cluster9](https://user-images.githubusercontent.com/60808642/174397004-e0b7b913-edab-40ed-9a2b-3b29a8e671b8.png)
+![cluster7](https://user-images.githubusercontent.com/60808642/174450103-ad311b4f-af8e-481f-84a9-1c49c0593bc8.png)
 
-#### Кластер 10
+#### Кластер 8
 |Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
 |-|-|-|-|-|-|
 |*P. falciparum*|1|CCAD51521.1|glideosome-associated protein 40, putative|Отсутствует|0.0|
@@ -273,5 +251,26 @@
 |*P. knowlesi*|1|CAA9988681.1|glideosome-associated protein 40, putative|Промотор|61.0|
 |*P. yoelii*|1|VTZ79441.1|glideosome-associated protein 40, putative|Отсутствует|0.0|
 
-![cluster10](https://user-images.githubusercontent.com/60808642/174397019-8978111c-be4a-417a-aac6-45a05ceb5292.png)
+![cluster8](https://user-images.githubusercontent.com/60808642/174450110-0624365a-8989-467b-88a1-1940ce5ec269.png)
 
+#### Кластер 9
+|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
+|-|-|-|-|-|-|
+|*P. falciparum*|1|CAD52315.1|U4/U6.U5 tri-snRNP-associated protein 2, putative|Отсутствует|0.0|
+|*P. vivax*|1|EDL47370.1|ubiquitin carboxyl-terminal hydrolase, putative|Промотор|66.0|
+|*P. gaboni*|1|KYN96971.1|putative U4/U6.U5 tri-snRNP-associated protein 2|Отсутствует|0.0|
+|*P. knowlesi*|1|CAA9990777.1|U4/U6.U5 tri-snRNP-associated protein 2, putative|Промотор|66.0|
+|*P. yoelii*|1|VTZ81486.1|U4/U6.U5 tri-snRNP-associated protein 2, putative|Отсутствует|0.0|
+
+![cluster9](https://user-images.githubusercontent.com/60808642/174450114-b2a2f071-1268-4406-b105-a612e30771b8.png)
+
+#### Кластер 10
+|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Q-ДНК|Q_SCORE|
+|-|-|-|-|-|-|
+|*P. falciparum*|1|CAX64058.1|NIMA related kinase 4|Отсутствует|0.0|
+|*P. vivax*|1|EDL43099.1|serine/threonine-protein kinase NEK4, putative|Промотор|73.0|
+|*P. gaboni*|1|KYO01330.1|NIMA related kinase 4|Отсутствует|0.0|
+|*P. knowlesi*|1|CAA9986571.1|NIMA related kinase 4, putative|Промотор|57.0|
+|*P. yoelii*|1|VTZ75464.1|NIMA related kinase 4|Отсутствует|0.0|
+
+![cluster10](https://user-images.githubusercontent.com/60808642/174450119-5381a020-df55-4434-afa8-2d3f3ec83c0f.png)
