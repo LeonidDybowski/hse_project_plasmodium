@@ -1,0 +1,306 @@
+LOCUS       LR761316                5957 bp    DNA     linear   INV 08-JAN-2021
+DEFINITION  Plasmodium knowlesi strain H genome assembly, chromosome: MIT.
+ACCESSION   LR761316
+VERSION     LR761316.1
+DBLINK      BioProject: PRJEA28803
+            BioSample: SAMEA2272753
+KEYWORDS    .
+SOURCE      mitochondrion Plasmodium knowlesi strain H
+  ORGANISM  Plasmodium knowlesi strain H
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Plasmodium).
+REFERENCE   1
+  CONSRTM   Pathogen Informatics
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2020) WELLCOME SANGER INSTITUTE, Pathogen
+            Informatics, Wellcome Sanger Institute, CB10 1SA, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..5957
+                     /organism="Plasmodium knowlesi strain H"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="H"
+                     /db_xref="taxon:5851"
+                     /chromosome="MIT"
+     gene            2..32
+                     /locus_tag="PKNH_MIT00100"
+     rRNA            2..32
+                     /locus_tag="PKNH_MIT00100"
+     gene            33..70
+                     /locus_tag="PKNH_MIT00200"
+     rRNA            33..70
+                     /locus_tag="PKNH_MIT00200"
+     gene            71..125
+                     /locus_tag="PKNH_MIT00300"
+     rRNA            71..125
+                     /locus_tag="PKNH_MIT00300"
+     gene            126..165
+                     /locus_tag="PKNH_MIT00400"
+     rRNA            126..165
+                     /locus_tag="PKNH_MIT00400"
+     gene            complement(206..226)
+                     /locus_tag="PKNH_MIT00500"
+     rRNA            complement(206..226)
+                     /locus_tag="PKNH_MIT00500"
+     gene            complement(284..390)
+                     /locus_tag="PKNH_MIT00600"
+     rRNA            complement(284..390)
+                     /locus_tag="PKNH_MIT00600"
+     gene            complement(391..506)
+                     /locus_tag="PKNH_MIT00700"
+     rRNA            complement(391..506)
+                     /locus_tag="PKNH_MIT00700"
+     gene            complement(507..594)
+                     /locus_tag="PKNH_MIT00800"
+     rRNA            complement(507..594)
+                     /locus_tag="PKNH_MIT00800"
+     gene            complement(595..625)
+                     /locus_tag="PKNH_MIT00900"
+     rRNA            complement(595..625)
+                     /locus_tag="PKNH_MIT00900"
+     gene            complement(626..718)
+                     /locus_tag="PKNH_MIT01000"
+     rRNA            complement(626..718)
+                     /locus_tag="PKNH_MIT01000"
+     gene            complement(726..1517)
+                     /locus_tag="PKNH_MIT01100"
+     CDS             complement(726..1517)
+                     /locus_tag="PKNH_MIT01100"
+                     /EC_number="7.1.1.9"
+                     /codon_start=1
+                     /product="cytochrome c oxidase subunit 3"
+                     /protein_id="CAA9991360.1"
+                     /translation="MLTAHKITVLINIFFIFSNYNNIKAHLVSYPSLTSLYGTSLKYF
+                     SVGILFTFNPIIFIIFVYSIRESFYSVFSSLVSGMLSIIISEALLFITYFWGILHFSL
+                     SPYPLYSEGIIFTSSRMLILTITFILASASCMTACLQFLIEKGMSLEISSIIFIIYLL
+                     GECFASLQTTEYLHLGYCINDAISGTLFYCVTGLHFSHVIVGLLLLLIYFIRIIEVYD
+                     TNCEWSYSLYGISYILLPHTDQITILYWHFVEIVWLFIEFFFYSE"
+     gene            1512..1626
+                     /locus_tag="PKNH_MIT01200"
+     rRNA            1512..1626
+                     /locus_tag="PKNH_MIT01200"
+     gene            1650..1688
+                     /locus_tag="PKNH_MIT01300"
+     rRNA            1650..1688
+                     /locus_tag="PKNH_MIT01300"
+     gene            1698..1763
+                     /locus_tag="PKNH_MIT01400"
+     rRNA            1698..1763
+                     /locus_tag="PKNH_MIT01400"
+     gene            1792..1827
+                     /locus_tag="PKNH_MIT01500"
+     rRNA            1792..1827
+                     /locus_tag="PKNH_MIT01500"
+     gene            1828..1908
+                     /locus_tag="PKNH_MIT01600"
+     rRNA            1828..1908
+                     /locus_tag="PKNH_MIT01600"
+     gene            complement(1914..2021)
+                     /locus_tag="PKNH_MIT01700"
+     rRNA            complement(1914..2021)
+                     /locus_tag="PKNH_MIT01700"
+     gene            2220..3470
+                     /locus_tag="PKNH_MIT01800"
+     CDS             2220..3470
+                     /locus_tag="PKNH_MIT01800"
+                     /EC_number="7.1.1.9"
+                     /codon_start=1
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="CAA9991361.1"
+                     /translation="MIFTLHGIIMIFFNIMPGLFGGFGNYFLPILCGSPELAYPRINS
+                     ISLLLQPIAFILVILSTAAEFGGGTGWTLYPPLSTSLMSLSPVAVDVIIIGLLVSGIA
+                     SIMSSLNFITTVMHLRSKGLTLGILSVSTWSLIITSVMLLLTLPVLTGGVLMLLSDLH
+                     FNTLFFDPTFAGDPILYQHLFWFFGHPEVYILILPAFGVISHVISTNYCRSLFGNQSM
+                     ILAMSCIAILGSVVWAHHMYTTGLEVDTRAFFTSTTILISIPTGTKIFNWICTYMGSN
+                     FGITHSSSLLSLLFICTFTFGGTTGVILGNAAIDIALHDTYYVIAHFHFVLSIGAIIG
+                     LFTLVSSFQENFFGKHLRENSIIILWSILFFIGVVLTFLPMHFLGFNVMPRRIPDYPD
+                     ALNGWNMICSIGSTMTLFGFLIFK"
+     gene            3489..4619
+                     /locus_tag="PKNH_MIT01900"
+     CDS             3489..4619
+                     /locus_tag="PKNH_MIT01900"
+                     /EC_number="7.1.1.8"
+                     /codon_start=1
+                     /product="cytochrome b"
+                     /protein_id="CAA9991362.1"
+                     /translation="MNYYSINLAKAHLLNYPCPLNINFLWNYGFLLGIIFFIQILTGV
+                     FLASRYTPEISYAYYSIQHILRELWSGWCFRYMHATGASLVFLLTYLHILRGLNYSYL
+                     YLPLSWISGLIIFALFIVTAFIGYVLPWGQMSYWGATVITNLLSSIPVLVIWLCGGYT
+                     VSDPTIKRFFVLHFILPFVALCIVFIHIFFLHLHGSTNPLGYDTALKIPFYPNLLSLD
+                     VKGFNNIFILFLLQSIFGIIPLSHPDNAILVNTYVTPIQIVPEWYFLPFYAMLKTIPS
+                     KTAGLLIVLASLQLLFLLAEQRSLTTIIQFKMTFGAREYSVPMIWFMCSFYALLWIGC
+                     QLPQDIFILYGRLFIILFFFSGLFTLVHYKRTHYDYSSQANI"
+     gene            complement(4591..4615)
+                     /locus_tag="PKNH_MIT02000"
+     rRNA            complement(4591..4615)
+                     /locus_tag="PKNH_MIT02000"
+     gene            4621..4692
+                     /locus_tag="PKNH_MIT02100"
+     rRNA            4621..4692
+                     /locus_tag="PKNH_MIT02100"
+     gene            4712..4798
+                     /locus_tag="PKNH_MIT02200"
+     rRNA            4712..4798
+                     /locus_tag="PKNH_MIT02200"
+     gene            4803..4860
+                     /locus_tag="PKNH_MIT02300"
+     rRNA            4803..4860
+                     /locus_tag="PKNH_MIT02300"
+     gene            4882..4940
+                     /locus_tag="PKNH_MIT02400"
+     rRNA            4882..4940
+                     /locus_tag="PKNH_MIT02400"
+     gene            4961..4985
+                     /locus_tag="PKNH_MIT02500"
+     rRNA            4961..4985
+                     /locus_tag="PKNH_MIT02500"
+     gene            complement(4994..5023)
+                     /locus_tag="PKNH_MIT02600"
+     rRNA            complement(4994..5023)
+                     /locus_tag="PKNH_MIT02600"
+     gene            complement(5024..5198)
+                     /locus_tag="PKNH_MIT02700"
+     rRNA            complement(5024..5198)
+                     /locus_tag="PKNH_MIT02700"
+     gene            complement(5199..5280)
+                     /locus_tag="PKNH_MIT02800"
+     rRNA            complement(5199..5280)
+                     /locus_tag="PKNH_MIT02800"
+     gene            complement(5281..5337)
+                     /locus_tag="PKNH_MIT02900"
+     rRNA            complement(5281..5337)
+                     /locus_tag="PKNH_MIT02900"
+     gene            complement(5338..5376)
+                     /locus_tag="PKNH_MIT03000"
+     rRNA            complement(5338..5376)
+                     /locus_tag="PKNH_MIT03000"
+     gene            complement(5377..5444)
+                     /locus_tag="PKNH_MIT03100"
+     rRNA            complement(5377..5444)
+                     /locus_tag="PKNH_MIT03100"
+     gene            complement(5445..5505)
+                     /locus_tag="PKNH_MIT03200"
+     rRNA            complement(5445..5505)
+                     /locus_tag="PKNH_MIT03200"
+     gene            complement(5506..5546)
+                     /locus_tag="PKNH_MIT03300"
+     rRNA            complement(5506..5546)
+                     /locus_tag="PKNH_MIT03300"
+     gene            complement(5545..5574)
+                     /locus_tag="PKNH_MIT03400"
+     rRNA            complement(5545..5574)
+                     /locus_tag="PKNH_MIT03400"
+     gene            complement(5575..5770)
+                     /locus_tag="PKNH_MIT03500"
+     rRNA            complement(5575..5770)
+                     /locus_tag="PKNH_MIT03500"
+     gene            complement(5771..5853)
+                     /locus_tag="PKNH_MIT03600"
+     rRNA            complement(5771..5853)
+                     /locus_tag="PKNH_MIT03600"
+     gene            complement(5853..5928)
+                     /locus_tag="PKNH_MIT03700"
+     rRNA            complement(5853..5928)
+                     /locus_tag="PKNH_MIT03700"
+ORIGIN      
+        1 agcttttggt atctcgtaat gtagaacaat aatgggttga ccgtcaaatc cttttcatta
+       61 aaagagtgga ttaatgccca gccaacacca tccaatttga ttgggaataa tctgtgttac
+      121 aatacttttt gatcccaggc tggtaaaaaa tgtaaacttt tagcccgaaa gaatagaaac
+      181 agatgccagg ccaaaaaccc aaaaatagag ctatgacgct atcattttaa caagttagat
+      241 aaattctttc atagaactta acgtttcatc ttccatacat aaataaaacg gtagataggg
+      301 aacaaactgc ctcaagacgt tcttaaccca gctcacgcat cgcttctaac ggtgaactct
+      361 cattccaatg gaaccttgtt caagttcaaa tagattggta aggtatagcg tttactatcg
+      421 aatgaaacaa tgtattccac cgctagtgtt tgcttctaac attccacttg cttataactg
+      481 tatggacgta acctccaggc aaagaaaatg accggtcaaa acggaatcaa ttaactatgg
+      541 atagctgata ctaacaattt atcattactc aagtcagcat agtctatatg aaggtttcta
+      601 tggaaacaca cttcccttct cgccatttga tagcggttaa cctttctttt ccttacgtac
+      661 tctagctttt tacacaactt aattgtctat actagatact atggacgaaa caggacatat
+      721 attcattatt ctgaatagaa aaagaactct ataaataacc atacaatttc aacaaaatgc
+      781 cagtataata ttgtaatttg atcagtatga ggtaataata tataagatat accatataat
+      841 gaatatgacc attcacaatt agtatcgtaa acttctatta ttcttataaa atatattaat
+      901 aataataata aaccaactat aacatgtgaa aaatgtaaac ctgtaacaca ataaaataat
+      961 gtacctgata tagcatcatt tatacaatat cctaaatgta agtattcagt tgtttgaagt
+     1021 gatgcaaaac attctccaag taagtatatt ataaatataa tactagaaat ttctaaactc
+     1081 attccttttt ctattagaaa ttgtaaacat gctgtcatac atgatgcact tgctaaaata
+     1141 aatgtaatag ttaaaattaa cattcttgat gatgtgaaaa tgattccttc actatataat
+     1201 ggatatggag ataaactaaa atgtaaaata ccccagaagt atgtaataaa taataatgct
+     1261 tcagatataa ttatagataa cattcctgat actaatgatg aaaatacaga ataaaaactt
+     1321 tctctaatag aatatacaaa tattataaaa ataataggat tgaatgtaaa taaaatacca
+     1381 acagaaaaat attttaaaga tgttccatat aaagatgtta atgaaggata agatactaaa
+     1441 tgtgctttta tattattata gttactaaat ataaaaaata tatttataag aacggtaatt
+     1501 ttgtgtgccg ttaacatata acggtaagaa ggttcgccgg ggataacagg ttatagtata
+     1561 tatagagctc aaatctttat atactattgg cacctccatg tcgtctcatc gcagccttgc
+     1621 aataaataaa tattatttag cgtgtattgt tgccttgtac acaccgctcg tcacgcaaat
+     1681 ttatatcact aagataaaga actccaggcg ttaacctgta gagttgagat ggaaacagcc
+     1741 ggaaaggtat cattacgtcc aaactataag aatatatgaa atatactagc atgggacaaa
+     1801 aaaatattat gttgttggtt taagcccttt taccatacaa gagatcgcgt actttggact
+     1861 gaaaaaagct gtgaggaaac tacattaaag gaactcgact ggcctacaat ataagaacga
+     1921 acgcttttaa cgcctgacat ggatggataa tactcgactt ttccaaagta taaccgctgt
+     1981 cgctgggact gtatggatcg aatcttactt attcatatcc aagcctcatt tatgatttat
+     2041 ttttttttaa tagatataca cttattacaa attgcaatca taaaacttta ggtttatact
+     2101 atttatggtt ttcattttta tttggtagtt atggattttt attatctgtt attttacgta
+     2161 cagaattata ttcttcttct ttaagaataa ttgcacaaga aaatgttaat ttatacaata
+     2221 tgatatttac attacatgga ataattatga tattttttaa tataatgcca ggattatttg
+     2281 gaggattcgg taattatttt ctaccaattt tatgcggttc tccagaactt gcatatccaa
+     2341 gaattaatag tatatcttta ttattacaac caatagcttt tatattagtc attttatcta
+     2401 cagcagcaga atttggagga ggtactggat ggactttata tccaccattg agtacatcac
+     2461 ttatgtcttt atctcctgtt gcagtagatg taatcattat tggtctttta gtgtctggta
+     2521 ttgctagtat tatgtcttct ttaaatttta ttactactgt aatgcattta agatctaaag
+     2581 gtttaacact tggtatacta agtgtatcta catggtcatt aataattaca tctgtaatgt
+     2641 tattattgac attacctgta ttaacaggtg gtgttttaat gttattatca gatttacatt
+     2701 ttaatacatt attttttgat cctacatttg ctggagatcc tattctatat caacatctat
+     2761 tctggttctt tggacatcct gaagtatata ttttaatatt accagcattt ggagttatta
+     2821 gtcatgtaat atctacaaat tattgtagaa gcttattcgg taatcaatct atgattttag
+     2881 caatgagttg tattgctata ttaggaagtg ttgtatgggc tcatcatatg tatactacag
+     2941 gtttagaagt agatacaaga gcatttttta catctacaac tatattaata tctataccta
+     3001 ctggaacaaa aatatttaat tggatatgta catacatggg tagtaatttt ggtataactc
+     3061 atagttcatc tttattatca ttactattta tatgtacatt tacttttggt ggtactacag
+     3121 gagtaatatt aggaaatgca gctattgata ttgcattaca tgatacttat tatgtaattg
+     3181 ctcattttca ctttgtatta tctataggtg caataattgg attgtttaca ttagtaagta
+     3241 gttttcaaga aaactttttt ggtaaacatt tacgtgaaaa ttctataatt atactatggt
+     3301 caatcttatt ttttattgga gttgttttaa cattcttacc tatgcatttt cttggattta
+     3361 atgtaatgcc tagacgtatt cctgattatc cagacgcttt aaatggatgg aatatgattt
+     3421 gttcaattgg atcaactatg actttatttg ggtttttaat ttttaaataa tataaatttt
+     3481 ttgtttatat gaattattat tctattaatt tagctaaagc acatttatta aattacccat
+     3541 gcccattaaa tattaatttc ttatggaatt atggatttct tttaggtatt atattcttta
+     3601 tacaaatatt aacaggtgta tttttagcta gtcgttatac tccagaaatt tcttacgcat
+     3661 actacagtat acaacatatt ttaagagaat tatggagtgg atggtgtttt agatatatgc
+     3721 atgctacagg tgcatctctt gtatttttat taacttattt acatatttta agaggattaa
+     3781 attactcata tttatatcta ccattatcat ggatatcagg attaatcata tttgcattat
+     3841 ttatagttac agcttttata ggttatgttt taccttgggg acaaatgagt tattggggtg
+     3901 caactgtcat aactaattta ttatcttcaa ttccagtatt agtcatttgg ttatgtggag
+     3961 gatatacagt aagtgatcca acaattaaaa gattttttgt attacatttt atacttcctt
+     4021 ttgtagcatt atgtattgta tttatacata tattcttttt acatttacat ggtagcacta
+     4081 atcctttagg gtatgataca gctttaaaaa tacccttcta tccaaatcta ttaagtcttg
+     4141 atgtaaaagg atttaataat atatttatat tattcttatt acaaagtatt tttggtataa
+     4201 ttccattatc tcatccagat aatgctatat tagttaatac atatgttaca ccaattcaaa
+     4261 ttgttcctga atggtacttt ttaccatttt atgcaatgtt aaaaacaata cctagtaaaa
+     4321 cagcaggttt attaattgtt ttagcatctt tacaattatt atttttatta gctgaacaaa
+     4381 gaagtttaac tactataata caatttaaaa tgacatttgg tgctagagaa tattcagtac
+     4441 caatgatatg gtttatgtgt tcattctatg ctttattatg gattggatgt caattaccac
+     4501 aagatatttt cattttatat ggtcgtttat ttataatatt attcttcttt agtggattat
+     4561 ttacacttgt tcattataaa agaacacatt atgattacag ctcccaagca aacatttaaa
+     4621 ttacaagtct acgataagac aatatctctg tacactgatt agaacaatac agaccgtaag
+     4681 gttataatta tgttaaaagt taggataata aaataatagt taccatagct gtagatggat
+     4741 gcttcgatat atattatatt taagtattaa tcgagattac atgctcagcc gccaaaaata
+     4801 aaacgatatt attaccgtac aagccgttag caagacatga tagggagttg acaagttaaa
+     4861 gaagttctgg tttataatag atacgttata aaagttagga tgtatgggat aattgtagta
+     4921 caccttaatt ggtttaacaa tatttggttt atagatatta tgttcggtat tgcatgcctg
+     4981 gtgtttttaa attaagacgc tgacttcctg gctaaacttc ccaatgatat atcttccaaa
+     5041 tagatttcgt agaaaaccgt ctatattcat gtttgattga cctttaaccg ctaattacga
+     5101 atcttccaag aatatttcaa gagtccaagg ttcggtctat tattttcctg ttctgtaatt
+     5161 agatcacatg ttttatagtt catggagata tgactatacc actattcata gagacaactt
+     5221 atggcatctc tctcgatttc cagttgttga gttactaaga ggattctctc cacacttcaa
+     5281 ttcgtacttc cactaccaga atataatcac ctgttataat gttctaggtt ttttcgcgtt
+     5341 ttttcaggag aaatccgtat atcgatgttt ttaaaatcta cgctattgga ttcaacgtcc
+     5401 aggacttcct gacgtttaat aacgatttct acttccagca gccattttgg ttcagctaca
+     5461 agttcactgt caactaccat gttacgactt cgcaccgact gttttctttt accttacgag
+     5521 tcgatcagga aggtttcatc cttaaatctc gtaaccatgc caacacataa gaacttttta
+     5581 gggaagttaa ggtgctcagg gtcttaccgt cgggccgtat gattccacat attcatggat
+     5641 aattctattt attaggagtc tcacactagc gacaatgggg aagtcgttac accgttcatg
+     5701 caggacggag attacccgac aaggaatttt gctaccttag gaccgtttac gatacagccg
+     5761 ccgtttatca ttgatgccgg gcagatgtca gtaacttgaa ttattcatca gaattatcag
+     5821 tgacttgtgt tgtaacctta cagacgcttc cagaatataa cttcttataa atggtagcgc
+     5881 cggtttcccg ggtatccaat ccagtgctcc attcaaggca tagagactca gcctgtgttc
+     5941 aactttgtag gatttat
+//

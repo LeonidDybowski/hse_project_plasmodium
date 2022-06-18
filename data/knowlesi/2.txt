@@ -1,0 +1,1171 @@
+>Feature emb|AM910984.2|
+<122	1581	gene
+			locus_tag	PKNH_0200100
+<122	787	CDS
+1165	1581
+			product	SICAvar, type I (fragment)
+			protein_id	emb|CAA9986266.1|
+17257	6785	gene
+			locus_tag	PKNH_0200200
+17257	17129	CDS
+16883	16016
+12943	12807
+12078	11425
+10254	9619
+9049	8318
+8096	7434
+7201	6785
+			product	SICAvar, type I
+			protein_id	emb|CAA9986267.1|
+30162	26465	gene
+			locus_tag	PKNH_0200300
+30162	30088	CDS
+29928	27538
+26809	26465
+			product	SICAvar, type II
+			protein_id	emb|CAA9986268.1|
+36159	33769	gene
+			locus_tag	PKNH_0200400
+36159	35956	CDS
+35733	33769
+			product	tryptophan-rich antigen
+			product	tryptophan-rich protein
+			protein_id	emb|CAA9986269.1|
+39904	41058	gene
+			locus_tag	PKNH_0200500
+39904	39987	CDS
+40174	41058
+			product	tryptophan-rich antigen
+			product	tryptophan-rich protein
+			protein_id	emb|CAA9986270.1|
+45208	46710	gene
+			locus_tag	PKNH_0200600
+45208	45297	CDS
+45397	46710
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|CAA9986271.1|
+50111	48135	gene
+			locus_tag	PKNH_0200700
+50111	50043	CDS
+49789	48989
+48785	48135
+			product	KIR protein
+			product	PIR protein
+			protein_id	emb|CAA9986272.1|
+55187	54107	gene
+			locus_tag	PKNH_0200800
+55187	54981	CDS
+54808	54107
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|CAA9986273.1|
+59970	62020	gene
+			locus_tag	PKNH_0200900
+59970	60149	CDS
+60353	62020
+			product	tryptophan-rich antigen
+			product	tryptophan-rich protein
+			protein_id	emb|CAA9986274.1|
+64953	66562	gene
+			locus_tag	PKNH_0201000
+64953	65000	CDS
+65123	66562
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|CAA9986275.1|
+68220	67088	gene
+			locus_tag	PKNH_0201100
+68220	67993	CDS
+67804	67088
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|CAA9986276.1|
+72612	73674	gene
+			locus_tag	PKNH_0201200
+72612	72817	CDS
+73107	73674
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|CAA9986277.1|
+79854	82666	gene
+			locus_tag	PKNH_0201300
+79854	80153	CDS
+80387	82666
+			product	Plasmodium exported protein (PHIST), unknown function
+			protein_id	emb|CAA9986278.1|
+86020	83957	gene
+			locus_tag	PKNH_0201400
+			pseudo
+			pseudogene	unknown
+86020	85993	CDS
+85991	85753
+85750	85720
+85718	85564
+85562	85267
+85265	85205
+85202	85011
+85008	84955
+84952	84791
+84788	84732
+84730	84662
+84659	84405
+84402	84265
+84263	84147
+84145	83957
+			pseudo
+			note	multidrug resistance-associated protein 1, putative, pseudogene
+			pseudogene	unknown
+93159	92696	gene
+			locus_tag	PKNH_0201500
+			pseudo
+			pseudogene	unknown
+93159	93076	CDS
+93074	92770
+92768	92696
+			pseudo
+			note	conserved Plasmodium protein, unknown function, pseudogene
+			pseudogene	unknown
+94907	97557	gene
+			locus_tag	PKNH_0201600
+94907	95193	CDS
+95357	95457
+95546	96428
+96943	97008
+97515	97557
+			product	TatD-like deoxyribonuclease, putative
+			protein_id	emb|CAA9986281.1|
+97726	98338	gene
+			locus_tag	PKNH_0201700
+97726	97779	CDS
+97977	98108
+98282	98338
+			product	conserved protein, unknown function
+			protein_id	emb|CAA9986282.1|
+102912	99774	gene
+			locus_tag	PKNH_0201800
+102912	101983	CDS
+101757	101633
+101530	101443
+101237	101154
+100969	100839
+100698	100635
+100461	100296
+100150	99774
+			product	eukaryotic translation initiation factor 4E, putative
+			protein_id	emb|CAA9986283.1|
+105280	105630	gene
+			locus_tag	PKNH_0201900
+105280	105630	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|CAA9986284.1|
+105670	106491	gene
+			locus_tag	PKNH_0202000
+105670	106491	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986285.1|
+107461	109343	gene
+			locus_tag	PKNH_0202100
+107461	107778	CDS
+107963	108050
+108191	108280
+108482	108931
+109171	109343
+			product	UMP-CMP kinase, putative
+			EC_number	2.7.4.14
+			protein_id	emb|CAA9986286.1|
+112814	110709	gene
+			locus_tag	PKNH_0202200
+112814	110709	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986287.1|
+114672	117959	gene
+			locus_tag	PKNH_0202300
+114672	117959	CDS
+			product	P-loop containing nucleoside triphosphate hydrolase, putative
+			protein_id	emb|CAA9986288.1|
+118704	119500	gene
+			locus_tag	PKNH_0202400
+118704	118790	CDS
+118971	119074
+119422	119500
+			product	conserved protein, unknown function
+			protein_id	emb|CAA9986289.1|
+121067	125816	gene
+			locus_tag	PKNH_0202500
+121067	124738	CDS
+124931	124993
+125125	125247
+125417	125572
+125709	125816
+			product	kinesin-8B, putative
+			protein_id	emb|CAA9986290.1|
+126514	127095	gene
+			locus_tag	PKNH_0202600
+126514	127095	CDS
+			product	adenylate kinase-like protein 1, putative
+			EC_number	2.7.4.3
+			protein_id	emb|CAA9986291.1|
+130431	127780	gene
+			locus_tag	PKNH_0202700
+130431	130408	CDS
+130241	129564
+129285	128449
+128103	127780
+			product	KIR protein
+			product	PIR protein
+			protein_id	emb|CAA9986292.1|
+134556	136239	gene
+			locus_tag	PKNH_0202800
+134556	134573	CDS
+134687	135484
+135934	136239
+			product	KIR protein
+			product	PIR protein
+			protein_id	emb|CAA9986293.1|
+<137409	138788	gene
+			locus_tag	PKNH_0202900
+<137409	138788	CDS
+			product	Plasmodium exported protein (PHIST), unknown function
+			protein_id	emb|CAA9986294.1|
+151685	139798	gene
+			locus_tag	PKNH_0203000
+151685	151563	CDS
+151397	150560
+146690	146563
+146138	145539
+145391	144771
+144278	143628
+143394	142753
+142391	141669
+141466	140813
+140241	139798
+			product	SICAvar, type I
+			protein_id	emb|CAA9986295.1|
+156458	155038	gene
+			locus_tag	PKNH_0203100
+156458	156389	CDS
+156247	155793
+155613	155038
+			product	transcription initiation factor TFIIB, putative
+			protein_id	emb|CAA9986296.1|
+160647	161990	gene
+			locus_tag	PKNH_0203200
+160647	161990	CDS
+			product	chromatin assembly factor 1 protein WD40 domain, putative
+			protein_id	emb|CAA9986297.1|
+168214	162820	gene
+			locus_tag	PKNH_0203300
+168214	164561	CDS
+164329	164197
+164037	163640
+163460	163381
+163215	163177
+163031	162982
+162857	162820
+			product	phosphatidylinositol-4-phosphate 5-kinase, putative
+			EC_number	2.7.1.68
+			protein_id	emb|CAA9986298.1|
+175623	170519	gene
+			locus_tag	PKNH_0203400
+175623	170707	CDS
+170602	170519
+			product	bromodomain protein, putative
+			protein_id	emb|CAA9986299.1|
+176649	177532	gene
+			locus_tag	PKNH_0203500
+176649	176815	CDS
+176953	177532
+			product	DNA-directed RNA polymerase II subunit RPB9, putative
+			EC_number	2.7.7.6
+			protein_id	emb|CAA9986300.1|
+178467	178051	gene
+			locus_tag	PKNH_0203600
+178467	178051	CDS
+			product	FAD-linked sulfhydryl oxidase ERV1, putative
+			EC_number	1.8.3.2
+			protein_id	emb|CAA9986301.1|
+178918	181026	gene
+			locus_tag	PKNH_0203700
+178918	181026	CDS
+			product	selenocysteine-specific elongation factor, putative
+			protein_id	emb|CAA9986302.1|
+182003	181287	gene
+			locus_tag	PKNH_0203800
+182003	181287	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986303.1|
+183925	182524	gene
+			locus_tag	PKNH_0203850
+183925	183911	CDS
+183693	183522
+183323	183241
+183037	183010
+182893	182758
+182590	182524
+			product	conserved protein, unknown function
+			protein_id	emb|CAA9986304.1|
+187686	184109	gene
+			locus_tag	PKNH_0203950
+187686	187224	CDS
+187060	186935
+186828	186723
+186579	186441
+186329	186176
+186039	185837
+185665	185544
+185422	185363
+185225	185081
+184941	184875
+184683	184622
+184414	184352
+184183	184109
+			product	phosphatidate cytidylyltransferase, putative
+			EC_number	2.7.7.41
+			protein_id	emb|CAA9986305.1|
+190013	188319	gene
+			locus_tag	PKNH_0204000
+190013	188319	CDS
+			product	phenylalanine--tRNA ligase alpha subunit, putative
+			product	phenylalanyl-tRNA synthetase alpha subunit, putative
+			EC_number	6.1.1.20
+			protein_id	emb|CAA9986306.1|
+191093	191823	gene
+			locus_tag	PKNH_0204100
+191093	191249	CDS
+191411	191823
+			product	rRNA biogenesis protein RRP36, putative
+			protein_id	emb|CAA9986307.1|
+192285	193234	gene
+			locus_tag	PKNH_0204200
+192285	192429	CDS
+192656	192709
+192999	193234
+			product	cold-shock protein, putative
+			protein_id	emb|CAA9986308.1|
+194074	194734	gene
+			locus_tag	PKNH_0204300
+194074	194248	CDS
+194430	194734
+			product	N-acetyltransferase, GNAT family, putative
+			EC_number	2.3.1.-
+			protein_id	emb|CAA9986309.1|
+195780	196416	gene
+			locus_tag	PKNH_0204400
+195780	195908	CDS
+196057	196416
+			product	tubulin-specific chaperone a, putative
+			protein_id	emb|CAA9986310.1|
+197978	199093	gene
+			locus_tag	PKNH_0204500
+197978	198114	CDS
+198256	199093
+			product	integral membrane protein, GNS1/SUR4 family, putative
+			protein_id	emb|CAA9986311.1|
+199721	200494	gene
+			locus_tag	PKNH_0204600
+199721	200494	CDS
+			product	cleavage and polyadenylation specificity factor subunit 5, putative
+			protein_id	emb|CAA9986312.1|
+204210	200878	gene
+			locus_tag	PKNH_0204700
+204210	203994	CDS
+203819	200878
+			product	LCCL domain-containing protein, putative
+			protein_id	emb|CAA9986313.1|
+206245	205490	gene
+			locus_tag	PKNH_0204800
+206245	205490	CDS
+			product	photosensitized INA-labeled protein PHIL1, putative
+			protein_id	emb|CAA9986314.1|
+211529	208838	gene
+			locus_tag	PKNH_0204900
+211529	211514	CDS
+211334	211267
+211086	210955
+210737	210667
+210540	210485
+210378	210052
+209842	209663
+209516	209446
+209306	209253
+209080	209027
+208912	208838
+			product	mitochondrial carrier protein, putative
+			protein_id	emb|CAA9986315.1|
+213040	216683	gene
+			locus_tag	PKNH_0205000
+213040	216048	CDS
+216162	216279
+216460	216541
+216641	216683
+			product	secreted ookinete protein, putative
+			protein_id	emb|CAA9986316.1|
+217245	219042	gene
+			locus_tag	PKNH_0205100
+217245	217496	CDS
+217637	217829
+218043	218211
+218333	218459
+218714	218788
+218950	219042
+			product	conserved protein, unknown function
+			protein_id	emb|CAA9986317.1|
+220253	219594	gene
+			locus_tag	PKNH_0205200
+220253	219594	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986318.1|
+222692	225387	gene
+			locus_tag	PKNH_0205300
+222692	222749	CDS
+223028	223274
+223500	223660
+224033	224100
+224228	224311
+224411	224482
+224687	224811
+225049	225103
+225250	225387
+			product	mitochondrial carrier protein, putative
+			protein_id	emb|CAA9986319.1|
+232341	226339	gene
+			locus_tag	PKNH_0205400
+232341	226339	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986320.1|
+238729	236663	gene
+			locus_tag	PKNH_0205500
+238729	236663	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|CAA9986321.1|
+239786	241003	gene
+			locus_tag	PKNH_0205600
+239786	239788	CDS
+239980	240489
+240654	240748
+240955	241003
+			product	proteasome subunit beta type-3, putative
+			EC_number	3.4.25.1
+			protein_id	emb|CAA9986322.1|
+242459	243145	gene
+			locus_tag	PKNH_0205700
+242459	243145	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986323.1|
+246480	243193	gene
+			locus_tag	PKNH_0205800
+246480	243193	CDS
+			product	double-strand break repair protein MRE11, putative
+			protein_id	emb|CAA9986324.1|
+248617	247280	gene
+			locus_tag	PKNH_0205900
+248617	247280	CDS
+			product	dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST3/OST6, putative
+			protein_id	emb|CAA9986325.1|
+258123	249649	gene
+			locus_tag	PKNH_0206000
+258123	258043	CDS
+257848	257129
+255394	254534
+254367	253735
+253556	252909
+252544	251918
+251804	251100
+250976	250353
+250092	249649
+			product	SICAvar, type I
+			protein_id	emb|CAA9986326.1|
+266609	271328	gene
+			locus_tag	PKNH_0206100
+266609	270614	CDS
+270746	270818
+270983	271112
+271257	271328
+			product	Niemann-Pick type C1-related protein, putative
+			protein_id	emb|CAA9986327.1|
+272838	272293	gene
+			locus_tag	PKNH_0206200
+272838	272293	CDS
+			product	ATP synthase-associated protein, putative
+			protein_id	emb|CAA9986328.1|
+276580	274411	gene
+			locus_tag	PKNH_0206300
+276580	276413	CDS
+276271	276150
+276015	275922
+275809	275735
+275527	275345
+275247	275201
+275105	275060
+274931	274854
+274752	274634
+274486	274411
+			product	CCR4 domain-containing protein 3, putative
+			protein_id	emb|CAA9986329.1|
+276933	278258	gene
+			locus_tag	PKNH_0206400
+276933	278258	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|CAA9986330.1|
+279818	278413	gene
+			locus_tag	PKNH_0206500
+279818	279695	CDS
+279577	279510
+279235	279149
+278985	278905
+278733	278674
+278499	278413
+			product	centrin-1, putative
+			protein_id	emb|CAA9986331.1|
+282603	280690	gene
+			locus_tag	PKNH_0206600
+282603	280690	CDS
+			product	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase, putative
+			EC_number	2.7.7.60
+			protein_id	emb|CAA9986332.1|
+285760	283949	gene
+			locus_tag	PKNH_0206700
+285760	285661	CDS
+285451	285368
+285185	285116
+285025	284987
+284821	284709
+284609	284557
+284411	284318
+284179	284130
+283987	283949
+			product	ras-related protein Rab-5C, putative
+			protein_id	emb|CAA9986333.1|
+290847	287239	gene
+			locus_tag	PKNH_0206800
+290847	287239	CDS
+			product	aarp2 protein, putative
+			protein_id	emb|CAA9986334.1|
+292858	291980	gene
+			locus_tag	PKNH_0206900
+292858	291980	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986335.1|
+296912	293673	gene
+			locus_tag	PKNH_0207000
+296912	293673	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986336.1|
+299575	298397	gene
+			locus_tag	PKNH_0207100
+299575	299517	CDS
+299210	299110
+298849	298764
+298630	298397
+			product	pre-rRNA-processing protein TSR2, putative
+			protein_id	emb|CAA9986337.1|
+302510	306300	gene
+			locus_tag	PKNH_0207200
+302510	305399	CDS
+305548	305846
+305974	306300
+			product	calcium-transporting ATPase, putative
+			EC_number	7.2.2.10
+			protein_id	emb|CAA9986338.1|
+307309	308050	gene
+			locus_tag	PKNH_0207300
+307309	307448	CDS
+307561	308050
+			product	EF hand domain-containing protein, putative
+			protein_id	emb|CAA9986339.1|
+309707	310858	gene
+			locus_tag	PKNH_0207400
+309707	310858	CDS
+			product	V-type proton ATPase subunit C, putative
+			EC_number	7.1.2.2
+			protein_id	emb|CAA9986340.1|
+312289	314355	gene
+			locus_tag	PKNH_0207500
+312289	314355	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|CAA9986341.1|
+316098	314686	gene
+			locus_tag	PKNH_0207600
+316098	314686	CDS
+			product	3'-5' exonuclease, putative
+			protein_id	emb|CAA9986342.1|
+317709	320669	gene
+			locus_tag	PKNH_0207700
+317709	318975	CDS
+319366	320669
+			product	cyclin-dependent kinases regulatory subunit, putative
+			protein_id	emb|CAA9986343.1|
+328119	321529	gene
+			locus_tag	PKNH_0207800
+328119	321529	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986344.1|
+330946	>336376	gene
+			locus_tag	PKNH_0207900
+			pseudo
+			pseudogene	unknown
+330946	331158	CDS
+331413	332222
+332224	332517
+332615	333539
+333723	333826
+334301	334933
+335654	>336376
+			pseudo
+			note	SICAvar, type I, pseudogene (fragment)
+			pseudogene	unknown
+<342278	>337298	gene
+			locus_tag	PKNH_0208000
+<342278	341405	CDS
+341171	341059
+339563	339450
+338753	338106
+337814	>337298
+			product	SICAvar, type I (fragment)
+			protein_id	emb|CAA9986346.1|
+347445	351616	gene
+			locus_tag	PKNH_0208100
+347445	347587	CDS
+347755	350171
+350403	351616
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986347.1|
+352501	353598	gene
+			locus_tag	PKNH_0208200
+352501	353598	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|CAA9986348.1|
+354353	354888	gene
+			locus_tag	PKNH_0208300
+354353	354563	CDS
+354677	354888
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986349.1|
+356243	356864	gene
+			locus_tag	PKNH_0208400
+356243	356258	CDS
+356392	356864
+			product	cyclase-associated protein, putative
+			protein_id	emb|CAA9986350.1|
+358048	359781	gene
+			locus_tag	PKNH_0208500
+358048	359781	CDS
+			product	heptatricopeptide repeat and RAP domain-containing protein, putative
+			protein_id	emb|CAA9986351.1|
+360645	360199	gene
+			locus_tag	PKNH_0208600
+360645	360199	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986352.1|
+365377	363647	gene
+			locus_tag	PKNH_0208700
+365377	363647	CDS
+			product	apicomplexan amino acid transporter ApiAT8, putative
+			product	novel putative transporter 1, putative
+			protein_id	emb|CAA9986353.1|
+368672	366753	gene
+			locus_tag	PKNH_0208800
+368672	366753	CDS
+			product	apicomplexan amino acid transporter ApiAT9, putative
+			product	major facilitator superfamily-related transporter, putative
+			protein_id	emb|CAA9986354.1|
+373105	369446	gene
+			locus_tag	PKNH_0208900
+373105	369446	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986355.1|
+373629	374498	gene
+			locus_tag	PKNH_0209000
+373629	374498	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|CAA9986356.1|
+376448	375042	gene
+			locus_tag	PKNH_0209100
+376448	375042	CDS
+			product	4-hydroxy-3-methylbut-2-enyl diphosphate reductase, putative
+			EC_number	1.17.7.4
+			protein_id	emb|CAA9986357.1|
+388136	377265	gene
+			locus_tag	PKNH_0209200
+388136	377761	CDS
+377607	377265
+			product	ubiquitin carboxyl-terminal hydrolase 1, putative
+			EC_number	3.4.19.12
+			protein_id	emb|CAA9986358.1|
+391390	392820	gene
+			locus_tag	PKNH_0209300
+391390	392820	CDS
+			product	StAR-related lipid transfer protein
+			protein_id	emb|CAA9986359.1|
+396702	394163	gene
+			locus_tag	PKNH_0209400
+396702	395946	CDS
+395775	394163
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986360.1|
+399865	398905	gene
+			locus_tag	PKNH_0209500
+399865	399808	CDS
+399585	399531
+399271	398905
+			product	thrombospondin-related sporozoite protein, putative
+			protein_id	emb|CAA9986361.1|
+402650	401160	gene
+			locus_tag	PKNH_0209600
+402650	401160	CDS
+			product	parasite-infected erythrocyte surface protein
+			protein_id	emb|CAA9986362.1|
+404930	407557	gene
+			locus_tag	PKNH_0209700
+404930	405048	CDS
+405258	405330
+405532	405654
+405789	405990
+406195	406436
+406606	406675
+406777	406881
+407066	407121
+407283	407384
+407510	407557
+			product	actin-related protein
+			protein_id	emb|CAA9986363.1|
+410255	408003	gene
+			locus_tag	PKNH_0209800
+410255	409202	CDS
+409023	408767
+408655	408536
+408387	408330
+408218	408162
+408064	408003
+			product	L-seryl-tRNA(Sec) kinase, putative
+			EC_number	2.7.1.164
+			protein_id	emb|CAA9986364.1|
+415397	410852	gene
+			locus_tag	PKNH_0209900
+415397	411828	CDS
+411536	411281
+411078	410852
+			product	ATP-dependent DNA/RNA helicase PSH1, putative
+			protein_id	emb|CAA9986365.1|
+422303	416234	gene
+			locus_tag	PKNH_0210000
+422303	420145	CDS
+419935	417932
+417798	417705
+417553	417441
+417176	417087
+416946	416766
+416590	416234
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986366.1|
+424260	428780	gene
+			locus_tag	PKNH_0210100
+424260	428780	CDS
+			product	zinc-carboxypeptidase, putative
+			EC_number	3.4.17.-
+			protein_id	emb|CAA9986367.1|
+430238	432406	gene
+			locus_tag	PKNH_0210200
+430238	432406	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|CAA9986368.1|
+434379	435858	gene
+			locus_tag	PKNH_0210300
+434379	435291	CDS
+435434	435858
+			product	nucleoside transporter 4, putative
+			protein_id	emb|CAA9986369.1|
+438171	440484	gene
+			locus_tag	PKNH_0210400
+438171	438188	CDS
+438312	439028
+439204	440031
+440128	440484
+			product	KIR protein
+			product	PIR protein
+			protein_id	emb|CAA9986370.1|
+442021	446136	gene
+			locus_tag	PKNH_0210500
+442021	446136	CDS
+			product	vacuolar protein sorting-associated protein 51, putative
+			protein_id	emb|CAA9986371.1|
+447274	448966	gene
+			locus_tag	PKNH_0210600
+447274	447382	CDS
+447582	447653
+447835	447933
+448071	448316
+448439	448537
+448676	448747
+448896	448966
+			product	vacuolar protein sorting-associated protein VTA1, putative
+			protein_id	emb|CAA9986372.1|
+450313	452199	gene
+			locus_tag	PKNH_0210700
+450313	452199	CDS
+			product	aspartate--tRNA ligase, putative
+			product	aspartyl-tRNA synthetase, putative
+			EC_number	6.1.1.12
+			protein_id	emb|CAA9986373.1|
+453348	454907	gene
+			locus_tag	PKNH_0210800
+453348	454907	CDS
+			product	seipin domain-containing protein, putative
+			protein_id	emb|CAA9986374.1|
+456540	460254	gene
+			locus_tag	PKNH_0210900
+456540	459811	CDS
+459945	460254
+			product	DNA mismatch repair protein PMS1, putative
+			protein_id	emb|CAA9986375.1|
+474319	460565	gene
+			locus_tag	PKNH_0211000
+474319	474079	CDS
+473836	473616
+473379	472036
+471738	460754
+460598	460565
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986376.1|
+485789	476310	gene
+			locus_tag	PKNH_0211100
+485789	477183	CDS
+476936	476868
+476727	476559
+476365	476310
+			product	ubiquitin carboxyl-terminal hydrolase, putative
+			EC_number	3.4.19.12
+			protein_id	emb|CAA9986377.1|
+490979	493565	gene
+			locus_tag	PKNH_0211200
+490979	492611	CDS
+493087	493565
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986378.1|
+494579	494070	gene
+			locus_tag	PKNH_0211300
+494579	494070	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986379.1|
+495474	494782	gene
+			locus_tag	PKNH_0211400
+495474	495262	CDS
+495032	494951
+494810	494782
+			product	dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST2, putative
+			EC_number	2.4.99.18
+			protein_id	emb|CAA9986380.1|
+496827	498404	gene
+			locus_tag	PKNH_0211500
+496827	498404	CDS
+			product	mitochondrial import inner membrane translocase subunit TIM50, putative
+			protein_id	emb|CAA9986381.1|
+501827	499278	gene
+			locus_tag	PKNH_0211600
+501827	499278	CDS
+			product	vacuolar protein sorting-associated protein 53, putative
+			protein_id	emb|CAA9986382.1|
+505723	502907	gene
+			locus_tag	PKNH_0211700
+505723	502907	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|CAA9986383.1|
+509128	507578	gene
+			locus_tag	PKNH_0211800
+509128	507578	CDS
+			product	cysteine desulfurase IscS, putative
+			EC_number	2.8.1.7
+			protein_id	emb|CAA9986384.1|
+512763	510514	gene
+			locus_tag	PKNH_0211900
+512763	510514	CDS
+			product	DNA (cytosine-5)-methyltransferase, putative
+			EC_number	2.1.1.37
+			protein_id	emb|CAA9986385.1|
+513912	515092	gene
+			locus_tag	PKNH_0212000
+513912	513925	CDS
+514107	514188
+514418	515092
+			product	proteasome subunit alpha type-5, putative
+			EC_number	3.4.25.1
+			protein_id	emb|CAA9986386.1|
+517922	515817	gene
+			locus_tag	PKNH_0212100
+517922	515817	CDS
+			product	mTERF domain-containing protein, putative
+			protein_id	emb|CAA9986387.1|
+519047	522239	gene
+			locus_tag	PKNH_0212200
+519047	521809	CDS
+521921	522027
+522206	522239
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986388.1|
+525214	522422	gene
+			locus_tag	PKNH_0212300
+525214	522422	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986389.1|
+527539	532503	gene
+			locus_tag	PKNH_0212400
+527539	532503	CDS
+			product	cation transporting ATPase, putative
+			protein_id	emb|CAA9986390.1|
+535249	541002	gene
+			locus_tag	PKNH_0212500
+535249	541002	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986391.1|
+543256	542015	gene
+			locus_tag	PKNH_0212600
+543256	543103	CDS
+542850	542015
+			product	eukaryotic translation initiation factor 2 subunit alpha, putative
+			protein_id	emb|CAA9986392.1|
+559626	545083	gene
+			locus_tag	PKNH_0212700
+559626	545083	CDS
+			product	anaphase-promoting complex subunit 1, putative
+			protein_id	emb|CAA9986393.1|
+561079	562899	gene
+			locus_tag	PKNH_0212800
+561079	561142	CDS
+561374	562899
+			product	actin-like protein, putative
+			protein_id	emb|CAA9986394.1|
+564199	563534	gene
+			locus_tag	PKNH_0212900
+564199	563534	CDS
+			product	conserved protein, unknown function
+			protein_id	emb|CAA9986395.1|
+564947	565658	gene
+			locus_tag	PKNH_0213000
+564947	565054	CDS
+565386	565658
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986396.1|
+567064	565912	gene
+			locus_tag	PKNH_0213100
+567064	567050	CDS
+566801	566710
+566433	566291
+566151	566054
+565959	565912
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986397.1|
+569112	575426	gene
+			locus_tag	PKNH_0213200
+569112	573996	CDS
+574113	574356
+574679	575023
+575151	575232
+575403	575426
+			product	RING zinc finger protein, putative
+			protein_id	emb|CAA9986398.1|
+578875	575916	gene
+			locus_tag	PKNH_0213300
+578875	578825	CDS
+578421	577663
+577197	577097
+576804	575916
+			product	alpha/beta hydrolase, putative
+			protein_id	emb|CAA9986399.1|
+580940	582491	gene
+			locus_tag	PKNH_0213400
+580940	582226	CDS
+582459	582491
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986400.1|
+585319	582595	gene
+			locus_tag	PKNH_0213500
+585319	584165	CDS
+583892	583839
+583713	583669
+583516	583451
+583293	583201
+583062	583002
+582880	582831
+582648	582595
+			product	RNA-binding protein, putative
+			protein_id	emb|CAA9986401.1|
+585937	586999	gene
+			locus_tag	PKNH_0213600
+585937	585937	CDS
+586255	586325
+586446	586514
+586676	586796
+586950	586999
+			product	signal recognition particle subunit SRP9, putative
+			protein_id	emb|CAA9986402.1|
+588614	596284	gene
+			locus_tag	PKNH_0213700
+588614	596284	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986403.1|
+597468	598291	gene
+			locus_tag	PKNH_0213800
+597468	597674	CDS
+597785	598291
+			product	1-cys peroxiredoxin, putative
+			EC_number	1.11.1.15
+			protein_id	emb|CAA9986404.1|
+601883	599238	gene
+			locus_tag	PKNH_0213900
+601883	599238	CDS
+			product	60S ribosomal export protein NMD3, putative
+			protein_id	emb|CAA9986405.1|
+603290	604639	gene
+			locus_tag	PKNH_0214000
+603290	604639	CDS
+			product	ribosome biogenesis protein BRX1, putative
+			protein_id	emb|CAA9986406.1|
+610963	>612205	gene
+			locus_tag	PKNH_0214100
+610963	611812	CDS
+612087	>612205
+			product	SICAvar, type I (fragment)
+			protein_id	emb|CAA9986407.1|
+<613816	616234	gene
+			locus_tag	PKNH_0214200
+<613816	614496	CDS
+614735	615391
+615806	616234
+			product	SICAvar, type I (fragment)
+			protein_id	emb|CAA9986408.1|
+622214	623817	gene
+			locus_tag	PKNH_0214300
+622214	622234	CDS
+622341	623357
+623494	623817
+			product	KIR protein
+			product	PIR protein
+			protein_id	emb|CAA9986409.1|
+624781	627192	gene
+			locus_tag	PKNH_0214400
+624781	627192	CDS
+			product	N6-adenosine-methyltransferase MT-A70, putative
+			EC_number	2.1.1.348
+			protein_id	emb|CAA9986410.1|
+628536	629685	gene
+			locus_tag	PKNH_0214500
+628536	628701	CDS
+628906	628972
+629098	629212
+629380	629483
+629646	629685
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986411.1|
+632343	629970	gene
+			locus_tag	PKNH_0214600
+632343	631209	CDS
+631075	629970
+			product	conserved protein, unknown function
+			protein_id	emb|CAA9986412.1|
+634238	634531	gene
+			locus_tag	PKNH_0214700
+634238	634531	CDS
+			product	dynein light chain, putative
+			protein_id	emb|CAA9986413.1|
+636374	651553	gene
+			locus_tag	PKNH_0214800
+636374	651100	CDS
+651308	651553
+			product	dynein heavy chain, putative
+			protein_id	emb|CAA9986414.1|
+652421	651897	gene
+			locus_tag	PKNH_0214900
+652421	652319	CDS
+652126	651897
+			product	conserved protein, unknown function
+			protein_id	emb|CAA9986415.1|
+653177	655867	gene
+			locus_tag	PKNH_0215000
+653177	655867	CDS
+			product	tRNA pseudouridine synthase D, putative
+			EC_number	5.4.99.12
+			protein_id	emb|CAA9986416.1|
+660081	656693	gene
+			locus_tag	PKNH_0215100
+660081	660067	CDS
+659827	659620
+659417	658609
+658378	656693
+			product	AP-4 complex subunit beta, putative
+			protein_id	emb|CAA9986417.1|
+668241	671417	gene
+			locus_tag	PKNH_0215200
+668241	671417	CDS
+			product	AP2 domain transcription factor AP2-L, putative
+			protein_id	emb|CAA9986418.1|
+674479	675354	gene
+			locus_tag	PKNH_0215300
+674479	674658	CDS
+674884	675024
+675199	675354
+			product	IMP1-like protein, putative
+			protein_id	emb|CAA9986419.1|
+685987	676709	gene
+			locus_tag	PKNH_0215400
+685987	676709	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986420.1|
+689044	689116	gene
+			locus_tag	PKNH_0215500
+689044	689116	tRNA
+			product	tRNA-Val
+690288	690217	gene
+			locus_tag	PKNH_0215600
+690288	690217	tRNA
+			product	tRNA-Thr
+692725	693309	gene
+			locus_tag	PKNH_0215700
+692725	693027	CDS
+693229	693309
+			product	hypothetical protein
+			protein_id	emb|CAA9986421.1|
+695496	694708	gene
+			locus_tag	PKNH_0215800
+695496	694708	CDS
+			product	conserved Plasmodium protein, unknown function
+			protein_id	emb|CAA9986422.1|
+698668	700483	gene
+			locus_tag	PKNH_0215900
+698668	698784	CDS
+699143	700483
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|CAA9986423.1|
+705217	707963	gene
+			locus_tag	PKNH_0216000
+705217	705420	CDS
+705648	707963
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|CAA9986424.1|
+712373	710460	gene
+			locus_tag	PKNH_0216100
+712373	712263	CDS
+712086	711946
+711736	711292
+711025	710460
+			product	heat shock protein, putative
+			protein_id	emb|CAA9986425.1|
+717561	716316	gene
+			locus_tag	PKNH_0216200
+717561	717475	CDS
+717296	716316
+			product	Plasmodium exported protein, unknown function
+			protein_id	emb|CAA9986426.1|
+720042	719292	gene
+			locus_tag	PKNH_0216300
+720042	719923	CDS
+719798	719292
+			product	hypothetical protein, conserved in P.knowlesi
+			protein_id	emb|CAA9986427.1|
+722020	723504	gene
+			locus_tag	PKNH_0216400
+722020	722088	CDS
+722434	723504
+			product	hypothetical protein, conserved in P.knowlesi
+			protein_id	emb|CAA9986428.1|
+<725240	724809	gene
+			locus_tag	PKNH_0216500
+<725240	724809	CDS
+			product	SICAvar, type I (fragment)
+			protein_id	emb|CAA9986429.1|
+

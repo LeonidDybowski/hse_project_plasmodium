@@ -1,0 +1,266 @@
+>Feature emb|LR761315.1|
+185	115	gene
+			locus_tag	PKNH_API00100
+185	115	tRNA
+			product	tRNA-Ile
+1792	336	gene
+			locus_tag	PKNH_API00200
+1792	336	rRNA
+			product	small subunit ribosomal RNA
+1904	1834	gene
+			locus_tag	PKNH_API00300
+1904	1834	tRNA
+			product	tRNA-Ala
+1937	2008	gene
+			locus_tag	PKNH_API00400
+1937	2008	tRNA
+			product	tRNA-Asn
+2104	2027	gene
+			locus_tag	PKNH_API00500
+2104	2027	tRNA
+			product	tRNA-Leu
+2186	2115	gene
+			locus_tag	PKNH_API00600
+2186	2115	tRNA
+			product	tRNA-Arg
+2261	2190	gene
+			locus_tag	PKNH_API00700
+2261	2190	tRNA
+			product	tRNA-Val
+2284	2355	gene
+			locus_tag	PKNH_API00800
+2284	2355	tRNA
+			product	tRNA-Arg
+2364	2435	gene
+			locus_tag	PKNH_API00900
+2364	2435	tRNA
+			product	tRNA-Met
+2484	5173	gene
+			locus_tag	PKNH_API01000
+2484	5173	rRNA
+			product	large subunit ribosomal RNA
+5193	5265	gene
+			locus_tag	PKNH_API01100
+5193	5265	tRNA
+			product	tRNA-Thr
+5292	5906	gene
+			locus_tag	PKNH_API01200
+5292	5906	CDS
+			product	apicoplast ribosomal protein S4, putative
+			protein_id	emb|CAA9991330.1|
+5918	5989	gene
+			locus_tag	PKNH_API01300
+5918	5989	tRNA
+			product	tRNA-His
+6010	6081	gene
+			locus_tag	PKNH_API01400
+6010	6081	tRNA
+			product	tRNA-Cys
+6332	6418	gene
+			locus_tag	PKNH_API01500
+6332	6418	tRNA
+			product	tRNA-Met
+6431	6514	gene
+			locus_tag	PKNH_API01600
+6431	6514	tRNA
+			product	tRNA-Tyr
+6522	6612	gene
+			locus_tag	PKNH_API01700
+6522	6612	tRNA
+			product	tRNA-Ser
+6618	6692	gene
+			locus_tag	PKNH_API01800
+6618	6692	tRNA
+			product	tRNA-Asp
+			note	tRNA Aspartic acid
+6702	6774	gene
+			locus_tag	PKNH_API01900
+6702	6774	tRNA
+			product	tRNA-Lys
+6789	6859	gene
+			locus_tag	PKNH_API02000
+6789	6859	tRNA
+			product	tRNA-Glu
+			note	tRNA Glutamic acid
+6872	6943	gene
+			locus_tag	PKNH_API02100
+6872	6943	tRNA
+			product	tRNA-Pro
+6972	7580	gene
+			locus_tag	PKNH_API02200
+6972	7580	CDS
+			product	50S ribosomal protein L4, putative
+			protein_id	emb|CAA9991331.1|
+7588	7812	gene
+			locus_tag	PKNH_API02300
+7588	7812	CDS
+			product	ribosomal protein L23, putative
+			protein_id	emb|CAA9991332.1|
+7809	8546	gene
+			locus_tag	PKNH_API02400
+7809	8546	CDS
+			product	apicoplast ribosomal protein L2, putative
+			protein_id	emb|CAA9991333.1|
+8561	8830	gene
+			locus_tag	PKNH_API02500
+8561	8830	CDS
+			product	apicoplast ribosomal protein S19, putative
+			protein_id	emb|CAA9991334.1|
+8834	9478	gene
+			locus_tag	PKNH_API02600
+8834	9478	CDS
+			product	ribosomal protein S3, putative
+			protein_id	emb|CAA9991335.1|
+9496	9888	gene
+			locus_tag	PKNH_API02700
+9496	9888	CDS
+			product	apicoplast ribosomal protein L16, putative
+			protein_id	emb|CAA9991336.1|
+9898	10122	gene
+			locus_tag	PKNH_API02800
+9898	10122	CDS
+			product	apicoplast ribosomal protein S17, putative
+			protein_id	emb|CAA9991337.1|
+10119	10481	gene
+			locus_tag	PKNH_API02900
+10119	10481	CDS
+			product	apicoplast ribosomal protein L14, putative
+			protein_id	emb|CAA9991338.1|
+10484	10870	gene
+			locus_tag	PKNH_API03000
+10484	10870	CDS
+			product	apicoplast ribosomal protein S8, putative
+			protein_id	emb|CAA9991339.1|
+10892	11404	gene
+			locus_tag	PKNH_API03100
+10892	11404	CDS
+			product	apicoplast ribosomal protein L6, putative
+			protein_id	emb|CAA9991340.1|
+11401	12123	gene
+			locus_tag	PKNH_API03200
+11401	12123	CDS
+			product	apicoplast ribosomal protein S5, putative
+			protein_id	emb|CAA9991341.1|
+12129	12371	gene
+			locus_tag	PKNH_API03300
+12129	12371	CDS
+			product	hypothetical protein
+			protein_id	emb|CAA9991342.1|
+12368	12478	gene
+			locus_tag	PKNH_API03400
+12368	12478	CDS
+			product	apicoplast ribosomal protein L36, putative
+			protein_id	emb|CAA9991343.1|
+12475	12876	gene
+			locus_tag	PKNH_API03500
+12475	12876	CDS
+			product	apicoplast ribosomal protein S11, putative
+			protein_id	emb|CAA9991344.1|
+12870	13244	gene
+			locus_tag	PKNH_API03600
+12870	13244	CDS
+			product	apicoplast ribosomal protein S12, putative
+			protein_id	emb|CAA9991345.1|
+13262	13684	gene
+			locus_tag	PKNH_API03700
+13262	13684	CDS
+			product	apicoplast ribosomal protein S7, putative
+			protein_id	emb|CAA9991346.1|
+13758	14987	gene
+			locus_tag	PKNH_API03800
+13758	14987	CDS
+			product	elongation factor Tu, putative
+			protein_id	emb|CAA9991347.1|
+14994	15245	gene
+			locus_tag	PKNH_API03900
+14994	15245	CDS
+			product	hypothetical protein
+			protein_id	emb|CAA9991348.1|
+15293	15222	gene
+			locus_tag	PKNH_API04000
+15293	15222	tRNA
+			product	tRNA-Phe
+15313	15384	gene
+			locus_tag	PKNH_API04100
+15313	15384	tRNA
+			product	tRNA-Gln
+15394	15464	gene
+			locus_tag	PKNH_API04200
+15394	15464	tRNA
+			product	tRNA-Gly
+15477	15547	gene
+			locus_tag	PKNH_API04300
+15477	15547	tRNA
+			product	tRNA-Trp
+15583	15960	gene
+			locus_tag	PKNH_API04400
+15583	15960	CDS
+			product	apicoplast ribosomal protein L11, putative
+			protein_id	emb|CAA9991349.1|
+15967	18255	gene
+			locus_tag	PKNH_API04500
+15967	18255	CDS
+			product	chaperone protein ClpM, putative
+			protein_id	emb|CAA9991350.1|
+18259	18331	gene
+			locus_tag	PKNH_API04600
+18259	18331	tRNA
+			product	tRNA-Gly
+<18359	18592	gene
+			locus_tag	PKNH_API04700
+<18359	18592	CDS
+			product	hypothetical protein
+			protein_id	emb|CAA9991351.1|
+18602	18689	gene
+			locus_tag	PKNH_API04800
+18602	18689	tRNA
+			product	tRNA-Ser
+18715	19026	gene
+			locus_tag	PKNH_API04900
+18715	19026	CDS
+			product	hypothetical chloroplast reading frame 93, putative
+			protein_id	emb|CAA9991352.1|
+19693	19013	gene
+			locus_tag	PKNH_API05000
+19693	19013	CDS
+			product	30S ribosomal protein S2, putative
+			protein_id	emb|CAA9991353.1|
+22642	19707	gene
+			locus_tag	PKNH_API05100
+22642	21083	CDS
+21065	19707
+			product	DNA-directed RNA polymerase subunit beta'', putative
+			EC_number	2.7.7.6
+			protein_id	emb|CAA9991354.1|
+24373	22652	gene
+			locus_tag	PKNH_API05200
+24373	22652	CDS
+			product	DNA-directed RNA polymerase subunit beta', putative
+			EC_number	2.7.7.6
+			protein_id	emb|CAA9991355.1|
+27442	24377	gene
+			locus_tag	PKNH_API05300
+27442	24377	CDS
+			product	DNA-directed RNA polymerase subunit beta, putative
+			EC_number	2.7.7.6
+			protein_id	emb|CAA9991356.1|
+27743	27450	gene
+			locus_tag	PKNH_API05400
+27743	27450	CDS
+			product	hypothetical protein
+			protein_id	emb|CAA9991357.1|
+27935	27765	gene
+			locus_tag	PKNH_API05500
+27935	27765	CDS
+			product	hypothetical protein
+			protein_id	emb|CAA9991358.1|
+29353	27932	gene
+			locus_tag	PKNH_API05600
+29353	27932	CDS
+			product	iron-sulfur cluster assembly protein SufB, putative
+			protein_id	emb|CAA9991359.1|
+29452	29380	gene
+			locus_tag	PKNH_API05700
+29452	29380	tRNA
+			product	tRNA-Thr
+
