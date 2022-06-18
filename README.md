@@ -174,6 +174,8 @@
 |*P. knowlesi*|1|CAA9990390.1|ribosomal protein L21, mitochondrial, putative|Ген|60.0|
 |*P. yoelii*|1|VTZ78962.1|mitochondrial ribosomal protein L21 precursor, putative|Отсутствует|0.0|
 
+![1_start](https://user-images.githubusercontent.com/60808642/174450423-56ebb836-7a8e-4f9c-be99-139611bb092d.png)
+![1_end](https://user-images.githubusercontent.com/60808642/174450425-8c94a2a5-554a-491c-8b3f-df4eb6d553b8.png)
 ![cluster1](https://user-images.githubusercontent.com/60808642/174450046-05419667-2a3d-4226-9b1b-c6990a96eb14.png)
 
 #### Кластер 2
@@ -185,6 +187,8 @@
 |*P. knowlesi*|1|CAA9988969.1|DNA helicase, putative|Промотор|60.0|
 |*P. yoelii*|1|VTZ79625.1|DNA helicase, putative|Отсутствует|0.0|
 
+![2_start](https://user-images.githubusercontent.com/60808642/174450433-c779e63b-22c1-47c8-81a9-b19a9fd10a52.png)
+![2_end](https://user-images.githubusercontent.com/60808642/174450435-14c43814-4115-4a78-b4fc-4d06248f26af.png)
 ![cluster2](https://user-images.githubusercontent.com/60808642/174450073-dd3d67aa-76c3-479a-802b-24753a731052.png)
 
 #### Кластер 3
@@ -196,6 +200,8 @@
 |*P. knowlesi*|1|CAA9988291.1|WD repeat-containing protein, putative|Промотор|73.0|
 |*P. yoelii*|1|VTZ78428.1|WD repeat-containing protein, putative|Отсутствует|0.0|
 
+![3_start](https://user-images.githubusercontent.com/60808642/174450440-02e1dbbb-8006-4abc-bcf2-71a0fe97d35c.png)
+![3_end](https://user-images.githubusercontent.com/60808642/174450441-3009365a-a644-4011-a2e4-3a23ca591f32.png)
 ![cluster3](https://user-images.githubusercontent.com/60808642/174450079-1fe90126-c799-460b-9215-269983640ab3.png)
 
 #### Кластер 4
@@ -207,6 +213,8 @@
 |*P. knowlesi*|1|CAA9990435.1|conserved Plasmodium protein, unknown function|Промотор|73.0|
 |*P. yoelii*|1|VTZ79005.1|conserved Plasmodium protein, unknown functio|Отсутствует|0.0|
 
+![4_start](https://user-images.githubusercontent.com/60808642/174450444-a9e6371f-97cb-4614-aaa5-3b782afe95fd.png)
+![4_end](https://user-images.githubusercontent.com/60808642/174450448-9ffb8478-eee9-4819-bf3a-4c873db73a3f.png)
 ![cluster4](https://user-images.githubusercontent.com/60808642/174450084-d6b0a90e-8582-489b-b68d-42f3fea679b2.png)
 
 #### Кластер 5
@@ -218,6 +226,8 @@
 |*P. knowlesi*|1|CAA9990484.1|conserved Plasmodium protein, unknown function|Ген|73.0|
 |*P. yoelii*|1|VTZ79051.1|conserved Plasmodium protein, unknown function|Отсутствует|0.0|
 
+![5_start](https://user-images.githubusercontent.com/60808642/174450452-1297cb8f-f3df-430e-81bf-a568ec0320c3.png)
+![5_end](https://user-images.githubusercontent.com/60808642/174450453-36a8745b-37d0-40d2-93de-1886e17319b3.png)
 ![cluster5](https://user-images.githubusercontent.com/60808642/174450086-d2a98e6c-9103-473e-9788-8231c96a48d5.png)
 
 #### Кластер 6
@@ -229,6 +239,8 @@
 |*P. knowlesi*|1|CAA9989250.1|conserved Plasmodium protein, unknown function|Промотор|69.0|
 |*P. yoelii*|1|VTZ71504.1|conserved Plasmodium protein, unknown function|Отсутствует|0.0|
 
+![6_start](https://user-images.githubusercontent.com/60808642/174450461-634dea36-d9cf-4cd8-a6ea-741fb8c27815.png)
+![6_end](https://user-images.githubusercontent.com/60808642/174450463-0a90f301-997f-4607-b0a9-c23f1eef30f8.png)
 ![cluster6](https://user-images.githubusercontent.com/60808642/174450095-6640e936-2826-4b38-ac33-e199467a237b.png)
 
 #### Кластер 7
@@ -240,6 +252,8 @@
 |*P. knowlesi*|1|CAA9990315.1|PhIL1 interacting protein PIP3, putative|Промотор|73.0|
 |*P. yoelii*|1|VTZ78888.1|PhIL1 interacting protein PIP3, putative|Отсутствует|0.0|
 
+![7_start](https://user-images.githubusercontent.com/60808642/174450468-213d553f-0a0d-4fc6-bbfe-914ff2446fd6.png)
+![7_end](https://user-images.githubusercontent.com/60808642/174450470-7fc74472-20af-4f28-bfa2-1d7a8c2edf57.png)
 ![cluster7](https://user-images.githubusercontent.com/60808642/174450103-ad311b4f-af8e-481f-84a9-1c49c0593bc8.png)
 
 #### Кластер 8
@@ -251,6 +265,8 @@
 |*P. knowlesi*|1|CAA9988681.1|glideosome-associated protein 40, putative|Промотор|61.0|
 |*P. yoelii*|1|VTZ79441.1|glideosome-associated protein 40, putative|Отсутствует|0.0|
 
+![8_start](https://user-images.githubusercontent.com/60808642/174450475-164da43b-265e-4bde-b3bd-4585221a48cb.png)
+![8_end](https://user-images.githubusercontent.com/60808642/174450477-cf3d50a4-7027-49d5-9dc2-004d74d0925b.png)
 ![cluster8](https://user-images.githubusercontent.com/60808642/174450110-0624365a-8989-467b-88a1-1940ce5ec269.png)
 
 #### Кластер 9
@@ -262,6 +278,8 @@
 |*P. knowlesi*|1|CAA9990777.1|U4/U6.U5 tri-snRNP-associated protein 2, putative|Промотор|66.0|
 |*P. yoelii*|1|VTZ81486.1|U4/U6.U5 tri-snRNP-associated protein 2, putative|Отсутствует|0.0|
 
+![9_start](https://user-images.githubusercontent.com/60808642/174450484-aef3618d-3e5a-40c3-b36c-083b961f3e02.png)
+![9_end](https://user-images.githubusercontent.com/60808642/174450486-8e724db2-469f-4f11-b8d9-064c23714afb.png)
 ![cluster9](https://user-images.githubusercontent.com/60808642/174450114-b2a2f071-1268-4406-b105-a612e30771b8.png)
 
 #### Кластер 10
@@ -273,4 +291,6 @@
 |*P. knowlesi*|1|CAA9986571.1|NIMA related kinase 4, putative|Промотор|57.0|
 |*P. yoelii*|1|VTZ75464.1|NIMA related kinase 4|Отсутствует|0.0|
 
+![10_start](https://user-images.githubusercontent.com/60808642/174450491-6e1b7a00-943d-444e-b8d1-aa407d3ff280.png)
+![10_end](https://user-images.githubusercontent.com/60808642/174450495-5c257b26-d17c-4155-b3a5-153c0293f33a.png)
 ![cluster10](https://user-images.githubusercontent.com/60808642/174450119-5381a020-df55-4434-afa8-2d3f3ec83c0f.png)
