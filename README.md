@@ -1,22 +1,25 @@
-## Поиск участков Z-ДНК в промоторах генов представителей рода *Plasmodium* (тип *Apicomplexans*)
+## Search for Z-DNA regions in gene promoters of representatives of the genus *Plasmodium* (type *Apicomplexans*)
 
-[Ссылка на README на русском](README.ru.md)
+[This README in russian](README.ru.md)
 
-Данная работа является частью чуть более масштабного анализа, представленного [здесь](https://github.com/OMALOE/hse22_project_Apicomplexans).
+This work is part of a larger analysis presented [here](https://github.com/OMALOE/hse22_project_Apicomplexans).
 
-Z-ДНК - это левозакрученная ДНК в определённой конформации. Её функции до конца не изучены, однако среди прочего [https://doi.org/10.3390%2Fijms23063079] Z-ДНК может участвовать в регуляции экспрессии некоторых генов. Эта работа представляет собой попытку поиска белков, экспрессия которых потенциально может регулироваться Z-ДНК. 
+Z-DNA is left-handed DNA in a specific conformation. Its functions are not fully learnt, but among [other things](https://www.mdpi.com/1422-0067/23/6/3079), Z-DNA may be involved in the regulation of the expression of certain genes. This work represents an attempt to search for proteins whose expression could potentially be regulated by Z-DNA.
 
-Для анализа были взяты 5 видов, вызывающих малярию:
-* *P. falciparum* - у людей
-* *P. vivax* - у людей
-* *P. knowlesi* - у людей и некоторых макак
-* *P. gaboni* - у шимпанзе
-* *P. yoelii* - у грызунов
+For this analysis were taken 5 species that cause malaria:
+* *P. falciparum* - in humans
+* *P. vivax* - in humans
+* *P. knowlesi* - in humans and some macaques
+* *P. gaboni* - in chimpanzees
+* *P. yoelii* - in rodents
 
-Данные по этим пяти организмам были скачаны с https://www.ncbi.nlm.nih.gov/genome/browse#!/eukaryotes/refseq_category:representative и https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA. Нужно отметить, что файлы .fasta и .gb (INSDC) были скачаны из браузера NCBI с помощью скрипта на bash, по одному файлу на хромосому (итого 70 .fasta файлов и 70 .gb файлов). Файлы же feature_table.txt и protein.faa (для составления белковых кластеров) были скачаны через ftp.
-Помимо кода на python (папка src) активно использовался терминал Linux (некоторые команды в файле Обработка.docx)
+Data for these five organisms was downloaded from [here](https://www.ncbi.nlm.nih.gov/genome/browse#!/eukaryotes/refseq_category:representative и https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA).  
+It should be noted that the .fasta and .gb (INSDC) files were downloaded from the NCBI browser using a bash script, one file per chromosome (total 70 .fasta files and 70 .gb files).  
+While the files feature_table.txt and protein.faa (for compiling protein clusters) were downloaded via ftp.
 
-|Вид|Число хромосом|Длина генома|GC состав|Количество анн. генов|Доля анн. генов на геном|Число участков со значимым ZH_SCORE*|Длина участков со значимым ZH-SCORE*|
+In addition to the python code (src folder), the Linux terminal was actively used (some commands in the .docx file).
+
+|Species|Number of chromosomes|Genome length|GC-content|Number of annotated genes|Fraction of annotated genes|Number of regions with significant ZH_SCORE*|Length of sections with significant ZH-SCORE*|
 |-|-|-|-|-|-|-|-|
 |*P. falciparum*|14**|23 292 622|19.34|5387|0.59|1064|13 714|
 |*P. vivax*|14|22 621 071|44.87|5389|0.62|37018|476 891|
@@ -24,63 +27,63 @@ Z-ДНК - это левозакрученная ДНК в определённ�
 |*P. knowlesi*|14**|23 938 832|38.61|5326|0.59|18210|234 759|
 |*P. yoelii*|14**|23 043 114|21.74|6039|0.56|1844|24 712|
 
-*А именно с ZH-SCORE >= 500.
+* Namely, with ZH-SCORE >= 500.  
+** In addition to 14 chromosomes, there was also data on the mitochondrial genome and the apicoplast genome, but there was only one region with ZH-SCORE >= 500, so they were not considered.  
 
-** Помимо 14 хромосом имелись также данные по митохондриальному геному и геному апикопласта, однако там нашёлся всего один участок с ZH-SCORE >= 500, поэтому их не рассматривали.
+Using intersectBed, Z-DNA regions were intersected with 600 nucleotide ranges around the start of the ORF (300 nucleotides in each direction). If a Z-DNA region fell there, then it was believed that a relationship with its regulation may be possible. If this region was before the start of the ORF, then it was roughly called a hit in the promoter, but if after, then it was roughly called a hit in the gene (without division into exons/introns).
 
-С помощью intersectBed участки Z-ДНК были пересены с диапозонами в 600 нуклеотидов вокруг начала ORF (по 300 нуклеотидов в каждую сторону). Если участок Z-попадал туда, то считалось, что возможна взаимосвязь с его регуляцией. Если этот участок был до начала ORF, то это было грубо названо попаданием в промотор, если же после - то попаданием в ген (без деления на экзоны/интроны).
+To search for conservation within the genus, was applied protein clustering.  
+This was done using proteinortho (based on the BLAST algorithm).
 
-Для поиска консервативности внутри рода была применена кластеризация по белкам. Точнее, был использован proteinortho, основанный на алгоритме BLAST.
+#### For the species above, proteinortho constructed 5319 clusters.
 
-#### Для рассматриваемых видов proteinortho построил 5319 кластеров.
-
-Число кластеров, состоящих из n геномов имеет средующее распределение (статистика по числу ортологов в кластере):
+The number of clusters consisting of n genomes had the following distribution (statistics on the number of orthologs in a cluster):
 
 ![clust_by_number_of_genoms](https://user-images.githubusercontent.com/60808642/173706235-3e63ee97-388a-4c93-91a8-9709d930ce60.png)
 
-
-Число кластеров, в которые входят n белковых последовательностей, имеет следующее распределение (иногда для одного вида находится несколько паралогов):
+The number of clusters, which include n protein sequences, had the following distribution (sometimes there were several paralogues for one species):
 
 ![clust_by_number_of_proteins](https://user-images.githubusercontent.com/60808642/173706248-663fa365-f091-4f64-818e-d7a863e28d49.png)
 
-Для более тщательного рассмотрения были выбраны 10 кластеров. Я выбирал их в первую очередь по наличию Z-ДНК около начала гена для большинства видов в кластере, а потом уже по суммарному ZH-SCORE. К сожалению, всего для двух кластеров имелась Z-ДНК около генов всех пяти видов. Остальные из здесь приведённых содержат Z-ДНК для 4 из 5 видов. 
+10 clusters were selected for closer examination. I selected them first of all by the presence of Z-DNA near the beginning of the gene for most species in a cluster, and then by the total ZH-SCORE.  
+Unfortunately, for only two clusters there was Z-DNA near the ORF for all five species. The remaining clusters shown here contain Z-DNA for 4 of the 5 species.
 
-Для каждого кластера было также построено белковое выравнивание (алгоритмом ClustalW в программе MEGAX). Все связанные с этим файлы можно найти в папке clusters, ниже приведены скриншоты начала и окончания белкового выравнивания (для 9 кластера белок оказался достаточно коротким, так что целиком поместился на один скриншот).
+For each cluster, a protein alignment was also constructed (using the ClustalW algorithm in the MEGAX program). All files related to this can be found in the clusters folder; below are screenshots of the beginning and end of the protein alignment (for cluster 9, the protein turned out to be short enough that it fit entirely into one screenshot).
 
-#### Кластер 1
-|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
+#### Cluster 1
+|Species|Proteins in the cluster|IDs of encoded proteins|Functions of encoded proteins|Z-DNA location|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*|1|CZT99390.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
-|*P. vivax*|1|EDL47592.1|cAMP-dependent protein kinase regulatory subunit, putative|Промотор|138924.1|
-|*P. gaboni*|1|KYN98034.1|cAMP-dependent protein kinase regulatory subunit|Ген|583.4285|
-|*P. knowlesi*|1|CAA9991018.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
-|*P. yoelii*|1|VTZ81713.1|cAMP-dependent protein kinase regulatory subunit, putative|Ген|583.4285|
+|*P. falciparum*|1|CZT99390.1|cAMP-dependent protein kinase regulatory subunit|Gene|583.4285|
+|*P. vivax*|1|EDL47592.1|cAMP-dependent protein kinase regulatory subunit, putative|Promoter|138924.1|
+|*P. gaboni*|1|KYN98034.1|cAMP-dependent protein kinase regulatory subunit|Gene|583.4285|
+|*P. knowlesi*|1|CAA9991018.1|cAMP-dependent protein kinase regulatory subunit, putative|Gene|583.4285|
+|*P. yoelii*|1|VTZ81713.1|cAMP-dependent protein kinase regulatory subunit, putative|Gene|583.4285|
 
 ![1_start](https://user-images.githubusercontent.com/60808642/174448980-2f576943-8b34-4642-bbf4-f8871227cb43.png)
 ![1_end](https://user-images.githubusercontent.com/60808642/174448983-2682eaed-1240-4730-aa39-0612a8875a66.png)
 ![cluster1](https://user-images.githubusercontent.com/60808642/174160532-0c6192f2-66b1-4b3b-a79f-9f6f77b8811c.png)
 
-#### Кластер 2
-|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
+#### Cluster 2
+|Species|Proteins in the cluster|IDs of encoded proteins|Functions of encoded proteins|Z-DNA location|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*|1|CAD51935.1|protein phosphatase-beta|Промотор (за пределами графика)|0.0|
-|*P. vivax*|1|EDL45060.1|protein phosphatase-beta, putative|Отсутствует|94590.41|
-|*P. gaboni*|1|KYO00236.1|protein phosphatase-beta|Промотор|705.4245|
-|*P. knowlesi*|1|CAA9987523.1|protein phosphatase-beta, putative|Промотор|650.9198|
-|*P. yoelii*|1|VTZ77586.1|protein phosphatase-beta, putative|Промотор|583.4285|
+|*P. falciparum*|1|CAD51935.1|protein phosphatase-beta|Promoter (outside chart)|0.0|
+|*P. vivax*|1|EDL45060.1|protein phosphatase-beta, putative|No Z-DNA|94590.41|
+|*P. gaboni*|1|KYO00236.1|protein phosphatase-beta|Promoter|705.4245|
+|*P. knowlesi*|1|CAA9987523.1|protein phosphatase-beta, putative|Promoter|650.9198|
+|*P. yoelii*|1|VTZ77586.1|protein phosphatase-beta, putative|Promoter|583.4285|
 
 ![2_start](https://user-images.githubusercontent.com/60808642/174449009-afaf75c1-9997-445e-b20c-3b6465ce51dc.png)
 ![2_end](https://user-images.githubusercontent.com/60808642/174449010-c836b79b-61be-45d3-a472-89ab93af49b6.png)
 ![cluster2](https://user-images.githubusercontent.com/60808642/174160560-c4cf8210-00d5-47ae-ae28-40608a534ed4.png)
 
 #### Кластер 3
-|Вид|Генов в кластере|ID кодируемых белков|Функция кодируемых белков|Расположение Z-ДНК|ZH_SCORE|
+|Species|Proteins in the cluster|IDs of encoded proteins|Functions of encoded proteins|Z-DNA location|ZH_SCORE|
 |-|-|-|-|-|-|
-|*P. falciparum*|1|CAB11145.2|formate-nitrite transporter|Ген|2091.083|
-|*P. vivax*|1|EDL44820.1|transporter, putative|Промотор (за пределами графика)|38833.58|
-|*P. gaboni*|1|KYO03279.1|putative formate-nitrite transporter|Ген|6565.992|
-|*P. knowlesi*|1|CAA9987895.1|formate-nitrite transporter, putative|Ген|28780.5|
-|*P. yoelii*|1|VTZ73436.1|formate-nitrite transporter, putative|Отсутствует|0.0|
+|*P. falciparum*|1|CAB11145.2|formate-nitrite transporter|Gene|2091.083|
+|*P. vivax*|1|EDL44820.1|transporter, putative|Promoter (outside chart)|38833.58|
+|*P. gaboni*|1|KYO03279.1|putative formate-nitrite transporter|Gene|6565.992|
+|*P. knowlesi*|1|CAA9987895.1|formate-nitrite transporter, putative|Gene|28780.5|
+|*P. yoelii*|1|VTZ73436.1|formate-nitrite transporter, putative|No Z-DNA|0.0|
 
 ![3_start](https://user-images.githubusercontent.com/60808642/174449018-7a893939-b6d4-4e20-b9a6-2f787a5dd5bf.png)
 ![3_end](https://user-images.githubusercontent.com/60808642/174449021-fe072a9e-153b-4542-82c8-41c20e011986.png)
