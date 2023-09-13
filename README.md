@@ -184,9 +184,9 @@ For each cluster, a protein alignment was also constructed (using the ClustalW a
 
 ### Search for quadruplexes
 To find quadruplexes, the pqsfinder library and R code (in the src folder) were used.  
-After obtaining the quadruplex SCORE, these regions were intersected in the same way as Z-DNA.  
+After obtaining the quadruplex SCORE, these regions were intersected in the same with Z-DNA way.  
 Apparently, there were even fewer quadruplexes and they were unevenly distributed.  
-Thus, in plasmodium knowlesi and plasmodium vivax there were tens of times more of them (which correlates with the amount of Z-DNA in these two species).
+Thus, in *Plasmodium knowlesi* and *Plasmodium vivax* there were tens of times more of them (which correlates with the amount of Z-DNA in these two species).
 
 #### Cluster 1
 |Species|Proteins in the cluster|IDs of encoded proteins|Functions of encoded proteins|Location of quadruplexes|SCORE|
