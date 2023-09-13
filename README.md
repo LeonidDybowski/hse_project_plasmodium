@@ -48,7 +48,7 @@ The number of clusters, which include n protein sequences, had the following dis
 
 ![clust_by_number_of_proteins](https://user-images.githubusercontent.com/60808642/173706248-663fa365-f091-4f64-818e-d7a863e28d49.png)
 
-10 clusters were selected for closer examination. I selected them first of all by the presence of Z-DNA near the beginning of the gene for most species in a cluster, and then by the total ZH-SCORE.  
+I selected 10 clusters for closer examination. They were selected first of all by the presence of Z-DNA near the beginning of the gene for most species in a cluster, and then by the total ZH-SCORE.  
 Unfortunately, for only two clusters there was Z-DNA near the ORF for all five species. The remaining clusters shown here contain Z-DNA for 4 of the 5 species.
 
 For each cluster, a protein alignment was also constructed (using the ClustalW algorithm in the MEGAX program). All files related to this can be found in the clusters folder; below are screenshots of the beginning and end of the protein alignment (for cluster 9, the protein turned out to be short enough that it fit entirely into one screenshot).
