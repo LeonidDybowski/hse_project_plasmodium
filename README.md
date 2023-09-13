@@ -29,8 +29,8 @@ So, the regions with Z-DNA were detected using the Z-Hunt algorithm (the longer 
 |*P. knowlesi*|14**|23 938 832|38.61|5326|0.59|18210|234 759|
 |*P. yoelii*|14**|23 043 114|21.74|6039|0.56|1844|24 712|
 
-* Namely, with ZH-SCORE >= 500.  
-** In addition to 14 chromosomes, there was also data on the mitochondrial genome and the apicoplast genome, but there was only one region with ZH-SCORE >= 500, so they were not considered.  
+ * Namely, with ZH-SCORE >= 500.  
+ ** In addition to 14 chromosomes, there was also data on the mitochondrial genome and the apicoplast genome, but there was only one region with ZH-SCORE >= 500, so they were not considered.  
 
 Using intersectBed, Z-DNA regions were intersected with 600 nucleotide ranges around the start of the ORF (300 nucleotides in each direction). If a Z-DNA region fell there, then it was believed that a relationship with its regulation may be possible. If this region was before the start of the ORF, then it was roughly called a hit in the promoter, but if after, then it was roughly called a hit in the gene (without division into exons/introns).
 
