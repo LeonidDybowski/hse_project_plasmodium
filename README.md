@@ -33,7 +33,7 @@ So, the regions with Z-DNA were detected using the Z-Hunt algorithm (the longer 
 `**` In addition to 14 chromosomes, there were also data on the mitochondrial genome and apicoplast genome, but there was only one region with ZH-SCORE >= 500, so they were not considered.  
 
 Using intersectBed, Z-DNA regions were intersected with 600 nucleotide ranges around the start of the ORF (300 nucleotides in each direction).  
-If a Z-DNA region fell there, then it was believed that a relationship with its regulation may be possible. If this region was before the start of the ORF, then it was roughly called a hit in the promoter. If after, then it was roughly called a hit in the gene (without division into exons/introns).
+If Z-DNA region fell there, then it was believed that a relationship with its regulation may be possible. If this region was before the start of the ORF, then it was roughly called a hit in the promoter. If after, it was roughly called a hit in the gene (without division into exons/introns).
 
 To search for conservation within the genus, was applied protein clustering.  
 This was done using proteinortho (based on the BLAST algorithm).
