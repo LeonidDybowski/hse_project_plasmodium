@@ -13,7 +13,7 @@ For this analysis were taken 5 species that cause malaria:
 * *P. gaboni* - in chimpanzees
 * *P. yoelii* - in rodents
 
-Data for these five organisms was downloaded from [here](https://www.ncbi.nlm.nih.gov/genome/browse#!/eukaryotes/refseq_category:representative) and [here](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA).  
+Data for these five organisms were downloaded from [here](https://www.ncbi.nlm.nih.gov/genome/browse#!/eukaryotes/refseq_category:representative) and [here](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA).  
 All .fasta and .gb (INSDC) files were downloaded from the NCBI browser using a bash script. Total 70 .fasta files and 70 .gb files (one file per chromosome).  
 At the same time files feature_table.txt and protein.faa (for compiling protein clusters) were downloaded via ftp.
 
