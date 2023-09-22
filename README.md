@@ -1,7 +1,5 @@
 ## Search for Z-DNA regions and quadruplexes in gene promoters of representatives of the genus *Plasmodium* (type *Apicomplexans*)
 
-[This README in russian](README.ru.md)
-
 This work is part of a larger analysis presented [here](https://github.com/OMALOE/hse22_project_Apicomplexans).
 
 Z-DNA is left-handed DNA in a specific conformation. Its functions are not fully learnt, but among [other things](https://www.imrpress.com/journal/FBL/12/7/10.2741/2399), Z-DNA may be involved in the regulation of gene expression. This work represents an attempt to search for proteins whose expression could potentially be regulated by Z-DNA.
